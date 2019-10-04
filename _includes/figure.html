@@ -1,0 +1,10 @@
+{%- comment -%}
+Insert a figure.
+The image 'alt' attribute should describe the figure, not simply repeat the caption.
+{%- endcomment -%}
+{%- assign figure_id = page.permalink | remove: '/' | prepend: 'f:' | append: ':' | append: include.key -%}
+{%- assign figure_path = page.permalink | append: 'figures/' | append: include.key | append: '.svg' | relative_url -%}
+<figure id="{{figure_id}}">
+  <img src="{{figure_path}}" title="{{include.explain}}" />
+  <figcaption>{{include.caption}}</figcaption>
+</figure>

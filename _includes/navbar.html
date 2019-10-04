@@ -1,0 +1,17 @@
+{%- comment -%}
+Navigation bar at the top of pages.
+{%- endcomment -%}
+<nav>
+  <div class="row">
+    <div class="left2">
+      {% unless page.permalink == '/' %}<a href="{{ '/' | relative_url }}"><em>{{ site.title }}</em></a>{% endunless %}
+    </div>
+    <div class="right2">
+      {% include toc.html %}
+      {% include navlist.html title="Lessons" collection=site.data.lessons %}
+      {% assign others = site.data.standards %}
+      {% if site.data.extras %}{% assign others = others | concat: site.data.extras %}{% endif %}
+      {% include navlist.html title="Extras" collection=others %}
+    </div>
+  </div>
+</nav>

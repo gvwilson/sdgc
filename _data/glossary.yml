@@ -1,0 +1,62 @@
+# Glossary terms.
+
+- term: "externality"
+  slug: externality
+  defn: |
+    FIXME
+
+- term: "jenny"
+  slug: jenny-repository
+  defn: |
+    To delete an entire Git repository and check out a fresh copy
+    because that's easier than trying to figure out
+    how to get it back in a sensible state.
+
+- term: "learner persona"
+  slug: learner-persona
+  link: "http://teachtogether.tech/#s:process-personas"
+  defn: |
+    A brief description of an idealized learner that captures key demographic features of a lesson's intended audience.
+
+- term: "Martha's Rules"
+  slug: marthas-rules
+  defn: |
+    A simple set of guidelines for consensus-based decision making [Mina1986](BIB).
+    See also [Robert's Rules][roberts-rules].
+
+- term: "Robert's Rules"
+  slug: roberts-rules
+  link: "https://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order"
+  defn: |
+    A comprehensive set of rules for managing large meetings.
+    See also [Martha's Rules][marthas-rules].
+
+- term: "branch-per-feature workflow"
+  slug: branch-per-feature
+  link: "https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow"
+  defn: |
+    FIXME
+
+- term: "YAML"
+  slug: yaml
+  link: "https://en.wikipedia.org/wiki/YAML"
+  defn: |
+    FIXME
+
+- term: "ORCID"
+  slug: orcid
+  link: "https://orcid.org/"
+  defn: |
+    FIXME
+
+- term: "FAIR Principles"
+  slug: go-fair
+  link: "https://www.go-fair.org/fair-principles/"
+  defn: |
+    FIXME
+
+- term: "The Tyranny of Structurelessness"
+  slug: tyranny-structurelessness
+  link: "http://www.jofreeman.com/joreen/tyranny.htm"
+  defn: |
+    FIXME

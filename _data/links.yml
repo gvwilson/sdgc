@@ -1,0 +1,31 @@
+# External links.
+
+- slug: carpentries
+  link: "http://carpentries.org"
+  name: "The Carpentries"
+  lede: "A global non-profit volunteer organization that teaches computing skills to researchers."
+
+- slug: gfm
+  link: "https://github.github.com/gfm/"
+  name: "GitHub-Flavored Markdown"
+  lede: "Describes the variant of Markdown used in GitHub Pages."
+
+- slug: github-pages
+  link: "https://pages.github.com/"
+  name: "GitHub Pages"
+  lede: "A way to publish websites using GitHub-hosted repositories."
+
+- slug: great-leap-forward
+  link: "https://en.wikipedia.org/wiki/Great_Leap_Forward"
+  name: "The Great Leap Forward"
+  lede: "Mao's push to industrialize China that killed millions of people."
+
+- slug: jekyll
+  link: "https://jekyllrb.com/"
+  name: "Jekyll"
+  lede: "The Ruby-based tool used to create GitHub Pages sites."
+
+- slug: soviet-terror-famine
+  link: "https://en.wikipedia.org/wiki/Holodomor"
+  name: "The Soviet Terror Famine"
+  lede: "Stalin's artificial famine that killed millions of people."

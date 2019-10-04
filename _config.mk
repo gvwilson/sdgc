@@ -1,0 +1,8 @@
+TITLE="Sex and Drugs and Guns and Code"
+SUBTITLE="What you need to know about politics, economics, and justice to succeed in tech"
+AUTHOR="Greg Wilson"
+YEAR="2020"
+VERSION="0.1"
+EMAIL="gvwilson@third-bit.com"
+DOMAIN="https://gvwilson.github.io/sdgc/"
+REPO="https://github.com/gvwilson/sdgc/"

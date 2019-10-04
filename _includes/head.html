@@ -1,0 +1,24 @@
+{%- comment -%}
+HTML head of all pages.
+Sets 'the_title' and 'the_lede' as side effects.
+Creates a meta 'rootpath' for use in constructing relative paths in JavaScript (see 'assets/site.js').
+{%- endcomment -%}
+{%- if page.permalink == "/" -%}
+  {%- assign the_title = site.title -%}
+  {%- assign the_lede = site.subtitle -%}
+{%- else -%}
+  {%- assign thispage = site.data.lessons | where: "link", page.dir | first -%}
+  {%- unless thispage -%}{%- assign thispage = site.data.standards | where: "link", page.dir | first -%}{%- endunless -%}
+  {%- unless thispage -%}{%- assign thispage = site.data.extras | where: "link", page.dir | first -%}{%- endunless -%}
+  {%- assign the_title = thispage.name -%}
+  {%- assign the_lede = thispage.lede -%}
+{%- endif -%}
+<title>{{the_title}}</title>
+<link href="{{ '/assets/trac.css' | relative_url }}" rel="stylesheet" type="text/css">
+<link href="{{ '/assets/site.css' | relative_url }}" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | absolute_url }}">
+{% include mathjax.html %}
+{% for author in site.data.authors %}
+<meta name="author" content="{{author.name}}">
+{% endfor %}
+<meta name="rootpath" content="{% if page.rootpath %}{{page.rootpath}}{% else %}..{% endif %}">

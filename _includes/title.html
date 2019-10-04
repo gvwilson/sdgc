@@ -1,0 +1,6 @@
+{%- comment -%}
+Display page title (and lede, if set).
+{%- endcomment -%}
+{%- assign titleId = page.permalink | replace: "/", "" -%}
+<h1 id="#s:{{titleId}}">{{the_title}}</h1>
+{% if the_lede %}<h2 class="lede">{{the_lede}}</h2>{% endif %}

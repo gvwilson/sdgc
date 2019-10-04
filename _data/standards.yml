@@ -1,0 +1,25 @@
+# Standard files.
+
+- name: "References"
+  link: "/references/"
+
+- name: "License"
+  link: "/license/"
+  path: "LICENSE.md"
+
+- name: "Code of Conduct"
+  link: "/conduct/"
+  path: "CONDUCT.md"
+
+- name: "Contributing"
+  link: "/contributing/"
+  path: "CONTRIBUTING.md"
+
+- name: "Authors"
+  link: "/authors/"
+
+- name: "Glossary"
+  link: "/glossary/"
+
+- name: "Links"
+  link: "/links/"

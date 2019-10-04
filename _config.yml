@@ -1,0 +1,22 @@
+# General.
+title: "Sex and Drugs and Guns and Code"
+subtitle: "What you need to know about politics, economics, and justice to succeed in tech"
+year: 2020
+email: "gvwilson@third-bit.com"
+domain: "https://gvwilson.github.io/sdgc/"
+repo: "https://github.com/gvwilson/sdgc/"
+
+# Jekyll settings.
+repository: <USERNAME>/<PROJECT>
+defaults:
+- scope:
+    path: ""
+  values:
+    layout: "page"
+kramdown:
+  toc_levels: "2"
+exclude:
+- "Makefile"
+- "README.md"
+- "bin"
+- "etc"
