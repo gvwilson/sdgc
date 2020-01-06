@@ -38,6 +38,7 @@ references.md: references.bib
 book.tex: bin/md2tex.py bin/md2ast.rb etc/latex.template ${SOURCE} ${DATA}
 	python bin/md2tex.py \
 	--title ${TITLE} \
+	--subtitle ${SUBTITLE} \
 	--author ${AUTHOR} \
 	--date ${YEAR}/${VERSION} \
 	--links _data/links.yml \

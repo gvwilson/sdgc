@@ -509,6 +509,7 @@ def parseArgs():
 
     parser = argparse.ArgumentParser()
     parser.add_argument('--title', type=str, help='title')
+    parser.add_argument('--subtitle', type=str, help='subtitle')
     parser.add_argument('--author', type=str, help='author')
     parser.add_argument('--date', type=str, help='date')
     parser.add_argument('--links', type=str, help='file containing links table')
@@ -694,7 +695,6 @@ def translate(item, links, topics, verbose):
 
     text = writer.getvalue()
     text, rawInclusions = extractRaw(text)
-    print('RAW', rawInclusions, file=sys.stderr)
     for patch in PATCHES:
         text = patch(text, slug)
     text = restoreRaw(text, rawInclusions)
@@ -735,6 +735,7 @@ def main():
 
     content.update({
         'title': args.title,
+        'subtitle': args.subtitle,
         'author': args.author,
         'date': args.date
     })
