@@ -2,6 +2,7 @@ include _config.mk
 
 LESSONS=$(wildcard */index.md)
 STANDARDS=$(filter-out README.md,$(wildcard *.md))
+STANDARDS_RELEASE=$(filter-out index.md,$(filter-out references.md,${STANDARDS}))
 EXTRAS=$(wildcard extras/*.md)
 SOURCE=${LESSONS} ${STANDARDS} ${EXTRAS}
 
@@ -101,7 +102,7 @@ release : clean
 	bin \
 	etc \
 	favicon.ico \
-	$(filter-out references.md,${STANDARDS})
+	${STANDARDS_RELEASE}
 
 ## settings : Show values of variables.
 settings :

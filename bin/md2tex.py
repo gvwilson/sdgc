@@ -1,12 +1,14 @@
 #!/usr/bin/env python
 
-import sys
 import argparse
 import io
 import json
 import os
+import random
 import re
+import string
 import subprocess
+import sys
 import yaml
 
 PARSER = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'md2ast.rb')
@@ -431,17 +433,6 @@ HANDLERS = {
 
 #--------------------------------------------------------------------------------
 
-def patchRaw(text, slug):
-    '''Remove Jekyll 'raw' commands.'''
-
-    pat = re.compile(r'{%\s+raw\s+%}(.+?){%\s+endraw\s+%}', flags=re.DOTALL)
-
-    def sub(match):
-        return match.group(1)
-
-    return pat.sub(sub, text)
-
-
 def patchFigures(text, slug):
     '''Replace Jekyll figure inclusions with references to PDF figures.'''
 
@@ -470,10 +461,34 @@ def patchPercentSign(text, slug):
 
 
 PATCHES = [
-    patchRaw,
     patchFigures,
     patchPercentSign
 ]
+
+#--------------------------------------------------------------------------------
+
+def extractRaw(text):
+    '''Replace content of Jekyll 'raw' commands with random-ish strings.'''
+
+    pat = re.compile(r'{%\s+raw\s+%}(.+?){%\s+endraw\s+%}', flags=re.DOTALL)
+    prefix = ''.join([random.choice(string.ascii_lowercase) for i in range(32)])
+    inclusions = {}
+
+    def sub(match):
+        inclusionId = f'{prefix}={len(inclusions)}'
+        inclusions[inclusionId] = match.group(1)
+        return inclusionId
+
+    text = pat.sub(sub, text)
+    return text, inclusions
+
+
+def restoreRaw(text, originals):
+    '''Re-insert content of Jekyll 'raw' commands.'''
+
+    for (key, value) in originals.items():
+        text = text.replace(key, value)
+    return text
 
 #--------------------------------------------------------------------------------
 
@@ -678,8 +693,11 @@ def translate(item, links, topics, verbose):
         swapHandlers(restoreHandlers)
 
     text = writer.getvalue()
+    text, rawInclusions = extractRaw(text)
+    print('RAW', rawInclusions, file=sys.stderr)
     for patch in PATCHES:
         text = patch(text, slug)
+    text = restoreRaw(text, rawInclusions)
 
     return text
 
