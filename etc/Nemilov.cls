@@ -189,6 +189,8 @@
 \newcommand\PartTitleFont{\fontsize{24}{30}\raggedright\sffamily\itshape\selectfont}
 \newcommand\ChapNumFont{\fontsize{45}{45}\sffamily\selectfont}
 \newcommand\FMCT{\fontsize{24}{28}\sffamily\raggedright\selectfont}
+\newcommand\booktitlefont{\fontsize{24}{30}\sffamily\selectfont}
+\newcommand\aufont{\fontsize{12}{16}\sffamily\selectfont}
 \newcommand\ChapTitleFont{\fontsize{24}{30}\sffamily\raggedright\rightskip16pt plus1fill\selectfont}
 \newcommand\SubChapTitleFont{\fontsize{24}{28}\raggedright\itshape\rightskip6pt plus1fill\selectfont}
 \newcommand\sbSectionHeadFont{\fontsize{9}{11}\bfseries\selectfont\uppercase}
@@ -767,12 +769,12 @@
   \null\vfil
   \vskip 60\p@
   \begin{center}%
-    {\LARGE \@title \par}%
+    \vbox{\booktitlefont \@title \par}%
     \vskip 3em%
     {\large
      \lineskip .75em%
       \begin{tabular}[t]{c}%
-        \large\@author
+        \aufont\@author
       \end{tabular}\par}%
       \vskip 1.5em%
 %%    {\large \@date \par}%       % Set date in \large size.

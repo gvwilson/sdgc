@@ -1,7 +1,7 @@
 include _config.mk
 
 LESSONS=$(wildcard */index.md)
-STANDARDS=$(wildcard *.md) $(wildcard standards/*.md)
+STANDARDS=$(filter-out README.md,$(wildcard *.md))
 EXTRAS=$(wildcard extras/*.md)
 SOURCE=${LESSONS} ${STANDARDS} ${EXTRAS}
 
@@ -28,11 +28,10 @@ serve:
 	jekyll serve -I
 
 ## bib      : regenerate Markdown bibliography from BibTeX.
-bib: extras/references.md
+bib: references.md
 
-extras/references.md: etc/references.bib
-	mkdir -p extras
-	bin/bib2md.py < etc/references.bib > extras/references.md
+references.md: references.bib
+	bin/bib2md.py < references.bib > references.md
 
 ## book.tex : make LaTeX source.
 book.tex: bin/md2tex.py bin/md2ast.rb etc/latex.template ${SOURCE} ${DATA}
@@ -78,7 +77,7 @@ config: bin/makeconfig.py etc/config.template _config.mk
 
 ## links    : Check that all links resolve.
 links:
-	bin/checklinks.py _data/links.yml _data/glossary.yml *.md standards/*.md */index.md _data/*.yml
+	bin/checklinks.py _data/links.yml _data/glossary.yml ${SOURCE}
 
 ## clean    : Clean up stray files.
 clean:
@@ -94,21 +93,15 @@ sterile: clean
 release : clean
 	@tar zcvf release.tar.gz \
 	.gitignore \
-	CONDUCT.md \
-	CONTRIBUTING.md \
-	LICENSE.md \
 	Makefile \
-	Nemilov.cls \
 	_data/standards.yml \
 	_includes \
 	_layouts \
 	assets \
 	bin \
-	etc/config.template \
-	etc/latex.template \
-	etc/settings.tex \
+	etc \
 	favicon.ico \
-	standards
+	$(filter-out references.md,${STANDARDS})
 
 ## settings : Show values of variables.
 settings :

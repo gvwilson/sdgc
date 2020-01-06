@@ -1,4 +1,4 @@
-\documentclass[nemilov1,titlepage]{{Nemilov}}
+\documentclass[nemilov1,titlepage]{{etc/Nemilov}}
 
 \input{{etc/settings}}
 
