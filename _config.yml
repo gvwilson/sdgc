@@ -1,0 +1,35 @@
+title: Sex and Drugs and Guns and Code
+url: https://gvwilson.github.io/sdgc/
+repository: gvwilson/sdgc
+
+author:
+  name: Greg Wilson
+  url: https://third-bit.com
+  email: gvwilson@third-bit.com
+
+markdown: kramdown
+highlighter: rouge
+
+exclude:
+  - README.md
+  - LICENSE.md
+  - CODE_OF_CONDUCT.md
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - '.#*'
+  - '*~'
+
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-sitemap
