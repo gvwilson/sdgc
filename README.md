@@ -26,6 +26,8 @@ All participants are required to respect our [Code of Conduct](./CODE_OF_CONDUCT
 
 ## Syllabus
 
+<div id="syllabus" markdown="1">
+
 1.  [Introduction](./01_intro/)
 1.  [How Has the Porn Industry Shaped Privacy Rights?](./02_sex/)
 1.  [How Are Big Tech Companies Like Cocaine Cartels?](./03_drugs/)
@@ -36,11 +38,27 @@ All participants are required to respect our [Code of Conduct](./CODE_OF_CONDUCT
 1.  [Why Is Bandwidth So Expensive?](./08_capture/)
 1.  [Why Don't Software Engineers Need to Be Licensed?](./09_licensure/)
 
+</div>
+
 ##  Appendices
+
+<div id="appendices" markdown="1">
 
 1.  [License](./LICENSE.md)
 1.  [Bibliography](./bibliography.md)
 1.  [Glossary](./glossary.md)
+
+</div>
+
+<p class="center">
+  <em>
+    Start where you are
+    <br/>
+    Use what you have
+    <br/>
+    Help who you can
+  </em>
+</p>
 
 [email]: mailto:gvwilson@third-bit.com
 [repo]: https://github.com/gvwilson/sdgc
