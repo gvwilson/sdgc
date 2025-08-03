@@ -37,6 +37,11 @@ All participants are required to respect our [Code of Conduct](./CODE_OF_CONDUCT
 1.  [Why Is It So Hard to Measure the Productivity of Programmers?](./07_measure/)
 1.  [Why Is Bandwidth So Expensive?](./08_capture/)
 1.  [Why Don't Software Engineers Need to Be Licensed?](./09_licensure/)
+1.  [Why Don't Software Engineers Join Unions?](./10_union/)
+1.  [How Do Org Charts and Software Shape Each Other?](./11_conway/)
+1.  [Why Does Central Planning Work for Companies When It Failed for Countries?](./12_central/)
+1.  [Why Don't Do-ocracies Work (Either)?](./13_governance/)
+1.  [Who Gets To Interrupt Whom in Meetings?](./14_interrupt/)
 
 </div>
 
