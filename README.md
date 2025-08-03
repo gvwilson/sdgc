@@ -27,7 +27,14 @@ All participants are required to respect our [Code of Conduct](./CODE_OF_CONDUCT
 ## Syllabus
 
 1.  [Introduction](./01_intro/)
-2.  [Why Aren't Software Engineers Licensed?](./02_licensure/)
+1.  [How Has the Porn Industry Shaped Privacy Rights?](./02_sex/)
+1.  [How Are Big Tech Companies Like Cocaine Cartels?](./03_drugs/)
+1.  [Why Are There So Many Shootings in the United States?](./04_guns/)
+1.  [What Does It Mean for Software to Be Property?](./05_code/)
+1.  [How Do Tech Companies Get Away With Fraud?](./06_fraud/)
+1.  [Why Is It So Hard to Measure the Productivity of Programmers?](./07_measure/)
+1.  [Why Is Bandwidth So Expensive?](./08_capture/)
+1.  [Why Don't Software Engineers Need to Be Licensed?](./09_licensure/)
 
 ##  Appendices
 
