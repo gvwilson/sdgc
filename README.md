@@ -33,7 +33,7 @@ All participants are required to respect our [Code of Conduct](./CODE_OF_CONDUCT
 1.  [How Are Big Tech Companies Like Cocaine Cartels?](./03_drugs/)
 1.  [Why Are There So Many Shootings in the United States?](./04_guns/)
 1.  [What Does It Mean for Software to Be Property?](./05_code/)
-1.  [How Do Tech Companies Get Away With Fraud?](./06_fraud/)
+1.  [What Kinds of Fraud do Tech Companies Commit?](./06_fraud/)
 1.  [Why Is It So Hard to Measure the Productivity of Programmers?](./07_measure/)
 1.  [Why Is Bandwidth So Expensive?](./08_capture/)
 1.  [Why Don't Software Engineers Need to Be Licensed?](./09_licensure/)
@@ -42,6 +42,9 @@ All participants are required to respect our [Code of Conduct](./CODE_OF_CONDUCT
 1.  [Why Does Central Planning Work for Companies When It Failed for Countries?](./12_central/)
 1.  [Why Don't Do-ocracies Work (Either)?](./13_governance/)
 1.  [Who Gets To Interrupt Whom in Meetings?](./14_interrupt/)
+1.  [What Is "Bullshit" and Why Do People Believe It?](./15_bullshit/)
+1.  [Who's Really to Blame When an Accident Happens?](./16_accidents/)
+1.  [Why Do Students (and Executives) Cheat?](./17_cheating/)
 
 </div>
 

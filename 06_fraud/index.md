@@ -1,3 +1,3 @@
-# How Do Tech Companies Get Away With Fraud?
+# What Kinds of Fraud do Tech Companies Commit?
 
 FIXME
