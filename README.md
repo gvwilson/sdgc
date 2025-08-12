@@ -46,6 +46,7 @@ while the exercises help him figure out how these ideas apply to tech.
 1.  [Who's Really to Blame When an Accident Happens?](./16_accidents/)
 1.  [Why Do Students (and Executives) Cheat?](./17_cheating/)
 1.  [Would You Push Someone in Front of a Trolley?](./18_trolley/)
+1.  [How Do We Decide What to Teach in School (and Who is "We")?](./19_curriculum/)
 
 </div>
 
