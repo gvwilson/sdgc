@@ -1,3 +1,3 @@
-# Who Gets To Interrupt Whom in Meetings?
+# Who Gets To Interrupt in Meetings?
 
 FIXME

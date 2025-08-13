@@ -1,3 +1,3 @@
-# Would You Push Someone in Front of a Trolley?
+# Is It OK to Push Someone in Front of a Trolley?
 
 FIXME

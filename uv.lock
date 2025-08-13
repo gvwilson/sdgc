@@ -183,7 +183,7 @@ wheels = [
 
 [[package]]
 name = "mccole"
-version = "0.6.4"
+version = "0.6.5"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "beautifulsoup4" },
@@ -192,9 +192,9 @@ dependencies = [
     { name = "markdown" },
     { name = "tomli" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/38/d0/c8fbf0004d2cd3bd19d16de9550f45b93573bd09bed74f9bd0a0e836be63/mccole-0.6.4.tar.gz", hash = "sha256:8dd63a03f15b477ebf6c01d8c74a92cd11b50a2b5b6185fab62e274100c9661e", size = 25816, upload-time = "2025-08-10T23:14:01.044Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/14/cb/be1e8b9d3f9f2fc871f8a0f0689bf9581d75bb8023f35100b743f9f87ed2/mccole-0.6.5.tar.gz", hash = "sha256:17bd8bb4802a7d6231743e5f4f95b68221eebdbb9c299207fa9758d9826e4e76", size = 26659, upload-time = "2025-08-13T11:49:42.986Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/5d/36/ed947409cd8d26995ce5b55f3f0b02b72d40dcf6fc2b0e7795b0dabd555a/mccole-0.6.4-py3-none-any.whl", hash = "sha256:ec8479e77294cf353b074163e1c7910fcca4edd9991cfa96d562895caf548f9d", size = 24281, upload-time = "2025-08-10T23:13:59.921Z" },
+    { url = "https://files.pythonhosted.org/packages/ff/9d/2f2d96e25166354474a3e32a81feb7f95c280c14c4b3dd05a4180ff26a3d/mccole-0.6.5-py3-none-any.whl", hash = "sha256:a618fdc03fad0df802e13b0ecf5d1e3c3c2aa79c5082f3be74d45df4d5aa69b3", size = 24596, upload-time = "2025-08-13T11:49:42.165Z" },
 ]
 
 [[package]]

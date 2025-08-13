@@ -41,12 +41,17 @@ while the exercises help him figure out how these ideas apply to tech.
 1.  [How Do Org Charts and Software Shape Each Other?](./11_conway/)
 1.  [Why Does Central Planning Work for Companies When It Failed for Countries?](./12_central/)
 1.  [Why Don't Do-ocracies Work (Either)?](./13_governance/)
-1.  [Who Gets To Interrupt Whom in Meetings?](./14_interrupt/)
+1.  [Who Gets To Interrupt in Meetings?](./14_interrupt/)
 1.  [What Is "Bullshit" and Why Do People Believe It?](./15_bullshit/)
 1.  [Who's Really to Blame When an Accident Happens?](./16_accidents/)
 1.  [Why Do Students (and Executives) Cheat?](./17_cheating/)
-1.  [Would You Push Someone in Front of a Trolley?](./18_trolley/)
-1.  [How Do We Decide What to Teach in School (and Who is "We")?](./19_curriculum/)
+1.  [Is It OK to Push Someone in Front of a Trolley?](./18_trolley/)
+1.  [Who Decides What to Teach in School?](./19_curriculum/)
+1.  [How Do We Decide How Much People Are Paid?](./20_earnings/)
+1.  [Does Strong Encryption Do More Harm Than Good?](./21_encryption/)
+1.  [How Does Democracy Fail?](./22_failure/)
+1.  [How Do Communities Rebuild Democracy?](./23_rebuild/)
+1.  [Conclusion](./24_finale/)
 
 </div>
 
