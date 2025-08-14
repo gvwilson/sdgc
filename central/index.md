@@ -1,3 +1,3 @@
-# Why Does Central Planning Work for Companies When It Failed for Countries?
+# Why Does(n't) Central Planning Work?
 
 FIXME
