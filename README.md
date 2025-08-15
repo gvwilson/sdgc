@@ -85,6 +85,5 @@ while the exercises help him figure out how these ideas apply to tech.
   </em>
 </p>
 
-[email]: mailto:gvwilson@third-bit.com
 [repo]: https://github.com/gvwilson/sdgc
 [wilson-greg]: https://third-bit.com/
