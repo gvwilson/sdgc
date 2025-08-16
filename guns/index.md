@@ -1,3 +1,3 @@
-# Why Are There So Many Shootings in the United States?
+# Why Do Americans Shoot Each Other So Often?
 
 FIXME
