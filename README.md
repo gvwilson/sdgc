@@ -47,6 +47,7 @@ while the exercises help him figure out how these ideas apply to tech.
 1.  [Who's to Blame When an Accident Happens?](./accidents/)
 1.  [Why Do People Cheat?](./cheat/)
 1.  [Why Do People Care Less Than They Used To?](./care/)
+1.  [How Do People Resist Change Without Getting Caught?](./change/)
 1.  [Would You Push Someone in Front of a Trolley?](./trolley/)
 1.  [How Do We Decide What to Teach in School (and Who is "We)?](./curriculum/)
 1.  [How Do We Decide How Much People Are Paid?](./earnings/)
