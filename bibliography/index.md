@@ -30,7 +30,7 @@
     9780674724631.
 
 <span id="Phillips2019">Phillips & Rozworski 2019</span>
-"   Leigh Phillips and Michal Rozworski:
+:   Leigh Phillips and Michal Rozworski:
     *The People's Republic of Walmart: How the World's Biggest Corporations are Laying the Foundation for Socialism*
     Verso,
     2019,
