@@ -24,9 +24,9 @@ All participants are required to respect our [Code of Conduct](./CODE_OF_CONDUCT
 This workshop teaches Jay a few key ideas from psychology, sociology, and political science,
 while the exercises help him figure out how these ideas apply to tech.
 
-## Syllabus
+## Lessons
 
-<div id="syllabus" markdown="1">
+<div id="lessons" markdown="1">
 
 1.  [Introduction](./intro/)
 1.  [Who Decides What's Allowed on the Internet?](./sex/)
