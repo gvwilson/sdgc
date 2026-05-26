@@ -81,15 +81,8 @@ and as they do,
 we have left you no easy solutions to these problems
 (and possibly no solutions at all).
 
-So this is why I wrote this book: I'm angry.
-I'm angry because your sex and your color shouldn't count for more
-than how smart or honest or hardworking you are.
-I'm angry because the Internet has become a cesspool.
-I'm angry because billionaires are playing with rocket ships while the planet is melting
-and because Nazis are on the march once again.
-I'm angry,
-so I teach,
-because the world only gets better when we teach people how to make it better.
+So this is why I wrote this book: I'm angry about how much is still wrong.
+I teach, because the world only gets better when we teach people how to make it better.
 
 ## Cognitive Pollution
 
@@ -135,15 +128,6 @@ oxycontin,
 and now social media and AI
 [%b Oreskes2010 Michaels2008 %].
 
-<div class="callout" markdown="1">
-
-France, Belgium, and Italy's asbestos industries ran coordinated doubt-manufacturing campaigns through the 1980s and 1990s
-that delayed national bans by a decade,
-killing tens of thousands of workers during the delay—a European case identical in structure to the tobacco playbook
-but proceeding more slowly because litigation was harder to bring.
-
-</div>
-
 Civil and chemical engineers are now taught about pollution,
 not because the profession had a crisis of conscience,
 but because society decided over the course of many decades and through many court cases
@@ -169,12 +153,6 @@ and will have more impact than pious gestures like banning young people from usi
 
 ## Why Facts Don't Change Minds
 
-Most scientists and programmers' implicit model of belief is roughly Bayesian:
-when someone who believes something about the world receives new evidence,
-they update their beliefs in the way that fits that evidence best.
-This model is (mostly) true in domains that people aren't invested in emotionally,
-but fails in predictable ways for beliefs that are tied to group membership.
-
 Research in social psychology has established that
 beliefs about contested political and social issues
 function primarily as signals of group identity
@@ -183,76 +161,20 @@ Holding the wrong belief does not just mean being misinformed:
 it puts you outside the group,
 so updating the belief means leaving that group.
 The social cost of updating is therefore often higher than
-the mental cost of the cognitive dissonance incurred by staying wrong
-[%b Achen2017 %].
-
-[%g motivated_reasoning "Motivated reasoning" %] is a related and better-established phenomenon.
-People do not evaluate arguments neutrally.
-Instead,
-they are significantly better at identifying flaws
-in arguments that lead to conclusions they dislike
-than in arguments that lead to conclusions they support.
-For example,
-a trained scientist who is also a gun owner
-will scrutinize studies on gun violence
-more skeptically than studies on climate change
-if their social circle treats the former as identity-threatening but not the latter.
-This isn't dishonesty in the ordinary sense because the person doesn't know they're doing it.
-They believe their reasoning is rigorous because the biased scrutiny is real scrutiny:
-the flaws they find are often genuine flaws.
-But the asymmetric attention means that
-they have reached a conclusion before their evaluation begins
-[%b Kahneman2011 %].
-
-A colleague once told me that people want data, but believe stories.
-This makes sense in light of motivated reasoning:
-data provides cover for a decision already reached on other grounds,
-while stories transmit the emotional and social context that actually drives belief change.
-It's also why
-the most effective public health campaigns don't focus on presenting statistics;
-instead,
-they present specific, named people in specific situations.
-
-This rule is also why
-industries that want to prevent people from changing their beliefs
-fund think tanks that produce reports full of data.
-The data itself is not meant to influence people:
-what *is*
-is the appearance of rigor,
-which mimics the form of legitimate evidence without the substance.
-
-The tobacco case illustrates why this matters at the individual level.
-By the 1960s, the evidence linking cigarettes to cancer was substantial.
-But for a smoker in 1965 to accept that evidence fully
-was not simply a matter of updating a belief about statistics.
-It meant accepting that they had been harming themselves,
-that the cigarettes they had offered friends and family were probable carcinogens,
-and that continuing was a choice they were making with open eyes.
-In social circles where smoking was normal,
-the cost of updating was real:
-it was a judgment on the people around you and on your own past choices.
-This is why the tobacco industry's manufactured uncertainty was so effective.
-It did not need to be persuasive on the merits.
+the mental cost of staying wrong.
+This is why the tobacco industry's manufactured uncertainty was so effective:
+it did not need to be persuasive on the merits.
 It only needed to give people with strong social reasons not to update
 a plausible excuse to stay where they were.
-The fossil fuel industry has been running the same operation for thirty years;
-tech companies have been learning from both.
-
-<div class="callout" markdown="1">
-
-The Leave campaign's claim that Britain sent £350 million a week to the EU
-was repeatedly fact-checked, repeatedly covered, and repeatedly repeated throughout the 2016 Brexit referendum,
-because its function was to signal group membership rather than to inform—and correcting it publicly only amplified it.
-
-</div>
 
 If we want AI, social media, and the software industry in general to be regulated in meaningful ways,
 finding and presenting evidence of harm is a naïve strategy.
-Instead,
-we need to change the social context in which beliefs are held
+We need to change the social context in which beliefs are held
 by finding trusted messengers within the relevant communities,
 reframing the issue so that updating does not require identity betrayal,
 and working through social networks rather than through arguments.
 This is not manipulation:
-it is taking the actual psychology of belief seriously
-[%b SteinLubrano2024 Hoffer2010 Robin2018 %].
+it is taking the actual psychology of belief seriously.
+Chapter 12 examines the mechanisms of belief change in detail,
+drawing on the history of campaigns that succeeded
+[%b Achen2017 Kahneman2011 SteinLubrano2024 %].

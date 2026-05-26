@@ -301,3 +301,22 @@ that replicates the logic of the Enclosure Acts across a continent.
 
 </div>
 [%b Linklater2015 %]
+
+<div class="callout" markdown="1">
+
+The differential legalization of pleasure follows the same logic as disruption.
+Alcohol kills hundreds of thousands of people a year in wealthy countries and is sold in supermarkets.
+Cannabis has a lower harm profile than alcohol by most measures
+and was, for most of the twentieth century, a criminal offense
+whose consequences fell almost entirely on Black and Latino communities in the US
+and immigrant communities elsewhere.
+Portugal's 2001 decision to decriminalize personal possession of all drugs—
+paired with expanded investment in treatment and harm reduction—
+produced sharp falls in drug-related HIV transmission and overdose deaths
+without increasing use rates relative to comparable European countries.
+The pattern of what gets legalized, when, and for whom
+tracks political economy, racial hierarchy, and commercial interest
+far more reliably than it tracks harm
+[%b Hari2015 Nutt2012 %].
+
+</div>

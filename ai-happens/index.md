@@ -81,6 +81,24 @@ The outcomes will depend partly on how judges read copyright law
 and partly on which side has the resources to sustain litigation that may take a decade to resolve.
 The largest AI companies have substantially more resources than the individual creators suing them.
 
+<div class="callout" markdown="1">
+
+Ransomware attacks demonstrate how extortion, if professional enough, is indistinguishable from any other fee-for-service arrangement.
+The 2017 WannaCry attack encrypted hundreds of thousands of computers across 150 countries in a single weekend.
+Four years later, the DarkSide group shut down the Colonial Pipeline and demanded approximately $4.4 million in Bitcoin;
+the company paid within hours.
+Modern ransomware groups operate on an affiliate model—core developers write the malware,
+affiliates handle intrusions—and cybersecurity firms handle negotiations
+the same way kidnap-and-ransom specialists did for physical abductions in the 1990s.
+Both sides have an interest in the transaction completing cleanly.
+Governments officially discourage paying ransom while intelligence services routinely assist with exactly that.
+Cyber insurance policies now cover ransom payments,
+and insurance companies are wrestling with moral hazard and ransom inflation—
+the same concerns Lloyd's of London was managing thirty years ago
+[%b Dudley2022 %].
+
+</div>
+
 ## The Standard Playbook
 
 Major AI companies have not waited for regulators to define the rules.

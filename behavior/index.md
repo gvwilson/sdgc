@@ -81,12 +81,6 @@ Instead,
 drivers are managing losses relative to a reference point,
 not maximizing total income.
 
-The same dynamic governs financial markets.
-Investors hold losing stocks far longer than winning ones,
-not because it is a good strategy but because
-the emotional cost of a loss exceeds the rational benefit of reinvesting the capital.
-This is called the [%g disposition_effect "disposition effect" %].
-
 Similarly,
 the standard model predicts consistent discounting:
 a reward next month should be worth a fixed percentage less than the same reward today,

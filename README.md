@@ -30,28 +30,38 @@ All participants are required to respect our [Code of Conduct](@/conduct/).
 
 ## Prose
 
+### Part 1: Opening
+
 1.  [Reading the World](@/seeing/)
+1.  [How We Got Here](@/how-we-got-here/)
 1.  [What Drives Behavior](@/behavior/)
-1.  [Money, Monopoly, and Bubbles](@/monopoly/)
-1.  [Disruption, Fraud, and Enclosure](@/disruption/)
+
+### Part 2: Understanding the System
+
+4.  [Disruption, Fraud, and Enclosure](@/disruption/)
 1.  [Who Owns What](@/ownership/)
 1.  [Controlling Workers](@/worker-control/)
 1.  [Power Inside Organizations](@/inside-orgs/)
+1.  [Money, Monopoly, and Bubbles](@/monopoly/)
 1.  [Alternatives and Dead Weight](@/alternatives/)
-1.  [Media and Gatekeeping](@/gatekeeping/)
-1.  [Surveillance, Identity, and Desire](@/surveillance/)
-1.  [Who Gets What and Why](@/inequality/)
-1.  [Race, Culture, and Harm](@/harm-culture/)
-1.  [Institutional Power](@/institutions/)
-1.  [Capture, Control, and Fascism](@/capture-fascism/)
+
+### Part 3: Seeing the Harm
+
+10. [Surveillance, Identity, and Desire](@/surveillance/)
 1.  [When the Model Is the Harm](@/harmful-models/)
-1.  [Lock-In, Leverage, and Legalization](@/leverage/)
-1.  [Speech, Arms, and Algorithms](@/speech-arms/)
-1.  [Harm, Morality, and Empathy](@/moral-change/)
+1.  [What Actually Changes Minds](@/changes-minds/)
 1.  [Regulation That Worked](@/regulation-works/)
-1.  [What Changes and How](@/how-change/)
+
+### Part 4: Turning the Wheel
+
+14. [Who Gets What and Why](@/inequality/)
+1.  [Speech, Arms, and Algorithms](@/speech-arms/)
 1.  [When the Algorithm Comes for You](@/ai-happens/)
-1.  [Elections, Courts, and Democratic Erosion](@/on-voting/)
+1.  [What Changes and How](@/how-change/)
+
+### Part 5: Acting
+
+18. [What You Do Next](@/what-next/)
 
 </div>
 
@@ -59,28 +69,38 @@ All participants are required to respect our [Code of Conduct](@/conduct/).
 
 <div id="slides" markdown="1">
 
+### Part 1: Opening
+
 1.  [Reading the World](@/seeing/slides.html)
+1.  [How We Got Here](@/how-we-got-here/slides.html)
 1.  [What Drives Behavior](@/behavior/slides.html)
-1.  [Money, Monopoly, and Bubbles](@/monopoly/slides.html)
-1.  [Disruption, Fraud, and Enclosure](@/disruption/slides.html)
+
+### Part 2: Understanding the System
+
+4.  [Disruption, Fraud, and Enclosure](@/disruption/slides.html)
 1.  [Who Owns What](@/ownership/slides.html)
 1.  [Controlling Workers](@/worker-control/slides.html)
 1.  [Power Inside Organizations](@/inside-orgs/slides.html)
+1.  [Money, Monopoly, and Bubbles](@/monopoly/slides.html)
 1.  [Alternatives and Dead Weight](@/alternatives/slides.html)
-1.  [Media and Gatekeeping](@/gatekeeping/slides.html)
-1.  [Surveillance, Identity, and Desire](@/surveillance/slides.html)
-1.  [Who Gets What and Why](@/inequality/slides.html)
-1.  [Race, Culture, and Harm](@/harm-culture/slides.html)
-1.  [Institutional Power](@/institutions/slides.html)
-1.  [Capture, Control, and Fascism](@/capture-fascism/slides.html)
-1.  [Elections, Courts, and Democratic Erosion](@/on-voting/slides.html)
+
+### Part 3: Seeing the Harm
+
+10. [Surveillance, Identity, and Desire](@/surveillance/slides.html)
 1.  [When the Model Is the Harm](@/harmful-models/slides.html)
-1.  [Lock-In, Leverage, and Legalization](@/leverage/slides.html)
+1.  [What Actually Changes Minds](@/changes-minds/slides.html)
 1.  [Regulation That Worked](@/regulation-works/slides.html)
+
+### Part 4: Turning the Wheel
+
+14. [Who Gets What and Why](@/inequality/slides.html)
 1.  [Speech, Arms, and Algorithms](@/speech-arms/slides.html)
-1.  [Harm, Morality, and Empathy](@/moral-change/slides.html)
 1.  [When the Algorithm Comes for You](@/ai-happens/slides.html)
 1.  [What Changes and How](@/how-change/slides.html)
+
+### Part 5: Acting
+
+18. [What You Do Next](@/what-next/slides.html)
 
 </div>
 
