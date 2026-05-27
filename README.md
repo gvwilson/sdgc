@@ -11,28 +11,30 @@ All of this material is available under an [open license](@/license/),
 and contributions through our [repository][repo] are welcome.
 All participants are required to respect our [Code of Conduct](@/conduct/).
 
-## Learner Persona
+## Who This is For
 
--   Jay, 25, has bachelor's degree in computer science,
-    and works as a front-end developer at an e-commerce company.
--   They took one course in literature and one in urban geography
-    to satisfy breadth requirements as an undergraduate,
-    but otherwise haven't studied humanities or social sciences since high school.
--   They are pessimistic about climate change and worried that AI is going to take their job away,
-    but don't know what to do about either.
--   They recently started volunteering one evening a week
-    with an adult literacy program at their local library,
-    but have never been part of an organized political campaign.
--   They try to stay out of political discussions at work because
-    they feel both sides are strident and self-righteous.
+Jay, 25, has bachelor's degree in computer science,
+and works as a front-end developer at an e-commerce company.
+They took one course in literature and one in urban geography
+to satisfy breadth requirements as an undergraduate,
+but otherwise haven't studied humanities or social sciences since high school.
+They are pessimistic about climate change and worried that AI is going to take their job away,
+but don't know what to do about either.
+They recently started volunteering one evening a week
+with an adult literacy program at their local library,
+but have never been part of an organized political campaign.
+They try to stay out of political discussions at work because
+they feel both sides are strident and self-righteous.
 
 <div id="lessons" markdown="1">
 
 ## Prose
 
+1.  [Introduction](@/intro/)
+
 ### Part 1: Opening
 
-1.  [Reading the World](@/seeing/)
+1.  [Seeing the World](@/seeing/)
 1.  [How We Got Here](@/how-we-got-here/)
 1.  [What Drives Behavior](@/behavior/)
 
