@@ -34,7 +34,7 @@ cmd = "python -m http.server -d docs 8000"
 [tool.taskipy.tasks.site]
 help = "Build HTML."
 cmd = """
-    mccole build --src . --dst docs
+    mccole build --src . --dst docs --single-page docs/all.html
     touch docs/.nojekyll
 """
 

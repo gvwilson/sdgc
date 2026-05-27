@@ -38,7 +38,7 @@ All participants are required to respect our [Code of Conduct](@/conduct/).
 
 ### Part 2: Understanding the System
 
-4.  [Disruption, Fraud, and Enclosure](@/disruption/)
+1.  [Disruption, Fraud, and Enclosure](@/disruption/)
 1.  [Who Owns What](@/ownership/)
 1.  [Controlling Workers](@/worker-control/)
 1.  [Power Inside Organizations](@/inside-orgs/)
@@ -47,21 +47,21 @@ All participants are required to respect our [Code of Conduct](@/conduct/).
 
 ### Part 3: Seeing the Harm
 
-10. [Surveillance, Identity, and Desire](@/surveillance/)
+1.  [Surveillance, Identity, and Desire](@/surveillance/)
 1.  [When the Model Is the Harm](@/harmful-models/)
 1.  [What Actually Changes Minds](@/changes-minds/)
 1.  [Regulation That Worked](@/regulation-works/)
 
 ### Part 4: Turning the Wheel
 
-14. [Who Gets What and Why](@/inequality/)
+1.  [Who Gets What and Why](@/inequality/)
 1.  [Speech, Arms, and Algorithms](@/speech-arms/)
 1.  [When the Algorithm Comes for You](@/ai-happens/)
 1.  [What Changes and How](@/how-change/)
 
 ### Part 5: Acting
 
-18. [What You Do Next](@/what-next/)
+1.  [What You Do Next](@/what-next/)
 
 </div>
 
@@ -77,7 +77,7 @@ All participants are required to respect our [Code of Conduct](@/conduct/).
 
 ### Part 2: Understanding the System
 
-4.  [Disruption, Fraud, and Enclosure](@/disruption/slides.html)
+1.  [Disruption, Fraud, and Enclosure](@/disruption/slides.html)
 1.  [Who Owns What](@/ownership/slides.html)
 1.  [Controlling Workers](@/worker-control/slides.html)
 1.  [Power Inside Organizations](@/inside-orgs/slides.html)
@@ -86,21 +86,21 @@ All participants are required to respect our [Code of Conduct](@/conduct/).
 
 ### Part 3: Seeing the Harm
 
-10. [Surveillance, Identity, and Desire](@/surveillance/slides.html)
+1.  [Surveillance, Identity, and Desire](@/surveillance/slides.html)
 1.  [When the Model Is the Harm](@/harmful-models/slides.html)
 1.  [What Actually Changes Minds](@/changes-minds/slides.html)
 1.  [Regulation That Worked](@/regulation-works/slides.html)
 
 ### Part 4: Turning the Wheel
 
-14. [Who Gets What and Why](@/inequality/slides.html)
+1.  [Who Gets What and Why](@/inequality/slides.html)
 1.  [Speech, Arms, and Algorithms](@/speech-arms/slides.html)
 1.  [When the Algorithm Comes for You](@/ai-happens/slides.html)
 1.  [What Changes and How](@/how-change/slides.html)
 
 ### Part 5: Acting
 
-18. [What You Do Next](@/what-next/slides.html)
+1.  [What You Do Next](@/what-next/slides.html)
 
 </div>
 
