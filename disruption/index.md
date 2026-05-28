@@ -28,7 +28,7 @@ and (if all else fails) litigation.
 
 Drug cartels solve the same problems by different means,
 and their solutions reveal some interesting things about how business actually works.
-Take [%g brand_protection "brand protection" %], for example.
+Take [%g brand-protection "brand protection" %], for example.
 A consumer who buys a product with a known brand name
 has some assurance of consistent quality because
 the brand owner has reputational incentives to maintain standards
@@ -62,7 +62,7 @@ They are instead the result of removing the legal protections that exist
 precisely to prevent brutality and exploitation in legal labor markets.
 
 As a final example,
-consider [%g vertical_integration "vertical integration" %].
+consider [%g vertical-integration "vertical integration" %].
 A business that controls its entire supply chain
 is less vulnerable to supplier failure,
 price gouging,
@@ -162,7 +162,7 @@ The difference is difficult to establish because
 and (b) they can also just lie.
 
 Three kinds of fraud are particularly relevant to tech companies.
-A [%g ponzi_scheme "Ponzi scheme" %] appears to generate returns
+A [%g ponzi-scheme "Ponzi scheme" %] appears to generate returns
 by paying early investors with money from later investors,
 rather than from genuine investment gains.
 Each successful payment increases the scheme's credibility and attracts additional investors.
@@ -179,7 +179,7 @@ which provides an incentive for them to fool themselves as well as their investo
 After all,
 the scheme worked yesterday—maybe it will work again tomorrow.
 
-A [%g long_firm "long firm" %] fraud operates on a longer timescale.
+A [%g long-firm "long firm" %] fraud operates on a longer timescale.
 The fraudster starts by building a legitimate-seeming business,
 establishing a track record of reliable transactions and prompt payments.
 Once they have a reputation for reliability,
@@ -191,7 +191,7 @@ The victim's mistake is not in trusting the operator—the early trust is actual
 The mistake is failing to notice that the scale and urgency of later transactions
 is inconsistent with normal business patterns.
 
-[%g control_fraud "Control fraud" %] operates inside a legitimate company
+[%g control-fraud "Control fraud" %] operates inside a legitimate company
 rather than through a fictitious one.
 An executive who controls a company can use that control to route contracts to related parties,
 manipulate reported earnings to maximize personal compensation,
@@ -207,7 +207,7 @@ and had professional and commercial incentives to take management's claims at fa
 [%b Black2005 %].
 
 Finally,
-[%g accounting_fraud "accounting fraud" %] works because
+[%g accounting-fraud "accounting fraud" %] works because
 accounting requires judgment at every stage where fraud can be inserted.
 Revenue can be recognized early or late;
 assets can be valued on optimistic or conservative assumptions,
@@ -256,7 +256,7 @@ but "who *decided* it was property, when, why, and who was dispossessed in the p
 
 The best-known example of communal land being privatized
 (to English speakers, anyway)
-is the [%g enclosure_movement "enclosure movement" %],
+is the [%g enclosure-movement "enclosure movement" %],
 which peaked in the second half of the 18th century.
 Before enclosure, common land was governed by overlapping, community-enforced use rights:
 the right to graze a specific number of animals,
@@ -270,7 +270,7 @@ The commons *worked*;
 the argument that they were inherently prone to overuse
 was made by enclosure's beneficiaries and repeated long after it had been empirically refuted.
 
-Parliament passed hundreds of private [%g enclosure_acts "Enclosure Acts" %]
+Parliament passed hundreds of private [%g enclosure-acts "Enclosure Acts" %]
 between 1750 and 1850,
 each one extinguishing common rights over a specific area
 and converting that land into private property.

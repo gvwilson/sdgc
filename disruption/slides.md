@@ -49,7 +49,7 @@
 
 ## What Is a Control Fraud
 
--   [%g control_fraud "Control fraud" %] occurs when those running an institution use that control to loot it
+-   [%g control-fraud "Control fraud" %] occurs when those running an institution use that control to loot it
 -   The institution is the weapon, not the target
 -   Charles Keating and the savings and loan crisis, Enron, and the subprime mortgage system
     -   In each case, fraud consisted of consistently choosing the most aggressive interpretation in every ambiguous accounting decision [%b Black2005 %]

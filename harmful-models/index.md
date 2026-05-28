@@ -13,7 +13,7 @@ The technology changed but the logic did not:
 the audience is not the customer but the product,
 and the content is the mechanism for assembling and sorting that audience.
 
-The [%g penny_press "penny press" %] emerged in New York in the 1830s
+The [%g penny-press "penny press" %] emerged in New York in the 1830s
 when publishers like Benjamin Day realized that
 a newspaper priced at one cent could not sustain itself through subscription revenue
 but could attract large enough readership to sell advertising at rates that more than covered costs.
@@ -38,7 +38,7 @@ It was the predictable output of two rational businesses
 responding to the same incentive structure
 [%b Campbell2001 Nasaw2000 %].
 
-The [%g propaganda_model "propaganda model" %] [%b Herman1988 %] describes how
+The [%g propaganda-model "propaganda model" %] [%b Herman1988 %] describes how
 this system shapes content without requiring deliberate censorship.
 Advertisers do not need to call editors and demand favorable coverage;
 they simply withdraw revenue from outlets that publish content they dislike,
@@ -424,7 +424,7 @@ this history suggests they can be made a source of vulnerability
 
 ## Big Tech is Like the Radio Payola System
 
-Supermarkets charge manufacturers [%g slotting_fees "slotting fees" %] for shelf space,
+Supermarkets charge manufacturers [%g slotting-fees "slotting fees" %] for shelf space,
 paying premium rates for eye-level placement and end-cap displays.
 A product placed at eye level is there because its manufacturer paid for the position,
 not because it is the best option in its category,
@@ -445,7 +445,7 @@ on the structure that made the wrongdoing rational.
 The practice therefore continued more or less uninterrupted
 through intermediaries that technically complied with disclosure requirements
 while achieving the same result.
-This is an example of [%g regulatory_capture "regulatory capture" %]:
+This is an example of [%g regulatory-capture "regulatory capture" %]:
 the agency charged with overseeing an industry becomes more responsive to the industry's interests
 than to the public interest it was created to protect.
 
@@ -467,7 +467,7 @@ to users who had no way to tell the difference.
 
 </div>
 
-Securities law prohibits an analogous conflict known as [%g front_running "front-running" %].
+Securities law prohibits an analogous conflict known as [%g front-running "front-running" %].
 A broker who executes customer orders is prohibited from trading against clients
 using client order information
 because taking advantage of insider information takes value from the customer.

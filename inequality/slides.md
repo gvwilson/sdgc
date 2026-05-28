@@ -21,7 +21,7 @@
 -   What actually determines hiring is cultural legibility:
     the references, manners, and assumptions that signal membership
 -   Credential matters less than what it says about who you are
--   Pierre Bourdieu called this [%g cultural_capital "cultural capital" %]
+-   Pierre Bourdieu called this [%g cultural-capital "cultural capital" %]
     -   Lauren Rivera's research on elite professional services firms: interviewers primarily selecting for cultural fit, using leisure activities as proxies for class background [%b Rivera2015 %]
 
 </section>

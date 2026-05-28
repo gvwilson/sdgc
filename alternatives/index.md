@@ -16,7 +16,7 @@ tells you something about whose interests the dominant model serves.
 
 ## The Usual Suspects
 
-A [%g sole_proprietorship "sole proprietorship" %] is the simplest possible firm:
+A [%g sole-proprietorship "sole proprietorship" %] is the simplest possible firm:
 one person owns it, operates it, and is personally liable for everything it does.
 If the business gets sued and loses,
 the owner's house, car, and savings are all at risk.
@@ -26,18 +26,18 @@ though you must register your business name in most provinces
 if you are trading under a name other than your own.
 
 A [%g partnership "partnership" %] divides ownership between two or more people.
-In a [%g general_partnership "general partnership" %], all partners share liability;
-in a [%g limited_partnership "limited partnership" %],
+In a [%g general-partnership "general partnership" %], all partners share liability;
+in a [%g limited-partnership "limited partnership" %],
 the limited partners risk only what they invested,
 while the general partner remains fully exposed.
 Law firms, accounting firms, and investment funds have historically used partnership structures,
 partly because unlimited personal liability concentrates the minds of the partners wonderfully.
 
-The [%g limited_liability_corporation "limited liability corporation" %] is the dominant modern form,
+The [%g limited-liability-corporation "limited liability corporation" %] is the dominant modern form,
 created by governments to encourage private investment in ventures too expensive for any one person to fund alone.
 Chapter 2 describes the history of this legal invention and why it matters.
 
-A [%g public_benefit_corporation "public benefit corporation" %] (PBC) is a newer form,
+A [%g public-benefit-corporation "public benefit corporation" %] (PBC) is a newer form,
 legally requiring the company to consider the interests of employees,
 communities,
 and the environment,
@@ -60,11 +60,11 @@ described in detail in [Alternatives That Scaled](@/cooperatives/).
 Its founding in the Basque region in 1956 and the flexibility it demonstrated during the 2008 crisis
 illustrate what the cooperative structure makes possible.
 
-[%g consumer_cooperative "Consumer cooperatives" %] own the firm on behalf of their customers.
+[%g consumer-cooperative "Consumer cooperatives" %] own the firm on behalf of their customers.
 In Switzerland,
 Migros and Coop together hold a majority of the grocery market,
 both as consumer cooperatives.
-[%g credit_union "Credit unions" %]—the most common form of cooperative in Canada—are
+[%g credit-union "Credit unions" %]—the most common form of cooperative in Canada—are
 owned by their depositors
 and return surplus to members rather than to outside shareholders.
 Cooperatives can face difficulties raising capital
@@ -88,7 +88,7 @@ A second problem is that worker-members have short time horizons:
 a member's stake ends when they leave or retire,
 which creates rational incentives to distribute surplus now
 rather than reinvest it in long-term capital projects the member may not live to benefit from.
-Economists call this the [%g horizon_problem "horizon problem" %].
+Economists call this the [%g horizon-problem "horizon problem" %].
 The main escape valve is debt,
 but debt has fixed repayment obligations regardless of conditions.
 Mondragón has partially solved this with indivisible reserves,

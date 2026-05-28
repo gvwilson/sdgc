@@ -31,10 +31,10 @@ they feel both sides are strident and self-righteous.
 ## Prose
 
 1.  [Introduction](@/intro/)
+1.  [A Few Key Ideas](@/few-ideas/)
 
 ### Part 1: Opening
 
-1.  [Seeing the World](@/seeing/)
 1.  [How We Got Here](@/how-we-got-here/)
 1.  [What Drives Behavior](@/behavior/)
 
@@ -43,7 +43,6 @@ they feel both sides are strident and self-righteous.
 1.  [Disruption, Fraud, and Enclosure](@/disruption/)
 1.  [Who Owns What](@/ownership/)
 1.  [Controlling Workers](@/worker-control/)
-1.  [Power Inside Organizations](@/inside-orgs/)
 1.  [Money, Monopoly, and Bubbles](@/monopoly/)
 1.  [Alternatives and Dead Weight](@/alternatives/)
 
@@ -117,6 +116,11 @@ they feel both sides are strident and self-righteous.
 1.  [Glossary](@/glossary/)
 
 </div>
+
+## Recycled
+
+1.  [Seeing the World](@/seeing/)
+1.  [Power Inside Organizations](@/inside-orgs/)
 
 <p class="center">
   <em>

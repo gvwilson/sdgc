@@ -64,7 +64,7 @@ In contrast,
 software patents are often written at high levels of abstraction,
 covering broad categories of computational method rather than specific implementations.
 They are concentrated in the portfolios of large technology companies, financial institutions,
-and [%g patent_assertion_entities "patent assertion entities" %]:
+and [%g patent-assertion-entities "patent assertion entities" %]:
 organizations that hold patents without producing anything,
 but derive revenue entirely from licensing and litigation.
 Software patents are used primarily against smaller companies and open source projects,
@@ -101,7 +101,7 @@ Every cargo shipment lost time and money at the border,
 and that money went to the carriers who controlled the boundary.
 The technical choice was a market weapon.
 
-A [%g standards_body "technical standard" %] is an agreement about how things connect.
+A [%g standards-body "technical standard" %] is an agreement about how things connect.
 The value of having a standard usually far exceeds
 the value of any particular outcome in the format war that precedes it,
 which is exactly why control of the format is worth fighting for.
@@ -117,7 +117,7 @@ AC transmits over longer distances at lower cost,
 and Westinghouse won.
 
 A century later,
-Microsoft repeatedly used [%g standards_capture "standards capture" %] as a business strategy.
+Microsoft repeatedly used [%g standards-capture "standards capture" %] as a business strategy.
 The company would adopt an open standard like HTML, Java, or Kerberos authentication,
 and then add proprietary extensions that were convenient but tied developers to Microsoft's version.
 Once enough code was written against the extensions,
@@ -361,7 +361,7 @@ Apple's valuable patents were licensed from a subsidiary in a low-tax jurisdicti
 European sales flowed through Apple Sales International,
 which paid royalties back to the IP-holding entity.
 The royalties reduced taxable profit in the high-tax jurisdictions where the sales occurred.
-[%g transfer_pricing "Transfer pricing" %]
+[%g transfer-pricing "Transfer pricing" %]
 (the setting of prices for transactions between subsidiaries of the same company)
 is supposed to follow the arm's length principle:
 the price should be what unrelated parties would charge each other.
@@ -426,7 +426,7 @@ which was not,
 since implementation depended on each country passing domestic legislation.
 
 Gabriel Zucman's estimates suggest that
-roughly 40% of multinational profits are shifted to [%g tax_haven "tax havens" %] annually,
+roughly 40% of multinational profits are shifted to [%g tax-haven "tax havens" %] annually,
 costing governments approximately $200 billion per year in corporate tax revenue.
 This is money that does not fund schools,
 infrastructure,

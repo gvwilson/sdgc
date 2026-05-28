@@ -47,7 +47,7 @@
     -   Austria's opt-out organ donation system: above 99% consent
     -   Germany's opt-in: under 15% [%b Thaler2009 %]
 -   Nudges change behavior without changing available options
--   Engagement optimization is applied [%g choice_architecture "choice architecture" %] at scale
+-   Engagement optimization is applied [%g choice-architecture "choice architecture" %] at scale
     -   Every interface decision nudges toward more time spent
     -   What to show first, notification framing, scroll boundaries: all optimized for engagement
 

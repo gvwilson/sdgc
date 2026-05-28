@@ -35,7 +35,7 @@ At its peak,
 Standard Oil controlled roughly ninety percent of US oil refining capacity.
 It didn't achieve this through superior efficiency
 but through secret railroad rebates,
-[%g predatory_pricing "predatory pricing" %] against competitors,
+[%g predatory-pricing "predatory pricing" %] against competitors,
 and strategic acquisitions of rivals.
 The Sherman Antitrust Act of 1890 was written in direct response,
 and the landmark 1911 Supreme Court decision that broke Standard Oil into thirty-four separate companies
@@ -49,7 +49,7 @@ without fundamentally altering the underlying concentration of wealth or market 
 
 The Bell network evolved along slightly different lines than Standard Oil.
 AT&T's control over telephone infrastructure from the 1910s until its breakup in 1984
-was maintained by a [%g regulatory_compact "regulatory compact" %]
+was maintained by a [%g regulatory-compact "regulatory compact" %]
 in which AT&T accepted rate regulation in exchange for a protected monopoly position.
 That compact produced genuine achievements:
 Bell Labs generated an extraordinary concentration of fundamental research,
@@ -68,7 +68,7 @@ the industry was too complex to regulate effectively,
 regulation would destroy investment incentives,
 and the market would eventually take care of things anyway.
 
-[%g network_effects "Network effects" %] and [%g switching_costs "switching costs" %]
+[%g network-effects "Network effects" %] and [%g switching-costs "switching costs" %]
 are what make monopolies in network industries self-reinforcing.
 A telephone network becomes more valuable as more people join it,
 giving the dominant network an advantage separate from the quality or price of the underlying service.
@@ -144,7 +144,7 @@ also protect it from competitive consequences
 [%b Doctorow2022 %].
 
 Enshittification depends on two things:
-network effects and [%g structural_lock_in "structural lock-in" %].
+network effects and [%g structural-lock-in "structural lock-in" %].
 Neither is not specific to digital platforms.
 The record club Columbia House ran the same play in a different era.
 Launched in the 1950s in the United States and Canada
@@ -284,7 +284,7 @@ and the internet *did* change commerce.
 Every bubble grows from a real phenomenon,
 which is precisely what makes it so effective at separating people from their money.
 
-The second thing is [%g greater_fool_theory "the greater fool theory" %].
+The second thing is [%g greater-fool-theory "the greater fool theory" %].
 You do not have to believe that a tulip bulb is worth a house.
 You only have to believe that someone else will pay you more for it next month
 than you paid for it today.
@@ -304,7 +304,7 @@ and then watched it collapse.
 
 Robert Shiller, who won a Nobel Prize partly for studying this problem,
 argues that markets are driven less by rational calculation than by contagious stories [%b Shiller2015 %].
-He calls this [%g narrative_economics "narrative economics" %]:
+He calls this [%g narrative-economics "narrative economics" %]:
 when a compelling story spreads through a population,
 it changes behavior,
 and changed behavior changes prices,
@@ -371,7 +371,7 @@ that contradicts a profitable belief is essentially unlimited [%b Galbraith1954 
 The 2008 crisis added the observation that when enough money is at stake,
 the strongest defenders of free markets suddenly become socialists in all but name.
 
-Another feature of [%g speculative_bubble "speculative bubbles" %] is that
+Another feature of [%g speculative-bubble "speculative bubbles" %] is that
 they tend to be ahistorical.
 The dot-com bubble was the first internet bubble;
 there were no previous internet bubbles to learn from.

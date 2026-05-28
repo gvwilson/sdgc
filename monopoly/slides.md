@@ -67,7 +67,7 @@
 -   First-mover advantage compounds: the largest network is the most valuable
     -   Facebook acquired Instagram for $1B in 2012 and WhatsApp for $19B in 2014
     -   Eliminating rivals before they matured into competitive threats
--   [%g switching_costs "Switching costs" %] rise as users invest more in a platform
+-   [%g switching-costs "Switching costs" %] rise as users invest more in a platform
 
 </section>
 <section class="slide" markdown="1">

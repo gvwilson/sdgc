@@ -16,9 +16,9 @@ Singapore's Protection from Online Falsehoods and Manipulation Act
 lets the government compel corrections and takedowns of statements it deems false.
 These are not differences of degree but of principle,
 and the history behind them is worth understanding on its own terms
-before we apply it to questions about [%g content_moderation "content moderation" %] on social media platforms.
+before we apply it to questions about [%g content-moderation "content moderation" %] on social media platforms.
 
-The philosopher John Stuart Mill defined a [%g harm_principle "harm principle" %],
+The philosopher John Stuart Mill defined a [%g harm-principle "harm principle" %],
 saying that the only legitimate ground for restricting individual liberty
 is preventing harm to others.
 This sounds simple until you try to apply it.
@@ -34,7 +34,7 @@ or against the interests of speakers
 [%b Waldron2012 %].
 
 History offers some uncomfortable answers to the question of whether speech causes harm.
-The [%g blood_libel "blood libel" %] circulated in Europe from the twelfth century onward,
+The [%g blood-libel "blood libel" %] circulated in Europe from the twelfth century onward,
 leading to pogroms, massacres, and expulsions for hundreds of years.
 No single pamphlet or sermon caused any particular death,
 but the accumulated weight of the accusation,
@@ -69,7 +69,7 @@ as long as intolerant movements can be countered by rational argument,
 suppressing them is unwise.
 But he insisted that tolerant societies must reserve the right to suppress movements
 that refuse rational engagement and resort instead to violence or the prohibition of debate.
-This argument—now called the [%g paradox_of_tolerance "paradox of tolerance" %]—is not a license for censorship.
+This argument—now called the [%g paradox-of-tolerance "paradox of tolerance" %]—is not a license for censorship.
 It is a claim that a functioning liberal democracy is not logically required
 to protect speech aimed at destroying liberal democracy
 [%b GartonAsh2016 Popper2011 %].
@@ -169,9 +169,9 @@ in ways that make owners feel that restrictions on guns are an attack on their s
 ## The Rules Shape the Outcome
 
 The method used to count votes determines who wins as much as who votes.
-[%g ranked_choice_voting "Ranked-choice voting" %],
-[%g proportional_representation "proportional representation" %],
-and [%g plurality_voting "plurality voting" %] produce different outcomes
+[%g ranked-choice-voting "Ranked-choice voting" %],
+[%g proportional-representation "proportional representation" %],
+and [%g plurality-voting "plurality voting" %] produce different outcomes
 from the same set of voter preferences.
 This is not a technicality:
 the choice of voting system determines which parties survive long enough to matter,
@@ -231,7 +231,7 @@ A small number of large donors now shape which legislation gets proposed
 and which issues appear on legislative calendars
 more directly than millions of ordinary voters casting ballots.
 
-[%g dark_money "Dark money" %] extends this further.
+[%g dark-money "Dark money" %] extends this further.
 Nonprofit organizations can spend on political advertising without disclosing their donors.
 The result was that
 a network of conservative nonprofits spent over $400 million influencing the 2012 US elections
@@ -260,7 +260,7 @@ implemented new restrictions within hours of the ruling.
 Hungary, Turkey, and India all followed similar trajectories in the 2010s:
 electoral victory followed by legal changes designed to entrench the winning party,
 followed by pressure on courts, media, and civil society organizations.
-Each step in this [%g democratic_backsliding "democratic backsliding" %]
+Each step in this [%g democratic-backsliding "democratic backsliding" %]
 can be described as a routine exercise of legislative or executive authority;
 the pattern only becomes visible across time [%b LevitskyZiblatt2018 %].
 

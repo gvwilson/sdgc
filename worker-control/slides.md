@@ -62,7 +62,7 @@
 
 ## Lock-In Through Accumulated Investment
 
--   [%g structural_lock_in "Structural lock-in" %] differs from short-term dependency
+-   [%g structural-lock-in "Structural lock-in" %] differs from short-term dependency
 -   Workers and businesses invest in platform-specific skills, reviews, and relationships
 -   Each incremental worsening is tolerable because the exit cost exceeds the immediate harm
     -   An Uber driver with a 4.9-star rating cannot transfer that rating to Lyft
@@ -104,7 +104,7 @@
 </section>
 <section class="slide" markdown="1">
 
-## What [%g collective_bargaining "Collective Bargaining" %] Actually Achieves
+## What [%g collective-bargaining "Collective Bargaining" %] Actually Achieves
 
 -   Eight-hour day, the two-day weekend, workplace safety, prohibition of child labor
 -   These were not conceded voluntarily

@@ -45,7 +45,7 @@ after automated quality-control software had flagged the anomalous readings as e
 [%b Roan1989 %].
 
 Industry resistance collapsed in just two years,
-and the [%g montreal_protocol "Montreal Protocol" %] was signed in 1987.
+and the [%g montreal-protocol "Montreal Protocol" %] was signed in 1987.
 The protocol's design explains why it worked when so many other environmental agreements have not.
 It set binding phase-out schedules for ozone-depleting substances,
 with different timelines for developed and developing countries.
@@ -343,7 +343,7 @@ makes it both more inspiring and less useful as a model
 The historical record of successful social change campaigns shows
 consistent structural features that cut across very different political contexts.
 Indian independence was achieved through a disciplined mass movement
-that combined [%g civil_disobedience "civil disobedience" %],
+that combined [%g civil-disobedience "civil disobedience" %],
 economic disruption,
 legal challenge,
 and international publicity over decades.

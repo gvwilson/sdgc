@@ -7,7 +7,7 @@
 
 ## The Only Universally Ratified Environmental Agreement
 
--   The [%g montreal_protocol "Montreal Protocol" %] (1987) ratified by every country in the world
+-   The [%g montreal-protocol "Montreal Protocol" %] (1987) ratified by every country in the world
 -   Only international environmental agreement to achieve universal ratification
 -   Ozone layer is recovering
 -   Without the protocol, it would have collapsed

@@ -17,8 +17,8 @@ from how institutions describe it.
 Studies of admissions to elite universities,
 hiring at professional services firms,
 and promotion within corporations consistently
-find that formal credentials matter less than [%g social_legibility "social legibility" %]:
-the ability to display the [%g cultural_capital "cultural capital" %]—tastes, manners, and cultural references—
+find that formal credentials matter less than [%g social-legibility "social legibility" %]:
+the ability to display the [%g cultural-capital "cultural capital" %]—tastes, manners, and cultural references—
 that signals membership in the right networks.
 Lauren Rivera's research on hiring at elite firms
 found that interviewers routinely described candidates as "polished" or "rough around the edges"
@@ -41,7 +41,7 @@ Believing in meritocracy does not make people fairer.
 Research by Emilio Castilla and Stephen Benard found that
 organizations that explicitly adopt merit-based pay principles show *larger* gender pay gaps
 than those that do not.
-The mechanism appears to be [%g moral_licensing "moral licensing" %]:
+The mechanism appears to be [%g moral-licensing "moral licensing" %]:
 people who believe the system is already fair feel less need to monitor their own judgments for bias.
 The belief in meritocracy also predicts harsher moral judgments of people who fail.
 After all,
@@ -151,7 +151,7 @@ it depletes a finite resource.
 Managing an unpredictable income,
 keeping track of which bills are overdue,
 or calculating whether buying the cheaper item in bulk saves more than it costs to store
-consumes [%g cognitive_bandwidth "cognitive bandwidth" %]
+consumes [%g cognitive-bandwidth "cognitive bandwidth" %]
 that is then not available for navigating bureaucratic systems.
 The person telling someone to "just" do something
 is typically not paying this tax
@@ -258,7 +258,7 @@ The category "Hispanic" does not appear in census data before 1970;
 it was created by the Nixon administration to aggregate Spanish-speaking populations for federal programs.
 
 The sociologists Michael Omi and Howard Winant called this process
-[%g racial_formation "racial formation" %].
+[%g racial-formation "racial formation" %].
 Irish immigrants in the 1840s appeared in popular cartoons as racially distinct from Anglo-Saxons,
 while Italian immigrants in the early twentieth century were subject to legal discrimination
 partly justified on racial grounds.
@@ -348,13 +348,13 @@ It was produced by an organization operating in ways that feel completely famili
 The psychologist Albert Bandura identified eight mechanisms
 by which people disengage their moral standards
 to engage in or tolerate harmful behavior without feeling responsible for it.
-[%g moral_disengagement "Moral disengagement" %] does not require cruelty or indifference.
+[%g moral-disengagement "Moral disengagement" %] does not require cruelty or indifference.
 It operates through cognitive reframing available to people who consider themselves good.
 Moral justification frames the harm as serving a higher purpose,
 while euphemistic labeling describes content moderation failures as "trust and safety challenges."
 Displacement of responsibility points to someone else:
 the advertisers demanded this, the users clicked on it.
-[%g diffuse_decision_making "Diffusion of responsibility" %] distributes it across so many people
+[%g diffuse-decision-making "Diffusion of responsibility" %] distributes it across so many people
 that no single one feels it:
 the engineers wrote the algorithm, the product managers set the metrics, the executives approved the strategy.
 Treating teenage users primarily as engagement statistics
@@ -364,7 +364,7 @@ accomplishes much of the same work as dehumanization
 <div class="callout" markdown="1">
 
 The sociologist Diane Vaughan's analysis of the Challenger disaster identified a related mechanism
-she called [%g normalization_of_deviance "normalization of deviance" %]:
+she called [%g normalization-of-deviance "normalization of deviance" %]:
 the gradual process by which organizations come to accept risk thresholds
 that would initially have been unacceptable,
 through repeated exposure to near-misses that did not immediately produce catastrophe.

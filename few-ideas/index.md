@@ -1,10 +1,154 @@
-# Power Inside Organizations
+# A Few Key Ideas
 
+This chapter introduces some ideas that the rest of this book builds on.
+
+## Cognitive Pollution
+
+Engineers learn to reason about direct, traceable failures:
+a faulty valve leads to a boiler explosion or a bug crashes a program.
+This model frames harm as rare, dramatic, and attributable,
+but the most serious damage caused by industry hasn't actually worked this way.
+Instead,
+it has been diffuse, cumulative, slow to emerge,
+and difficult to attribute to any single decision or actor.
+
+When leaded gasoline lowered the IQs of an entire generation of children,
+no single tank of fuel caused a measurable injury.
+Similarly, no particular cigarette is responsible for any particular cancer death.
+The harm is real and massive,
+but it was distributed across millions of exposures,
+tens of millions of people,
+and decades,
+so those responsible didn't meet the legal requirement of direct and proximate cause.
+
+This pattern is no longer confined to physical toxins.
+Social media platforms optimized for engagement produce radicalization and depression as a byproduct.
+The harm is diffuse:
+no single recommendation causes a school shooting or an act of genocide.
+The long, probabilistic causal chain makes it difficult to assign fault
+and therefore difficult to regulate.
+
+The term [%g cognitive-pollution "cognitive pollution" %] is increasingly used to describe this.
+As with other forms of pollution,
+it is proving difficult to regulate,
+and tech companies have every incentive to maintain that difficulty.
+After all,
+as long as harm cannot be attributed to them,
+they can externalize its cost onto the people who absorb it.
+
+The tobacco industry did not accidentally produce uncertainty about the link between smoking and cancer.
+It funded research specifically intended to produce uncertainty,
+identified scientists willing to dispute the consensus,
+and maintained that effort for decades after the science was settled.
+The same pattern appears in the history of leaded gasoline,
+asbestos,
+oxycontin,
+and now social media and AI
+[%b Oreskes2010 Michaels2008 %].
+
+Civil and chemical engineers are now taught about pollution,
+not because the profession had a crisis of conscience,
+but because society decided over the course of many decades and through many court cases
+to hold polluters liable for harm.
+Noise pollution, and now light pollution, are retracing that history,
+and I think that if we take mental health as seriously as physical health,
+it's inevitable that we will start to hold companies accountable for the mental suffering they cause.
+
+If we frame harm as rare, dramatic, and attributable,
+responsible engineering means avoiding the specific decision that produces attributable failures.
+Under the pollution model,
+on the other hand,
+responsible engineers are accountable for long-term cumulative effects.
+A few recent court judgments in the United States may show that this shift is finally happening,
+but they will undoubtedly be contested,
+and as the overturn of Roe v. Wade shows,
+precedent isn't enough of a guarantee.
+Legislation that holds tech companies responsible for the damage their products do to users' mental health
+can come sooner,
+will be far more robust,
+and will have more impact than pious gestures like banning young people from using social media
+[%b Perrow1999 Singer2023 %].
+
+## Facts (Alone) Don't Change Minds
+
+Most scientists and programmers' implicit model of belief is roughly Bayesian:
+when someone who believes something about the world receives new evidence,
+they update their beliefs in the way that fits that evidence best.
+This model is mostly true in domains that people aren't emotionally invested in,
+but fails in predictable ways for beliefs that are tied to group membership.
+
+Research in social psychology has established that
+beliefs about contested political and social issues
+function primarily as signals of group identity
+rather than as conclusions from evidence [%b SteinLubrano2024 %].
+Holding the wrong belief does not just mean being misinformed:
+it puts you outside the group,
+so updating the belief means leaving that group.
+The social cost of updating is therefore often higher than
+the mental cost of staying wrong.
+This is why the tobacco industry's manufactured uncertainty was so effective:
+it did not need to be persuasive on the merits.
+It only needed to give people with strong social reasons not to update
+a plausible excuse to stay where they were.
+
+[%g motivated-reasoning "Motivated reasoning" %] compounds this.
+People do not evaluate arguments neutrally.
+They are significantly better at identifying flaws
+in arguments that lead to conclusions they dislike
+than in arguments that lead to conclusions they support.
+A trained scientist who is also a gun owner
+will scrutinize studies on gun violence
+more skeptically than studies on climate change
+if their social circle treats the former as identity-threatening but not the latter.
+This isn't dishonesty in the ordinary sense because the person doesn't know they're doing it.
+The biased scrutiny is real scrutiny;
+the flaws they find are often genuine.
+But the asymmetric attention means they have reached a conclusion before their evaluation begins
+[%b Kahneman2011 %].
+
+A colleague once told me that people want data, but believe stories.
+This makes sense in light of motivated reasoning:
+data provides cover for a decision already reached on other grounds,
+while stories transmit the emotional and social context that actually drives belief change.
+It is also why the most effective public health campaigns don't focus on presenting statistics;
+they present specific, named people in specific situations.
+
+This rule is also why
+industries that want to prevent people from changing their beliefs
+fund think tanks that produce reports full of data.
+The data itself is not meant to influence people:
+what is
+is the appearance of rigor,
+which mimics the form of legitimate evidence without the substance.
+
+The fossil fuel industry has been running this operation for thirty years;
+tech companies have been learning from both.
+If we want AI, social media, and the software industry in general to be regulated in meaningful ways,
+finding and presenting evidence of harm is a naïve strategy.
+We need to change the social context in which beliefs are held
+by finding trusted messengers within the relevant communities,
+reframing the issue so that updating does not require identity betrayal,
+and working through social networks rather than through arguments.
+This is not manipulation:
+it is taking the actual psychology of belief seriously
+[%b Hoffer2010 %].
+
+If we want to limit the harm done by AI, social media, and the rest of big tech,
+finding and presenting evidence of harm is a naïve strategy.
+We need to change the social context in which beliefs are held
+by finding trusted messengers within the relevant communities,
+reframing the issue so that updating does not require identity betrayal,
+and working through social networks rather than through arguments.
+This is not manipulation:
+it is taking the actual psychology of belief seriously.
+Chapter 12 examines the mechanisms of belief change in detail,
+drawing on the history of campaigns that succeeded
+[%b Achen2017 Kahneman2011 SteinLubrano2024 %].
 
 ## We're All Family Here
 
 In November 2022,
-after "letting go" of about a third of its original workforce,
+after laying off about a third of its original workforce,
 Elon Musk sent an email to the remaining Twitter employees
 asking them to click a button to confirm that they were committed to working "hardcore"
 for the company's next phase.
@@ -31,11 +175,13 @@ employment is [%g at-will-employment "at-will" %]:
 either party can end it, at any time, for any reason not specifically prohibited by law.
 This means that the "family" exists at the employer's pleasure.
 
-The political scientist Harold Lasswell defined politics in 1936 as the study of "who gets what, when, how."
+The political scientist Harold Lasswell defined politics in 1936
+as the study of "who gets what, when, how."
 His definition contains no implication that the getting is fair,
 no assumption that what gets distributed is material,
 and no requirement that the process be democratic.
-It is simply a description of how groups make binding decisions about the allocation of things people want.
+It is simply a description of how groups make binding decisions
+about the allocation of things people want.
 
 Politics is what happens when a group of people
 who do not fully agree on goals or values
@@ -283,7 +429,8 @@ they are evaluated primarily on how they appear to those above them in the organ
 and making a strong impression on a small number of people across a limited number of interactions
 is something psychopaths do better than almost anyone else.
 
-This is where a closely related concept becomes important: [%g impression-management "impression management" %].
+This is where a closely related concept becomes important:
+[%g impression-management "impression management" %].
 The term was introduced by the Canadian sociologist Erving Goffman in 1959.
 His observation was that social life is fundamentally theatrical:
 people perform different versions of themselves for different audiences,
@@ -371,7 +518,7 @@ the organization's incentives reproduced psychopathic behavior regardless of who
 Bad people come and go;
 structures that reward bad behavior reproduce themselves.
 
-## Why Didn't Anyone Just Say No?
+## Why Don't People Just Say No?
 
 In 2016, Wells Fargo fired 5300 employees for opening millions of fake accounts in customers' names
 without their knowledge.

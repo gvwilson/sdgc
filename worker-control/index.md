@@ -23,7 +23,7 @@ the merchant providing supplies was often the same person as the landowner;
 if not,
 they usually operated as a tied supplier.
 The farmer could not buy supplies from a competing merchant because
-the [%g crop_lien "crop lien" %] pledged the entire harvest to the furnishing merchant
+the [%g crop-lien "crop lien" %] pledged the entire harvest to the furnishing merchant
 as collateral for the advance.
 "On credit" prices at the furnishing merchant's store were set at a markup over cash prices
 that could run from thirty to sixty percent.
@@ -64,7 +64,7 @@ The audience is the crop;
 the algorithm change is the landlord raising the rent after the harvest is in.
 
 A related but distinct mechanism appears in gig economy work,
-which parallels the [%g putting_out_system "putting-out system" %] of early modern textile production.
+which parallels the [%g putting-out-system "putting-out system" %] of early modern textile production.
 Merchants in eighteenth and nineteenth century Britain supplied raw materials to rural householders,
 who processed them at home using their own equipment.
 The merchants then collected the finished goods at prices they set.
@@ -299,7 +299,7 @@ and the history of how it has succeeded, failed, been suppressed, and revived
 is more useful than speculation about what tech workers might do.
 Unions didn't arise because workers read pamphlets about class consciousness.
 They arose because individual bargaining consistently produced worse outcomes
-than [%g collective_bargaining "collective bargaining" %].
+than [%g collective-bargaining "collective bargaining" %].
 Once workers understood that,
 they were willing to accept short-term costs for long-term gains.
 The question is why it took so long where it *did* happen,
@@ -402,13 +402,13 @@ High individual compensation is the most direct approach:
 workers who are paid well relative to their labor market alternatives
 have less to gain from collective bargaining,
 and more to lose from conflict with employers who pay them well.
-[%g union_avoidance "Union avoidance" %] is a formal management discipline
+[%g union-avoidance "Union avoidance" %] is a formal management discipline
 with a consulting industry behind it:
 labor relations firms advise employers on how to structure workplaces and compensation
 to prevent the conditions under which organizing becomes attractive.
 
 But structural barriers and employer tactics do not fully explain tech workers' resistance to organizing.
-The sociologist Erin Cech calls the deeper mechanism the [%g passion_principle "passion principle" %]:
+The sociologist Erin Cech calls the deeper mechanism the [%g passion-principle "passion principle" %]:
 the expectation that workers should pursue work they find personally fulfilling,
 and that fulfillment is a legitimate criterion for choosing and evaluating a job.
 What began as an aspiration of the professional class has,
@@ -423,7 +423,7 @@ and worse conditions than a worker who treats employment as a transaction.
 The passion principle does not eliminate the imbalance of power;
 it serves to conceal it.
 Mission-driven culture,
-[%g equity_compensation "equity compensation" %] that vests over four years,
+[%g equity-compensation "equity compensation" %] that vests over four years,
 elaborate campus amenities,
 and the language of changing the world
 are all intended to align workers' identities with their employers' interests.
@@ -475,7 +475,7 @@ It is a mechanism that extracts years of discounted labor
 before returning them to the general labor market
 with depleted savings and credentials that do not transfer.
 
-[%g precarious_workers "Precarious workers" %]
+[%g precarious-workers "Precarious workers" %]
 like gig workers and seasonal workers are hit hardest by this.
 Organizing takes time that precarious workers may not have.
 It also requires a willingness to accept risk of termination,

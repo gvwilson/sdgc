@@ -30,7 +30,7 @@ known as the Stasi,
 surveilled roughly one in three of its own citizens
 through a combination of technical means and human informants,
 and used that information to control, suppress, and destroy people who had done nothing illegal.
-The [%g surveillance_economy "surveillance economy" %] that platforms have built
+The [%g surveillance-economy "surveillance economy" %] that platforms have built
 differs in purpose and legal status,
 but not in its aims.
 

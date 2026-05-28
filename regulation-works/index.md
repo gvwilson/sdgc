@@ -108,7 +108,7 @@ that even the arbitrators were not impressed.
 
 Philip Morris's case against Australia
 was brought under a mechanism called
-[%g investor_state_dispute_settlement "investor-state dispute settlement" %], or ISDS.
+[%g investor-state-dispute-settlement "investor-state dispute settlement" %], or ISDS.
 ISDS clauses appear in many bilateral and multilateral trade agreements
 and allow foreign investors to sue governments in private arbitration tribunals
 when government actions damage their investments.
@@ -141,7 +141,7 @@ which in turn changed what politicians felt they could support.
 Investigative journalism revealed that the industry had known what it denied knowing,
 which destroyed the credibility of its scientific spokespeople.
 International organizations like the World Health Organization
-created a [%g framework_convention_tobacco_control "Framework Convention on Tobacco Control" %]
+created a [%g framework-convention-tobacco-control "Framework Convention on Tobacco Control" %]
 that gave national health ministries
 political cover and legal tools
 they had previously lacked.

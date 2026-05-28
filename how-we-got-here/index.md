@@ -200,7 +200,7 @@ At its peak,
 Standard Oil controlled roughly ninety percent of US oil refining capacity.
 It didn't achieve this through superior efficiency
 but through secret railroad rebates,
-[%g predatory_pricing "predatory pricing" %] against competitors,
+[%g predatory-pricing "predatory pricing" %] against competitors,
 and strategic acquisitions of rivals.
 The Sherman Antitrust Act of 1890 was written in direct response,
 and the landmark 1911 Supreme Court decision that broke Standard Oil into thirty-four separate companies
@@ -212,7 +212,7 @@ The remedy addressed the legal structure of the monopoly
 without fundamentally altering the underlying concentration of wealth or market power
 [%b Stoller2019 %].
 
-[%g network_effects "Network effects" %] and [%g switching_costs "switching costs" %]
+[%g network-effects "Network effects" %] and [%g switching-costs "switching costs" %]
 are what make monopolies in network industries self-reinforcing.
 A telephone network becomes more valuable as more people join it,
 giving the dominant network an advantage separate from the quality or price of the underlying service.

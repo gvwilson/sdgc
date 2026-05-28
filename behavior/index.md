@@ -29,12 +29,12 @@ No one can actually do this,
 so instead,
 people use a strategy that Herbert Simon called [%g satisficing "satisficing" %]:
 they search through available options until they find one that is good enough and then stop.
-Simon called this [%g bounded_rationality "bounded rationality" %]:
+Simon called this [%g bounded-rationality "bounded rationality" %]:
 people are rational within the limits of the information, time, and cognitive capacity they actually have,
 which makes the [%g heuristics "heuristics" %] people use to make decisions worth studying.
 
 Kahneman and Tversky spent decades cataloguing people's heuristics
-and the [%g cognitive_bias "cognitive biases" %] they embody.
+and the [%g cognitive-bias "cognitive biases" %] they embody.
 [%g anchoring "Anchoring" %] is one of the most reliably reproduced findings in all of psychology.
 When people estimate an unknown quantity,
 their estimates are heavily influenced by numbers they have recently encountered,
@@ -58,7 +58,7 @@ the person who names the first number has the advantage,
 which is why negotiating advice boils down to the same instruction:
 speak first.
 
-The [%g availability_heuristic "availability heuristic" %] says that
+The [%g availability-heuristic "availability heuristic" %] says that
 people estimate how likely something is by how easily they can think of examples.
 After a plane crash receives extensive media coverage,
 people overestimate the risk of flying and underestimate the risk of driving,
@@ -68,8 +68,8 @@ while slow, diffuse harms are systematically underestimated,
 which in turn is why it took decades to build public pressure around tobacco, lead paint, and vehicle safety
 [%b Kahneman2011 %].
 
-[%g prospect_theory "Prospect theory" %] describes how people actually evaluate outcomes.
-The key finding is [%g loss_aversion "loss aversion" %]:
+[%g prospect-theory "Prospect theory" %] describes how people actually evaluate outcomes.
+The key finding is [%g loss-aversion "loss aversion" %]:
 a loss of a given size produces roughly twice the emotional impact of an equivalent gain.
 This asymmetry has practical consequences wherever people have a reference point they are trying to protect.
 Studies of taxi drivers in New York, Singapore, and other cities show that
@@ -85,7 +85,7 @@ Similarly,
 the standard model predicts consistent discounting:
 a reward next month should be worth a fixed percentage less than the same reward today,
 and the same percentage should apply to any two adjacent future periods.
-What people actually show is [%g hyperbolic_discounting "hyperbolic discounting" %]:
+What people actually show is [%g hyperbolic-discounting "hyperbolic discounting" %]:
 an extremely steep preference for the present relative to any future point,
 combined with much flatter preferences among future periods.
 This is why someone can genuinely plan to quit smoking next year
@@ -94,7 +94,7 @@ It is why gym memberships are purchased with full intention and then rarely used
 Our future selves are strangers, and we are generous to ourselves and stingy with strangers.
 
 If small changes in how choices are presented can have large effects on behavior,
-then [%g choice_architecture "choice architecture" %]—the deliberate design of decision environments—is itself a policy tool.
+then [%g choice-architecture "choice architecture" %]—the deliberate design of decision environments—is itself a policy tool.
 Thaler and Sunstein called one form of it [%g nudge "nudging" %].
 The canonical example is pension enrollment.
 When workers must actively opt in to a pension plan,
@@ -330,14 +330,14 @@ Thorstein Veblen noticed this in 1899,
 before there were smartphones or social media
 (or economists to argue with his heresy).
 *The Theory of the Leisure Class*
-introduced the term [%g conspicuous_consumption "conspicuous consumption" %]
+introduced the term [%g conspicuous-consumption "conspicuous consumption" %]
 to describe spending whose primary purpose is to signal social rank.
 His key insight is that the signal only works if it is costly:
 something that only the wealthy can afford communicates rank precisely because of its price.
 
 Similarly,
 in a world where most people have to do physical labor,
-[%g conspicuous_leisure "conspicuous leisure" %] is only possible for the rich.
+[%g conspicuous-leisure "conspicuous leisure" %] is only possible for the rich.
 As leisure became more broadly available,
 the signal shifted:
 today,
@@ -348,7 +348,7 @@ is the modern equivalent of the nineteenth-century aristocrat who demonstrably n
 <div class="callout" markdown="1">
 
 "Being seen" may be the most important part of the previous sentence.
-[%g invisible_labor "Invisible labor" %] like housework,
+[%g invisible-labor "Invisible labor" %] like housework,
 mentoring junior colleagues,
 or smothering your feelings for the benefit of others
 has lower status.
@@ -388,7 +388,7 @@ but pay relative to colleagues doing similar work.
 Across many countries and industries,
 fairness within the reference group matters more than the number itself.
 
-Fred Hirsch introduced the concept of [%g positional_goods "positional goods" %],
+Fred Hirsch introduced the concept of [%g positional-goods "positional goods" %],
 whose value depends on how many other people have it.
 A house with an ocean view is a positional good:
 if everyone had a house with an ocean view, the view would cease to confer distinction.
