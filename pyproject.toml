@@ -36,6 +36,7 @@ help = "Build HTML."
 cmd = """
     mccole build --src . --dst docs --single-page docs/all.html
     touch docs/.nojekyll
+    rm docs/*/slides.md
 """
 
 [tool.mccole]

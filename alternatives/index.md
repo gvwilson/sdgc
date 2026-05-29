@@ -1,6 +1,5 @@
 # Alternatives and Dead Weight
 
-
 ## There's More Than One Way to Do It
 
 When you start a company in Canada,

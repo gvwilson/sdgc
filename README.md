@@ -30,66 +30,26 @@ they feel both sides are strident and self-righteous.
 
 ## Prose
 
-1.  [Introduction](@/intro/)
-1.  [A Few Key Ideas](@/few-ideas/)
-1.  [How We Got Here](@/how-we-got-here/)
-1.  [When the Model Is the Harm](@/harmful-models/)
-1.  [What You Do Next](@/what-next/)
+1.  [Introduction](@/intro/) (454)
+1.  [A Few Key Ideas](@/few-ideas/) (4804)
+1.  [How We Got Here](@/how-we-got-here/) (4629)
+1.  [When the Model Is the Harm](@/harmful-models/) (5408)
+1.  [What You Do Next](@/what-next/) (1320)
 
 ### Undone
 
-1.  [Disruption, Fraud, and Enclosure](@/disruption/)
-1.  [What Drives Behavior](@/behavior/)
-1.  [Who Owns What](@/ownership/)
-1.  [Controlling Workers](@/worker-control/)
-1.  [Money, Monopoly, and Bubbles](@/monopoly/)
-1.  [Alternatives and Dead Weight](@/alternatives/)
-1.  [Surveillance, Identity, and Desire](@/surveillance/)
-1.  [What Actually Changes Minds](@/changes-minds/)
-1.  [Regulation That Worked](@/regulation-works/)
-1.  [Who Gets What and Why](@/inequality/)
-1.  [Speech, Arms, and Algorithms](@/speech-arms/)
-1.  [When the Algorithm Comes for You](@/ai-happens/)
-1.  [What Changes and How](@/how-change/)
-
-</div>
-
-## Slides
-
-<div id="slides" markdown="1">
-
-### Part 1: Opening
-
-1.  [Reading the World](@/seeing/slides.html)
-1.  [How We Got Here](@/how-we-got-here/slides.html)
-1.  [What Drives Behavior](@/behavior/slides.html)
-
-### Part 2: Understanding the System
-
-1.  [Disruption, Fraud, and Enclosure](@/disruption/slides.html)
-1.  [Who Owns What](@/ownership/slides.html)
-1.  [Controlling Workers](@/worker-control/slides.html)
-1.  [Power Inside Organizations](@/inside-orgs/slides.html)
-1.  [Money, Monopoly, and Bubbles](@/monopoly/slides.html)
-1.  [Alternatives and Dead Weight](@/alternatives/slides.html)
-
-### Part 3: Seeing the Harm
-
-1.  [Surveillance, Identity, and Desire](@/surveillance/slides.html)
-1.  [When the Model Is the Harm](@/harmful-models/slides.html)
-1.  [What Actually Changes Minds](@/changes-minds/slides.html)
-1.  [Regulation That Worked](@/regulation-works/slides.html)
-
-### Part 4: Turning the Wheel
-
-1.  [Who Gets What and Why](@/inequality/slides.html)
-1.  [Speech, Arms, and Algorithms](@/speech-arms/slides.html)
-1.  [When the Algorithm Comes for You](@/ai-happens/slides.html)
-1.  [What Changes and How](@/how-change/slides.html)
-
-### Part 5: Acting
-
-1.  [What You Do Next](@/what-next/slides.html)
+1.  [What Drives Behavior](@/behavior/) (4404)
+1.  [Who Owns What](@/ownership/) (2624)
+1.  [Controlling Workers](@/worker-control/) (4909)
+1.  [Money, Monopoly, and Bubbles](@/monopoly/) (3130)
+1.  [Alternatives and Dead Weight](@/alternatives/) (3433)
+1.  [Surveillance, Identity, and Desire](@/surveillance/) (3388)
+1.  [What Actually Changes Minds](@/changes-minds/) (1591)
+1.  [Regulation That Worked](@/regulation-works/) (3365)
+1.  [Who Gets What and Why](@/inequality/) (3183)
+1.  [Speech, Arms, and Algorithms](@/speech-arms/) (2529)
+1.  [When the Algorithm Comes for You](@/ai-happens/) (1419)
+1.  [What Changes and How](@/how-change/) (3061)
 
 </div>
 
@@ -109,6 +69,7 @@ they feel both sides are strident and self-righteous.
 
 1.  [Seeing the World](@/seeing/)
 1.  [Power Inside Organizations](@/inside-orgs/)
+1.  [Disruption, Fraud, and Enclosure](@/disruption/) (2388)
 
 <p class="center">
   <em>
