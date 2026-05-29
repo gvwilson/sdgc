@@ -32,37 +32,25 @@ they feel both sides are strident and self-righteous.
 
 1.  [Introduction](@/intro/)
 1.  [A Few Key Ideas](@/few-ideas/)
-
-### Part 1: Opening
-
 1.  [How We Got Here](@/how-we-got-here/)
-1.  [What Drives Behavior](@/behavior/)
+1.  [When the Model Is the Harm](@/harmful-models/)
+1.  [What You Do Next](@/what-next/)
 
-### Part 2: Understanding the System
+### Undone
 
 1.  [Disruption, Fraud, and Enclosure](@/disruption/)
+1.  [What Drives Behavior](@/behavior/)
 1.  [Who Owns What](@/ownership/)
 1.  [Controlling Workers](@/worker-control/)
 1.  [Money, Monopoly, and Bubbles](@/monopoly/)
 1.  [Alternatives and Dead Weight](@/alternatives/)
-
-### Part 3: Seeing the Harm
-
 1.  [Surveillance, Identity, and Desire](@/surveillance/)
-1.  [When the Model Is the Harm](@/harmful-models/)
 1.  [What Actually Changes Minds](@/changes-minds/)
 1.  [Regulation That Worked](@/regulation-works/)
-
-### Part 4: Turning the Wheel
-
 1.  [Who Gets What and Why](@/inequality/)
 1.  [Speech, Arms, and Algorithms](@/speech-arms/)
 1.  [When the Algorithm Comes for You](@/ai-happens/)
 1.  [What Changes and How](@/how-change/)
-
-### Part 5: Acting
-
-1.  [What You Do Next](@/what-next/)
 
 </div>
 

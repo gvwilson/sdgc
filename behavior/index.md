@@ -458,3 +458,86 @@ charge advertisers to place products in the resulting stream of anxiety,
 and call the resulting business a social network.
 It's a game that only they can win
 [%b PerezTruglia2020 Boyce2010 Wilkinson2011 %].
+
+## A Paradise Built in Hell
+
+On the morning of December 6, 1917,
+a French munitions ship collided with a Norwegian vessel in Halifax Harbour, Nova Scotia.
+The resulting explosion killed nearly two thousand people and flattened the north end of the city.
+It was the largest human-made explosion before the nuclear age.
+
+Within hours,
+survivors were pulling strangers from rubble,
+improvising hospitals in churches and railway stations,
+and sharing food with people they had never met.
+The next day a blizzard arrived.
+Residents of Truro, two hours away by train,
+loaded relief supplies and medical teams before anyone had formally organized them.
+People came from across eastern Canada and the northeastern United States,
+not because anyone had issued orders,
+but because other people needed help.
+
+This is not the story most people expect.
+The version of human nature embedded in popular culture
+and reproduced in disaster media coverage
+is that when things fall apart, so do people.
+Civilization is a thin crust over barbarity:
+scratch the surface and you get looting, assault, and the strong preying on the weak.
+This story is wrong in almost every particular,
+but it keeps being told because it serves purposes that have nothing to do with accuracy.
+
+The sociologist E.L. Quarantelli spent decades studying disasters
+and came to a conclusion that surprised many people:
+panic and antisocial behavior are the exception, not the rule.
+Communities typically show increases in prosocial behavior:
+strangers help each other,
+crime rates generally fall,
+and people who were barely acquaintances briefly become something like a community.
+
+Rebecca Solnit documented this pattern across a century of catastrophes.
+Her case studies,
+including the 1906 San Francisco earthquake,
+the 1917 Halifax explosion,
+the 1985 Mexico City earthquake,
+the September 11 attacks in New York,
+and Hurricane Katrina in New Orleans,
+illustrate Quarantelli's findings.
+Disasters reveal a capacity for mutual aid
+that is usually suppressed by the atomization of modern consumer society.
+
+Hurricane Katrina in 2005 produced the most extensively documented divergence
+between media narrative and documented reality in modern history.
+In the days after the storm, major news organizations reported roving gangs in the Superdome,
+mass rape,
+and snipers firing at rescue helicopters.
+Subsequent investigation found that the reported gang violence did not happen,
+the murder rate in the city did not spike,
+and most of the "looting" was people taking food and water to survive.
+
+But these lies had consequences.
+Hospitals delayed evacuating critically ill patients while waiting for military escorts.
+Trucks carrying food and water were turned back from routes deemed dangerous when they weren't.
+A group of survivors trying to walk across the Crescent City Connection bridge to reach Gretna,
+where they had been told buses were waiting,
+were turned back at gunpoint by police who said they were keeping their community safe.
+The fiction of social breakdown caused deaths that the storm itself had not.
+
+Solnit has a name for what happened in New Orleans: elite panic.
+Ordinary people in a disaster tend to behave with remarkable generosity and calm,
+but authorities and elites tend to panic—not about the disaster, but about the public.
+Since they believe that the social order that keeps them on top
+is only held together by the threat of force,
+a disaster that removes their ability to enforce their rules looks like the end of civilization.
+
+The gap between what happens in disasters and what gets reported
+is also explained by what counts as news.
+Editors make decisions about what to show based on what will attract attention,
+and dramatic conflict attracts more attention than organized mutual aid.
+The result is systematic selection bias in disaster coverage.
+If the media consistently describes human nature as more violent and more selfish than it actually is,
+people are pre-conditioned to believe that cooperation is unlikely,
+which makes them less likely to cooperate.
+Just as advertising can manufacture demand,
+biased reporting can manufacture mistrust,
+and in doing so, hurt us all
+[%b Quarantelli1998 Solnit2009 Tierney2006 %].

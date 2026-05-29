@@ -42,37 +42,25 @@ they feel both sides are strident and self-righteous.</p>
 <ol>
 <li><a href="#intro">Introduction</a></li>
 <li><a href="#few-ideas">A Few Key Ideas</a></li>
-</ol>
-<h3>Part 1: Opening</h3>
-<ol>
 <li><a href="#how-we-got-here">How We Got Here</a></li>
-<li><a href="#behavior">What Drives Behavior</a></li>
+<li><a href="#harmful-models">When the Model Is the Harm</a></li>
+<li><a href="#what-next">What You Do Next</a></li>
 </ol>
-<h3>Part 2: Understanding the System</h3>
+<h3>Undone</h3>
 <ol>
 <li><a href="#disruption">Disruption, Fraud, and Enclosure</a></li>
+<li><a href="#behavior">What Drives Behavior</a></li>
 <li><a href="#ownership">Who Owns What</a></li>
 <li><a href="#worker-control">Controlling Workers</a></li>
 <li><a href="#monopoly">Money, Monopoly, and Bubbles</a></li>
 <li><a href="#alternatives">Alternatives and Dead Weight</a></li>
-</ol>
-<h3>Part 3: Seeing the Harm</h3>
-<ol>
 <li><a href="#surveillance">Surveillance, Identity, and Desire</a></li>
-<li><a href="#harmful-models">When the Model Is the Harm</a></li>
 <li><a href="#changes-minds">What Actually Changes Minds</a></li>
 <li><a href="#regulation-works">Regulation That Worked</a></li>
-</ol>
-<h3>Part 4: Turning the Wheel</h3>
-<ol>
 <li><a href="#inequality">Who Gets What and Why</a></li>
 <li><a href="#speech-arms">Speech, Arms, and Algorithms</a></li>
 <li><a href="#ai-happens">When the Algorithm Comes for You</a></li>
 <li><a href="#how-change">What Changes and How</a></li>
-</ol>
-<h3>Part 5: Acting</h3>
-<ol>
-<li><a href="#what-next">What You Do Next</a></li>
 </ol>
 </div>
 <h2>Slides</h2>
@@ -981,11 +969,1352 @@ before they could grow large enough to threaten market share.
 The current debate over platform regulation is therefore partly a debate about
 whether antitrust law should return to its original concern with concentration of power
 [<a class="bib-ref" href="#bibliography--Doctorow2025">Doctorow2025</a>, <a class="bib-ref" href="#bibliography--Shapiro1999">Shapiro1999</a>].</p>
+<h3>Intellectual Property as Invention</h3>
+<p>Copyright, patent, and trademark are not natural rights:
+they are legal instruments invented at specific times to serve specific interests.
+The expansion of intellectual property rights over the past forty years was a deliberate political project,
+pursued by specific industries,
+over the objection of economists who predicted (correctly) that it would harm innovation.
+Understanding this history is essential for evaluating current claims
+about AI training data, open source licensing, and platform ownership of content created by users.</p>
+<p>The Statute of Anne,
+enacted in England in 1710,
+is generally identified as the first copyright law.
+It was not passed to protect authors,
+but to end a monopoly held by the London Stationers' Company,
+a guild of printers that had controlled the trade in printed books since the sixteenth century,
+and to create a new system of publisher monopolies that would operate for limited terms.
+Authors received rights in the statute,
+but only to the extent that they assigned those rights to publishers,
+who were the real beneficiaries of the act.
+The framing of copyright as a natural right of creators,
+which dominates popular and political discussion today,
+was a later construction that reversed the actual historical origin
+[<a class="bib-ref" href="#bibliography--Bracha2019">Bracha2019</a>].</p>
+<p>Patent and copyright terms have been extended repeatedly,
+almost always to be longer, broader, and allow fewer exceptions.
+United States copyright terms have moved from 14 years under the Copyright Act of 1790
+to the current life-plus-70 years.
+(The 1998 Sonny Bono Copyright Term Extension Act was timed
+to prevent the earliest Mickey Mouse films from entering the public domain.)
+Patent terms have been less dramatically extended,
+but the scope of what is patentable has expanded substantially,
+particularly with the rise of software patents.
+Each extension was the result of lobbying by specific industries,
+over the objections of economists
+who consistently argued that the existing terms were already longer than necessary to incentivize creation.</p>
+<div class="callout">
+<p>Pharmaceutical companies have been extremely effective at shaping intellectual property law globally.
+Beginning with the Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS) in 1994,
+high-income countries required all members of the World Trade Organization
+to adopt patent standards that matched or exceeded their own.
+Countries that had deliberately excluded pharmaceutical products from patentability
+in order to build domestic generic drug industries,
+including India, Brazil, and several African countries,
+were required to change their laws.
+The result was a substantial transfer of rents to pharmaceutical companies operating in rich countries,
+and a significant increase in drug prices in countries that could least afford them.</p>
+</div>
+<p>Software patents are a category of intellectual property right
+whose practical operation differs substantially from the stated purpose of the patent system.
+The original argument for patents is that they encourage disclosure:
+an inventor gets a time-limited monopoly
+in exchange for publishing a description of the invention
+sufficient to allow others to replicate it after the term expires.
+In contrast,
+software patents are often written at high levels of abstraction,
+covering broad categories of computational method rather than specific implementations.
+They are concentrated in the portfolios of large technology companies, financial institutions,
+and <a class="gl-ref" href="#glossary--patent-assertion-entities">patent assertion entities</a>:
+organizations that hold patents without producing anything,
+but derive revenue entirely from licensing and litigation.
+Software patents are used primarily against smaller companies and open source projects,
+which lack the resources to defend extended litigation.</p>
+<p>Open source licensing emerged in part as
+a response to the expansion of intellectual property rights over software.
+The <a class="gl-ref" href="#glossary--gpl">GNU Public License</a> (GPL) and its relatives use copyright law against itself:
+the license grants broad permissions
+that apply only on the condition that derivative works carry the same license,
+making it legally difficult to take open source software and close it.
+This kind of <a class="gl-ref" href="#glossary--copyleft">copyleft</a> has only been a partial success:
+big tech companies have learned to extract enormous value from open source software
+while contributing relatively little back,
+because their primary product is not the software but the service running on it
+[<a class="bib-ref" href="#bibliography--Doctorow2022">Doctorow2022</a>, <a class="bib-ref" href="#bibliography--Baldwin2014">Baldwin2014</a>, <a class="bib-ref" href="#bibliography--Bellos2024">Bellos2024</a>].</p>
+<h3>Setting the Standard</h3>
+<p>In May 1886,
+American railroads completed the largest coordinated industrial operation the country had seen.
+Over two days,
+work crews across the South pulled up thousands of miles of track
+and relaid it three inches closer together,
+converting the region's idiosyncratic gauge to match the rest of the country.
+The process was planned, organized, and executed in less time than most tech companies take
+to schedule a product launch.</p>
+<p>The southern railroads had resisted this change for decades
+because the incompatibility was not an accident.
+Different gauges meant that northern rolling stock could not run on southern track,
+so freight crossing a gauge boundary had to be unloaded, transferred, and reloaded.
+Every cargo shipment lost time and money at the border,
+and that money went to the carriers who controlled the boundary.
+The technical choice was a market weapon.</p>
+<p>A <a class="gl-ref" href="#glossary--standards-body">technical standard</a> is an agreement about how things connect.
+The value of having a standard usually far exceeds
+the value of any particular outcome in the format war that precedes it,
+which is exactly why control of the format is worth fighting for.</p>
+<p>Thomas Edison understood this in the 1880s,
+when he and George Westinghouse fought over whether the United States would run on direct or alternating current.
+Edison had bet on DC infrastructure and stood to lose if AC won,
+so he electrocuted animals at exhibitions
+and lobbied for AC to be used in the first electric chair,
+hoping to fix the association of alternating current with execution in the public mind.
+None of this changed the underlying physics, though;
+AC transmits over longer distances at lower cost,
+and Westinghouse won.</p>
+<p>A century later,
+Microsoft repeatedly used <a class="gl-ref" href="#glossary--standards-capture">standards capture</a> as a business strategy.
+The company would adopt an open standard like HTML, Java, or Kerberos authentication,
+and then add proprietary extensions that were convenient but tied developers to Microsoft's version.
+Once enough code was written against the extensions,
+<a class="gl-ref" href="#glossary--interoperability">interoperability</a> with non-Microsoft systems degraded.
+The strategy had a name inside the company: embrace, extend, extinguish.
+(The "extinguish" referred to both the open standard and Microsoft's competitors.)
+[<a class="bib-ref" href="#bibliography--Russell2014">Russell2014</a>]</p>
+<p>Google's Accelerated Mobile Pages, launched in 2015,
+was presented as an open standard for fast-loading mobile web pages.
+To receive preferential treatment in Google's mobile search results,
+however,
+pages had to be hosted on Google's own servers and delivered through Google's infrastructure.
+Publishers who adopted AMP handed Google control over their content delivery
+in exchange for a favorable page rank.
+Google eventually backed away from the hosting requirement,
+but only under regulatory pressure.</p>
+<p>Apple took a different approach.
+Rather than capturing an open standard, it simply refused to implement one.
+RCS is a modern successor to SMS that supports end-to-end encryption,
+read receipts,
+high-resolution media,
+and group chat.
+For years after Android phones had adopted it,
+Apple kept cross-platform messaging on unencrypted SMS,
+so messages between iPhones and Android phones appeared as green bubbles.
+Internal documents revealed in US antitrust litigation showed Apple executives explicitly acknowledging
+that adopting RCS would reduce the social cost of switching from iPhone to Android,
+particularly for teenagers for whom the green-bubble distinction had become a social marker.
+The EU's Digital Markets Act eventually compelled Apple to support RCS in 2024.</p>
+<p>When a technology becomes embedded in a formal standard,
+the patent holder typically commits to license it on <a class="gl-ref" href="#glossary--frand">FRAND</a> terms:
+fair, reasonable, and non-discriminatory.
+This sounds reassuring,
+but the word "reasonable" has funded decades of litigation.
+Qualcomm's licensing practices for mobile baseband patents
+(the technology that connects a phone to a cellular network)
+were subject to antitrust proceedings simultaneously in the United States, Europe, South Korea, China,
+and Taiwan in the late 2010s.
+The core allegation was consistent across jurisdictions:
+Qualcomm was using its position as the patent holder
+o charge fees that bore no relationship to any recognizable interpretation of "reasonable."
+The legal outcomes varied by country;
+Qualcomm remained profitable throughout.</p>
+<div class="callout">
+<p>During the browser wars of the late 1990s,
+Microsoft bundled Internet Explorer with Windows,
+deliberately undercutting Netscape's business model.
+IE's market dominance then allowed Microsoft to implement proprietary HTML extensions
+that worked only in its browser.
+What finally broke this cycle was not antitrust action—which produced a consent decree
+and little structural change—but the arrival of Firefox and then Chrome,
+backed by organizations with different incentives.</p>
+</div>
+<p>If you are a developer building a product,
+every choice between an open standard and a proprietary API is
+a bet on the future behavior of the platform that owns the API.
+History suggests the bet is a bad one.
+From Instagram's third-party API and Twitter/X's developer API
+to Google Reader and Firebase's original pricing structure,
+platforms have repeatedly changed terms after developers are so invested that they can't walk away.
+Each time,
+the platform points to its terms of service,
+which always reserves the right to change.</p>
+<p>The structural remedy for this is interoperability mandates:
+legal requirements that platforms accept connections from competing services
+on terms that do not depend on the platform's goodwill.
+Phone number portability,
+which required carriers to let customers keep their numbers when switching providers,
+eliminated one of the most effective lock-in mechanisms in telecoms.
+Messaging interoperability requirements in the EU's Digital Markets Act
+are attempting to do the same thing for social platforms.
+Whether they succeed depends on implementation details that are actively contested,
+and on enforcement that companies have historically resisted every way they can
+[<a class="bib-ref" href="#bibliography--Shapiro1999">Shapiro1999</a>, <a class="bib-ref" href="#bibliography--Wu2010">Wu2010</a>].</p>
+<h3>Public Subsidy, Private Profit</h3>
+<p>When Steve Jobs unveiled the iPhone in January 2007,
+the crowd responded as if Apple had conjured something from nothing.
+What neither Jobs nor the press mentioned was that
+every technology in that device had been developed with government money.
+The internet it connected to had been built by the Defense Advanced Research Projects Agency.
+The GPS it used had been developed and maintained by the US Air Force,
+which had turned off the deliberate signal degradation for civilian users only seven years earlier.
+Its touchscreen came from research supported by the National Science Foundation,
+which Apple had acquired by buying a small company called FingerWorks in 2005.
+Siri, added to the iPhone 4S in 2011, had started as a DARPA-funded project at SRI International.
+The government took the risk;
+the investors who held Apple stock reaped the benefits.</p>
+<p>This pattern is not unique to Apple.
+The internet began as ARPANET, a network funded by the Department of Defense from 1969
+to connect university research computers.
+The initial packet-switching protocols,
+the domain name system,
+and the basic architecture of what became the web
+were all developed in publicly funded laboratories and universities.
+The commercial internet of the 1990s built on this foundation without paying for it.
+The browser itself emerged from the National Center for Supercomputing Applications,
+funded by the National Science Foundation.
+Mosaic was not a startup product:
+It was a research project paid for by American taxpayers.</p>
+<p>The drug industry runs the same arrangement at enormous scale.
+The National Institutes of Health spends roughly $47 billion annually on biomedical research.
+Much of this money funds the basic science
+that pharmaceutical companies would not fund themselves because the returns are too distant and uncertain.
+When that basic science produces a promising compound,
+private companies license it, conduct clinical trials, and patent the result.
+The public paid for the underlying knowledge.
+The private company captures the patent and sets the price.
+Unlike every other wealthy country.
+the United States has no legal mechanism to negotiate that price.
+As a result,
+insulin costs American patients ten times what Canadians pay.</p>
+<div class="callout">
+<p>The mRNA vaccine platform that produced the Pfizer-BioNTech and Moderna COVID-19 vaccines
+illustrates this dynamic precisely.
+The fundamental science of mRNA delivery
+was developed over decades by Katalin Karikó and Drew Weissman at the University of Pennsylvania,
+supported by the National Institutes of Health.
+When COVID-19 hit,
+the US government funded the clinical trials and pre-purchased hundreds of millions of doses
+before any vaccine had received authorization.
+The government provided the science, the capital, and the guaranteed market.
+Moderna became a $200 billion company,
+and its executives became very rich.
+The NIH's claim to a share of the intellectual property—which
+would have given the government some leverage over pricing—was
+disputed by Moderna and ultimately not enforced.</p>
+</div>
+<p>The economist Mariana Mazzucato has called this arrangement
+the privatization of gains and the socialization of losses.
+Her argument is not that private companies add no value:
+they obviously do, in manufacturing, distribution, and application.
+Her argument is that
+the standard story of heroic private entrepreneurs taking risks that timid governments would never accept
+inverts the actual history.
+Governments took the foundational risks
+by funding research that might produce nothing,
+maintaining infrastructure that would not attract private capital,
+and training the scientists and engineers that firms would later hire.
+Technology transfer moves the results into private hands,
+almost always at prices that dramatically undervalue the public's investment
+[<a class="bib-ref" href="#bibliography--Mazzucato2013">Mazzucato2013</a>].</p>
+<p>The tech companies that have benefited most from publicly funded research
+are also among the most sophisticated users of international tax structures
+designed to minimize what they pay back into the public systems that enabled them.
+Apple's arrangements in Ireland,
+described in a 2016 European Commission ruling,
+allowed the company to pay an effective tax rate of 0.005% on European profits.
+Over and over,
+public investment creates the technology,
+private firms capture the profits,
+and international tax structures ensure that
+only a tiny fraction of those profits flow back into the public budget.
+The cycle is effectively a permanent subsidy.</p>
+<p>The arrangement looks different in Europe,
+partly because European governments built in mechanisms that Americans left out.
+Germany's Fraunhofer-Gesellschaft,
+a network of applied research institutes funded jointly by the federal government,
+state governments,
+and industry,
+licenses its discoveries under terms that return revenue to the institutes themselves
+rather than transferring intellectual property to private buyers at knockdown prices.
+The European Medicines Agency negotiates drug prices on behalf of member states,
+which is why the same cancer drugs that cost American patients six figures a year
+cost Germans and French patients a fraction of that.
+When Moderna tried to sell COVID-19 vaccines to the European Union,
+EU negotiators paid roughly half the per-dose price that American buyers paid,
+for the same product developed with the same publicly funded science.
+The European model still lets private firms profit substantially from public investment.
+What it does not do is treat the transfer as a gift.</p>
+<p>China has taken a third path that makes the American arrangement look like an oversight rather than a design.
+Programs like Made in China 2025, announced in 2015,
+identify strategic industries like semiconductors, electric vehicles, robotics, and artificial intelligence,
+and pour in state capital with the explicit goal of domestic ownership of the results,
+not just the benefits.
+Companies like CATL,
+which now supplies roughly a third of the world's electric vehicle batteries,
+grew to global scale with protected home markets and state-backed financing before competing internationally.
+The distinction between public and private in this system is deliberately blurry:
+the government can require access to technology developed with state support,
+block the international transfer of profits,
+and redirect corporate strategy in ways that American or European regulators legally cannot.
+This does solve the problem Mazzucato describes,
+since the state that takes the foundational risk never fully loses its claim on the result.
+It creates a different problem, though:
+accountability runs upward to the Communist Party rather than outward to citizens,
+and the line between a national champion and an instrument of state policy disappears entirely
+[<a class="bib-ref" href="#bibliography--Chang2012">Chang2012</a>, <a class="bib-ref" href="#bibliography--Acemoglu2023">Acemoglu2023</a>, <a class="bib-ref" href="#bibliography--Webber2011">Webber2011</a>].</p>
+
+    </section>
+
+    <section id="harmful-models">
+      <h2>4. When the Model Is the Harm</h2>
+
+
+<h3>Big Tech is Like a Drug Cartel</h3>
+<p>[<a class="bib-ref" href="#bibliography--Wainwright2017">Wainwright2017</a>] is one of my favorite books.
+In order to show how the free market really works,
+he went and studied it in its pure, unconstrained form:
+the cocaine cartels.
+It was a fun and insightful read,
+and ever since I first encountered it
+I've wanted him to go back and do a similar book about big tech companies.
+After all,
+they too sell artificially addictive products,
+treat the legal system as a mere expense,
+and are run by sociopathic narcissists.</p>
+<p>Wainwright's thesis is that every business faces a common set of problems:
+how to maintain product quality,
+how to protect market territory,
+how to enforce agreements with suppliers,
+how to recruit and manage staff,
+and how to handle disputes with competitors.
+Legal businesses deal with these issues through a combination of contract law,
+trademark and patent protection,
+employment law,
+and (if all else fails) litigation.</p>
+<p>Drug cartels solve the same problems by different means,
+and their solutions reveal some interesting things about how business actually works.
+Take <a class="gl-ref" href="#glossary--brand-protection">brand protection</a>, for example.
+A consumer who buys a product with a known brand name
+has some assurance of consistent quality because
+the brand owner has reputational incentives to maintain standards
+and can take legal action against counterfeit goods.</p>
+<p>A cocaine cartel can't use trademark law.
+It can,
+however,
+use violence against competitors who sell adulterated product under the same name
+or who operate in territory the cartel has claimed.
+The aim—maintaining exclusivity and quality signals—is the same,
+it's just the mechanism that differs.
+(And yes, the word "just" is doing a lot of work in that sentence.)
+However,
+violence is like litigation:
+it's expensive,
+it's noisy,
+and you might lose in the end,
+so you have a lot of reasons to try to negotiate a settlement,
+even if it's a bad one.</p>
+<p>Worker relations are also similar.
+Employment law has evolved over the last hundred and fifty years
+to reduce mistreatment of workers through minimum wages,
+safety requirements,
+and prohibitions on arbitrary dismissal.
+People who work in the drug trade have no such protections.
+However,
+the brutal labor relations practices of the cartels are not a consequence of the personalities involved.
+They are instead the result of removing the legal protections that exist
+precisely to prevent brutality and exploitation in legal labor markets.</p>
+<p>As a final example,
+consider <a class="gl-ref" href="#glossary--vertical-integration">vertical integration</a>.
+A business that controls its entire supply chain
+is less vulnerable to supplier failure,
+price gouging,
+and quality problems.
+Legal businesses achieve this through acquisition and contract,
+but face antitrust limits on how far they can consolidate.
+(At least, they used to:
+antitrust enforcement has been steadily weakened since the early 1980s.)</p>
+<p>Cartels can't sue suppliers who fail to deliver,
+so they have a powerful incentive to own suppliers outright.
+The cartels that have achieved the most durable market positions
+have typically integrated vertically as far as they can,
+unconstrained by antitrust law.</p>
+<p>Tech companies use the term "disruption"
+to describe entering and reorganizing an existing market.
+From the perspective of the incumbent businesses in that market,
+disruption means that the pricing norms,
+labor deals,
+and the competitive equilibria they had established
+are attacked by a new entrant willing to operate at a loss
+or outside the regulatory frameworks that the incumbents are bound by.
+Drug cartels are, in this sense, serial disruptors:
+they subvert the legal system to undercut incumbents when they enter markets,
+often at great cost to local communities.</p>
+<p>If this sounds like the way Uber, AirBnB, and others have operated,
+that's not an accident:
+the connection between market concentration and the capacity to externalize harm
+is a structural feature of markets,
+not something specific to drug cartels.
+A highly concentrated firm in any industry has reduced competitive pressure,
+which means it can absorb the reputational cost of poor labor or environmental practices
+without losing market share.
+It can also use its political leverage to shift the cost of its harms onto workers through suppressed wages,
+onto communities through pollution and infrastructure strain,
+and onto governments through underfunded services and tax avoidance.
+Cartels exhibit this pattern in its most extreme form because they face the weakest institutional constraints,
+but the underlying logic is no different from what Google, Meta, and others have been doing for years.</p>
+<p>The safeguards of legal markets that people take for granted in first-world democracies
+were invented specifically to prevent the damage done by unregulated markets.
+Minimum wage laws,
+environmental standards,
+workplace safety rules,
+antitrust regulations,
+and consumer protection statutes are society's equivalent of immune reactions.
+Each was lobbied against by the industries they constrained
+on the grounds that regulation would be impossible, ineffective, immoral, expensive,
+or harmful to national security.
+As we belatedly start to think seriously about regulating social media and AI,
+I think it's worth keeping the cocaine cartels in mind
+[<a class="bib-ref" href="#bibliography--Skarbek2014">Skarbek2014</a>].</p>
+<h3>Big Tech is Like a Long Firm Fraud</h3>
+<p>Another book that I really enjoyed was [<a class="bib-ref" href="#bibliography--Davies2022">Davies2022</a>],
+which is about how legendary frauds reveal the workings of the world.
+while he doesn't discuss big tech,
+the parallels are inescapable.
+Understanding the classic patterns of fraud laid out in Davies' book
+makes it possible to identify them in the software industry,
+which is not yet regulated well enough to make them prosecutable.</p>
+<p>Fraud is more common than prosecutions suggest,
+and its most dangerous forms are not easily recognized as fraud
+even by the people committing them.
+Many frauds begin as genuine optimism,
+turn into rationalization,
+and end in deliberate concealment.
+By the time the fraud is clear from the outside,
+its perpetrators may have so thoroughly internalized their own narrative
+that they are genuinely shocked by the prosecution.
+There is often no clear moment when they knew knew they were crossing a line.</p>
+<p>The semi-technical definition of fraud is
+"a deliberate misrepresentation of material fact
+that causes someone to act to their detriment and the deceiver's benefit".
+It is easily confused with incompetence, negligence, and bad luck,
+but it is none of those things.
+A startup that believed its technology would work and turned out to be wrong is a business failure.
+A startup that knew its technology did not work and told investors and customers that it did is fraud.
+The difference is difficult to establish because
+(a) people can deceive themselves or misremember events
+and (b) they can also just lie.</p>
+<p>Three kinds of fraud are particularly relevant to tech companies.
+A <a class="gl-ref" href="#glossary--ponzi-scheme">Ponzi scheme</a> appears to generate returns
+by paying early investors with money from later investors,
+rather than from genuine investment gains.
+Each successful payment increases the scheme's credibility and attracts additional investors.
+The schemer does not need to maintain a lie in the face of contradictory evidence:
+the evidence available to most participants is the evidence of payment,
+which is real.
+However,
+the scheme can only continue as long as new investment exceeds required payments.
+When new investment slows and required payments exceed available funds,
+the scheme collapses.
+The timing of the collapse is usually determined by market conditions outside the schemer's control.
+This structure means that a Ponzi scheme operator may not know when the collapse will come,
+which provides an incentive for them to fool themselves as well as their investors.
+After all,
+the scheme worked yesterday—maybe it will work again tomorrow.</p>
+<p>A <a class="gl-ref" href="#glossary--long-firm">long firm</a> fraud operates on a longer timescale.
+The fraudster starts by building a legitimate-seeming business,
+establishing a track record of reliable transactions and prompt payments.
+Once they have a reputation for reliability,
+they use that to place large orders on credit,
+receive the goods,
+sell them quickly at a discount for cash,
+and disappears before the creditors can collect.
+The victim's mistake is not in trusting the operator—the early trust is actually warranted.
+The mistake is failing to notice that the scale and urgency of later transactions
+is inconsistent with normal business patterns.</p>
+<p><a class="gl-ref" href="#glossary--control-fraud">Control fraud</a> operates inside a legitimate company
+rather than through a fictitious one.
+An executive who controls a company can use that control to route contracts to related parties,
+manipulate reported earnings to maximize personal compensation,
+extract value through structured transactions that are difficult for outside observers to interpret,
+and maintain an appearance of legitimacy for years.
+William Black's <em>The Best Way to Rob a Bank Is to Own One</em>
+described the role control fraud played in the savings and loan crisis of the 1980s,
+and how it was made possible by Reagan-era deregulation that removed oversight mechanisms,
+and by accounting standards that gave executives wide latitude in reporting.
+The auditors who certified the books
+were paid by the companies they audited
+and had professional and commercial incentives to take management's claims at face value
+[<a class="bib-ref" href="#bibliography--Black2005">Black2005</a>].</p>
+<p>Finally,
+<a class="gl-ref" href="#glossary--accounting-fraud">accounting fraud</a> works because
+accounting requires judgment at every stage where fraud can be inserted.
+Revenue can be recognized early or late;
+assets can be valued on optimistic or conservative assumptions,
+and liabilities can be disclosed prominently or buried in footnotes.
+Each of these choices meets professional standards and is individually defensible.
+Where the fraud comes in is consistently choosing the most aggressive position in every ambiguous case.
+Auditors frequently fail to catch accounting fraud
+because of the volume of material they need to review,
+and because their adversaries anticipate the specific tests that will be used to detect it.
+Most importantly,
+auditing fails because big accounting firms depend on their clients for their income,
+which gives them a powerful reason to <em>not</em> find any problems
+[<a class="bib-ref" href="#bibliography--Palazzo2025">Palazzo2025</a>, <a class="bib-ref" href="#bibliography--Perrow1999">Perrow1999</a>, <a class="bib-ref" href="#bibliography--Schneier2023">Schneier2023</a>].</p>
+<div class="callout">
+<p>Wirecard, a German payments company certified by top-tier auditors,
+fabricated approximately €1.9 billion in assets for years
+while Germany's financial regulator actively shorted companies that raised alarms about it.
+This control fraud was enabled by exactly the same auditor capture and regulatory failure
+that the savings and loan crisis demonstrated decades earlier.</p>
+</div>
+<h3>Big Tech is Like the Enclosure Movement</h3>
+<p>Email, RSS, the open hyperlink, and the early web were <a class="gl-ref" href="#glossary--commons">commons</a>:
+shared infrastructure anyone could build on.
+Social platforms converted that commons into walled gardens,
+moving the audience inside and charging rent for access to it.
+In doing this,
+big tech companies were following a centuries-old playbook [<a class="bib-ref" href="#bibliography--Bollier2014">Bollier2014</a>].</p>
+<p>The idea that an individual can own a piece of the earth's surface
+is younger than most people realize,
+specific to certain legal traditions,
+and was imposed on much of the world by force.
+In most places throughout most of history,
+land was managed collectively via overlapping use rights rather than exclusive ownership.
+Understanding how private property in land was created,
+and what was destroyed in the process,
+lets us ask clearer questions about property rights generally:
+not "is this property?"
+but "who <em>decided</em> it was property, when, why, and who was dispossessed in the process?"</p>
+<p>The best-known example of communal land being privatized
+(to English speakers, anyway)
+is the <a class="gl-ref" href="#glossary--enclosure-movement">enclosure movement</a>,
+which peaked in the second half of the 18th century.
+Before enclosure, common land was governed by overlapping, community-enforced use rights:
+the right to graze a specific number of animals,
+to cut timber for fuel,
+or to fish particular stretches of a river.
+Elinor Ostrom's research on commons governance documented
+how these systems were managed sustainably for centuries without either private ownership or state control
+through locally developed rules, monitoring, and graduated sanctions
+[<a class="bib-ref" href="#bibliography--Ostrom2015">Ostrom2015</a>].
+The commons <em>worked</em>;
+the argument that they were inherently prone to overuse
+was made by enclosure's beneficiaries and repeated long after it had been empirically refuted.</p>
+<p>Parliament passed hundreds of private <a class="gl-ref" href="#glossary--enclosure-acts">Enclosure Acts</a>
+between 1750 and 1850,
+each one extinguishing common rights over a specific area
+and converting that land into private property.
+The process was not neutral arbitration between competing claims:
+the landowners who stood to benefit were the same class that controlled Parliament.
+The commoners whose rights were extinguished had no equivalent political representation;
+when they received any compensation at all, it was consistently inadequate.
+The result was a large-scale transformation of semi-independent smallholders into wage laborers.</p>
+<p>The English enclosure model was not confined to England.
+It was carried outward through colonialism as one of the primary instruments of dispossession.
+In Ireland, India, sub-Saharan Africa, and the Americas,
+colonial law systematically refused to recognize collective or customary land tenure.
+Land that was not individually titled under a system legible to European courts
+was declared waste, Crown land, or legally available for settlement.
+This did to colonized peoples what the Enclosure Acts had done to English commoners:
+extinguish practices that had sustained communities for generations,
+convert resource into commodities that could be extracted or sold,
+and make the people dependent on their new overlords.
+[<a class="bib-ref" href="#bibliography--Linebaugh2014">Linebaugh2014</a>]</p>
+<div class="callout">
+<p>Brazil's <em>grilagem</em>—the fraud of converting indigenous and public Amazon land
+into private titled property using falsified documents—has been digitized in recent decades,
+with forged records fed into government registries to launder claims at a scale
+that replicates the logic of the Enclosure Acts across a continent [<a class="bib-ref" href="#bibliography--Linklater2015">Linklater2015</a>].</p>
+</div>
+<div class="callout">
+<p>The differential legalization of pleasure follows the same logic as disruption.
+Alcohol kills hundreds of thousands of people a year in wealthy countries and is sold in supermarkets.
+Cannabis has a lower harm profile than alcohol by most measures
+and was, for most of the twentieth century, a criminal offense
+whose consequences fell almost entirely on Black and Latino communities in the US
+and immigrant communities elsewhere.
+Portugal's 2001 decision to decriminalize personal possession of all drugs—
+paired with expanded investment in treatment and harm reduction—
+produced sharp falls in drug-related HIV transmission and overdose deaths
+without increasing use rates relative to comparable European countries.
+The pattern of what gets legalized, when, and for whom
+tracks political economy, racial hierarchy, and commercial interest
+far more reliably than it tracks harm
+[<a class="bib-ref" href="#bibliography--Hari2015">Hari2015</a>, <a class="bib-ref" href="#bibliography--Nutt2012">Nutt2012</a>].</p>
+</div>
+<h3>Big Tech is Like Professional Wrestling</h3>
+<p>The French philosopher Roland Barthes wrote about wrestling in 1957.
+He wasn't writing about sport;
+he was analyzing a form of entertainment that reveals something important about how spectacle works,
+and his argument was that professional wrestling is pleasurable not <em>despite</em> being scripted
+but <em>because</em> it is scripted.
+The audience is not there to watch a fair athletic contest.
+It is there to watch the theatrical enactment of moral archetypes:
+the villain who cheats openly,
+the hero who suffers before triumphing,
+and the referee who is briefly fooled before justice prevails.</p>
+<p>The industry term for this collective fiction is <a class="gl-ref" href="#glossary--kayfabe">kayfabe</a>.
+Wrestlers maintain kayfabe in public appearances,
+in interviews,
+and on social media,
+even though every adult in the audience knows that wrestling is a performance.
+This isn't deception:
+it's a mutual agreement to treat the fiction as real
+to make the experience more emotionally satisfying.
+When a wrestler breaks kayfabe—acknowledges the performance from inside it—it violates a social contract,
+not a factual claim
+[<a class="bib-ref" href="#bibliography--Barthes1972">Barthes1972</a>].</p>
+<p>Big tech runs on a remarkably similar agreement.
+Consider the long rivalry between Apple and Google.
+Apple has spent decades positioning itself as the champion of user privacy,
+in explicit contrast to Google's surveillance-funded advertising model.
+Tim Cook has delivered speeches describing privacy as a "fundamental human right."
+Apple introduced App Tracking Transparency,
+which requires apps to ask permission before tracking users across other platforms.
+This is the hero narrative.
+Google, cast as the villain, harvests behavioral data at industrial scale.</p>
+<p>What the kayfabe obscures is that Apple earns approximately $20 billion a year
+from a deal that makes Google the default search engine on every iPhone sold.
+The two rivals are financially interdependent,
+and each needs the other to play its designated role.
+Apple can charge premium prices for privacy-branded hardware,
+and Google gets default distribution to Apple's affluent user base
+in exchange for revenue that Apple would otherwise have to replace.
+Neither company has any incentive for the match to end.</p>
+<p>In wrestling, the <a class="gl-ref" href="#glossary--heel">heel</a> is the designated villain:
+the character whose job is to be so obviously wrong
+that the audience rallies behind whoever fights them.
+Tech companies take turns playing this role.
+Mark Zuckerberg testifies before the US Senate,
+unable to answer basic questions about his own platform,
+and for a season or two Meta is the villain everyone agrees on.
+Then a new scandal breaks,
+the spotlight shifts,
+and a new villain takes the stage.</p>
+<p>The rotation is not accidental.
+Sustained outrage at one company might produce structural reform.
+Outrage distributed across all of them produces blog posts like this.</p>
+<p>The referee, in this reading, is the regulator.
+Referees in professional wrestling apply the rules as written,
+but the rules are designed to produce a compelling show rather than a genuinely fair contest.
+The EU's record fine against Google of €4.34 billion for Android antitrust violations in 2018
+amounted to roughly two weeks of Google's annual profit at the time.
+Google appealed,
+had the fine reduced slightly,
+and continued the practices it had been fined for.</p>
+<p>Barthes concluded that the real function of wrestling is to transform suffering into spectacle,
+and spectacle into something that feels like justice.
+The audience leaves satisfied because the villain was punished.
+It does not matter that the match was scripted,
+because the emotional experience of moral resolution is genuine.</p>
+<p>This is what congressional hearings about social media accomplish for most people who watch them.
+A senator reads a damning internal email,
+a tech CEO says something evasive,
+the clip circulates for a couple of days,
+and people feel that accountability happened.
+The executives return to their offices,
+the company eventually pays a settlement with no admission of wrongdoing,
+and the market structure that produced the problem continues unchanged.</p>
+<p>Kayfabe is not lying.
+It is a shared agreement to experience something as if it were real,
+because that is more satisfying than experiencing it as what it actually is.
+The question to ask about tech's performance of competition,
+concern for users,
+and openness to accountability is not whether individual participants believe what they say.
+Some of them probably do.
+The question is whether the performance is producing structural change
+or whether it is performing structural change for an audience
+that finds the performance sufficient
+[<a class="bib-ref" href="#bibliography--Frankfurt2005">Frankfurt2005</a>, <a class="bib-ref" href="#bibliography--Mazer1998">Mazer1998</a>].</p>
+<h3>Big Tech is Like the Penny Press</h3>
+<p>The business model in which content is provided free to audiences
+while advertisers pay to reach them
+did not begin with social media.
+It predates the web and television alike,
+beginning with newspapers in the 1830s
+and refined through a century of radio and broadcast television.
+The technology changed but the logic did not:
+the audience is not the customer but the product,
+and the content is the mechanism for assembling and sorting that audience.</p>
+<p>The <a class="gl-ref" href="#glossary--penny-press">penny press</a> emerged in New York in the 1830s
+when publishers like Benjamin Day realized that
+a newspaper priced at one cent could not sustain itself through subscription revenue
+but could attract large enough readership to sell advertising at rates that more than covered costs.
+The <em>New York Sun</em> and its imitators were not selling information to readers;
+they were selling readers to advertisers.
+Sensational crime reporting, gossip, and human-interest stories
+were not editorial lapses:
+they built the audience that made the advertising worth buying.
+Every subsequent development in advertiser-funded media follows from this original structure.</p>
+<p>The competition between William Randolph Hearst's <em>New York Journal</em>
+and Joseph Pulitzer's <em>New York World</em> in the 1890s
+shows what this model produces when two well-funded publishers compete intensely for circulation.
+Neither set out to destabilize democratic discourse;
+they just wanted to sell newspapers.
+However,
+the market provided a clear signal:
+crime, scandal, nationalist outrage, and stories written to produce emotional responses drove circulation,
+and each escalation by one paper forced a matching response from the other.
+Journalism that was inaccurate and inflammatory was not the result of a conspiracy.
+It was the predictable output of two rational businesses
+responding to the same incentive structure
+[<a class="bib-ref" href="#bibliography--Campbell2001">Campbell2001</a>, <a class="bib-ref" href="#bibliography--Nasaw2000">Nasaw2000</a>].</p>
+<p>The <a class="gl-ref" href="#glossary--propaganda-model">propaganda model</a> [<a class="bib-ref" href="#bibliography--Herman1988">Herman1988</a>] describes how
+this system shapes content without requiring deliberate censorship.
+Advertisers do not need to call editors and demand favorable coverage;
+they simply withdraw revenue from outlets that publish content they dislike,
+and editors learn what is acceptable without being told.</p>
+<p>Interactive media doesn't change any of this logic,
+but it makes it more precise.
+Behavioral data collected through social media, search engines, and app ecosystems
+allows advertisers to target individuals rather than demographic categories.
+The recommendation algorithm knows far more precisely
+what content will hold each specific user's attention for the next few minutes
+than the newspaper editor deciding what to put on the front page.</p>
+<p>Engagement maximization and social harm are not separable
+because the content that maximizes engagement is not randomly distributed.
+Research consistently shows that outrage, fear, and social comparison
+generate stronger and more persistent engagement signals
+than accurate information, considered analysis,
+or content that simply satisfies a question and lets the user close the tab.
+Big tech companies that depend on advertising revenue
+will therefore always amplify inflammatory distortion over mere facts
+[<a class="bib-ref" href="#bibliography--Wu2016">Wu2016</a>].</p>
+<h3>Big Tech is Like Multi-Level Marketing</h3>
+<p>Jay Van Andel and Rich DeVos founded Amway in 1959
+on the premise that anyone with enough ambition and the right social network
+could build a business by selling cleaning products to friends and neighbors.
+The products were real;
+the business opportunity was considerably more complicated.</p>
+<p>Amway is the founding institution of multi-level marketing (MLM),
+an industry that by the 2020s had enrolled an estimated 120 million people worldwide.
+The business model compensates them not just for selling products
+but for recruiting others who will also sell products,
+and for collecting a percentage of everything their recruits sell,
+in a chain extending downward through a <a class="gl-ref" href="#glossary--downline">downline</a>.</p>
+<p>The mathematics of this structure are simple,
+but tend not to appear in recruitment materials.
+If each participant recruits three others,
+and each of those recruits three more,
+then a chain seven levels deep involves over 2,000 people
+all of whom must sell product to sustain the commission structure above them.
+The US Federal Trade Commission found in a 2011 analysis
+that in one major MLM company,
+fewer than 1% of participants earned a net profit after expenses.
+The other 99% subsidized them
+[<a class="bib-ref" href="#bibliography--FitzPatrick2020">FitzPatrick2020</a>].</p>
+<p>When Uber launched, it told drivers they were entrepreneurs:
+captains of their own ships,
+free from the indignities of employment,
+with no boss, no fixed hours, and all the flexibility they wanted.
+What the pitch omitted was that Uber would set the price,
+determine which rides were offered to which drivers,
+deactivate accounts without meaningful appeal,
+and systematically reduce driver earnings as market penetration increased.</p>
+<p>Amazon Marketplace allows third-party sellers to list products,
+reach Amazon's enormous customer base,
+and pay Amazon a commission on every sale.
+It also allows Amazon to observe exactly which products are selling well
+and then launch competing Amazon Basics versions,
+using the sales data it collected from the sellers it hosts.
+Marketplace recruits more sellers by showcasing successful ones,
+in the same way that MLM recruitment materials feature the rare success story
+while omitting the statistical reality for the average participant.</p>
+<p>Social media scales this model even further.
+Facebook's users generate the content that makes Facebook worth visiting.
+They also generate the social ties that make Facebook difficult to leave.
+And they pay in attention and behavioral data
+for the privilege of generating that content on Facebook's infrastructure
+under Facebook's terms of service.
+The users are the product.
+This is not a metaphor:
+it is a statement of the actual business model that appears plainly in investor materials.</p>
+<div class="callout">
+<p>Scientology's auditing sessions collect whatever subjects disclosed:
+accounts of illegal activity, sexual behavior, family conflicts, and statements about other people.
+Former members have testified that these folders were used in disciplinary proceedings
+and in litigation against critics and defectors.
+Every major social media platform is, at its core, a similar system.
+It collects behavioral data—what you look at, what you hesitate over, what you react to—and
+that information is qualitatively different from what you share with a retailer.
+People post about illness and grief and their political beliefs and sexual identity
+because the platform presents itself as a community, not a database.
+The fact that it is both doesn't mean the user is naïve;
+it means the platform is designed to exploit the social context
+that makes sharing this information feel appropriate.</p>
+</div>
+<p>The biggest difference between MLM and social media
+is that MLMs are occasionally subject to regulatory action.
+The platform economy has largely avoided that outcome
+by being larger, more diffuse, and more politically connected.
+The most honest description of both is that they sell hope:
+the hope that this time, for this person, the math will work out
+[<a class="bib-ref" href="#bibliography--Srnicek2016">Srnicek2016</a>].</p>
+<h3>Big Tech is Like the Yakuza</h3>
+<p>In the days immediately after the March 2011 Tōhoku earthquake and tsunami,
+investigators from the Asahi Shimbun documented how organized crime groups
+supplied food, water, and emergency goods to affected communities
+faster than official relief channels could mobilize.
+This was not unusual.
+The yakuza—Japan's organized crime syndicates—have a long history of disaster relief,
+partly because it generates goodwill,
+partly because they maintain logistics networks and community ties
+that allow them to operate quickly when formal institutions cannot,
+and partly because disaster zones are also business opportunities.</p>
+<p>Tech platforms now perform functions that governments once either provided directly
+or regulated others to provide,
+including identity verification, payment processing, and dispute resolution.
+When a seller on eBay disputes a transaction,
+eBay adjudicates the claim.
+When a developer's app is removed from the App Store,
+Apple's internal review process is the only available appeal.
+When Facebook removes content in a country with regulated speech,
+it is making regulatory decisions
+in a jurisdiction where it has not been granted regulatory authority.</p>
+<p>This is what makes tech's political relationships so interesting.
+Governments are simultaneously threatened by tech's accumulation of quasi-governmental power
+and dependent on tech's infrastructure to operate.
+The US government runs significant portions of its cloud operations on Amazon Web Services.
+The Indian government used WhatsApp—owned by Meta—for public health communications.
+The relationship is symbiotic in the same way that governments' relationships with contractors always have been:
+the state needs services the contractor provides,
+the contractor needs the regulatory tolerance the state can provide,
+and neither has a strong interest in severing the arrangement.</p>
+<p>The yakuza model also illuminates how platforms handle competition.
+Organized crime syndicates do not generally compete through price, but through territory.
+Territorial disputes are settled through negotiation, credible threats, and occasional violence.
+The enforcement mechanisms in tech may be different (so far),
+but the territorial logic is similar.
+Google defaults to Google Maps,
+Apple's App Store prohibits payment systems that compete with Apple Pay,
+and Amazon uses its control of search ranking to disadvantage sellers
+who also list products on competing platforms.
+These practices are not illegal in most jurisdictions;
+they are exercises of territorial power
+by entities whose market position makes them difficult to challenge through normal competitive means.</p>
+<div class="callout">
+<p>The medieval Church provided civil infrastructure to large parts of Europe:
+monasteries preserved manuscripts, the Church maintained hospitals and schools,
+and Church record-keeping tracked births, deaths, marriages, and property transfers.
+What the Church got back was the <a class="gl-ref" href="#glossary--tithe">tithe</a>—
+an obligation levied on agricultural production,
+enforced through ecclesiastical courts,
+and owed regardless of the individual's relationship with the Church.
+Every household paid approximately one-tenth of its productive output.
+Today, the App Store charges a thirty percent commission on every transaction made through it:
+a tithe on productive activity conducted within the platform's jurisdiction,
+owed by anyone whose business depends on access to that platform's infrastructure.
+Excommunication—removal from the Church's services—meant you could not conduct legal business.
+Deplatforming works the same way:
+a creator removed from a major platform loses access to customers, tools, and markets
+with no due process and no external authority to appeal to.</p>
+</div>
+<p>So what do organized crime organizations provide in exchange for what they extract?
+The yakuza have historically managed significant portions of Japan's construction and entertainment industries
+through a combination of legitimate business ownership and informal control over labor supply.
+The arrangement is not purely extractive:
+it provides predictability, dispute resolution, and protection from other organized crime groups.
+Platforms offer analogous services.
+Amazon Marketplace gives small sellers access to customers they could not otherwise reach.
+App Store review provides users a degree of protection from malware.
+Facebook Groups provide community infrastructure that many organizations genuinely depend on.
+The question that needs to be asked of both yakuza-connected industries and platform-dependent businesses
+is not whether the services have value,
+but whether the entity providing them has made itself structurally necessary
+specifically to extract rents that a competitive market would not sustain.</p>
+<p>The yakuza are declining.
+Japan's anti-organized crime laws, passed in 1992 and strengthened since,
+have made it progressively harder for syndicate members to interface with legitimate business.
+Banks will not open accounts for known members,
+real estate will not be rented to them,
+and golf courses are required to turn them away.
+Registered yakuza membership fell from roughly 180,000 in the 1960s to under 20,000 by the early 2020s.</p>
+<p>None of this happened because the yakuza became less useful.
+It happened because a sustained political decision was made
+to make the cost of association with them prohibitive for legitimate businesses.
+The tech industry's political connections are currently a source of strength;
+this history suggests they can be made a source of vulnerability
+[<a class="bib-ref" href="#bibliography--Adelstein2023">Adelstein2023</a>, <a class="bib-ref" href="#bibliography--Kaplan2012">Kaplan2012</a>].</p>
+<h3>Big Tech is Like the Radio Payola System</h3>
+<p>Supermarkets charge manufacturers <a class="gl-ref" href="#glossary--slotting-fees">slotting fees</a> for shelf space,
+paying premium rates for eye-level placement and end-cap displays.
+A product placed at eye level is there because its manufacturer paid for the position,
+not because it is the best option in its category,
+but consumers have no way to know this.</p>
+<p>In the 1950s and 1960s,
+record labels paid disc jockeys to play their records,
+presenting purchased airplay as their independent opinion.
+Congressional hearings in 1959 exposed the practice,
+the Federal Communications Commission made <a class="gl-ref" href="#glossary--payola">payola</a> illegal,
+and Alan Freed,
+one of the most prominent DJs of the era,
+was prosecuted and his career ended.</p>
+<p>However,
+the hearings focused on individual wrongdoers rather than
+on the structure that made the wrongdoing rational.
+The practice therefore continued more or less uninterrupted
+through intermediaries that technically complied with disclosure requirements
+while achieving the same result.
+This is an example of <a class="gl-ref" href="#glossary--regulatory-capture">regulatory capture</a>:
+the agency charged with overseeing an industry becomes more responsive to the industry's interests
+than to the public interest it was created to protect.</p>
+<p>A related problem arises
+when a platform operates as both a marketplace administrator and a competitor within that marketplace.
+Google places its own vertical search products at the top of search results
+while ranking competing services lower,
+and Apple controls the ranking system on the App Store
+that determines how visible its own applications and competing third-party applications are.
+The consumer's position is identical to the radio listener in the payola era:
+prominent placement is a false signal of quality.</p>
+<div class="callout">
+<p>In 2016, a Chinese student named Wei Zexi died after following Baidu's top-ranked search result
+for a cancer treatment to a hospital that had paid for that placement,
+exposing the search engine's practice of selling results presented as editorial recommendations
+to users who had no way to tell the difference.</p>
+</div>
+<p>Securities law prohibits an analogous conflict known as <a class="gl-ref" href="#glossary--front-running">front-running</a>.
+A broker who executes customer orders is prohibited from trading against clients
+using client order information
+because taking advantage of insider information takes value from the customer.
+The standards that financial regulators apply have not been extended to platform markets,
+even though the identical conflict of interest produces the identical harm.</p>
+<p>What would actually work is structural separation:
+a search engine that derived no revenue from placement
+would have no incentive to blur the line between paid and organic results.
+Short of this,
+accurate disclosure would require prominence and clarity that platforms have no incentive to provide,
+since their business model depends on users not knowing that the game is rigged
+[<a class="bib-ref" href="#bibliography--Doctorow2022">Doctorow2022</a>, <a class="bib-ref" href="#bibliography--Stoller2019">Stoller2019</a>, <a class="bib-ref" href="#bibliography--Khan2017">Khan2017</a>].</p>
+
+    </section>
+
+    <section id="what-next">
+      <h2>5. What You Do Next</h2>
+
+
+<h3>Five Tools</h3>
+<p>The preceding chapters have made a consistent argument:
+large-scale harm is produced by systems with structural incentives to produce it,
+and those systems change when organized groups impose sustained economic or political costs on them.
+That argument implies something about strategy.
+Individual ethical consumption, career choices, and personal commitments matter to the people who make them,
+but they are not the mechanism by which industries get regulated or power gets redistributed.
+The mechanism is collective.</p>
+<p>Five tools have historically been effective at producing structural change.</p>
+<p><strong>Collective organizing</strong> means building institutions with the capacity to act in coordination.
+Unions, professional associations, tenants' organizations, and consumer groups
+all operate on the same principle:
+the leverage available to any individual is small,
+but the leverage available to an organized group
+is proportional to how many members it has and how much they are prepared to do.
+In the tech industry, this includes formal union organizing,
+which has made progress at some major tech companies in recent years,
+but also informal networks, internal advocacy groups, and walkouts.
+The 2023 Writers Guild of America strike demonstrated that workers
+can negotiate explicit contractual limits on how AI is used against them—limits
+that no individual writer could have secured alone.</p>
+<p><strong>Regulatory pressure</strong> means participating in the political processes through which rules get made.
+This includes litigation, which has broken up monopolies, forced safety standards, and established legal rights.
+It includes lobbying, which is what organized groups do when they communicate with legislators.
+It includes public comment, which is how regulatory agencies collect input from people outside government.
+It includes electoral organizing, because the people who make and enforce rules are selected through elections.
+None of these are glamorous, and most of them are slow.
+The tobacco case took forty years from the first clear science to a partial legal settlement.
+The environmental victories described in earlier chapters took decades of sustained pressure.
+The tech industry's political connections are currently a source of strength;
+the history of the yakuza suggests they can be made a source of vulnerability
+through sustained political decisions to make the cost of association with harmful practices prohibitive.</p>
+<p><strong>Alternative structures</strong> means building institutions that demonstrate other models are possible.
+Worker cooperatives, public banking, open-source software, public payment infrastructure like India's UPI—
+these are not just alternatives to existing institutions.
+They are existence proofs that the existing institutions are not the only possible arrangement.
+Mondragón has been running for nearly seventy years.
+The Viennese Gemeindebau has housed working-class families for a century.
+Credit unions serve roughly a billion people worldwide.
+The claim that shareholder capitalism is the only workable model for large-scale enterprise
+is empirically false, and demonstrating that falseness is itself a form of political action.</p>
+<p><strong>Strategic communication</strong> means engaging seriously with the psychology of belief change.
+Facts do not change minds in contested domains; stories told by trusted messengers do.
+This is not a counsel of manipulation.
+It is a recognition that if you want to change what people believe about AI regulation,
+platform power, or labor rights,
+you need to find people whose social worlds already include such conversations,
+meet them where they are,
+and make updating their beliefs consistent with rather than threatening to their identities.
+Public health campaigns that have worked—on smoking, on seatbelt use, on HIV—
+did not do it by publishing better statistics.
+They found language and messengers that made the change feel possible.</p>
+<p><strong>Sustained participation</strong> means showing up repeatedly over years.
+The Federalist Society built its judicial pipeline over forty years.
+The labor movement built the eight-hour day over forty years.
+The LGBTQ+ rights movement built toward marriage equality over forty years.
+This is the part of the agenda that is most difficult to communicate
+to people who are accustomed to fast feedback loops.
+No single action produces structural change.
+What produces structural change is organizational capacity built before a political opening arrives,
+and the willingness to use that capacity when the opening comes.</p>
+<h3>Where Do You Start?</h3>
+<p>At work, the most immediate choices are about what to build and who to build it for.
+This course has described how products encode assumptions about users—about
+whose harm is legible and whose is not,
+about whose data is worth protecting and whose is available for extraction.
+Asking those questions explicitly, in design reviews and sprint retrospectives and architecture discussions,
+is a form of organizational voice.
+It is not sufficient on its own, but it is not nothing.
+Every major organizational harm documented in this course
+was produced by organizations full of people who did not ask these questions.</p>
+<p>If your company has a union or a worker advocacy group,
+joining it is the highest-leverage individual action available.
+If it does not, the question of whether to organize one is a serious question, not a fantasy.
+The WGA organized Hollywood writers.
+Google's cafeteria workers organized while the engineers were still debating whether organizing was appropriate.
+The tech workers who have organized in recent years did so the same way everyone else has:
+by finding other people who shared their concerns and committing to sustained collective action.</p>
+<p>In community,
+you may already be doing something valuable,
+like showing up at a literacy program or helping at a food bank.
+Civil society institutions—libraries, community organizations, mutual aid networks, neighborhood associations—
+are where the organizational capacity for political action gets built.
+The Montgomery Bus Boycott was organized by people who knew each other from church.
+The abolitionist movement in Britain was organized by people who knew each other from Quaker meetings.
+The specific institution matters less than the sustained, repeated contact
+that allows people to build trust and coordinate action.</p>
+<p>Politically,
+the most useful question is not "which party should I vote for?"
+but "where can I apply organized pressure most effectively?"
+Electoral organizing matters, but so does showing up to public comment periods,
+participating in professional associations that engage with regulation,
+and joining organizations that are doing the sustained work of advocacy
+on issues that are more specific than a party platform.
+The 3.5 percent threshold Chenoweth identified is not an abstraction [<a class="bib-ref" href="#bibliography--Chenoweth2011">Chenoweth2011</a>].
+In a city of half a million people, it is seventeen thousand people doing something,
+not just believing something.</p>
+<h3>A Closing Note</h3>
+<p>The tech industry is not a new civilization.
+It is an industry, with the same structural pressures, the same political dynamics,
+and the same capacity for regulation that every industry before it has had.
+The analogies in these chapters are proof that
+what looks new and unprecedented is mostly old with better marketing.</p>
+<p>As I said in the introduction,
+I wrote this because I am angry.
+Tools that could help people understand each other are being used to make us afraid of each other.
+Decisions with consequences for billions of people
+are being made by a small number of people accountable to no one.
+The generation now entering the workforce
+inherited problems they did not create and was handed fewer tools to solve them.</p>
+<p>But I am also not finished being hopeful.
+Change is hard, but it is not impossible.
+Gay marriage is legal.
+The ozone hole is closing,
+and the world is building solar power faster than anyone imagined was possible.</p>
+<p>You are not going to solve big problems alone.
+You are going to have to work with people you disagree with,
+accept partial victories,
+and keep going after setbacks.
+You are going to have to be patient and organized and strategic in ways
+that feel much less satisfying than righteous anger.</p>
+<p>But you already know how to build things.
+You know how to think about systems.
+You know how to debug complex interactions.
+The political and social systems this course has described
+are not more complex than the technical systems you work with.
+They are just harder to test.</p>
+<p>So:
+start where you are,
+use what you have,
+help who you can.</p>
+
+    </section>
+
+    <section id="disruption">
+      <h2>6. Disruption, Fraud, and Enclosure</h2>
+
+
+<h3>Big Tech is Like a Drug Cartel</h3>
+<p>[<a class="bib-ref" href="#bibliography--Wainwright2017">Wainwright2017</a>] is one of my favorite books.
+In order to show how the free market really works,
+he went and studied it in its pure, unconstrained form:
+the cocaine cartels.
+It was a fun and insightful read,
+and ever since I first encountered it
+I've wanted him to go back and do a similar book about big tech companies.
+After all,
+they too sell artificially addictive products,
+treat the legal system as a mere expense,
+and are run by sociopathic narcissists.</p>
+<p>Wainwright's thesis is that every business faces a common set of problems:
+how to maintain product quality,
+how to protect market territory,
+how to enforce agreements with suppliers,
+how to recruit and manage staff,
+and how to handle disputes with competitors.
+Legal businesses deal with these issues through a combination of contract law,
+trademark and patent protection,
+employment law,
+and (if all else fails) litigation.</p>
+<p>Drug cartels solve the same problems by different means,
+and their solutions reveal some interesting things about how business actually works.
+Take <a class="gl-ref" href="#glossary--brand-protection">brand protection</a>, for example.
+A consumer who buys a product with a known brand name
+has some assurance of consistent quality because
+the brand owner has reputational incentives to maintain standards
+and can take legal action against counterfeit goods.</p>
+<p>A cocaine cartel can't use trademark law.
+It can,
+however,
+use violence against competitors who sell adulterated product under the same name
+or who operate in territory the cartel has claimed.
+The aim—maintaining exclusivity and quality signals—is the same,
+it's just the mechanism that differs.
+(And yes, the word "just" is doing a lot of work in that sentence.)
+However,
+violence is like litigation:
+it's expensive,
+it's noisy,
+and you might lose in the end,
+so you have a lot of reasons to try to negotiate a settlement,
+even if it's a bad one.</p>
+<p>Worker relations are also similar.
+Employment law has evolved over the last hundred and fifty years
+to reduce mistreatment of workers through minimum wages,
+safety requirements,
+and prohibitions on arbitrary dismissal.
+People who work in the drug trade have no such protections.
+However,
+the brutal labor relations practices of the cartels are not a consequence of the personalities involved.
+They are instead the result of removing the legal protections that exist
+precisely to prevent brutality and exploitation in legal labor markets.</p>
+<p>As a final example,
+consider <a class="gl-ref" href="#glossary--vertical-integration">vertical integration</a>.
+A business that controls its entire supply chain
+is less vulnerable to supplier failure,
+price gouging,
+and quality problems.
+Legal businesses achieve this through acquisition and contract,
+but face antitrust limits on how far they can consolidate.
+(At least, they used to:
+antitrust enforcement has been steadily weakened since the early 1980s.)</p>
+<p>Cartels can't sue suppliers who fail to deliver,
+so they have a powerful incentive to own suppliers outright.
+The cartels that have achieved the most durable market positions
+have typically integrated vertically as far as they can,
+unconstrained by antitrust law.</p>
+<p>Tech companies use the term "disruption"
+to describe entering and reorganizing an existing market.
+From the perspective of the incumbent businesses in that market,
+disruption means that the pricing norms,
+labor deals,
+and the competitive equilibria they had established
+are attacked by a new entrant willing to operate at a loss
+or outside the regulatory frameworks that the incumbents are bound by.
+Drug cartels are, in this sense, serial disruptors:
+they subvert the legal system to undercut incumbents when they enter markets,
+often at great cost to local communities.</p>
+<p>If this sounds like the way Uber, AirBnB, and others have operated,
+that's not an accident:
+the connection between market concentration and the capacity to externalize harm
+is a structural feature of markets,
+not something specific to drug cartels.
+A highly concentrated firm in any industry has reduced competitive pressure,
+which means it can absorb the reputational cost of poor labor or environmental practices
+without losing market share.
+It can also use its political leverage to shift the cost of its harms onto workers through suppressed wages,
+onto communities through pollution and infrastructure strain,
+and onto governments through underfunded services and tax avoidance.
+Cartels exhibit this pattern in its most extreme form because they face the weakest institutional constraints,
+but the underlying logic is no different from what Google, Meta, and others have been doing for years.</p>
+<div class="callout">
+<p>In the 2010s, Mexican cartels moved into extorting avocado and lime farmers in Michoacán,
+using territorial violence and supply chain control to extract rents from legal agricultural markets,
+showing that the cartel business model applies to any sector
+where legal institutions cannot enforce contracts.</p>
+</div>
+<p>The safeguards of legal markets that people take for granted in first-world democracies
+were invented specifically to prevent the damage done by unregulated markets.
+Minimum wage laws,
+environmental standards,
+workplace safety rules,
+antitrust regulations,
+and consumer protection statutes are society's equivalent of immune reactions.
+Each was lobbied against by the industries they constrained
+on the grounds that regulation would be impossible, ineffective, immoral, expensive,
+or harmful to national security.
+As we belatedly start to think seriously about regulating social media and AI,
+I think it's worth keeping the cocaine cartels in mind
+[<a class="bib-ref" href="#bibliography--Skarbek2014">Skarbek2014</a>].</p>
+<h3>Big Tech is Like a Long Firm Fraud</h3>
+<p>Another book that I really enjoyed last year was Davies' <em>Lying for Money</em>.
+As its subtitle says,
+it's about how legendary frauds reveal the workings of the world,
+and while he doesn't discuss big tech,
+the parallels are inescapable.
+Understanding the classic patterns of fraud laid out in Davies' book
+makes it possible to identify them in the software industry,
+which is not yet regulated well enough to make them prosecutable
+[<a class="bib-ref" href="#bibliography--Davies2022">Davies2022</a>].</p>
+<p>Fraud is more common than prosecutions suggest,
+and its most dangerous forms are not easily recognized as fraud
+even by the people committing them.
+Many frauds begin as genuine optimism,
+turn into rationalization,
+and end in deliberate concealment.
+By the time the fraud is clear from the outside,
+its perpetrators may have so thoroughly internalized their own narrative
+that they are genuinely shocked by the prosecution.
+There is often no clear moment when they knew knew they were crossing a line.</p>
+<p>The semi-technical definition of fraud is
+"a deliberate misrepresentation of material fact
+that causes someone to act to their detriment and the deceiver's benefit".
+It is easily confused with incompetence, negligence, and bad luck,
+but it is none of those things.
+A startup that believed its technology would work and turned out to be wrong is a business failure.
+A startup that knew its technology did not work and told investors and customers that it did is fraud.
+The difference is difficult to establish because
+(a) people can deceive themselves or misremember events
+and (b) they can also just lie.</p>
+<p>Three kinds of fraud are particularly relevant to tech companies.
+A <a class="gl-ref" href="#glossary--ponzi-scheme">Ponzi scheme</a> appears to generate returns
+by paying early investors with money from later investors,
+rather than from genuine investment gains.
+Each successful payment increases the scheme's credibility and attracts additional investors.
+The schemer does not need to maintain a lie in the face of contradictory evidence:
+the evidence available to most participants is the evidence of payment,
+which is real.
+However,
+the scheme can only continue as long as new investment exceeds required payments.
+When new investment slows and required payments exceed available funds,
+the scheme collapses.
+The timing of the collapse is usually determined by market conditions outside the schemer's control.
+This structure means that a Ponzi scheme operator may not know when the collapse will come,
+which provides an incentive for them to fool themselves as well as their investors.
+After all,
+the scheme worked yesterday—maybe it will work again tomorrow.</p>
+<p>A <a class="gl-ref" href="#glossary--long-firm">long firm</a> fraud operates on a longer timescale.
+The fraudster starts by building a legitimate-seeming business,
+establishing a track record of reliable transactions and prompt payments.
+Once they have a reputation for reliability,
+they use that to place large orders on credit,
+receive the goods,
+sell them quickly at a discount for cash,
+and disappears before the creditors can collect.
+The victim's mistake is not in trusting the operator—the early trust is actually warranted.
+The mistake is failing to notice that the scale and urgency of later transactions
+is inconsistent with normal business patterns.</p>
+<p><a class="gl-ref" href="#glossary--control-fraud">Control fraud</a> operates inside a legitimate company
+rather than through a fictitious one.
+An executive who controls a company can use that control to route contracts to related parties,
+manipulate reported earnings to maximize personal compensation,
+extract value through structured transactions that are difficult for outside observers to interpret,
+and maintain an appearance of legitimacy for years.
+William Black's <em>The Best Way to Rob a Bank Is to Own One</em>
+described the role control fraud played in the savings and loan crisis of the 1980s,
+and how it was made possible by Reagan-era deregulation that removed oversight mechanisms,
+and by accounting standards that gave executives wide latitude in reporting.
+The auditors who certified the books
+were paid by the companies they audited
+and had professional and commercial incentives to take management's claims at face value
+[<a class="bib-ref" href="#bibliography--Black2005">Black2005</a>].</p>
+<p>Finally,
+<a class="gl-ref" href="#glossary--accounting-fraud">accounting fraud</a> works because
+accounting requires judgment at every stage where fraud can be inserted.
+Revenue can be recognized early or late;
+assets can be valued on optimistic or conservative assumptions,
+and liabilities can be disclosed prominently or buried in footnotes.
+Each of these choices meets professional standards and is individually defensible.
+Where the fraud comes in is consistently choosing the most aggressive position in every ambiguous case.
+Auditors frequently fail to catch accounting fraud
+because of the volume of material they need to review,
+and because their adversaries anticipate the specific tests that will be used to detect it.
+Most importantly,
+auditing fails because big accounting firms depend on their clients for their income,
+which gives them a powerful reason to <em>not</em> find any problems
+[<a class="bib-ref" href="#bibliography--Palazzo2025">Palazzo2025</a>, <a class="bib-ref" href="#bibliography--Perrow1999">Perrow1999</a>, <a class="bib-ref" href="#bibliography--Schneier2023">Schneier2023</a>].</p>
+<div class="callout">
+<p>Wirecard, a German payments company certified by top-tier auditors,
+fabricated approximately €1.9 billion in assets for years
+while Germany's financial regulator actively shorted companies that raised alarms about it.
+This control fraud was enabled by exactly the same auditor capture and regulatory failure
+that the savings and loan crisis demonstrated decades earlier.</p>
+</div>
+<h3>Big Tech is Like the Enclosure Movement</h3>
+<p>Email, RSS, the open hyperlink, and the early web were <a class="gl-ref" href="#glossary--commons">commons</a>:
+shared infrastructure anyone could build on.
+Social platforms converted that commons into walled gardens,
+moving the audience inside and charging rent for access to it.
+In doing this,
+big tech companies were following a centuries-old playbook
+[<a class="bib-ref" href="#bibliography--Bollier2014">Bollier2014</a>].</p>
+<p>The idea that an individual can own a piece of the earth's surface
+is younger than most people realize,
+specific to certain legal traditions,
+and was imposed on much of the world by force.
+In most places throughout most of history,
+land was managed collectively via overlapping use rights rather than exclusive ownership.
+Understanding how private property in land was created,
+and what was destroyed in the process,
+lets us ask clearer questions about property rights generally:
+not "is this property?"
+but "who <em>decided</em> it was property, when, why, and who was dispossessed in the process?"</p>
+<p>The best-known example of communal land being privatized
+(to English speakers, anyway)
+is the <a class="gl-ref" href="#glossary--enclosure-movement">enclosure movement</a>,
+which peaked in the second half of the 18th century.
+Before enclosure, common land was governed by overlapping, community-enforced use rights:
+the right to graze a specific number of animals,
+to cut timber for fuel,
+or to fish particular stretches of a river.
+Elinor Ostrom's research on commons governance documented
+how these systems were managed sustainably for centuries without either private ownership or state control
+through locally developed rules, monitoring, and graduated sanctions
+[<a class="bib-ref" href="#bibliography--Ostrom2015">Ostrom2015</a>].
+The commons <em>worked</em>;
+the argument that they were inherently prone to overuse
+was made by enclosure's beneficiaries and repeated long after it had been empirically refuted.</p>
+<p>Parliament passed hundreds of private <a class="gl-ref" href="#glossary--enclosure-acts">Enclosure Acts</a>
+between 1750 and 1850,
+each one extinguishing common rights over a specific area
+and converting that land into private property.
+The process was not neutral arbitration between competing claims:
+the landowners who stood to benefit were the same class that controlled Parliament.
+The commoners whose rights were extinguished had no equivalent political representation;
+when they received any compensation at all, it was consistently inadequate.
+The result was a large-scale transformation of semi-independent smallholders into wage laborers.</p>
+<p>The English enclosure model was not confined to England.
+It was carried outward through colonialism as one of the primary instruments of dispossession.
+In Ireland, India, sub-Saharan Africa, and the Americas,
+colonial law systematically refused to recognize collective or customary land tenure.
+Land that was not individually titled under a system legible to European courts
+was declared waste, Crown land, or legally available for settlement.
+This did to colonized peoples what the Enclosure Acts had done to English commoners:
+extinguish practices that had sustained communities for generations,
+convert resource into commodities that could be extracted or sold,
+and make the people dependent on their new overlords.
+[<a class="bib-ref" href="#bibliography--Linebaugh2014">Linebaugh2014</a>]</p>
+<div class="callout">
+<p>Brazil's <em>grilagem</em>—the fraud of converting indigenous and public Amazon land into private titled property
+using falsified documents—has been digitized in recent decades,
+with forged records fed into government registries to launder claims at a scale
+that replicates the logic of the Enclosure Acts across a continent.</p>
+</div>
+<p>[<a class="bib-ref" href="#bibliography--Linklater2015">Linklater2015</a>]</p>
+<div class="callout">
+<p>The differential legalization of pleasure follows the same logic as disruption.
+Alcohol kills hundreds of thousands of people a year in wealthy countries and is sold in supermarkets.
+Cannabis has a lower harm profile than alcohol by most measures
+and was, for most of the twentieth century, a criminal offense
+whose consequences fell almost entirely on Black and Latino communities in the US
+and immigrant communities elsewhere.
+Portugal's 2001 decision to decriminalize personal possession of all drugs—
+paired with expanded investment in treatment and harm reduction—
+produced sharp falls in drug-related HIV transmission and overdose deaths
+without increasing use rates relative to comparable European countries.
+The pattern of what gets legalized, when, and for whom
+tracks political economy, racial hierarchy, and commercial interest
+far more reliably than it tracks harm
+[<a class="bib-ref" href="#bibliography--Hari2015">Hari2015</a>, <a class="bib-ref" href="#bibliography--Nutt2012">Nutt2012</a>].</p>
+</div>
 
     </section>
 
     <section id="behavior">
-      <h2>4. What Drives Behavior</h2>
+      <h2>7. What Drives Behavior</h2>
 
 
 <h3>Why People Don't Maximize Utility</h3>
@@ -1397,301 +2726,84 @@ charge advertisers to place products in the resulting stream of anxiety,
 and call the resulting business a social network.
 It's a game that only they can win
 [<a class="bib-ref" href="#bibliography--PerezTruglia2020">PerezTruglia2020</a>, <a class="bib-ref" href="#bibliography--Boyce2010">Boyce2010</a>, <a class="bib-ref" href="#bibliography--Wilkinson2011">Wilkinson2011</a>].</p>
-
-    </section>
-
-    <section id="disruption">
-      <h2>5. Disruption, Fraud, and Enclosure</h2>
-
-
-<h3>Big Tech is Like a Drug Cartel</h3>
-<p>[<a class="bib-ref" href="#bibliography--Wainwright2017">Wainwright2017</a>] is one of my favorite books.
-In order to show how the free market really works,
-he went and studied it in its pure, unconstrained form:
-the cocaine cartels.
-It was a fun and insightful read,
-and ever since I first encountered it
-I've wanted him to go back and do a similar book about big tech companies.
-After all,
-they too sell artificially addictive products,
-treat the legal system as a mere expense,
-and are run by sociopathic narcissists.</p>
-<p>Wainwright's thesis is that every business faces a common set of problems:
-how to maintain product quality,
-how to protect market territory,
-how to enforce agreements with suppliers,
-how to recruit and manage staff,
-and how to handle disputes with competitors.
-Legal businesses deal with these issues through a combination of contract law,
-trademark and patent protection,
-employment law,
-and (if all else fails) litigation.</p>
-<p>Drug cartels solve the same problems by different means,
-and their solutions reveal some interesting things about how business actually works.
-Take <a class="gl-ref" href="#glossary--brand-protection">brand protection</a>, for example.
-A consumer who buys a product with a known brand name
-has some assurance of consistent quality because
-the brand owner has reputational incentives to maintain standards
-and can take legal action against counterfeit goods.</p>
-<p>A cocaine cartel can't use trademark law.
-It can,
-however,
-use violence against competitors who sell adulterated product under the same name
-or who operate in territory the cartel has claimed.
-The aim—maintaining exclusivity and quality signals—is the same,
-it's just the mechanism that differs.
-(And yes, the word "just" is doing a lot of work in that sentence.)
-However,
-violence is like litigation:
-it's expensive,
-it's noisy,
-and you might lose in the end,
-so you have a lot of reasons to try to negotiate a settlement,
-even if it's a bad one.</p>
-<p>Worker relations are also similar.
-Employment law has evolved over the last hundred and fifty years
-to reduce mistreatment of workers through minimum wages,
-safety requirements,
-and prohibitions on arbitrary dismissal.
-People who work in the drug trade have no such protections.
-However,
-the brutal labor relations practices of the cartels are not a consequence of the personalities involved.
-They are instead the result of removing the legal protections that exist
-precisely to prevent brutality and exploitation in legal labor markets.</p>
-<p>As a final example,
-consider <a class="gl-ref" href="#glossary--vertical-integration">vertical integration</a>.
-A business that controls its entire supply chain
-is less vulnerable to supplier failure,
-price gouging,
-and quality problems.
-Legal businesses achieve this through acquisition and contract,
-but face antitrust limits on how far they can consolidate.
-(At least, they used to:
-antitrust enforcement has been steadily weakened since the early 1980s.)</p>
-<p>Cartels can't sue suppliers who fail to deliver,
-so they have a powerful incentive to own suppliers outright.
-The cartels that have achieved the most durable market positions
-have typically integrated vertically as far as they can,
-unconstrained by antitrust law.</p>
-<p>Tech companies use the term "disruption"
-to describe entering and reorganizing an existing market.
-From the perspective of the incumbent businesses in that market,
-disruption means that the pricing norms,
-labor deals,
-and the competitive equilibria they had established
-are attacked by a new entrant willing to operate at a loss
-or outside the regulatory frameworks that the incumbents are bound by.
-Drug cartels are, in this sense, serial disruptors:
-they subvert the legal system to undercut incumbents when they enter markets,
-often at great cost to local communities.</p>
-<p>If this sounds like the way Uber, AirBnB, and others have operated,
-that's not an accident:
-the connection between market concentration and the capacity to externalize harm
-is a structural feature of markets,
-not something specific to drug cartels.
-A highly concentrated firm in any industry has reduced competitive pressure,
-which means it can absorb the reputational cost of poor labor or environmental practices
-without losing market share.
-It can also use its political leverage to shift the cost of its harms onto workers through suppressed wages,
-onto communities through pollution and infrastructure strain,
-and onto governments through underfunded services and tax avoidance.
-Cartels exhibit this pattern in its most extreme form because they face the weakest institutional constraints,
-but the underlying logic is no different from what Google, Meta, and others have been doing for years.</p>
-<div class="callout">
-<p>In the 2010s, Mexican cartels moved into extorting avocado and lime farmers in Michoacán,
-using territorial violence and supply chain control to extract rents from legal agricultural markets,
-showing that the cartel business model applies to any sector
-where legal institutions cannot enforce contracts.</p>
-</div>
-<p>The safeguards of legal markets that people take for granted in first-world democracies
-were invented specifically to prevent the damage done by unregulated markets.
-Minimum wage laws,
-environmental standards,
-workplace safety rules,
-antitrust regulations,
-and consumer protection statutes are society's equivalent of immune reactions.
-Each was lobbied against by the industries they constrained
-on the grounds that regulation would be impossible, ineffective, immoral, expensive,
-or harmful to national security.
-As we belatedly start to think seriously about regulating social media and AI,
-I think it's worth keeping the cocaine cartels in mind
-[<a class="bib-ref" href="#bibliography--Skarbek2014">Skarbek2014</a>].</p>
-<h3>Big Tech is Like a Long Firm Fraud</h3>
-<p>Another book that I really enjoyed last year was Davies' <em>Lying for Money</em>.
-As its subtitle says,
-it's about how legendary frauds reveal the workings of the world,
-and while he doesn't discuss big tech,
-the parallels are inescapable.
-Understanding the classic patterns of fraud laid out in Davies' book
-makes it possible to identify them in the software industry,
-which is not yet regulated well enough to make them prosecutable
-[<a class="bib-ref" href="#bibliography--Davies2022">Davies2022</a>].</p>
-<p>Fraud is more common than prosecutions suggest,
-and its most dangerous forms are not easily recognized as fraud
-even by the people committing them.
-Many frauds begin as genuine optimism,
-turn into rationalization,
-and end in deliberate concealment.
-By the time the fraud is clear from the outside,
-its perpetrators may have so thoroughly internalized their own narrative
-that they are genuinely shocked by the prosecution.
-There is often no clear moment when they knew knew they were crossing a line.</p>
-<p>The semi-technical definition of fraud is
-"a deliberate misrepresentation of material fact
-that causes someone to act to their detriment and the deceiver's benefit".
-It is easily confused with incompetence, negligence, and bad luck,
-but it is none of those things.
-A startup that believed its technology would work and turned out to be wrong is a business failure.
-A startup that knew its technology did not work and told investors and customers that it did is fraud.
-The difference is difficult to establish because
-(a) people can deceive themselves or misremember events
-and (b) they can also just lie.</p>
-<p>Three kinds of fraud are particularly relevant to tech companies.
-A <a class="gl-ref" href="#glossary--ponzi-scheme">Ponzi scheme</a> appears to generate returns
-by paying early investors with money from later investors,
-rather than from genuine investment gains.
-Each successful payment increases the scheme's credibility and attracts additional investors.
-The schemer does not need to maintain a lie in the face of contradictory evidence:
-the evidence available to most participants is the evidence of payment,
-which is real.
-However,
-the scheme can only continue as long as new investment exceeds required payments.
-When new investment slows and required payments exceed available funds,
-the scheme collapses.
-The timing of the collapse is usually determined by market conditions outside the schemer's control.
-This structure means that a Ponzi scheme operator may not know when the collapse will come,
-which provides an incentive for them to fool themselves as well as their investors.
-After all,
-the scheme worked yesterday—maybe it will work again tomorrow.</p>
-<p>A <a class="gl-ref" href="#glossary--long-firm">long firm</a> fraud operates on a longer timescale.
-The fraudster starts by building a legitimate-seeming business,
-establishing a track record of reliable transactions and prompt payments.
-Once they have a reputation for reliability,
-they use that to place large orders on credit,
-receive the goods,
-sell them quickly at a discount for cash,
-and disappears before the creditors can collect.
-The victim's mistake is not in trusting the operator—the early trust is actually warranted.
-The mistake is failing to notice that the scale and urgency of later transactions
-is inconsistent with normal business patterns.</p>
-<p><a class="gl-ref" href="#glossary--control-fraud">Control fraud</a> operates inside a legitimate company
-rather than through a fictitious one.
-An executive who controls a company can use that control to route contracts to related parties,
-manipulate reported earnings to maximize personal compensation,
-extract value through structured transactions that are difficult for outside observers to interpret,
-and maintain an appearance of legitimacy for years.
-William Black's <em>The Best Way to Rob a Bank Is to Own One</em>
-described the role control fraud played in the savings and loan crisis of the 1980s,
-and how it was made possible by Reagan-era deregulation that removed oversight mechanisms,
-and by accounting standards that gave executives wide latitude in reporting.
-The auditors who certified the books
-were paid by the companies they audited
-and had professional and commercial incentives to take management's claims at face value
-[<a class="bib-ref" href="#bibliography--Black2005">Black2005</a>].</p>
-<p>Finally,
-<a class="gl-ref" href="#glossary--accounting-fraud">accounting fraud</a> works because
-accounting requires judgment at every stage where fraud can be inserted.
-Revenue can be recognized early or late;
-assets can be valued on optimistic or conservative assumptions,
-and liabilities can be disclosed prominently or buried in footnotes.
-Each of these choices meets professional standards and is individually defensible.
-Where the fraud comes in is consistently choosing the most aggressive position in every ambiguous case.
-Auditors frequently fail to catch accounting fraud
-because of the volume of material they need to review,
-and because their adversaries anticipate the specific tests that will be used to detect it.
-Most importantly,
-auditing fails because big accounting firms depend on their clients for their income,
-which gives them a powerful reason to <em>not</em> find any problems
-[<a class="bib-ref" href="#bibliography--Palazzo2025">Palazzo2025</a>, <a class="bib-ref" href="#bibliography--Perrow1999">Perrow1999</a>, <a class="bib-ref" href="#bibliography--Schneier2023">Schneier2023</a>].</p>
-<div class="callout">
-<p>Wirecard, a German payments company certified by top-tier auditors,
-fabricated approximately €1.9 billion in assets for years
-while Germany's financial regulator actively shorted companies that raised alarms about it.
-This control fraud was enabled by exactly the same auditor capture and regulatory failure
-that the savings and loan crisis demonstrated decades earlier.</p>
-</div>
-<h3>Big Tech is Like the Enclosure Movement</h3>
-<p>Email, RSS, the open hyperlink, and the early web were <a class="gl-ref" href="#glossary--commons">commons</a>:
-shared infrastructure anyone could build on.
-Social platforms converted that commons into walled gardens,
-moving the audience inside and charging rent for access to it.
-In doing this,
-big tech companies were following a centuries-old playbook
-[<a class="bib-ref" href="#bibliography--Bollier2014">Bollier2014</a>].</p>
-<p>The idea that an individual can own a piece of the earth's surface
-is younger than most people realize,
-specific to certain legal traditions,
-and was imposed on much of the world by force.
-In most places throughout most of history,
-land was managed collectively via overlapping use rights rather than exclusive ownership.
-Understanding how private property in land was created,
-and what was destroyed in the process,
-lets us ask clearer questions about property rights generally:
-not "is this property?"
-but "who <em>decided</em> it was property, when, why, and who was dispossessed in the process?"</p>
-<p>The best-known example of communal land being privatized
-(to English speakers, anyway)
-is the <a class="gl-ref" href="#glossary--enclosure-movement">enclosure movement</a>,
-which peaked in the second half of the 18th century.
-Before enclosure, common land was governed by overlapping, community-enforced use rights:
-the right to graze a specific number of animals,
-to cut timber for fuel,
-or to fish particular stretches of a river.
-Elinor Ostrom's research on commons governance documented
-how these systems were managed sustainably for centuries without either private ownership or state control
-through locally developed rules, monitoring, and graduated sanctions
-[<a class="bib-ref" href="#bibliography--Ostrom2015">Ostrom2015</a>].
-The commons <em>worked</em>;
-the argument that they were inherently prone to overuse
-was made by enclosure's beneficiaries and repeated long after it had been empirically refuted.</p>
-<p>Parliament passed hundreds of private <a class="gl-ref" href="#glossary--enclosure-acts">Enclosure Acts</a>
-between 1750 and 1850,
-each one extinguishing common rights over a specific area
-and converting that land into private property.
-The process was not neutral arbitration between competing claims:
-the landowners who stood to benefit were the same class that controlled Parliament.
-The commoners whose rights were extinguished had no equivalent political representation;
-when they received any compensation at all, it was consistently inadequate.
-The result was a large-scale transformation of semi-independent smallholders into wage laborers.</p>
-<p>The English enclosure model was not confined to England.
-It was carried outward through colonialism as one of the primary instruments of dispossession.
-In Ireland, India, sub-Saharan Africa, and the Americas,
-colonial law systematically refused to recognize collective or customary land tenure.
-Land that was not individually titled under a system legible to European courts
-was declared waste, Crown land, or legally available for settlement.
-This did to colonized peoples what the Enclosure Acts had done to English commoners:
-extinguish practices that had sustained communities for generations,
-convert resource into commodities that could be extracted or sold,
-and make the people dependent on their new overlords.
-[<a class="bib-ref" href="#bibliography--Linebaugh2014">Linebaugh2014</a>]</p>
-<div class="callout">
-<p>Brazil's <em>grilagem</em>—the fraud of converting indigenous and public Amazon land into private titled property
-using falsified documents—has been digitized in recent decades,
-with forged records fed into government registries to launder claims at a scale
-that replicates the logic of the Enclosure Acts across a continent.</p>
-</div>
-<p>[<a class="bib-ref" href="#bibliography--Linklater2015">Linklater2015</a>]</p>
-<div class="callout">
-<p>The differential legalization of pleasure follows the same logic as disruption.
-Alcohol kills hundreds of thousands of people a year in wealthy countries and is sold in supermarkets.
-Cannabis has a lower harm profile than alcohol by most measures
-and was, for most of the twentieth century, a criminal offense
-whose consequences fell almost entirely on Black and Latino communities in the US
-and immigrant communities elsewhere.
-Portugal's 2001 decision to decriminalize personal possession of all drugs—
-paired with expanded investment in treatment and harm reduction—
-produced sharp falls in drug-related HIV transmission and overdose deaths
-without increasing use rates relative to comparable European countries.
-The pattern of what gets legalized, when, and for whom
-tracks political economy, racial hierarchy, and commercial interest
-far more reliably than it tracks harm
-[<a class="bib-ref" href="#bibliography--Hari2015">Hari2015</a>, <a class="bib-ref" href="#bibliography--Nutt2012">Nutt2012</a>].</p>
-</div>
+<h3>A Paradise Built in Hell</h3>
+<p>On the morning of December 6, 1917,
+a French munitions ship collided with a Norwegian vessel in Halifax Harbour, Nova Scotia.
+The resulting explosion killed nearly two thousand people and flattened the north end of the city.
+It was the largest human-made explosion before the nuclear age.</p>
+<p>Within hours,
+survivors were pulling strangers from rubble,
+improvising hospitals in churches and railway stations,
+and sharing food with people they had never met.
+The next day a blizzard arrived.
+Residents of Truro, two hours away by train,
+loaded relief supplies and medical teams before anyone had formally organized them.
+People came from across eastern Canada and the northeastern United States,
+not because anyone had issued orders,
+but because other people needed help.</p>
+<p>This is not the story most people expect.
+The version of human nature embedded in popular culture
+and reproduced in disaster media coverage
+is that when things fall apart, so do people.
+Civilization is a thin crust over barbarity:
+scratch the surface and you get looting, assault, and the strong preying on the weak.
+This story is wrong in almost every particular,
+but it keeps being told because it serves purposes that have nothing to do with accuracy.</p>
+<p>The sociologist E.L. Quarantelli spent decades studying disasters
+and came to a conclusion that surprised many people:
+panic and antisocial behavior are the exception, not the rule.
+Communities typically show increases in prosocial behavior:
+strangers help each other,
+crime rates generally fall,
+and people who were barely acquaintances briefly become something like a community.</p>
+<p>Rebecca Solnit documented this pattern across a century of catastrophes.
+Her case studies,
+including the 1906 San Francisco earthquake,
+the 1917 Halifax explosion,
+the 1985 Mexico City earthquake,
+the September 11 attacks in New York,
+and Hurricane Katrina in New Orleans,
+illustrate Quarantelli's findings.
+Disasters reveal a capacity for mutual aid
+that is usually suppressed by the atomization of modern consumer society.</p>
+<p>Hurricane Katrina in 2005 produced the most extensively documented divergence
+between media narrative and documented reality in modern history.
+In the days after the storm, major news organizations reported roving gangs in the Superdome,
+mass rape,
+and snipers firing at rescue helicopters.
+Subsequent investigation found that the reported gang violence did not happen,
+the murder rate in the city did not spike,
+and most of the "looting" was people taking food and water to survive.</p>
+<p>But these lies had consequences.
+Hospitals delayed evacuating critically ill patients while waiting for military escorts.
+Trucks carrying food and water were turned back from routes deemed dangerous when they weren't.
+A group of survivors trying to walk across the Crescent City Connection bridge to reach Gretna,
+where they had been told buses were waiting,
+were turned back at gunpoint by police who said they were keeping their community safe.
+The fiction of social breakdown caused deaths that the storm itself had not.</p>
+<p>Solnit has a name for what happened in New Orleans: elite panic.
+Ordinary people in a disaster tend to behave with remarkable generosity and calm,
+but authorities and elites tend to panic—not about the disaster, but about the public.
+Since they believe that the social order that keeps them on top
+is only held together by the threat of force,
+a disaster that removes their ability to enforce their rules looks like the end of civilization.</p>
+<p>The gap between what happens in disasters and what gets reported
+is also explained by what counts as news.
+Editors make decisions about what to show based on what will attract attention,
+and dramatic conflict attracts more attention than organized mutual aid.
+The result is systematic selection bias in disaster coverage.
+If the media consistently describes human nature as more violent and more selfish than it actually is,
+people are pre-conditioned to believe that cooperation is unlikely,
+which makes them less likely to cooperate.
+Just as advertising can manufacture demand,
+biased reporting can manufacture mistrust,
+and in doing so, hurt us all
+[<a class="bib-ref" href="#bibliography--Quarantelli1998">Quarantelli1998</a>, <a class="bib-ref" href="#bibliography--Solnit2009">Solnit2009</a>, <a class="bib-ref" href="#bibliography--Tierney2006">Tierney2006</a>].</p>
 
     </section>
 
     <section id="ownership">
-      <h2>6. Who Owns What</h2>
+      <h2>8. Who Owns What</h2>
 
 
 <h3>Intellectual Property as Invention</h3>
@@ -1984,110 +3096,11 @@ It creates a different problem, though:
 accountability runs upward to the Communist Party rather than outward to citizens,
 and the line between a national champion and an instrument of state policy disappears entirely
 [<a class="bib-ref" href="#bibliography--Chang2012">Chang2012</a>, <a class="bib-ref" href="#bibliography--Acemoglu2023">Acemoglu2023</a>, <a class="bib-ref" href="#bibliography--Webber2011">Webber2011</a>].</p>
-<h3>International Tax Avoidance</h3>
-<p>In August 2016,
-the European Commission ordered Apple to repay thirteen billion euros in back taxes to Ireland.
-The commission had investigated Apple's tax arrangements in Ireland
-and concluded that they amounted to illegal state aid:
-Ireland had given Apple a selective advantage unavailable to other companies,
-allowing the company to pay an effective tax rate of 0.005% on European profits
-of sixteen billion euros in 2014.</p>
-<p>The Irish government was ordered to collect the money,
-and promptly announced it would appeal the ruling.
-Ireland did not want the thirteen billion euros;
-its government argued in court,
-alongside Apple,
-that the commission had made an error.
-This only baffled the cynical:
-Ireland's unusually favorable tax treatment of multinationals was a deliberate policy
-to attract foreign companies.</p>
-<p>The mechanism Apple used was a variant of a structure known as the Double Irish,
-which Irish tax law had made available through a combination of
-specific provisions and deliberate regulatory tolerance.
-Ireland taxes companies that are managed and controlled from Ireland.
-The United States taxes companies incorporated in the United States.
-Apple's Irish subsidiaries
-were incorporated in Ireland but had their management and control located outside Ireland,
-so Ireland did not tax them.
-They were also not incorporated in the United States, so the US did not tax them either.
-At its peak, this arrangement sheltered tens of billions of dollars annually.</p>
-<p>The intellectual property component made the structure self-sustaining.
-Apple's valuable patents were licensed from a subsidiary in a low-tax jurisdiction.
-European sales flowed through Apple Sales International,
-which paid royalties back to the IP-holding entity.
-The royalties reduced taxable profit in the high-tax jurisdictions where the sales occurred.
-<a class="gl-ref" href="#glossary--transfer-pricing">Transfer pricing</a>
-(the setting of prices for transactions between subsidiaries of the same company)
-is supposed to follow the arm's length principle:
-the price should be what unrelated parties would charge each other.
-In practice, there is no market price for a license to Apple's entire product ecosystem,
-so whatever number Apple's accountants put in the contract became the price.
-Tax authorities in each country then had to prove the price was wrong,
-which requires the kind of information that companies are not generally eager to provide.</p>
-<p>Apple was not alone, and Ireland was not the only country involved.
-The Dutch Sandwich added a Netherlands entity to the structure,
-exploiting a Dutch tax provision that exempted certain royalty payments from withholding tax.
-Royalties would flow from Ireland to the Netherlands,
-then onward to the zero-tax jurisdiction,
-each step reducing the amount captured by any jurisdiction that might want to tax it.
-Luxembourg served a similar function for Amazon;
-by putting its European headquarters there,
-the company could book sales across the continent while keeping profits in a jurisdiction
-that had negotiated unusually favorable rulings with dozens of major multinationals.
-Google's arrangement was so elaborate to have its own nickname:
-the Double Irish with a Dutch Sandwich.</p>
-<div class="callout">
-<p>The offshore financial system that made these structures possible has deeper roots than tech.
-The Cayman Islands established themselves as a financial center in the 1960s
-through legislation specifically designed to attract capital seeking freedom from tax and regulation.
-By 2016,
-the Cayman Islands hosted more than 100,000 registered companies despite a population of 60,000 people.
-Switzerland's banking secrecy,
-formalized in 1934,
-protected foreign depositors from the tax authorities of their home countries for decades.
-Luxembourg,
-the Netherlands,
-Ireland,
-and Singapore all competed to attract corporate headquarters and intellectual property holdings
-through combinations of favorable rulings and light regulation.
-None of this was invented by tech companies,
-but they used it on a larger scale than almost anyone before them.</p>
-</div>
-<p>[<a class="bib-ref" href="#bibliography--Shaxson2011">Shaxson2011</a>]</p>
-<p>The OECD's BEPS project,
-launched in 2013,
-produced a fifteen-point action plan to close these loopholes.
-Countries that adopted its recommendations
-were supposed to require substance in the jurisdictions where companies claimed tax residence,
-limit the deductibility of interest payments used to shift profits,
-and require country-by-country reporting to  make the overall structure visible.
-Ireland amended its tax law in 2015 to prevent new companies from using the Double Irish structure,
-but gave companies already using it a five-year phase-out period.</p>
-<p>The 2021 agreement among 136 countries on a global minimum corporate tax rate of 15%,
-negotiated under OECD auspices,
-went further than any previous multilateral effort.
-It established the principle that no matter where a multinational's profits were booked,
-at least 15% would be paid somewhere.
-The agreement was called historic,
-which was accurate,
-and transformative,
-which was not,
-since implementation depended on each country passing domestic legislation.</p>
-<p>Gabriel Zucman's estimates suggest that
-roughly 40% of multinational profits are shifted to <a class="gl-ref" href="#glossary--tax-haven">tax havens</a> annually,
-costing governments approximately $200 billion per year in corporate tax revenue.
-This is money that does not fund schools,
-infrastructure,
-or healthcare in the countries where the economic activity actually occurred.
-The companies that benefit from this system defend it as legal, which it is.
-They also describe it as responsible tax planning,
-which is a creative use of the word responsible
-[<a class="bib-ref" href="#bibliography--Zucman2015">Zucman2015</a>, <a class="bib-ref" href="#bibliography--Schneier2023">Schneier2023</a>].</p>
 
     </section>
 
     <section id="worker-control">
-      <h2>7. Controlling Workers</h2>
+      <h2>9. Controlling Workers</h2>
 
 
 <h3>Big Tech is Like the Sharecropping System</h3>
@@ -2680,7 +3693,7 @@ and women still perform more unpaid domestic labor
     </section>
 
     <section id="monopoly">
-      <h2>8. Money, Monopoly, and Bubbles</h2>
+      <h2>10. Money, Monopoly, and Bubbles</h2>
 
 
 <h3>Big Tech is Like Standard Oil</h3>
@@ -3040,11 +4053,110 @@ when reality catches up with the hype.
 Historically, the engineers and founders who cashed out early do well.
 The pension funds, retail investors, and laid-off workers who arrived later in the story do not,
 while the people who collected fees at every stage of the transaction do best of all.</p>
+<h3>International Tax Avoidance</h3>
+<p>In August 2016,
+the European Commission ordered Apple to repay thirteen billion euros in back taxes to Ireland.
+The commission had investigated Apple's tax arrangements in Ireland
+and concluded that they amounted to illegal state aid:
+Ireland had given Apple a selective advantage unavailable to other companies,
+allowing the company to pay an effective tax rate of 0.005% on European profits
+of sixteen billion euros in 2014.</p>
+<p>The Irish government was ordered to collect the money,
+and promptly announced it would appeal the ruling.
+Ireland did not want the thirteen billion euros;
+its government argued in court,
+alongside Apple,
+that the commission had made an error.
+This only baffled the cynical:
+Ireland's unusually favorable tax treatment of multinationals was a deliberate policy
+to attract foreign companies.</p>
+<p>The mechanism Apple used was a variant of a structure known as the Double Irish,
+which Irish tax law had made available through a combination of
+specific provisions and deliberate regulatory tolerance.
+Ireland taxes companies that are managed and controlled from Ireland.
+The United States taxes companies incorporated in the United States.
+Apple's Irish subsidiaries
+were incorporated in Ireland but had their management and control located outside Ireland,
+so Ireland did not tax them.
+They were also not incorporated in the United States, so the US did not tax them either.
+At its peak, this arrangement sheltered tens of billions of dollars annually.</p>
+<p>The intellectual property component made the structure self-sustaining.
+Apple's valuable patents were licensed from a subsidiary in a low-tax jurisdiction.
+European sales flowed through Apple Sales International,
+which paid royalties back to the IP-holding entity.
+The royalties reduced taxable profit in the high-tax jurisdictions where the sales occurred.
+<a class="gl-ref" href="#glossary--transfer-pricing">Transfer pricing</a>
+(the setting of prices for transactions between subsidiaries of the same company)
+is supposed to follow the arm's length principle:
+the price should be what unrelated parties would charge each other.
+In practice, there is no market price for a license to Apple's entire product ecosystem,
+so whatever number Apple's accountants put in the contract became the price.
+Tax authorities in each country then had to prove the price was wrong,
+which requires the kind of information that companies are not generally eager to provide.</p>
+<p>Apple was not alone, and Ireland was not the only country involved.
+The Dutch Sandwich added a Netherlands entity to the structure,
+exploiting a Dutch tax provision that exempted certain royalty payments from withholding tax.
+Royalties would flow from Ireland to the Netherlands,
+then onward to the zero-tax jurisdiction,
+each step reducing the amount captured by any jurisdiction that might want to tax it.
+Luxembourg served a similar function for Amazon;
+by putting its European headquarters there,
+the company could book sales across the continent while keeping profits in a jurisdiction
+that had negotiated unusually favorable rulings with dozens of major multinationals.
+Google's arrangement was so elaborate to have its own nickname:
+the Double Irish with a Dutch Sandwich.</p>
+<div class="callout">
+<p>The offshore financial system that made these structures possible has deeper roots than tech.
+The Cayman Islands established themselves as a financial center in the 1960s
+through legislation specifically designed to attract capital seeking freedom from tax and regulation.
+By 2016,
+the Cayman Islands hosted more than 100,000 registered companies despite a population of 60,000 people.
+Switzerland's banking secrecy,
+formalized in 1934,
+protected foreign depositors from the tax authorities of their home countries for decades.
+Luxembourg,
+the Netherlands,
+Ireland,
+and Singapore all competed to attract corporate headquarters and intellectual property holdings
+through combinations of favorable rulings and light regulation.
+None of this was invented by tech companies,
+but they used it on a larger scale than almost anyone before them.</p>
+</div>
+<p>[<a class="bib-ref" href="#bibliography--Shaxson2011">Shaxson2011</a>]</p>
+<p>The OECD's BEPS project,
+launched in 2013,
+produced a fifteen-point action plan to close these loopholes.
+Countries that adopted its recommendations
+were supposed to require substance in the jurisdictions where companies claimed tax residence,
+limit the deductibility of interest payments used to shift profits,
+and require country-by-country reporting to  make the overall structure visible.
+Ireland amended its tax law in 2015 to prevent new companies from using the Double Irish structure,
+but gave companies already using it a five-year phase-out period.</p>
+<p>The 2021 agreement among 136 countries on a global minimum corporate tax rate of 15%,
+negotiated under OECD auspices,
+went further than any previous multilateral effort.
+It established the principle that no matter where a multinational's profits were booked,
+at least 15% would be paid somewhere.
+The agreement was called historic,
+which was accurate,
+and transformative,
+which was not,
+since implementation depended on each country passing domestic legislation.</p>
+<p>Gabriel Zucman's estimates suggest that
+roughly 40% of multinational profits are shifted to <a class="gl-ref" href="#glossary--tax-haven">tax havens</a> annually,
+costing governments approximately $200 billion per year in corporate tax revenue.
+This is money that does not fund schools,
+infrastructure,
+or healthcare in the countries where the economic activity actually occurred.
+The companies that benefit from this system defend it as legal, which it is.
+They also describe it as responsible tax planning,
+which is a creative use of the word responsible
+[<a class="bib-ref" href="#bibliography--Zucman2015">Zucman2015</a>, <a class="bib-ref" href="#bibliography--Schneier2023">Schneier2023</a>].</p>
 
     </section>
 
     <section id="alternatives">
-      <h2>9. Alternatives and Dead Weight</h2>
+      <h2>11. Alternatives and Dead Weight</h2>
 
 
 <h3>There's More Than One Way to Do It</h3>
@@ -3460,7 +4572,7 @@ It is that you need to be organized before the opening arrives
     </section>
 
     <section id="surveillance">
-      <h2>10. Surveillance, Identity, and Desire</h2>
+      <h2>12. Surveillance, Identity, and Desire</h2>
 
 
 <h3>Big Tech is Like the Stasi</h3>
@@ -3848,431 +4960,8 @@ or why
 
     </section>
 
-    <section id="harmful-models">
-      <h2>11. When the Model Is the Harm</h2>
-
-
-<h3>Big Tech is Like the Penny Press</h3>
-<p>The business model in which content is provided free to audiences
-while advertisers pay to reach them
-did not begin with social media.
-It predates the web and television alike,
-beginning with newspapers in the 1830s
-and refined through a century of radio and broadcast television.
-The technology changed but the logic did not:
-the audience is not the customer but the product,
-and the content is the mechanism for assembling and sorting that audience.</p>
-<p>The <a class="gl-ref" href="#glossary--penny-press">penny press</a> emerged in New York in the 1830s
-when publishers like Benjamin Day realized that
-a newspaper priced at one cent could not sustain itself through subscription revenue
-but could attract large enough readership to sell advertising at rates that more than covered costs.
-The <em>New York Sun</em> and its imitators were not selling information to readers;
-they were selling readers to advertisers.
-Sensational crime reporting, gossip, and human-interest stories
-were not editorial lapses:
-they built the audience that made the advertising worth buying.
-Every subsequent development in advertiser-funded media follows from this original structure.</p>
-<p>The competition between William Randolph Hearst's <em>New York Journal</em>
-and Joseph Pulitzer's <em>New York World</em> in the 1890s
-shows what this model produces when two well-funded publishers compete intensely for circulation.
-Neither set out to destabilize democratic discourse;
-they just wanted to sell newspapers.
-However,
-the market provided a clear signal:
-crime, scandal, nationalist outrage, and stories written to produce emotional responses drove circulation,
-and each escalation by one paper forced a matching response from the other.
-Journalism that was inaccurate and inflammatory was not the result of a conspiracy.
-It was the predictable output of two rational businesses
-responding to the same incentive structure
-[<a class="bib-ref" href="#bibliography--Campbell2001">Campbell2001</a>, <a class="bib-ref" href="#bibliography--Nasaw2000">Nasaw2000</a>].</p>
-<p>The <a class="gl-ref" href="#glossary--propaganda-model">propaganda model</a> [<a class="bib-ref" href="#bibliography--Herman1988">Herman1988</a>] describes how
-this system shapes content without requiring deliberate censorship.
-Advertisers do not need to call editors and demand favorable coverage;
-they simply withdraw revenue from outlets that publish content they dislike,
-and editors learn what is acceptable without being told.</p>
-<p>Interactive media doesn't change any of this logic,
-but it makes it more precise.
-Behavioral data collected through social media, search engines, and app ecosystems
-allows advertisers to target individuals rather than demographic categories.
-The recommendation algorithm knows far more precisely
-what content will hold each specific user's attention for the next few minutes
-than the newspaper editor deciding what to put on the front page.</p>
-<p>Engagement maximization and social harm are not separable
-because the content that maximizes engagement is not randomly distributed.
-Research consistently shows that outrage, fear, and social comparison
-generate stronger and more persistent engagement signals
-than accurate information, considered analysis,
-or content that simply satisfies a question and lets the user close the tab.
-Big tech companies that depend on advertising revenue
-will therefore always amplify inflammatory distortion over mere facts
-[<a class="bib-ref" href="#bibliography--Wu2016">Wu2016</a>].</p>
-<h3>A Paradise Built in Hell</h3>
-<p>On the morning of December 6, 1917,
-a French munitions ship collided with a Norwegian vessel in Halifax Harbour, Nova Scotia.
-The resulting explosion killed nearly two thousand people and flattened the north end of the city.
-It was the largest human-made explosion before the nuclear age.</p>
-<p>Within hours,
-survivors were pulling strangers from rubble,
-improvising hospitals in churches and railway stations,
-and sharing food with people they had never met.
-The next day a blizzard arrived.
-Residents of Truro, two hours away by train,
-loaded relief supplies and medical teams before anyone had formally organized them.
-People came from across eastern Canada and the northeastern United States,
-not because anyone had issued orders,
-but because other people needed help.</p>
-<p>This is not the story most people expect.
-The version of human nature embedded in popular culture
-and reproduced in disaster media coverage
-is that when things fall apart, so do people.
-Civilization is a thin crust over barbarity:
-scratch the surface and you get looting, assault, and the strong preying on the weak.
-This story is wrong in almost every particular,
-but it keeps being told because it serves purposes that have nothing to do with accuracy.</p>
-<p>The sociologist E.L. Quarantelli spent decades studying disasters
-and came to a conclusion that surprised many people:
-panic and antisocial behavior are the exception, not the rule.
-Communities typically show increases in prosocial behavior:
-strangers help each other,
-crime rates generally fall,
-and people who were barely acquaintances briefly become something like a community.</p>
-<p>Rebecca Solnit documented this pattern across a century of catastrophes.
-Her case studies,
-including the 1906 San Francisco earthquake,
-the 1917 Halifax explosion,
-the 1985 Mexico City earthquake,
-the September 11 attacks in New York,
-and Hurricane Katrina in New Orleans,
-illustrate Quarantelli's findings.
-Disasters reveal a capacity for mutual aid
-that is usually suppressed by the atomization of modern consumer society.</p>
-<p>Hurricane Katrina in 2005 produced the most extensively documented divergence
-between media narrative and documented reality in modern history.
-In the days after the storm, major news organizations reported roving gangs in the Superdome,
-mass rape,
-and snipers firing at rescue helicopters.
-Subsequent investigation found that the reported gang violence did not happen,
-the murder rate in the city did not spike,
-and most of the "looting" was people taking food and water to survive.</p>
-<p>But these lies had consequences.
-Hospitals delayed evacuating critically ill patients while waiting for military escorts.
-Trucks carrying food and water were turned back from routes deemed dangerous when they weren't.
-A group of survivors trying to walk across the Crescent City Connection bridge to reach Gretna,
-where they had been told buses were waiting,
-were turned back at gunpoint by police who said they were keeping their community safe.
-The fiction of social breakdown caused deaths that the storm itself had not.</p>
-<p>Solnit has a name for what happened in New Orleans: elite panic.
-Ordinary people in a disaster tend to behave with remarkable generosity and calm,
-but authorities and elites tend to panic—not about the disaster, but about the public.
-Since they believe that the social order that keeps them on top
-is only held together by the threat of force,
-a disaster that removes their ability to enforce their rules looks like the end of civilization.</p>
-<p>The gap between what happens in disasters and what gets reported
-is also explained by what counts as news.
-Editors make decisions about what to show based on what will attract attention,
-and dramatic conflict attracts more attention than organized mutual aid.
-The result is systematic selection bias in disaster coverage.
-If the media consistently describes human nature as more violent and more selfish than it actually is,
-people are pre-conditioned to believe that cooperation is unlikely,
-which makes them less likely to cooperate.
-Just as advertising can manufacture demand,
-biased reporting can manufacture mistrust,
-and in doing so, hurt us all
-[<a class="bib-ref" href="#bibliography--Quarantelli1998">Quarantelli1998</a>, <a class="bib-ref" href="#bibliography--Solnit2009">Solnit2009</a>, <a class="bib-ref" href="#bibliography--Tierney2006">Tierney2006</a>].</p>
-<h3>Big Tech is Like Professional Wrestling</h3>
-<p>The French philosopher Roland Barthes wrote about wrestling in 1957.
-He wasn't writing about sport;
-he was analyzing a form of entertainment that reveals something important about how spectacle works,
-and his argument was that professional wrestling is pleasurable not <em>despite</em> being scripted
-but <em>because</em> it is scripted.
-The audience is not there to watch a fair athletic contest.
-It is there to watch the theatrical enactment of moral archetypes:
-the villain who cheats openly,
-the hero who suffers before triumphing,
-and the referee who is briefly fooled before justice prevails.</p>
-<p>The industry term for this collective fiction is <a class="gl-ref" href="#glossary--kayfabe">kayfabe</a>.
-Wrestlers maintain kayfabe in public appearances,
-in interviews,
-and on social media,
-even though every adult in the audience knows that wrestling is a performance.
-This isn't deception:
-it's a mutual agreement to treat the fiction as real
-to make the experience more emotionally satisfying.
-When a wrestler breaks kayfabe—acknowledges the performance from inside it—it violates a social contract,
-not a factual claim
-[<a class="bib-ref" href="#bibliography--Barthes1972">Barthes1972</a>].</p>
-<p>Big tech runs on a remarkably similar agreement.
-Consider the long rivalry between Apple and Google.
-Apple has spent decades positioning itself as the champion of user privacy,
-in explicit contrast to Google's surveillance-funded advertising model.
-Tim Cook has delivered speeches describing privacy as a "fundamental human right."
-Apple introduced App Tracking Transparency,
-which requires apps to ask permission before tracking users across other platforms.
-This is the hero narrative.
-Google, cast as the villain, harvests behavioral data at industrial scale.</p>
-<p>What the kayfabe obscures is that Apple earns approximately $20 billion a year
-from a deal that makes Google the default search engine on every iPhone sold.
-The two rivals are financially interdependent,
-and each needs the other to play its designated role.
-Apple can charge premium prices for privacy-branded hardware,
-and Google gets default distribution to Apple's affluent user base
-in exchange for revenue that Apple would otherwise have to replace.
-Neither company has any incentive for the match to end.</p>
-<p>In wrestling, the <a class="gl-ref" href="#glossary--heel">heel</a> is the designated villain:
-the character whose job is to be so obviously wrong
-that the audience rallies behind whoever fights them.
-Tech companies take turns playing this role.
-Mark Zuckerberg testifies before the US Senate,
-unable to answer basic questions about his own platform,
-and for a season or two Meta is the villain everyone agrees on.
-Then a new scandal breaks,
-the spotlight shifts,
-and a new villain takes the stage.</p>
-<p>The rotation is not accidental.
-Sustained outrage at one company might produce structural reform.
-Outrage distributed across all of them produces blog posts like this.</p>
-<p>The referee, in this reading, is the regulator.
-Referees in professional wrestling apply the rules as written,
-but the rules are designed to produce a compelling show rather than a genuinely fair contest.
-The EU's record fine against Google of €4.34 billion for Android antitrust violations in 2018
-amounted to roughly two weeks of Google's annual profit at the time.
-Google appealed,
-had the fine reduced slightly,
-and continued the practices it had been fined for.</p>
-<p>Barthes concluded that the real function of wrestling is to transform suffering into spectacle,
-and spectacle into something that feels like justice.
-The audience leaves satisfied because the villain was punished.
-It does not matter that the match was scripted,
-because the emotional experience of moral resolution is genuine.</p>
-<p>This is what congressional hearings about social media accomplish for most people who watch them.
-A senator reads a damning internal email,
-a tech CEO says something evasive,
-the clip circulates for a couple of days,
-and people feel that accountability happened.
-The executives return to their offices,
-the company eventually pays a settlement with no admission of wrongdoing,
-and the market structure that produced the problem continues unchanged.</p>
-<p>Kayfabe is not lying.
-It is a shared agreement to experience something as if it were real,
-because that is more satisfying than experiencing it as what it actually is.
-The question to ask about tech's performance of competition,
-concern for users,
-and openness to accountability is not whether individual participants believe what they say.
-Some of them probably do.
-The question is whether the performance is producing structural change
-or whether it is performing structural change for an audience
-that finds the performance sufficient
-[<a class="bib-ref" href="#bibliography--Frankfurt2005">Frankfurt2005</a>, <a class="bib-ref" href="#bibliography--Mazer1998">Mazer1998</a>].</p>
-<h3>Big Tech is Like Multi-Level Marketing</h3>
-<p>Jay Van Andel and Rich DeVos founded Amway in 1959
-on the premise that anyone with enough ambition and the right social network
-could build a business by selling cleaning products to friends and neighbors.
-The products were real;
-the business opportunity was considerably more complicated.</p>
-<p>Amway is the founding institution of multi-level marketing (MLM),
-an industry that by the 2020s had enrolled an estimated 120 million people worldwide.
-The business model compensates them not just for selling products
-but for recruiting others who will also sell products,
-and for collecting a percentage of everything their recruits sell,
-in a chain extending downward through a <a class="gl-ref" href="#glossary--downline">downline</a>.</p>
-<p>The mathematics of this structure are simple,
-but tend not to appear in recruitment materials.
-If each participant recruits three others,
-and each of those recruits three more,
-then a chain seven levels deep involves over 2,000 people
-all of whom must sell product to sustain the commission structure above them.
-The US Federal Trade Commission found in a 2011 analysis
-that in one major MLM company,
-fewer than 1% of participants earned a net profit after expenses.
-The other 99% subsidized them
-[<a class="bib-ref" href="#bibliography--FitzPatrick2020">FitzPatrick2020</a>].</p>
-<p>When Uber launched, it told drivers they were entrepreneurs:
-captains of their own ships,
-free from the indignities of employment,
-with no boss, no fixed hours, and all the flexibility they wanted.
-What the pitch omitted was that Uber would set the price,
-determine which rides were offered to which drivers,
-deactivate accounts without meaningful appeal,
-and systematically reduce driver earnings as market penetration increased.</p>
-<p>Amazon Marketplace allows third-party sellers to list products,
-reach Amazon's enormous customer base,
-and pay Amazon a commission on every sale.
-It also allows Amazon to observe exactly which products are selling well
-and then launch competing Amazon Basics versions,
-using the sales data it collected from the sellers it hosts.
-Marketplace recruits more sellers by showcasing successful ones,
-in the same way that MLM recruitment materials feature the rare success story
-while omitting the statistical reality for the average participant.</p>
-<p>Social media scales this model even further.
-Facebook's users generate the content that makes Facebook worth visiting.
-They also generate the social ties that make Facebook difficult to leave.
-And they pay in attention and behavioral data
-for the privilege of generating that content on Facebook's infrastructure
-under Facebook's terms of service.
-The users are the product.
-This is not a metaphor:
-it is a statement of the actual business model that appears plainly in investor materials.</p>
-<div class="callout">
-<p>Scientology's auditing sessions collect whatever subjects disclosed:
-accounts of illegal activity, sexual behavior, family conflicts, and statements about other people.
-Former members have testified that these folders were used in disciplinary proceedings
-and in litigation against critics and defectors.
-Every major social media platform is, at its core, a similar system.
-It collects behavioral data—what you look at, what you hesitate over, what you react to—and
-that information is qualitatively different from what you share with a retailer.
-People post about illness and grief and their political beliefs and sexual identity
-because the platform presents itself as a community, not a database.
-The fact that it is both doesn't mean the user is naïve;
-it means the platform is designed to exploit the social context
-that makes sharing this information feel appropriate.</p>
-</div>
-<p>The biggest difference between MLM and social media
-is that MLMs are occasionally subject to regulatory action.
-The platform economy has largely avoided that outcome
-by being larger, more diffuse, and more politically connected.
-The most honest description of both is that they sell hope:
-the hope that this time, for this person, the math will work out
-[<a class="bib-ref" href="#bibliography--Srnicek2016">Srnicek2016</a>].</p>
-<h3>Big Tech is Like the Yakuza</h3>
-<p>In the days immediately after the March 2011 Tōhoku earthquake and tsunami,
-investigators from the Asahi Shimbun documented how organized crime groups
-supplied food, water, and emergency goods to affected communities
-faster than official relief channels could mobilize.
-This was not unusual.
-The yakuza—Japan's organized crime syndicates—have a long history of disaster relief,
-partly because it generates goodwill,
-partly because they maintain logistics networks and community ties
-that allow them to operate quickly when formal institutions cannot,
-and partly because disaster zones are also business opportunities.</p>
-<p>Tech platforms now perform functions that governments once either provided directly
-or regulated others to provide,
-including identity verification, payment processing, and dispute resolution.
-When a seller on eBay disputes a transaction,
-eBay adjudicates the claim.
-When a developer's app is removed from the App Store,
-Apple's internal review process is the only available appeal.
-When Facebook removes content in a country with regulated speech,
-it is making regulatory decisions
-in a jurisdiction where it has not been granted regulatory authority.</p>
-<p>This is what makes tech's political relationships so interesting.
-Governments are simultaneously threatened by tech's accumulation of quasi-governmental power
-and dependent on tech's infrastructure to operate.
-The US government runs significant portions of its cloud operations on Amazon Web Services.
-The Indian government used WhatsApp—owned by Meta—for public health communications.
-The relationship is symbiotic in the same way that governments' relationships with contractors always have been:
-the state needs services the contractor provides,
-the contractor needs the regulatory tolerance the state can provide,
-and neither has a strong interest in severing the arrangement.</p>
-<p>The yakuza model also illuminates how platforms handle competition.
-Organized crime syndicates do not generally compete through price, but through territory.
-Territorial disputes are settled through negotiation, credible threats, and occasional violence.
-The enforcement mechanisms in tech may be different (so far),
-but the territorial logic is similar.
-Google defaults to Google Maps,
-Apple's App Store prohibits payment systems that compete with Apple Pay,
-and Amazon uses its control of search ranking to disadvantage sellers
-who also list products on competing platforms.
-These practices are not illegal in most jurisdictions;
-they are exercises of territorial power
-by entities whose market position makes them difficult to challenge through normal competitive means.</p>
-<div class="callout">
-<p>The medieval Church provided civil infrastructure to large parts of Europe:
-monasteries preserved manuscripts, the Church maintained hospitals and schools,
-and Church record-keeping tracked births, deaths, marriages, and property transfers.
-What the Church got back was the <a class="gl-ref" href="#glossary--tithe">tithe</a>—
-an obligation levied on agricultural production,
-enforced through ecclesiastical courts,
-and owed regardless of the individual's relationship with the Church.
-Every household paid approximately one-tenth of its productive output.
-Today, the App Store charges a thirty percent commission on every transaction made through it:
-a tithe on productive activity conducted within the platform's jurisdiction,
-owed by anyone whose business depends on access to that platform's infrastructure.
-Excommunication—removal from the Church's services—meant you could not conduct legal business.
-Deplatforming works the same way:
-a creator removed from a major platform loses access to customers, tools, and markets
-with no due process and no external authority to appeal to.</p>
-</div>
-<p>So what do organized crime organizations provide in exchange for what they extract?
-The yakuza have historically managed significant portions of Japan's construction and entertainment industries
-through a combination of legitimate business ownership and informal control over labor supply.
-The arrangement is not purely extractive:
-it provides predictability, dispute resolution, and protection from other organized crime groups.
-Platforms offer analogous services.
-Amazon Marketplace gives small sellers access to customers they could not otherwise reach.
-App Store review provides users a degree of protection from malware.
-Facebook Groups provide community infrastructure that many organizations genuinely depend on.
-The question that needs to be asked of both yakuza-connected industries and platform-dependent businesses
-is not whether the services have value,
-but whether the entity providing them has made itself structurally necessary
-specifically to extract rents that a competitive market would not sustain.</p>
-<p>The yakuza are declining.
-Japan's anti-organized crime laws, passed in 1992 and strengthened since,
-have made it progressively harder for syndicate members to interface with legitimate business.
-Banks will not open accounts for known members,
-real estate will not be rented to them,
-and golf courses are required to turn them away.
-Registered yakuza membership fell from roughly 180,000 in the 1960s to under 20,000 by the early 2020s.</p>
-<p>None of this happened because the yakuza became less useful.
-It happened because a sustained political decision was made
-to make the cost of association with them prohibitive for legitimate businesses.
-The tech industry's political connections are currently a source of strength;
-this history suggests they can be made a source of vulnerability
-[<a class="bib-ref" href="#bibliography--Adelstein2023">Adelstein2023</a>, <a class="bib-ref" href="#bibliography--Kaplan2012">Kaplan2012</a>].</p>
-<h3>Big Tech is Like the Radio Payola System</h3>
-<p>Supermarkets charge manufacturers <a class="gl-ref" href="#glossary--slotting-fees">slotting fees</a> for shelf space,
-paying premium rates for eye-level placement and end-cap displays.
-A product placed at eye level is there because its manufacturer paid for the position,
-not because it is the best option in its category,
-but consumers have no way to know this.</p>
-<p>In the 1950s and 1960s,
-record labels paid disc jockeys to play their records,
-presenting purchased airplay as their independent opinion.
-Congressional hearings in 1959 exposed the practice,
-the Federal Communications Commission made <a class="gl-ref" href="#glossary--payola">payola</a> illegal,
-and Alan Freed,
-one of the most prominent DJs of the era,
-was prosecuted and his career ended.</p>
-<p>However,
-the hearings focused on individual wrongdoers rather than
-on the structure that made the wrongdoing rational.
-The practice therefore continued more or less uninterrupted
-through intermediaries that technically complied with disclosure requirements
-while achieving the same result.
-This is an example of <a class="gl-ref" href="#glossary--regulatory-capture">regulatory capture</a>:
-the agency charged with overseeing an industry becomes more responsive to the industry's interests
-than to the public interest it was created to protect.</p>
-<p>A related problem arises
-when a platform operates as both a marketplace administrator and a competitor within that marketplace.
-Google places its own vertical search products at the top of search results
-while ranking competing services lower,
-and Apple controls the ranking system on the App Store
-that determines how visible its own applications and competing third-party applications are.
-The consumer's position is identical to the radio listener in the payola era:
-prominent placement is a false signal of quality.</p>
-<div class="callout">
-<p>In 2016, a Chinese student named Wei Zexi died after following Baidu's top-ranked search result
-for a cancer treatment to a hospital that had paid for that placement,
-exposing the search engine's practice of selling results presented as editorial recommendations
-to users who had no way to tell the difference.</p>
-</div>
-<p>Securities law prohibits an analogous conflict known as <a class="gl-ref" href="#glossary--front-running">front-running</a>.
-A broker who executes customer orders is prohibited from trading against clients
-using client order information
-because taking advantage of insider information takes value from the customer.
-The standards that financial regulators apply have not been extended to platform markets,
-even though the identical conflict of interest produces the identical harm.</p>
-<p>What would actually work is structural separation:
-a search engine that derived no revenue from placement
-would have no incentive to blur the line between paid and organic results.
-Short of this,
-accurate disclosure would require prominence and clarity that platforms have no incentive to provide,
-since their business model depends on users not knowing that the game is rigged
-[<a class="bib-ref" href="#bibliography--Doctorow2022">Doctorow2022</a>, <a class="bib-ref" href="#bibliography--Stoller2019">Stoller2019</a>, <a class="bib-ref" href="#bibliography--Khan2017">Khan2017</a>].</p>
-
-    </section>
-
     <section id="changes-minds">
-      <h2>12. What Actually Changes Minds</h2>
+      <h2>13. What Actually Changes Minds</h2>
 
 
 <h3>The Mathematics of Change</h3>
@@ -4456,7 +5145,7 @@ and what their experience suggests about what you might do next.</p>
     </section>
 
     <section id="regulation-works">
-      <h2>13. Regulation That Worked</h2>
+      <h2>14. Regulation That Worked</h2>
 
 
 <h3>How Tobacco Was Tamed</h3>
@@ -4886,7 +5575,7 @@ social media, AI, and large tech platforms' surveillance of everyday life.</p>
     </section>
 
     <section id="inequality">
-      <h2>14. Who Gets What and Why</h2>
+      <h2>15. Who Gets What and Why</h2>
 
 
 <h3>The Myth of Meritocracy</h3>
@@ -5247,7 +5936,7 @@ most people will find ways to make peace with the harm
     </section>
 
     <section id="speech-arms">
-      <h2>15. Speech, Arms, and Algorithms</h2>
+      <h2>16. Speech, Arms, and Algorithms</h2>
 
 
 <h3>Free Speech and Hate Speech</h3>
@@ -5538,7 +6227,7 @@ sustained, organized pressure wins time after time [<a class="bib-ref" href="#bi
     </section>
 
     <section id="ai-happens">
-      <h2>16. When the Algorithm Comes for You</h2>
+      <h2>17. When the Algorithm Comes for You</h2>
 
 
 <p>A lot of people are afraid that AI is going to take their jobs.
@@ -5693,7 +6382,7 @@ The question is not whether to act but where to direct the effort.</p>
     </section>
 
     <section id="how-change">
-      <h2>17. What Changes and How</h2>
+      <h2>18. What Changes and How</h2>
 
 
 <h3>The Ozone Hole That Closed</h3>
@@ -6081,159 +6770,6 @@ Choosing to work on a product without asking who it will harm is a political act
 The only question is whether the political choices being made are made consciously
 and with an understanding of their consequences
 [<a class="bib-ref" href="#bibliography--Young2024">Young2024</a>, <a class="bib-ref" href="#bibliography--Chenoweth2011">Chenoweth2011</a>].</p>
-
-    </section>
-
-    <section id="what-next">
-      <h2>18. What You Do Next</h2>
-
-
-<h3>Five Tools</h3>
-<p>The preceding chapters have made a consistent argument:
-large-scale harm is produced by systems with structural incentives to produce it,
-and those systems change when organized groups impose sustained economic or political costs on them.
-That argument implies something about strategy.
-Individual ethical consumption, career choices, and personal commitments matter to the people who make them,
-but they are not the mechanism by which industries get regulated or power gets redistributed.
-The mechanism is collective.</p>
-<p>Five tools have historically been effective at producing structural change.</p>
-<p><strong>Collective organizing</strong> means building institutions with the capacity to act in coordination.
-Unions, professional associations, tenants' organizations, and consumer groups
-all operate on the same principle:
-the leverage available to any individual is small,
-but the leverage available to an organized group
-is proportional to how many members it has and how much they are prepared to do.
-In the tech industry, this includes formal union organizing,
-which has made progress at some major tech companies in recent years,
-but also informal networks, internal advocacy groups, and walkouts.
-The 2023 Writers Guild of America strike demonstrated that workers
-can negotiate explicit contractual limits on how AI is used against them—limits
-that no individual writer could have secured alone.</p>
-<p><strong>Regulatory pressure</strong> means participating in the political processes through which rules get made.
-This includes litigation, which has broken up monopolies, forced safety standards, and established legal rights.
-It includes lobbying, which is what organized groups do when they communicate with legislators.
-It includes public comment, which is how regulatory agencies collect input from people outside government.
-It includes electoral organizing, because the people who make and enforce rules are selected through elections.
-None of these are glamorous, and most of them are slow.
-The tobacco case took forty years from the first clear science to a partial legal settlement.
-The environmental victories described in earlier chapters took decades of sustained pressure.
-The tech industry's political connections are currently a source of strength;
-the history of the yakuza suggests they can be made a source of vulnerability
-through sustained political decisions to make the cost of association with harmful practices prohibitive.</p>
-<p><strong>Alternative structures</strong> means building institutions that demonstrate other models are possible.
-Worker cooperatives, public banking, open-source software, public payment infrastructure like India's UPI—
-these are not just alternatives to existing institutions.
-They are existence proofs that the existing institutions are not the only possible arrangement.
-Mondragón has been running for nearly seventy years.
-The Viennese Gemeindebau has housed working-class families for a century.
-Credit unions serve roughly a billion people worldwide.
-The claim that shareholder capitalism is the only workable model for large-scale enterprise
-is empirically false, and demonstrating that falseness is itself a form of political action.</p>
-<p><strong>Strategic communication</strong> means engaging seriously with the psychology of belief change.
-Facts do not change minds in contested domains; stories told by trusted messengers do.
-This is not a counsel of manipulation.
-It is a recognition that if you want to change what people believe about AI regulation,
-platform power, or labor rights,
-you need to find people whose social worlds already include such conversations,
-meet them where they are,
-and make updating their beliefs consistent with rather than threatening to their identities.
-Public health campaigns that have worked—on smoking, on seatbelt use, on HIV—
-did not do it by publishing better statistics.
-They found language and messengers that made the change feel possible.</p>
-<p><strong>Sustained participation</strong> means showing up repeatedly over years.
-The Federalist Society built its judicial pipeline over forty years.
-The labor movement built the eight-hour day over forty years.
-The LGBTQ+ rights movement built toward marriage equality over forty years.
-This is the part of the agenda that is most difficult to communicate
-to people who are accustomed to fast feedback loops.
-No single action produces structural change.
-What produces structural change is organizational capacity built before a political opening arrives,
-and the willingness to use that capacity when the opening comes.</p>
-<h3>Jay's Choices</h3>
-<p>Jay is a twenty-five-year-old front-end developer at an e-commerce company.
-Jay is not a policymaker or a CEO or a journalist.
-Jay is worried about AI and climate change
-and feels like both sides in political arguments are equally strident and self-righteous.
-Jay volunteers one evening a week at an adult literacy program at a local library.</p>
-<p>What does this course imply for someone in Jay's position?</p>
-<p>At work, the most immediate choices are about what to build and who to build it for.
-This course has described how products encode assumptions about users—
-about whose harm is legible and whose is not,
-about whose data is worth protecting and whose is available for extraction.
-Asking those questions explicitly, in design reviews and sprint retrospectives and architecture discussions,
-is a form of organizational voice.
-It is not sufficient on its own, but it is not nothing.
-Every major organizational harm documented in this course
-was produced by organizations full of people who did not ask these questions.</p>
-<p>If Jay's company has a union or a worker advocacy group,
-joining it is the highest-leverage individual action available.
-If it does not, the question of whether to organize one is a serious question, not a fantasy.
-The WGA organized Hollywood writers.
-Google's cafeteria workers organized while the engineers were still debating whether organizing was appropriate.
-The tech workers who have organized in recent years did so the same way everyone else has:
-by finding other people who shared their concerns and committing to sustained collective action.</p>
-<p>In community, Jay is already doing something valuable by showing up at the literacy program.
-Civil society institutions—libraries, community organizations, mutual aid networks, neighborhood associations—
-are where the organizational capacity for political action gets built.
-The Montgomery Bus Boycott was organized by people who knew each other from church.
-The abolitionist movement in Britain was organized by people who knew each other from Quaker meetings.
-The specific institution matters less than the sustained, repeated contact
-that allows people to build trust and coordinate action.</p>
-<p>Politically, the most useful question for Jay is not "which party should I vote for"
-but "where can I apply organized pressure most effectively."
-Electoral organizing matters, but so does showing up to public comment periods,
-participating in professional associations that engage with regulation,
-and joining organizations that are doing the sustained work of advocacy
-on issues that are more specific than a party platform.
-The 3.5 percent threshold Chenoweth identified is not an abstraction.
-In a city of half a million people, it is seventeen thousand people doing something,
-not just believing something.</p>
-<h3>A Closing Note</h3>
-<p>When I was young,
-homosexuality was a criminal offense almost everywhere in the world.
-It is now legal in most countries,
-and same-sex marriage is recognized in dozens.
-Two hundred years ago, almost every society in the world practiced slavery.
-A hundred years ago, when my grandmother was young,
-she wasn't legally a person in Canada.</p>
-<p>None of this happened by accident.
-Every one of those changes was opposed by people who had power and interests in keeping things as they were.
-Every one of them took longer than it should have and cost more than it should have.
-And every one of them happened because people organized, applied pressure, and did not stop.</p>
-<p>The tech industry is not a new civilization.
-It is an industry, with the same structural pressures, the same political dynamics,
-and the same capacity for regulation that every industry before it has had.
-The analogies in these chapters are not decorative.
-They are an argument that what looks new and unprecedented
-is mostly old with better marketing.</p>
-<p>I wrote this because I am angry.
-I am angry because the tools that could help people understand each other
-are being used to make us afraid of each other.
-I am angry because decisions with consequences for billions of people
-are being made by a small number of people accountable to no one.
-I am angry because the generation now entering the workforce
-inherited problems they did not create and was handed fewer tools to solve them.</p>
-<p>But I am also not finished being hopeful.
-The evidence reviewed in this course is mostly evidence that change is hard.
-It is not evidence that change is impossible.
-The rivers ran again.
-The ozone hole is closing.
-Workers in Melbourne got their eight-hour day and the idea spread around the world.</p>
-<p>You are not going to solve any of this alone.
-You are going to have to work with people you disagree with,
-accept partial victories,
-and keep going after setbacks.
-You are going to have to be patient and organized and strategic in ways
-that feel much less satisfying than righteous anger.</p>
-<p>But you already know how to build things.
-You know how to think about systems.
-You know how to debug complex interactions.
-The political and social systems this course has described
-are not more complex than the technical systems you work with.
-They are just harder to test.</p>
-<p>Start where you are.
-Use what you have.
-Help who you can.</p>
 
     </section>
 

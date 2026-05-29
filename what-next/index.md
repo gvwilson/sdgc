@@ -1,6 +1,5 @@
 # What You Do Next
 
-
 ## Five Tools
 
 The preceding chapters have made a consistent argument:
@@ -70,20 +69,11 @@ No single action produces structural change.
 What produces structural change is organizational capacity built before a political opening arrives,
 and the willingness to use that capacity when the opening comes.
 
-
-## Jay's Choices
-
-Jay is a twenty-five-year-old front-end developer at an e-commerce company.
-Jay is not a policymaker or a CEO or a journalist.
-Jay is worried about AI and climate change
-and feels like both sides in political arguments are equally strident and self-righteous.
-Jay volunteers one evening a week at an adult literacy program at a local library.
-
-What does this course imply for someone in Jay's position?
+## Where Do You Start?
 
 At work, the most immediate choices are about what to build and who to build it for.
-This course has described how products encode assumptions about users—
-about whose harm is legible and whose is not,
+This course has described how products encode assumptions about users—about
+whose harm is legible and whose is not,
 about whose data is worth protecting and whose is available for extraction.
 Asking those questions explicitly, in design reviews and sprint retrospectives and architecture discussions,
 is a form of organizational voice.
@@ -91,7 +81,7 @@ It is not sufficient on its own, but it is not nothing.
 Every major organizational harm documented in this course
 was produced by organizations full of people who did not ask these questions.
 
-If Jay's company has a union or a worker advocacy group,
+If your company has a union or a worker advocacy group,
 joining it is the highest-leverage individual action available.
 If it does not, the question of whether to organize one is a serious question, not a fantasy.
 The WGA organized Hollywood writers.
@@ -99,7 +89,9 @@ Google's cafeteria workers organized while the engineers were still debating whe
 The tech workers who have organized in recent years did so the same way everyone else has:
 by finding other people who shared their concerns and committing to sustained collective action.
 
-In community, Jay is already doing something valuable by showing up at the literacy program.
+In community,
+you may already be doing something valuable,
+like showing up at a literacy program or helping at a food bank.
 Civil society institutions—libraries, community organizations, mutual aid networks, neighborhood associations—
 are where the organizational capacity for political action gets built.
 The Montgomery Bus Boycott was organized by people who knew each other from church.
@@ -107,55 +99,40 @@ The abolitionist movement in Britain was organized by people who knew each other
 The specific institution matters less than the sustained, repeated contact
 that allows people to build trust and coordinate action.
 
-Politically, the most useful question for Jay is not "which party should I vote for"
-but "where can I apply organized pressure most effectively."
+Politically,
+the most useful question is not "which party should I vote for?"
+but "where can I apply organized pressure most effectively?"
 Electoral organizing matters, but so does showing up to public comment periods,
 participating in professional associations that engage with regulation,
 and joining organizations that are doing the sustained work of advocacy
 on issues that are more specific than a party platform.
-The 3.5 percent threshold Chenoweth identified is not an abstraction.
+The 3.5 percent threshold Chenoweth identified is not an abstraction [%b Chenoweth2011 %].
 In a city of half a million people, it is seventeen thousand people doing something,
 not just believing something.
 
-
 ## A Closing Note
-
-When I was young,
-homosexuality was a criminal offense almost everywhere in the world.
-It is now legal in most countries,
-and same-sex marriage is recognized in dozens.
-Two hundred years ago, almost every society in the world practiced slavery.
-A hundred years ago, when my grandmother was young,
-she wasn't legally a person in Canada.
-
-None of this happened by accident.
-Every one of those changes was opposed by people who had power and interests in keeping things as they were.
-Every one of them took longer than it should have and cost more than it should have.
-And every one of them happened because people organized, applied pressure, and did not stop.
 
 The tech industry is not a new civilization.
 It is an industry, with the same structural pressures, the same political dynamics,
 and the same capacity for regulation that every industry before it has had.
-The analogies in these chapters are not decorative.
-They are an argument that what looks new and unprecedented
-is mostly old with better marketing.
+The analogies in these chapters are proof that
+what looks new and unprecedented is mostly old with better marketing.
 
+As I said in the introduction,
 I wrote this because I am angry.
-I am angry because the tools that could help people understand each other
-are being used to make us afraid of each other.
-I am angry because decisions with consequences for billions of people
+Tools that could help people understand each other are being used to make us afraid of each other.
+Decisions with consequences for billions of people
 are being made by a small number of people accountable to no one.
-I am angry because the generation now entering the workforce
+The generation now entering the workforce
 inherited problems they did not create and was handed fewer tools to solve them.
 
 But I am also not finished being hopeful.
-The evidence reviewed in this course is mostly evidence that change is hard.
-It is not evidence that change is impossible.
-The rivers ran again.
-The ozone hole is closing.
-Workers in Melbourne got their eight-hour day and the idea spread around the world.
+Change is hard, but it is not impossible.
+Gay marriage is legal.
+The ozone hole is closing,
+and the world is building solar power faster than anyone imagined was possible.
 
-You are not going to solve any of this alone.
+You are not going to solve big problems alone.
 You are going to have to work with people you disagree with,
 accept partial victories,
 and keep going after setbacks.
@@ -169,6 +146,7 @@ The political and social systems this course has described
 are not more complex than the technical systems you work with.
 They are just harder to test.
 
-Start where you are.
-Use what you have.
-Help who you can.
+So:
+start where you are,
+use what you have,
+help who you can.
