@@ -141,7 +141,7 @@ reframing the issue so that updating does not require identity betrayal,
 and working through social networks rather than through arguments.
 This is not manipulation:
 it is taking the actual psychology of belief seriously.
-Chapter 12 examines the mechanisms of belief change in detail,
+Chapter FIXME examines the mechanisms of belief change in detail,
 drawing on the history of campaigns that succeeded
 [%b Achen2017 Kahneman2011 SteinLubrano2024 %].
 
