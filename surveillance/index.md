@@ -102,16 +102,6 @@ almost automatically,
 one of the most comprehensive biometric databases in the world at the time
 [%b Breckenridge2016 %].
 
-Simone Browne's analysis of the surveillance of Black people in the United States
-and elsewhere argues that modern surveillance practices such as facial recognition
-predictive policing, and airport pat-downs are not new inventions applied to race as an afterthought.
-They grew directly out of earlier practices designed to control enslaved and colonized people.
-The identification and tracking of freed people after the Civil War
-and the systematic photography of colonized people
-both influenced later uses of photography in criminology.
-The tools of identity management and the tools of racial control were never separate projects
-[%b Browne2015 %].
-
 This creates a dilemma that does not have a clean solution.
 Democratic participation depends on being able to identify voters.
 Electoral systems need to verify that voters are eligible residents

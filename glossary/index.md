@@ -248,6 +248,10 @@
     a participant and by those distributors' own recruits, whose sales
     generate commission income for everyone above them in the chain.
 
+<span id="doxxing">doxxing</span>
+:   The publication of private personal information to expose someone
+    to harassment
+
 <span id="dual-class-shares">dual-class shares</span>
 :   A corporate share structure in which two or more classes of stock
     carry different voting rights, typically giving founders or

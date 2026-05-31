@@ -1502,6 +1502,13 @@
     [9780199328499](https://isbnsearch.org/isbn/9780199328499).
     *Argues that American prison gangs emerged as governance institutions filling the vacuum left by inadequate official oversight of the incarcerated.*
 
+<span id="Snowden2020">Snowden2020</span>
+:   Edward Snowden:
+    *Permanent Record*.
+	Henry Holt and Company,
+	2020,
+	[9781250772909](https://isbnsearch.org/isbn/9781250772909).
+
 <span id="Solnit2009">Solnit2009</span>
 :   Rebecca Solnit:
     *A Paradise Built in Hell: The Extraordinary Communities That Arise in Disaster*.

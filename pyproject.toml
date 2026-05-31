@@ -43,8 +43,7 @@ cmd = """
 brand = "SDGC"
 skips = [
     "*~",
-    "_original/**",
-    "docs/**",
-    "log/**",
+    "docs/",
+    "typos.toml",
     "uv.lock"
 ]

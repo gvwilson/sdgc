@@ -35,13 +35,13 @@ they feel both sides are strident and self-righteous.
 1.  [How We Got Here](@/how-we-got-here/) (4629)
 1.  [What Drives Behavior](@/behavior/) (4315)
 1.  [When the Model Is the Harm](@/harmful-models/) (5408)
+1.  [Privacy, Power, and the Self](@/privacy/) (3610)
 1.  [What Changes and How](@/how-change/) (3722)
 1.  [What You Do Next](@/what-next/) (1320)
 
 ### Undone
 
-1.  [Privacy, Power, and the Self](@/privacy/) (4426)
-1.  [What We Owe the Future](@/future/)
+1.  [What We Owe the Future](@/future/) (2371)
 1.  [Controlling Workers](@/worker-control/) (4909)
 1.  [Money, Monopoly, and Bubbles](@/monopoly/) (3130)
 1.  [Alternatives and Dead Weight](@/alternatives/) (3433)
