@@ -223,7 +223,7 @@ then any change in the composition looks like a lowering of standards rather tha
 The response to evidence of the filter is to explain that the filter must be working correctly,
 because look at the results.
 The loop closes there unless something breaks it open
-[%b Gray2009 OmiWinant2015 Tripp2015 %].
+[%b OmiWinant2015 Tripp2015 %].
 
 
 ## The Construction of Race

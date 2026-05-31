@@ -40,6 +40,8 @@ they feel both sides are strident and self-righteous.
 
 ### Undone
 
+1.  [Privacy, Power, and the Self](@/privacy/) (4426)
+1.  [What We Owe the Future](@/future/)
 1.  [Controlling Workers](@/worker-control/) (4909)
 1.  [Money, Monopoly, and Bubbles](@/monopoly/) (3130)
 1.  [Alternatives and Dead Weight](@/alternatives/) (3433)

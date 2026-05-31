@@ -411,3 +411,9 @@ The companies that benefit from this system defend it as legal, which it is.
 They also describe it as responsible tax planning,
 which is a creative use of the word responsible
 [%b Zucman2015 Schneier2023 %].
+
+(The broader political history of financial secrecy—
+including how the same offshore infrastructure has been used by dictators
+to conceal looted national wealth—
+is discussed in [Privacy, Power, and the Self](@/privacy/).)
+

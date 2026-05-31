@@ -187,6 +187,14 @@ Politics is what happens when a group of people
 who do not fully agree on goals or values
 nonetheless need to act together.
 The alternative to politics is not harmony—it is coercion.
+Isaiah Berlin argued that this disagreement is not a temporary condition
+awaiting the right institutional fix.
+The goods people pursue—liberty and equality, security and freedom, efficiency and fairness—are
+genuinely plural and irreconcilable:
+you cannot maximize all of them simultaneously,
+and no rearrangement will make the conflict disappear [%b Berlin1991 %].
+Liberal democracy is not a system for finding the right answer.
+It is a system for managing the permanent tension between right answers that contradict each other.
 A group that appears to have no politics is usually one
 in which someone has already won so decisively
 that further fighting seems pointless.
