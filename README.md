@@ -36,6 +36,7 @@ they feel both sides are strident and self-righteous.
 1.  [What Drives Behavior](@/behavior/) (4315)
 1.  [When the Model Is the Harm](@/harmful-models/) (5408)
 1.  [Privacy, Power, and the Self](@/privacy/) (3610)
+1.  [Surveillance, Identity, and Desire](@/surveillance/) (2816)
 1.  [What Changes and How](@/how-change/) (3722)
 1.  [What You Do Next](@/what-next/) (1320)
 
@@ -45,7 +46,6 @@ they feel both sides are strident and self-righteous.
 1.  [Controlling Workers](@/worker-control/) (4909)
 1.  [Money, Monopoly, and Bubbles](@/monopoly/) (3130)
 1.  [Alternatives and Dead Weight](@/alternatives/) (3433)
-1.  [Surveillance, Identity, and Desire](@/surveillance/) (2816)
 1.  [Regulation That Worked](@/regulation-works/) (3365)
 1.  [Who Gets What and Why](@/inequality/) (3183)
 1.  [Speech, Arms, and Algorithms](@/speech-arms/) (2529)

@@ -1,182 +1,127 @@
 # Surveillance, Identity, and Desire
 
-## Big Tech is Like the Stasi
+## Big Tech is Like a Company Town
 
-The most thorough surveillance states in history were built without computers.
-The [%g surveillance-economy "surveillance economy" %] that platforms have built
-differs in purpose and legal status from those states,
-but shares their appetite for information about everyone.
-
-Corporate data collection operates under a framework built largely around consent
-obtained through contracts that no one reads
-and that cannot meaningfully be refused by people who want to participate in modern life.
-When a platform argues that its collection of behavioral data is voluntary
-and therefore not a privacy violation,
-it is making a legal argument, not a factual one.
-The legal distinction between state surveillance and corporate surveillance
-also ignores how governments now use corporate data collections
-to conduct surveillance they could not legally conduct directly.
-
-<div class="callout" markdown="1">
-
-Facebook's recommendation algorithm promoted content dehumanizing the Rohingya people in Myanmar,
-a fact the company's own researchers documented;
-the UN's 2018 fact-finding mission identified Facebook as a "contributing factor" to the genocide—
-a case where corporate surveillance infrastructure was weaponized for ethnic cleansing
-at a cost of zero to the platform.
-
-</div>
-
-(For the history of privacy as a contested concept,
-the psychology of surveillance, and the question of who needs privacy most,
-see [Privacy, Power, and the Self](@/privacy/).)
-
-## Who Are You?
-
-In 1879, a young police clerk in Paris named Alphonse Bertillon
-proposed a solution to a problem that had plagued law enforcement for decades:
-how do you know if the person in front of you is who they say they are?
-Before photographs were cheap to reproduce and before fingerprint databases existed,
-professional criminals could simply give a false name and walk free.
-Bertillon's answer was [%g bertillonage "anthropometry" %]:
-measure the skull, the length of the forearm,
-and other bodily dimensions that, taken together,
-were statistically unlikely to be identical in any two people.
-The system spread across Europe, the United States, and colonies in Asia and Africa,
-and was the first large-scale attempt to use the body as a database.
-
-Bertillonage had a fundamental weakness:
-measurements had to be taken correctly by trained operators.
-By 1900 fingerprinting was replacing it almost everywhere
-because fingerprints were more reliable and required less skill to record.
-But the desire of states and institutions to pin individuals permanently to a record
-did not die with the calipers.
-
-The history of identity management is partly the history of states
-trying to solve what the political scientist James C. Scott calls the legibility problem.
-A state cannot tax, draft, or police people it cannot identify.
-Medieval English peasants might know themselves as "John the Miller's son from the village by the ford",
-but that description doesn't survive a move to a city or a change of occupation.
-Surnames became standardized in Europe partly because governments needed them.
-The same logic produced house numbers in Paris and Vienna,
-censuses across the colonial world,
-and passports that began as occasional travel documents issued by monarchs
-and became, by the twentieth century, a requirement for crossing most international borders.
-
-The problem is that the state's desire for legibility doesn't have a built-in limit.
-The state that registers births so it can provide schooling
-can use that register to conscript soldiers.
-The government that issues identity documents to allow people to vote
-can use those documents to deport people.
-Once a population register exists,
-every subsequent administration can use it for whatever purpose it finds useful
-[%b Scott1998 %].
-
-Colonial governments exploited it systematically.
-The British introduced population registers, caste certificates,
-and tribal designations across India, Africa, and Southeast Asia
-that served double purposes:
-administration, taxation, and census on one hand,
-and on identifying potential troublemakers and restricting movement on the other.
-South Africa's pass laws,
-introduced gradually from the eighteenth century and formalized under apartheid after 1948,
-required Black South Africans to carry a reference book at all times.
-The book recorded their employer,
-their designated "homeland,"
-and their permission to be in urban areas.
-Police could stop anyone and demand the book;
-failure to produce it meant arrest.
-The pass system was one of the most sophisticated identity management infrastructure projects in history,
-and it was designed entirely to restrict freedom of movement
-and force labor into mines and factories at wages set by the government.
-
-Keith Breckenridge's history of South African [%g biometrics "biometrics" %]
-traces a direct line from the pass system
-to the world's first large-scale biometric population register,
-introduced in South Africa in 1986.
-Fingerprints were added to the passbook 
-because fingerprints are harder to falsify than signatures
-and do not require literacy.
-A system designed to prevent forgery of internal passports became,
-almost automatically,
-one of the most comprehensive biometric databases in the world at the time
-[%b Breckenridge2016 %].
-
-This creates a dilemma that does not have a clean solution.
-Democratic participation depends on being able to identify voters.
-Electoral systems need to verify that voters are eligible residents
-and prevent people from voting twice.
-This requires some form of voter registration,
-and voter registration requires identity documentation.
-In the United States,
-the history of voter registration is entangled with the history of voter suppression:
-poll taxes, literacy tests, grandfather clauses,
-and, since the 1990s, photo ID requirements that are nominally neutral
-but fall disproportionately on communities
-less likely to hold a driver's license:
-the poor, the elderly, and people of color.
-The registration systems needed to enable political participation
-have been weaponized to prevent it.
-
-But the dilemma goes deeper than that.
-Communities that have historically been targeted by state identity systems
-have rational reasons to distrust those systems.
-If the government has used population registers to intern Japanese-Americans
-to deport undocumented immigrants in mass raids,
-people are right to be suspicious of any new identity system.
-Even if today's government only intends to use it for good,
-it cannot constrain promise the behavior of future governments.
-
-This dilemma is now one of the biggest challenges facing democracy.
-The communities most harmed by identity management in the past
-have the best reasons to distrust registration systems,
-but that distrust keeps them from participating in the political processes
-that would let them constrain those systems.
-Fear of being rounded up is itself a tool of disenfranchisement.
-
-India's Aadhaar system, launched in 2009, has enrolled over 1.3 billion people
-in a biometric identity database based on fingerprints and iris scans
-linked to a twelve-digit number.
-Its designers argued that a universal, biometric identifier would eliminate
-fraud and exclusion in government benefit programs
-by making identity verification objective.
-The argument was partly correct:
-Aadhaar has reduced certain kinds of fraud
-and brought some previously excluded people into the formal economy.
-It has also created new forms of exclusion.
-People who cannot authenticate are cut off from food rations and pension payments,
-and the database itself represents a concentration of sensitive biometric information
-that, if breached, cannot be reset:
-you can change your password, but you cannot get new fingerprints.
+E.P. Thompson's account of the transition from putting-out to factory production
+made a point that factories were initially not more efficient at producing cloth:
+they were more effective at eliminating worker autonomy.
+Before industrialization,
+workers controlled their own time and pace,
+could share work across household members,
+and could resist disadvantageous terms through slow work, variable quality, and informal coordination.
+The factory closed off these responses:
+workers arrived at fixed times,
+worked at a supervised pace,
+and until labor unions emerged,
+had no practical means of collective withdrawal.
+The shift to app-based platform work is doing the same thing today.
+The app is not merely a more convenient interface.
+It is supervisory infrastructure that monitors pace and completion rates
+and eliminates the degrees of freedom that less tightly managed arrangement permitted
+[%b Thompson1963 %].
 
 <div class="callout" markdown="1">
 
-The European Union's General Data Protection Regulation (GDPR),
-which came into force in 2018,
-treats biometric data as a special category requiring explicit consent
-and restricts its collection and processing.
-The regulation is imperfect and inconsistently enforced,
-but it exists because privacy advocates organized across member states
-over roughly two decades to demand it.
-It is the most significant constraint on commercial biometric data collection in the world.
-The tech industry's response has been intrusive pop-ups
-designed to make users blame governments for safeguarding their privacy
-rater than companies for trying to collect information for resale.
+Grab and Gojek motorcycle drivers in Jakarta,
+who own their vehicles but are subject to algorithmically set rates they cannot negotiate
+and risk deactivation for declining rides,
+have organized repeated strikes—the precise form of collective resistance
+available to workers who cannot withdraw their invested capital.
 
 </div>
 
-What abusive identity management has been constrained,
-those constraints have been the result of organized political activity.
-South Africa's pass system was not abolished because its administrators became enlightened;
-it was abolished because the resistance movement grew strong enough to make it unsustainable.
-The constraints on Aadhaar came from litigants and activists who brought cases,
-and the Voting Rights Act of 1965 in the United States came from marchers,
-organizers,
-and a political coalition that made the status quo more costly than change.
-The center always wants more information.
-The question is always whether the people most likely to be harmed by that information
-have enough power to say no
-[%b Cole2002 Torpey2000 %].
+George Pullman built Pullman, Illinois in the 1880s alongside his railroad car factory:
+a planned community where the company owned the workers' housing, stores, church, library, and bank.
+Workers were paid partly in [%g scrip "scrip" %] redeemable only at company stores.
+When Pullman cut wages during the depression of 1893 while holding rents fixed,
+workers could not cushion the blow by cutting other expenses,
+because the company controlled those too.
+They had no recourse and nothing left to lose.
+The 1894 Pullman Strike paralyzed rail traffic across the country
+and required federal troops to suppress,
+which tells you something about what total control eventually produces.
+
+A developer whose business depends entirely on the App Store,
+a seller whose inventory and customer relationships live on Amazon,
+or a creator whose audience exists only within a single platform
+is in an equivalent position:
+the terms can be changed at any time,
+the cost of departure is prohibitive,
+and the entity that provides the housing also adjudicates disputes about it.
+
+What the company town reveals is something market economics tends to obscure:
+the difference between an employer and an infrastructure provider is a matter of degree,
+not kind.
+An employer controls your income;
+an infrastructure provider controls the conditions
+under which you can earn, spend, and participate in social life.
+Pullman did not merely employ his workers:
+he owned the physical environment in which they lived,
+which meant that the power relationship extended past the end of the workday
+into every dimension of daily existence.
+
+Pullman justified all of this in the language of paternalistic improvement.
+The company town was presented as a planned community
+designed to give workers superior housing, sanitation, and amenities
+compared to what they could obtain elsewhere.
+This was partly true:
+Pullman, Illinois was better built than most industrial housing of the period.
+But the justification also framed the absence of collective bargaining as a feature rather than a constraint.
+Workers who were being improved did not need unions.
+They needed to trust the judgment of the person improving them.
+Conveniently,
+this gave the appearance of converting a power arrangement into a benevolent one
+[%b Lindsey1942 %].
+
+The Pullman case was not unusual.
+Coal patches in Appalachia and the Canadian Maritimes operated on the same model:
+company-owned housing,
+company stores where scrip could be spent,
+company control of access roads and community infrastructure.
+In the post-Civil War South, plantation stores extended dependency relationships
+across the formal end of slavery,
+tying sharecroppers to specific land through debt
+that was nearly impossible to escape
+without leaving behind the credit, relationships, and community standing
+that they depended on.
+Mining camps across Latin America reproduced the same structure under different flags.
+The company town is a recurring organizational form
+because it solves a genuine problem for whoever controls it:
+it makes exit nearly impossible while appearing to be voluntary.
+
+<div class="callout" markdown="1">
+
+Foxconn's manufacturing campuses in Shenzhen house hundreds of thousands of workers in company dormitories,
+sell goods through company stores, and provide company-managed transportation—
+the Pullman model operating at a scale Pullman could not have imagined,
+producing the consumer electronics sold by companies that will not acknowledge the supply chain.
+
+</div>
+
+The distinction between short-term dependency and structural lock-in
+is what keeps workers and developers in arrangements that are getting worse.
+Short-term dependency is a rational calculation:
+you stay because the current terms are good enough and leaving has costs.
+Structural lock-in is different.
+The costs of leaving have been deliberately raised
+so that the calculation does not change even as the terms worsen.
+A platform can worsen its terms incrementally;
+each incremental worsening is individually insufficient to justify the exit cost,
+even if the cumulative total is large.
+
+A more extreme form of this appears in the danwei,
+the work unit system through which Mao-era China organized urban life.
+The danwei was the unit through which citizens accessed employment,
+housing, healthcare, food rations, and education for their children.
+To be removed from a danwei was to lose access to all of these simultaneously.
+The contemporary parallel is super-apps like WeChat
+that integrate messaging, payments, healthcare bookings,
+government service access, merchant discovery, and social identity in a single system.
+A user whose account is suspended loses not just a communication tool
+but the infrastructure through which they conduct their civic and commercial life.
+The Pullman Company controlled the economic conditions of workers' lives.
+The super-app, at its most developed, aims to be a danwei
+[%b Stoller2019 Walder2017 %].
 
 ## Big Tech is Like the Beauty Industry
 

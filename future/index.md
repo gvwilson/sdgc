@@ -31,7 +31,7 @@ Since there could be many more future people than present ones,
 their aggregate welfare could easily outweigh ours.
 This is the premise behind William MacAskill's argument
 that the most important thing we can do is improve the long-run trajectory of civilization
-rather than address present problems [%b MacAskill2022 %].
+rather than address present problems [%b Macaskill2023 %].
 
 Rights theorists start from a different place but reach a similar conclusion.
 If future people will have the same moral status as present people—which
@@ -45,7 +45,7 @@ without knowing what position they would occupy in it.
 He extended this thought experiment across generations:
 if you didn't know which generation you'd be born into,
 you would want rules that protected each generation
-from being stripped of resources by its predecessors [%b Rawls1971 %].
+from being stripped of resources by its predecessors [%b Rawls1999 %].
 The philosopher Edmund Burke made a version of this point two centuries ago,
 describing society as a partnership between the dead, the living,
 and those yet to be born [%b Burke1790 %].
@@ -57,7 +57,7 @@ our obligations extend beyond the people we can see and hear.
 
 The philosopher Derek Parfit spent years trying to figure out
 whether any of this actually made sense.
-His conclusion was unsettling [%b Parfit1984 %].
+His conclusion was unsettling [%b Parfit1987 %].
 
 The problem is this:
 the specific people who will exist in the future
@@ -150,8 +150,7 @@ but rather "what would actually change our behavior?"
 
 ## When the Future Is Used Against the Present
 
-MacAskill's longtermism is not merely an academic position
-[%b MacAskill2022 %].
+MacAskill's longtermism is not merely an academic position.
 It is the philosophical foundation of a cluster of movements and organizations
 that have come to exert significant influence over technology policy and philanthropic giving.
 Émile Torres, a philosopher who helped develop these ideas before becoming one of their sharpest critics,
@@ -265,46 +264,3 @@ We are not the owners of the conditions that make civilization possible.
 We are trustees,
 and like all trustees,
 we are accountable for what we hand on—even if the beneficiaries aren't in the room.
-
----
-
-## Bibliography
-
-<span id="Burke1790">Burke1790</span>
-:   Edmund Burke:
-    *Reflections on the Revolution in France*.
-    J. Dodsley,
-    1790.
-    *Classic statement of the conservative case for gradual reform, including the argument that society is a partnership between the dead, the living, and those yet to be born.*
-
-<span id="Jonas1984">Jonas1984</span>
-:   Hans Jonas:
-    *The Imperative of Responsibility: In Search of an Ethics for the Technological Age*.
-    University of Chicago Press,
-    1984 (original German 1979),
-    [9780226405971](https://isbnsearch.org/isbn/9780226405971).
-    *Argues that modern technology demands a new ethics of responsibility oriented toward the long-run future, because our power to cause irreversible harm has far outgrown our ethical frameworks.*
-
-<span id="MacAskill2022">MacAskill2022</span>
-:   William MacAskill:
-    *What We Owe the Future*.
-    Basic Books,
-    2022,
-    [9781541618756](https://isbnsearch.org/isbn/9781541618756).
-    *Argues that future people matter morally as much as present ones, and that improving the long-run trajectory of civilization should be a central ethical priority—a position called longtermism.*
-
-<span id="Parfit1984">Parfit1984</span>
-:   Derek Parfit:
-    *Reasons and Persons*.
-    Oxford University Press,
-    1984,
-    [9780198249085](https://isbnsearch.org/isbn/9780198249085).
-    *Wide-ranging work in moral philosophy; Part IV introduces the non-identity problem, which challenges standard person-affecting accounts of obligations to future generations.*
-
-<span id="Rawls1971">Rawls1971</span>
-:   John Rawls:
-    *A Theory of Justice*.
-    Harvard University Press,
-    1971,
-    [9780674000780](https://isbnsearch.org/isbn/9780674000780).
-    *Foundational work in political philosophy; the "just savings principle" addresses obligations across generations, arguing that each generation must preserve the gains of culture and justice and maintain just institutions.*

@@ -121,15 +121,6 @@ the inability to stop even decades after the state that required it had dissolve
 The surveillance state does not only operate while it exists;
 it rewires the people it surveils.
 
-<div class="callout" markdown="1">
-
-People using social media and AI are revealing more about themselves
-than the Stasi could ever have dreamed of knowing.
-The irony is that the Stasi had to coerce their informants;
-we pay subscription fees for the privilege of being surveilled.
-
-</div>
-
 The developmental case for private space is equally compelling.
 Adolescents need to make mistakes without those mistakes being permanent.
 They need to try on political positions, personal identities, and beliefs,
@@ -156,6 +147,38 @@ but they share the same logic:
 exposure can be a weapon,
 so the ability to protect against exposure is not a luxury
 but a precondition for social participation.
+
+## Paying for the Privilege
+
+People using social media and AI are revealing more about themselves
+than the Stasi could ever have dreamed of knowing.
+The irony is that the Stasi had to coerce their informants;
+we pay subscription fees for the privilege of being surveilled.
+
+The most thorough surveillance states in history were built without computers.
+The [%g surveillance-economy "surveillance economy" %] that social media platforms have created
+differs in purpose and legal status from those states,
+but shares their appetite for information about everyone.
+
+Corporate data collection operates under a framework built largely around consent
+obtained through contracts that no one reads
+and that cannot meaningfully be refused by people who want to participate in modern life.
+When a platform argues that its collection of behavioral data is voluntary
+and therefore not a privacy violation,
+it is making a legal argument, not a factual one.
+The legal distinction between state surveillance and corporate surveillance
+also ignores how governments now use corporate data collections
+to conduct surveillance they could not legally conduct directly.
+
+<div class="callout" markdown="1">
+
+Facebook's recommendation algorithm promoted content dehumanizing the Rohingya people in Myanmar,
+a fact the company's own researchers documented;
+the UN's 2018 fact-finding mission identified Facebook as a "contributing factor" to the genocide—
+a case where corporate surveillance infrastructure was weaponized for ethnic cleansing
+at a cost of zero to the platform.
+
+</div>
 
 ## The Freedom to Become
 
@@ -332,6 +355,50 @@ but that distrust keeps them from participating in the political processes
 that would let them constrain those systems.
 Fear of being rounded up is itself a tool of disenfranchisement.
 
+India's Aadhaar system, launched in 2009, has enrolled over 1.3 billion people
+in a biometric identity database based on fingerprints and iris scans
+linked to a twelve-digit number.
+Its designers argued that a universal, biometric identifier would eliminate
+fraud and exclusion in government benefit programs
+by making identity verification objective.
+The argument was partly correct:
+Aadhaar has reduced certain kinds of fraud
+and brought some previously excluded people into the formal economy.
+It has also created new forms of exclusion.
+People who cannot authenticate are cut off from food rations and pension payments,
+and the database itself represents a concentration of sensitive biometric information
+that, if breached, cannot be reset:
+you can change your password, but you cannot get new fingerprints.
+
+<div class="callout" markdown="1">
+
+The European Union's General Data Protection Regulation (GDPR),
+which came into force in 2018,
+treats biometric data as a special category requiring explicit consent
+and restricts its collection and processing.
+The regulation is imperfect and inconsistently enforced,
+but it exists because privacy advocates organized across member states
+over roughly two decades to demand it.
+It is the most significant constraint on commercial biometric data collection in the world.
+The tech industry's response has been intrusive pop-ups
+designed to make users blame governments for safeguarding their privacy
+rater than companies for trying to collect information for resale.
+
+</div>
+
+What abusive identity management has been constrained,
+those constraints have been the result of organized political activity.
+South Africa's pass system was not abolished because its administrators became enlightened;
+it was abolished because the resistance movement grew strong enough to make it unsustainable.
+The constraints on Aadhaar came from litigants and activists who brought cases,
+and the Voting Rights Act of 1965 in the United States came from marchers,
+organizers,
+and a political coalition that made the status quo more costly than change.
+The center always wants more information.
+The question is always whether the people most likely to be harmed by that information
+have enough power to say no
+[%b Cole2002 Torpey2000 %].
+
 ## The Moral Arguments
 
 The first American legal argument for a right to privacy was made by two Boston lawyers,
@@ -439,7 +506,7 @@ Corporate secrecy operates the same way at a smaller scale.
 Non-disclosure agreements are legitimate legal instruments
 when they protect trade secrets or the terms of commercial negotiation.
 They become instruments of harm when used to prevent victims of sexual abuse and harassment from speaking.
-Harvey Weinstein's NDAs required victims' silence as a condition of financial settlement.
+Harvey Weinstein's non-disclosure agreements required victims' silence as a condition of financial settlement.
 Both Weinstein and Jeffrey Epstein continued to harm additional people for years
 because the financial privacy of the settlement was used to suppress testimony
 that would have enabled legal action.

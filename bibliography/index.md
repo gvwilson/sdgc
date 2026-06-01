@@ -250,6 +250,13 @@
     [9781610390446](https://isbnsearch.org/isbn/9781610390446).
     *Argues that political leaders of all regime types prioritize keeping a small coalition of key supporters satisfied over serving the general population.*
 
+<span id="Burke1790">Burke1790</span>
+:   Edmund Burke:
+    *Reflections on the Revolution in France*.
+    J. Dodsley,
+    1790.
+    *Classic statement of the conservative case for gradual reform, including the argument that society is a partnership between the dead, the living, and those yet to be born.*
+
 ## C
 
 <span id="Campbell2001">Campbell2001</span>
@@ -832,6 +839,14 @@
     [9780307379054](https://isbnsearch.org/isbn/9780307379054).
     *Describes how the concentration of Wall Street banks created a financial oligarchy that captured regulatory agencies that led to the 2008 financial crisis.*
 
+<span id="Jonas1984">Jonas1984</span>
+:   Hans Jonas:
+    *The Imperative of Responsibility: In Search of an Ethics for the Technological Age*.
+    University of Chicago Press,
+    1984 (original German 1979),
+    [9780226405971](https://isbnsearch.org/isbn/9780226405971).
+    *Argues that modern technology demands a new ethics of responsibility oriented toward the long-run future, because our power to cause irreversible harm has far outgrown our ethical frameworks.*
+
 ## K
 
 <span id="Kahneman2011">Kahneman2011</span>
@@ -998,6 +1013,14 @@
     *Global history of land ownership, arguing that private property in land has been the central driver of economic and political history.*
 
 ## M
+
+<span id="Macaskill2023">Macaskill2023</span>
+:   William MacAskill:
+    *What We Owe the Future*.
+    Basic Books,
+    2023,
+    [9781541604032](https://isbnsearch.org/isbn/9781541604032).
+    *Argues that future people matter morally as much as present ones, and that improving the long-run trajectory of civilization should be a central ethical priority—a position called longtermism.*
 
 <span id="Macintyre2020">Macintyre2020</span>
 :   Stuart Macintyre:
@@ -1230,6 +1253,14 @@
     [9781541705302](https://isbnsearch.org/isbn/9781541705302).
     *Analysis of corporate scandals, identifying the organizational and psychological dynamics that normalizes unethical behavior.*
 
+<span id="Parfit1987">Parfit1987</span>
+:   Derek Parfit:
+    *Reasons and Persons*.
+    Clarendon Press,
+    1987,
+    [9780198249085](https://isbnsearch.org/isbn/9780198249085).
+    *Wide-ranging work in moral philosophy; Part IV introduces the non-identity problem, which challenges standard accounts of obligations to future generations.*
+
 <span id="Parson2003">Parson2003</span>
 :   Edward A. Parson:
     *Protecting the Ozone Layer: Science and Strategy*.
@@ -1322,6 +1353,14 @@
     *A collection of essays from disaster researchers examining what makes an event a disaster, showing how the concept is contested across disciplines.*
 
 ## R
+
+<span id="Rawls1999">Rawls1999</span>
+:   John Rawls:
+    *A Theory of Justice* (2nd ed.).
+    Harvard University Press,
+    1999 (original 1971),
+    [9780674000780](https://isbnsearch.org/isbn/9780674000780).
+    *Foundational work in political philosophy; the "just savings principle" addresses obligations across generations, arguing that each generation must preserve the gains of culture and justice and maintain just institutions.*
 
 <span id="Reich2018">Reich2018</span>
 :   Rob Reich:
@@ -1505,9 +1544,9 @@
 <span id="Snowden2020">Snowden2020</span>
 :   Edward Snowden:
     *Permanent Record*.
-	Henry Holt and Company,
-	2020,
-	[9781250772909](https://isbnsearch.org/isbn/9781250772909).
+    Henry Holt and Company,
+    2020,
+    [9781250772909](https://isbnsearch.org/isbn/9781250772909).
 
 <span id="Solnit2009">Solnit2009</span>
 :   Rebecca Solnit:

@@ -22,7 +22,7 @@ campaigns that engaged the active participation of roughly 3.5 percent of the po
 The mechanism is not mysterious.
 Nonviolent campaigns can recruit from a broader population,
 including people who will not take up arms but will march, boycott, strike, or withdraw labor.
-Broader participation creates broader [%g legitimacy "legitimacy" %]
+Broader participation creates broader legitimacy
 and makes it harder for the state to frame repression as protecting order
 rather than suppressing dissent.
 The 3.5 percent figure is not a guarantee;
