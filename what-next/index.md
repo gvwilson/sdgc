@@ -1,5 +1,202 @@
 # What You Do Next
 
+## The Mathematics of Change
+
+The dominant popular narrative about social change centers on individuals:
+Rosa Parks refused to give up her seat and the Civil Rights Movement was born.
+This narrative is factually wrong and strategically disabling.
+Rosa Parks was the secretary of the Montgomery chapter of the NAACP
+and had recently attended the Highlander Folk School,
+a training center for labor and civil rights organizers.
+The Montgomery Bus Boycott that followed her arrest was organized by the Montgomery Improvement Association,
+coordinated carpools across a city for over a year,
+and was sustained by the labor of hundreds of people whose names are not remembered.
+The reduction of that campaign to one person's spontaneous act of courage
+makes it both more inspiring and less useful as a model.
+
+The most rigorous quantitative analysis of social change
+is Erica Chenoweth and Maria Stephan's study of 323 resistance campaigns between 1900 and 2006.
+Their finding is that nonviolent campaigns succeeded roughly twice as often as violent ones,
+and that the threshold for success was consistent:
+campaigns that engaged the active participation of roughly 3.5 percent of the population did not fail.
+The mechanism is not mysterious.
+Nonviolent campaigns can recruit from a broader population,
+including people who will not take up arms but will march, boycott, strike, or withdraw labor.
+Broader participation creates broader [%g legitimacy "legitimacy" %]
+and makes it harder for the state to frame repression as protecting order
+rather than suppressing dissent.
+The 3.5 percent figure is not a guarantee;
+it describes a historical pattern.
+But it is a more useful starting point than the assumption that
+popular majorities produce change automatically
+[%b Chenoweth2011 %].
+
+Economic disruption is the mechanism that connects organized pressure to actual policy change.
+The Montgomery Bus Boycott worked because it destroyed the bus company's revenue from its Black ridership.
+The South African divestment campaign worked because
+it raised the cost of the apartheid state's international borrowing.
+In each case the mechanism was economic:
+the people in power faced a cost-benefit calculation that changed.
+Moral suasion may have affected some individuals.
+It did not change the structural calculation that drove policy.
+
+Moral arguments have a poor track record as the primary lever of social change,
+and this fact is frequently misunderstood.
+It is not that moral arguments are irrelevant:
+they build coalitions,
+provide the normative framework that justifies what a movement is asking for,
+and affect the willingness of potential participants to accept personal costs.
+But moral arguments addressed to those in power,
+without the economic or political pressure that makes their rejection costly,
+consistently fail.
+The tobacco industry did not voluntarily stop marketing cigarettes to children
+because public health advocates published articles about harm.
+Corporate privacy practices do not change because researchers demonstrate the extent of surveillance.
+What changes the behavior of those who benefit from a harmful arrangement
+is when not changing becomes more costly than changing.
+
+## Moral Reframing in Practice
+
+The criminalization of homosexuality is often treated as an ancient prejudice that modernity finally overcame,
+but its legal form is specific and recent.
+The British Offences Against the Person Act of 1861
+and the Criminal Law Amendment Act of 1885—under which Oscar Wilde was prosecuted—established
+the statutory framework that then spread through British colonial law
+to India, Kenya, Singapore, and dozens of other territories.
+This was a Victorian legal export, not a timeless human universal.
+
+The Stonewall uprising in June 1969 catalyzed what followed,
+but what followed was organized political work:
+building community institutions,
+litigating against discriminatory laws,
+lobbying legislatures,
+training activists,
+and making the case for rights in terms that demanded equal treatment rather than tolerance.
+
+The AIDS crisis beginning in the early 1980s devastated these communities.
+ACT UP, founded in 1987, developed direct action tactics that accelerated drug approval timelines,
+targeting the FDA, pharmaceutical companies, and media coverage.
+In doing so,
+they changed what was considered acceptable activist pressure on public health institutions.
+The crisis also produced an enormous wave of political organizing,
+legal advocacy,
+and coalition building driven by the urgency of survival.
+The LGBTQ+ movement that emerged from the AIDS years
+was more sophisticated,
+better organized,
+and more willing to engage in explicit political conflict than it had been
+[%b Faderman2015 %].
+
+Legal change on LGBTQ+ rights did not arrive at once.
+Each step was criticized as premature by conservatives and inadequate by the communities affected,
+but each made the next one thinkable.
+Marriage equality,
+which seemed to most observers politically unreachable in 2000,
+was recognized by the US Supreme Court in 2015.
+The speed of that final sequence reflects both the sustained organizing of prior decades
+and specific features of the American constitutional system
+that allowed judicial strategy to outpace legislative consensus.
+
+What these changes reveal about how moral consensus shifts is that
+the process has identifiable components.
+Changed facts matter:
+the AIDS epidemic made invisible communities visible in ways
+that shifted public sympathy and political calculation.
+Changed visibility matters:
+LGBTQ+ people in prominent public roles before and after coming out
+reduced the distance between the abstract policy debate and human recognition.
+Organized political pressure matters:
+neither marriage equality nor any other major rights advance arrived
+without sustained campaigns that built coalitions,
+litigated strategically,
+and maintained pressure across decades of partial progress and setback.
+Finally, legal strategy matters:
+advocates have to choose which cases to bring, in which courts, at which moment
+[%b Hannig2023 Hirshman2012 %].
+
+## The Expanding Circle
+
+The circle of people we recognize as fully human has expanded
+over the last two and a half centuries—slowly, and with catastrophic reversals,
+but through mechanisms that are identifiable and replicable.
+
+The historian Lynn Hunt points to something unexpected: novels.
+The eighteenth century saw an explosion of epistolary fiction,
+novels written as letters,
+that asked readers to inhabit the inner life of someone unlike themselves,
+to feel the world from inside another person's consciousness.
+Hunt argues that this trained readers to recognize the humanity of strangers—
+to understand that other people have interior lives as real as their own.
+
+Whether novels were a cause or a symptom of changing attitudes is debatable,
+but slave narratives in the nineteenth century worked on the same principle.
+*The Interesting Narrative* of Olaudah Equiano (1789)
+and Frederick Douglass's *Narrative* (1845)
+put readers inside an enslaved person's experience
+in a way that statistics never could.
+The abolitionist movement distributed these books deliberately and widely.
+Making suffering something a reader from a comfortable life could imaginatively enter
+was a political strategy
+[%b Hochschild2006 Hunt2007 %].
+
+A second mechanism is organized political pressure.
+The Somerset case in Britain in 1772 illustrates how this works.
+James Somerset was an enslaved man brought to England
+who escaped and was recaptured by his enslaver.
+His case was taken up by abolitionists,
+who argued that English common law did not support slavery.
+Lord Mansfield's ruling was narrow—it said only that
+Somerset could not be forcibly transported out of England—but abolitionists used it as a wedge.
+
+They had already built a network of committees, pamphlets, and petitions.
+The boycott of West Indian sugar in the 1790s was the first mass consumer boycott in British history.
+These campaigns eventually produced the Slave Trade Act of 1807
+and the Slavery Abolition Act of 1833.
+The expansion of the moral circle, here, was not a spontaneous change of heart by elites.
+It was the result of sustained, organized work by people who built coalitions,
+applied pressure across decades,
+and framed their arguments in terms their opponents could not easily dismiss.
+
+The expansion of the moral circle has never been linear.
+Reconstruction in the United States after the Civil War
+extended legal rights to formerly enslaved people,
+but was then systematically dismantled
+through paramilitary violence, electoral manipulation, and judicial capitulation.
+Most of the gains of the 1860s and 1870s were reversed by 1900.
+It took another sixty years,
+and another sustained organizing campaign,
+to recover them in formal law.
+The current rollback of rights for trans people in several countries is not an anomaly.
+Every extension of the moral circle has produced a counter-movement
+arguing that the extension is too far, too fast, or aimed at the wrong people.
+Sometimes those counter-movements win, at least for a while.
+
+The relevance to technology is direct,
+even if the industry has largely avoided the conversation.
+Every system that makes decisions about people
+embeds assumptions about whose interests count and whose harm is legible.
+Facial recognition systems that perform poorly on darker skin tones
+are not neutral tools that happen to malfunction for some users—they encode
+a prior judgment about whose face needs to be recognized accurately.
+Content moderation systems that work better in English than in Amharic or Tagalog
+reflect a prior judgment about whose speech deserves moderation resources.
+Peter Singer argued that reason itself pushes in this direction:
+once you accept that suffering matters,
+it becomes harder to explain why only the suffering of people like you matters.
+That logical pressure is real,
+but it does not do this work on its own.
+Someone has to organize the campaign,
+draft the legislation,
+build the coalition,
+and be prepared to keep going when the counter-movement wins the next election
+[%b Singer1981 %].
+
+This course has described systems of power and harm
+in more detail than it has described what to do about them.
+That asymmetry is honest: understanding a problem is much easier than solving it.
+The remaining chapters are about people who have solved versions of it,
+and what their experience suggests about what you might do next.
+
 ## Five Tools
 
 The preceding chapters have made a consistent argument:

@@ -46,7 +46,6 @@ they feel both sides are strident and self-righteous.
 1.  [Money, Monopoly, and Bubbles](@/monopoly/) (3130)
 1.  [Alternatives and Dead Weight](@/alternatives/) (3433)
 1.  [Surveillance, Identity, and Desire](@/surveillance/) (2816)
-1.  [What Actually Changes Minds](@/changes-minds/) (1591)
 1.  [Regulation That Worked](@/regulation-works/) (3365)
 1.  [Who Gets What and Why](@/inequality/) (3183)
 1.  [Speech, Arms, and Algorithms](@/speech-arms/) (2529)
