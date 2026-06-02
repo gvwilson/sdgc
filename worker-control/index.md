@@ -1,6 +1,5 @@
 # Controlling Workers
 
-
 ## Big Tech is Like the Sharecropping System
 
 After the American Civil War,
