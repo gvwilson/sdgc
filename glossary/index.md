@@ -787,6 +787,11 @@
 
 ## S
 
+<span id="samizdat">samizdat</span>
+:   A form of dissident activity in the Soviet Union and Eastern Bloc
+    in which individuals covertly reproduced and distributed censored
+    or banned literature, bypassing state censorship.
+
 <span id="satisficing">satisficing</span>
 :   The strategy of searching through available options until a
     good-enough solution is found, rather than evaluating all
