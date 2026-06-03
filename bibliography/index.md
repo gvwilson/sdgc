@@ -1136,7 +1136,7 @@
     [9780674048720](https://isbnsearch.org/isbn/9780674048720).
     *Argues that human rights became a global political movement because other utopian visions had failed.*
 
-<span id="MullainathanShafir2013">MullainathanShafir2013</span>
+<span id="Mullainathan2013">Mullainathan2013</span>
 :   Sendhil Mullainathan and Eldar Shafir:
     *Scarcity: Why Having Too Little Means So Much*.
     Times Books/Henry Holt,
@@ -1187,7 +1187,7 @@
     [9781580056786](https://isbnsearch.org/isbn/9781580056786).
     *An accessible guide to conversations about race in the US, centered around racism as a system rather than individual prejudice.*
 
-<span id="OmiWinant2015">OmiWinant2015</span>
+<span id="Omi2015">Omi2015</span>
 :   Michael Omi and Howard Winant:
     *Racial Formation in the United States*
     (3rd ed.).

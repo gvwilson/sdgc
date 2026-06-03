@@ -9,8 +9,7 @@ Young's dystopia describes a society that has perfected the measurement of indiv
 and ruthlessly sorts people by it,
 producing a ruling class convinced of its own deservingness and contemptuous of those beneath it.
 The word was adopted by politicians and executives as a term of praise,
-and Young spent the rest of his life pointing out the confusion
-[%b Young1958 %].
+and Young spent the rest of his life pointing out the confusion [%b Young1958 %].
 
 How elite selection actually works in practice is very different
 from how institutions describe it.
@@ -24,8 +23,7 @@ Lauren Rivera's research on hiring at elite firms
 found that interviewers routinely described candidates as "polished" or "rough around the edges"
 in ways that correlated with class background rather than competence.
 The stated meritocratic criteria were real,
-but they operated within a prior filter that most candidates never saw
-[%b Rivera2015 Karabel2006 %].
+but they operated within a prior filter that most candidates never saw [%b Rivera2015 Karabel2006 %].
 
 Audit studies make the gap between stated and actual criteria measurable.
 Researchers send identical resumes to employers,
@@ -48,8 +46,8 @@ After all,
 if outcomes are deserved,
 then failure is evidence of some personal deficiency.
 This framing conveniently shifts responsibility from structures to individuals
-and makes collective responses to poverty or unemployment harder to sustain politically
-[%b Sandel2020 Wilkinson2011 %].
+and makes collective responses to poverty or unemployment
+harder to sustain politically [%b Sandel2020 Wilkinson2011 %].
 
 The meritocratic ideology takes specific forms in the tech industry.
 The puzzle interview,
@@ -72,7 +70,6 @@ despite formally caste-neutral scoring—the prior filter that formal meritocrat
 invisible to anyone who sees only the exam results.
 
 </div>
-[%b Cottom2017 %]
 
 ## Why Don't You Just…
 
@@ -114,7 +111,7 @@ and what makes it unmanageable for someone else.
 
 Peggy McIntosh described this as an invisible knapsack:
 a set of advantages so routine to those who carry them
-that they are not experienced as advantages at all.
+that they are not experienced as advantages at all [%b McIntosh1989 %].
 You do not notice that your accent marks you as non-threatening,
 that your name gets you callbacks,
 that your neighborhood has a library,
@@ -122,8 +119,7 @@ or that the official you need to speak to treats you as a legitimate claimant
 rather than a probable fraud.
 The person offering the "just" solution
 is usually describing what they would do,
-which is not the same thing as what the other person can do
-[%b McIntosh1989 %].
+which is not the same thing as what the other person can do.
 
 The most obvious thing "just" conceals is cascading prerequisites.
 Many systems assume that the person using them already has a set of prior resources in place.
@@ -154,8 +150,7 @@ or calculating whether buying the cheaper item in bulk saves more than it costs 
 consumes [%g cognitive-bandwidth "cognitive bandwidth" %]
 that is then not available for navigating bureaucratic systems.
 The person telling someone to "just" do something
-is typically not paying this tax
-[%b MullainathanShafir2013 %].
+is typically not paying this tax [%b Mullainathan2013 %].
 
 The pattern is particularly vicious on tech platforms.
 Companies routinely advise users to "just report" harassment,
@@ -164,9 +159,8 @@ or "just switch platforms" when a service degrades.
 Each suggestion assumes that the user has time, technical literacy, and social capital
 that many do not have,
 and none of them fix the underlying system.
-They transfer the cost of a structural failure onto the person least able to bear it
-[%b Eubanks2018 %].
-
+They transfer the cost of a structural failure onto
+the person least able to bear it [%b Eubanks2018 %].
 
 ## The Representation Feedback Loop
 
@@ -222,9 +216,7 @@ is there because they were the most qualified,
 then any change in the composition looks like a lowering of standards rather than a correction of a filter.
 The response to evidence of the filter is to explain that the filter must be working correctly,
 because look at the results.
-The loop closes there unless something breaks it open
-[%b OmiWinant2015 Tripp2015 %].
-
+The loop closes there unless something breaks it open.
 
 ## The Construction of Race
 
@@ -238,11 +230,13 @@ They listened to accents,
 examined fingernails for pigmentation,
 and interviewed neighbors.
 Families were split:
-siblings were classified into different categories because they had inherited different combinations of features,
+siblings were classified into different categories
+because they had inherited different combinations of features,
 giving them different legal rights and permitted occupations,
 and requiring them to live in different neighborhoods.
 
-The pencil test is an extreme example of something that operates wherever racial classification exists:
+The pencil test is an extreme example of
+something that operates wherever racial classification exists:
 a social and political determination dressed as a natural fact.
 Race is not a biological category.
 This is not a political opinion—it is the settled position of geneticists,
@@ -263,8 +257,7 @@ Irish immigrants in the 1840s appeared in popular cartoons as racially distinct 
 while Italian immigrants in the early twentieth century were subject to legal discrimination
 partly justified on racial grounds.
 Each of these groups eventually became "white" through political processes
-that included them while excluding Black Americans
-[%b OmiWinant2015 %].
+that included them while excluding Black Americans [%b Omi2015 %].
 
 Understanding how racial categories are built, and by whom, is necessary for understanding
 how algorithmic systems operate in societies organized around race and caste.
@@ -274,9 +267,7 @@ A hiring model trained on historical promotion decisions learns to prefer candid
 who resemble the people who were previously promoted,
 in organizations that excluded people by race and class.
 A recidivism prediction tool trained on arrest data learns patterns from policing decisions
-that were themselves racially disparate
-[%b Kendi2016 %].
-
+that were themselves racially disparate [%b Kendi2016 %].
 
 ## The Taboos of Professional Culture
 
@@ -305,8 +296,8 @@ Aviation-style checklists,
 which treat error as a predictable product of complex systems rather than individual failure,
 were resisted for decades by physicians who experienced them as an affront to professional judgment.
 The evidence that checklists reduced deaths in surgical settings was not in dispute.
-The resistance was to the implication that standardized protocols should constrain clinical practice
-[%b Gawande2009 Kohn1999 %].
+The resistance was to the implication that
+standardized protocols should constrain clinical practice [%b Gawande2009 Kohn1999 %].
 
 The software engineering profession has its equivalent silences.
 The books on software engineering cover project management,
@@ -322,9 +313,7 @@ The topics placed out of bounds are those that,
 if examined,
 would reveal tensions in the profession's self-understanding or power structure.
 The placement of a boundary is a form of power,
-exercised by those with enough standing to enforce it
-[%b Douglas2002 %].
-
+exercised by those with enough standing to enforce it [%b Douglas2002 %].
 
 ## The Moral Psychology of Building Harmful Things
 
@@ -345,6 +334,22 @@ working groups, slide decks, and recommendations sent to committees.
 The harm was not produced by villains.
 It was produced by an organization operating in ways that feel completely familiar.
 
+The psychologist Stanley Milgram ran his obedience experiments at Yale in 1961 and 1962,
+partly in response to the trial of Adolf Eichmann,
+who had organized the logistics of the Holocaust
+and whose defense was that he had simply followed orders [%b Milgram1974 %].
+In the most famous version of Milgram's experiments,
+subjects were told they were participating in a study of learning
+and were instructed by an authority figure to administer electric shocks to another person
+whenever that person gave a wrong answer.
+The other person was a confederate; the shocks were fake; the screams were recorded.
+Sixty-five percent of subjects administered what they had been told was the maximum voltage —
+labeled "Danger: Severe Shock" — because a person in a lab coat told them to.
+Milgram's explanation was that people in hierarchical situations shift into an agentic state:
+they stop regulating their own behavior against their personal moral standards
+and start executing instructions from whoever they perceive as legitimate authority,
+locating responsibility upward rather than in themselves.
+
 The psychologist Albert Bandura identified eight mechanisms
 by which people disengage their moral standards
 to engage in or tolerate harmful behavior without feeling responsible for it.
@@ -358,8 +363,7 @@ the advertisers demanded this, the users clicked on it.
 that no single one feels it:
 the engineers wrote the algorithm, the product managers set the metrics, the executives approved the strategy.
 Treating teenage users primarily as engagement statistics
-accomplishes much of the same work as dehumanization
-[%b Bandura1999 Palazzo2025 %].
+accomplishes much of the same work as dehumanization [%b Bandura1999 Palazzo2025 %].
 
 <div class="callout" markdown="1">
 
@@ -376,8 +380,7 @@ engineers who understood the risk recommended against launching in cold weather.
 Their recommendation was overruled by managers
 who reframed the decision as requiring proof of danger rather than proof of safety.
 No one decided to kill the seven astronauts who died the next day.
-NASA had simply accumulated a set of practices that made the outcome possible
-[%b Vaughan1996 %].
+NASA had simply accumulated a set of practices that made the outcome possible [%b Vaughan1996 %].
 
 </div>
 
@@ -400,5 +403,145 @@ that they operate through ordinary human psychology rather than through exceptio
 and that understanding them is prerequisite to changing them.
 When the metrics that determine whether a career succeeds
 are the same metrics that produce harm,
-most people will find ways to make peace with the harm
-[%b Ehmke2025 %].
+most people will find ways to make peace with the harm [%b Ehmke2025 %].
+
+## The Hidden Ledger
+
+[%g algorithmic-hiring "Algorithmic hiring systems" %],
+insurance scoring models,
+and [%g predictive-policing "predictive policing" %] tools share two features:
+they collect data without meaningful consent,
+and the subjects cannot see or challenge the decisions made about them.
+Credit bureaus are the most mature example of this model,
+and the clearest preview of where the others are heading.
+
+The three major credit bureaus collect financial data about hundreds of millions of people
+without their active participation or consent.
+They do not collect data from the people whose files they maintain.
+They collect it from creditors like banks, credit card issuers, and debt collectors,
+who report account status and payment history.
+The person whose data is being collected is not notified when a new entry appears in their file,
+has no opportunity to contest it before it is recorded,
+and may not know it exists until they apply for credit and are denied.
+The bureau's relationship is with the furnisher and the purchaser of the data,
+not with the subject.
+
+Credit data determines whether people can rent housing or get a job.
+The companies profit whether the data they hold is accurate or not.
+A person whose file contains an error bears the full cost of that error while the bureau bears none.
+In the US, the Fair Credit Reporting Act gives consumers some rights to dispute errors,
+but the dispute process is designed and operated by the bureaus themselves,
+and has repeatedly been found to be inadequate.
+
+Accuracy and fairness are not the same thing, and the credit bureau model conflates them.
+A credit score can be perfectly accurate as a summary of past borrowing behavior
+and still encode the effects of decades of discriminatory lending.
+Neighborhoods that were [%g redlining "redlined" %] in the twentieth century
+still show lower average credit scores today:
+not because their residents are less creditworthy,
+but because they were systematically excluded from the wealth-building mechanisms that credit history reflects.
+A score that accurately summarizes a history of exclusion still perpetuates exclusion.
+
+In the 2017 Equifax breach,
+the personal financial information of approximately 147 million people was exposed,
+including Social Security numbers, birth dates, and home addresses.
+Equifax's response was to offer credit monitoring services—sold by Equifax.
+The settlement reached in 2019 provided most affected consumers with a few dollars apiece,
+after the claims fund was overwhelmed by the number of applicants.
+No one at Equifax faced criminal charges.
+
+The parallel to large technology platforms is not a stretch.
+Google, Meta, and others collect data about billions of people without meaningful consent
+and sell access to that data to advertisers,
+whose relationship with the platform is the commercially important one.
+There is no effective dispute process,
+and when these systems produce discriminatory outcomes,
+the platform does not bear a cost proportional to the harm.
+The credit bureau model took decades to produce Equifax.
+The tech industry produced the same structure at global scale in about fifteen years,
+and called it connecting the world [%b Oneil2016 Pasquale2015 %].
+
+<div class="callout" markdown="1">
+
+China's Social Credit System bars individuals with low scores
+from purchasing plane and train tickets,
+enrolling their children in private schools,
+and accessing certain financial services.
+This is the endpoint of the credit bureau model,
+where a score derived from past behavior determines present civic participation.
+
+</div>
+
+## Who Gets to Decide
+
+In June 2010,
+Bill Gates and Warren Buffett announced the Giving Pledge:
+a commitment by the world's wealthiest people to give away the majority of their fortunes.
+By 2023, more than 230 billionaires from thirty countries had signed,
+representing combined pledges of over a trillion dollars.
+The press coverage was broadly admiring,
+and mostly did not ask who would decide where the money went.
+
+The combination of great private wealth and public purpose is not new.
+Andrew Carnegie,
+who accumulated his fortune partly by suppressing wages and,
+in 1892,
+hiring Pinkerton detectives to break a strike at his Homestead plant that left ten workers dead,
+spent his final decades funding libraries, universities, and concert halls.
+Cities that received Carnegie libraries did so on his terms:
+local governments had to provide the land and commit to maintaining the buildings in perpetuity.
+The offer was generous; it also bypassed democratic mechanisms.
+
+The more consequential precedent was the Flexner Report of 1910,
+commissioned by the Carnegie Foundation for the Advancement of Teaching.
+It recommended consolidating medical education around elite university-based institutions
+and closing the smaller proprietary schools it judged substandard.
+These changes raised training standards.
+They also closed most of the schools that had trained Black physicians
+or admitted women in significant numbers.
+Private money had shaped outcomes that no democratic process had approved [%b Reich2018 %].
+
+Today's private foundations differ from Carnegie's personal giving in one critical respect: the American tax code.
+Since the Revenue Act of 1917,
+charitable contributions have been deductible from taxable income.
+When a billionaire transfers appreciated assets into a private foundation,
+they avoid capital gains taxes on those assets and receive an income tax deduction immediately.
+The assets remain under the effective control of the foundation's board,
+which in practice consists of the donor and their chosen representatives.
+Private foundations are required to distribute at least five percent of assets annually,
+but the other ninety-five percent continues to grow tax-free under the donor's direction.
+What looks like giving money away is, legally and financially,
+converting taxable personal wealth into a permanently controlled institutional endowment
+while capturing the tax benefit upfront.
+[%g donor-advised-fund "Donor-advised funds" %] extend this further:
+the donor takes an immediate deduction
+but retains the ability to direct distributions to any eligible recipient for decades.
+In 2022, donor-advised funds held over $230 billion in assets.
+
+In the 2000s,
+the Gates Foundation, working alongside the Walton Family Foundation and the Eli and Edythe Broad Foundation,
+channeled hundreds of millions of dollars into reshaping American K-12 education.
+Their preferred agenda included charter schools, standardized testing, merit pay for teachers,
+and the Common Core State Standards.
+For a period,
+these became the dominant policy agenda of American school reform.
+The decision-makers at these foundations were not elected
+and could not be removed by the parents, students, or teachers whose schools were being reorganized.
+In 2017,
+Gates Foundation CEO Sue Desmond-Hellmann published an open letter acknowledging
+that the foundation's strategy had not produced the results it intended.
+She described it as a learning experience.
+Most of the teachers whose work and lives had been thrown into turmoil used stronger language.
+
+This kind of [%g philanthrocapitalism "philanthrocapitalism" %] extends beyond education.
+For many years the Gates Foundation was the second-largest funder of the World Health Organization,
+behind only the United States government.
+During the COVID-19 pandemic,
+this made it an influential voice in debates about vaccine distribution,
+intellectual property waivers for low-income countries,
+and global health system priorities.
+The fact that this influence was exercised with what donors believe are good intentions
+does not change the fact that they lack the democratic legitimacy of public institutions.
+Who gets what, and why, is not only a question about the distribution of economic resources.
+It is also a question about who is allowed to shape
+the rules of that distribution [%b Giridharadas2018 %].
