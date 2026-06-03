@@ -1,6 +1,5 @@
 # Regulation That Worked
 
-
 ## How Tobacco Was Tamed
 
 In 1950, Hill and Doll published a landmark paper in the *British Medical Journal*.
@@ -44,8 +43,7 @@ If this sounds familiar,
 it's because
 tech companies that argue they are "just a platform"
 and not responsible for the content they amplify
-are doing exactly the same things
-[%b Oreskes2010 %].
+are doing exactly the same things [%b Oreskes2010 %].
 
 ## Forty Years to an Agreement
 
@@ -179,11 +177,10 @@ When Nader reported the surveillance,
 GM's president was summoned to testify before the United States Senate
 and had to apologize on national television.
 The resulting publicity sold more copies of Nader's book than any advertising campaign could have,
-and Congress passed the National Traffic and Motor Vehicle Safety Act later that same year
-[%b Nader1965 %].
+and Congress passed the National Traffic and Motor Vehicle Safety Act later that same year [%b Nader1965 %].
 
 If you want to understand how industries respond to safety regulation,
-this story is good place to start.
+stories like these are a good place to start.
 The playbook has not changed much in sixty years:
 deny the harm,
 attack the messenger,
@@ -260,7 +257,7 @@ The thalidomide disaster changed that,
 but only because the disaster had been so catastrophic and so visible
 that the political cost of inaction became higher than the political cost of regulation.
 
-As noted in previous articles in this series,
+As noted several times,
 there's a pattern here.
 First comes denial:
 the evidence is contested,
@@ -274,7 +271,7 @@ Even if there is a problem, we do not know enough yet to regulate.
 More study is needed.
 Any regulation now would be premature and might target the wrong thing entirely.
 
-Finally, there is the market argument.
+Next is the market argument.
 Consumers will demand safe products if they want them.
 Competition will drive manufacturers to provide safety.
 Regulation is unnecessary because market forces will take care of it.
@@ -288,7 +285,7 @@ they do not reliably handle latent hazards
 that require technical expertise and longitudinal data to detect.
 
 Finally, after regulation is imposed,
-comes acceptance.
+comes acceptance [%b Hilts2003 Savedoff2012 %].
 The industry discovers that compliance is cheaper than predicted,
 that safety features are selling points,
 and that the regulation did not, in fact, destroy the sector.
@@ -308,8 +305,6 @@ It has been wrong before.
 The burden of proof runs in the other direction now:
 those who claim the market will handle it
 should be required to explain why this time is different from every other time.
-
-[%b Hilts2003 Savedoff2012 %]
 
 ## How the Rivers Ran Again
 
@@ -403,8 +398,8 @@ signed by Germany, France, the Netherlands, Luxembourg, and Switzerland,
 set binding targets for the reduction of pollutants.
 By the early 1990s,
 salmon had returned to the Rhine for the first time in decades.
-The river is now among the most intensively monitored and regulated waterways in the world
-[%b Nixon2011 %].
+The river is now among the most intensively monitored and regulated waterways
+in the world [%b Nixon2011 %].
 
 <div class="callout" markdown="1">
 
@@ -459,16 +454,9 @@ The result was the same.
 When it became costly enough,
 the behavior changed.
 
-The template described in [Unsafe at Any Speed](@/unsafe/)—
-denial, then manufactured uncertainty, then the argument that the market would handle it—
-applied in each of these environmental cases as well.
-In each case,
-the industries were wrong on all three counts.
-
-Markets do not price externalities without compulsion.
-Economists have known this for a long time,
-and the reasoning is simple.
-What is complicated is the politics of making industries pay for costs
+Markets do not price externalities without compulsion [%b Singer2023 %].
+The reasons are simple;
+what is complicated is the politics of making industries pay for costs
 they have been externalizing for free.
 Every major environmental regulation in the twentieth century
 was fought by the industries it affected,
@@ -478,4 +466,132 @@ that turned out to be wrong.
 The same thing is happening now with attempts to regulate the harm caused by
 social media, AI, and large tech platforms' surveillance of everyday life.
 
-[%b Singer2023 Whitfield2011 %]
+## When the Diagnosis Is Wrong
+
+The case studies above share a pattern:
+industry denial, manufactured uncertainty,
+and eventual regulation.
+Another kind of regulatory failure is equally instructive:
+one in which the pressure for regulation is genuine and well-intentioned
+but aimed at the wrong target.
+
+Moral panics about new media are old.
+Dime novels corrupted working-class youth in the 1880s.
+Comic books produced juvenile delinquents in the 1950s,
+according to psychiatrist Fredric Wertham's *Seduction of the Innocent* [FIXME: add bibliography entry and break this sentence in two-it's too long],
+which brought comic books before a Senate subcommittee in 1954
+and led directly to the Comics Code Authority,
+a self-regulatory body that banned dark content so comprehensively
+that it effectively gutted the medium for a generation.
+Rock music followed,
+then *Dungeons and Dragons*;
+in each case the new medium was identified as uniquely dangerous to children,
+its effects described as direct and irreversible,
+and the evidence offered was a mixture of anecdote,
+dubious laboratory studies,
+and credentialed testimony.
+
+Video games arrived in force in 1993,
+when a Senate subcommittee held hearings focused on two games:
+*Mortal Kombat*, which allowed players to rip an opponent's spine out as a finishing move,
+and *Night Trap*, which featured vampires draining blood from actresses in a B-movie setting.
+The hearings generated excellent television
+and led directly to the creation of the Entertainment Software Rating Board,
+the voluntary age-based rating system still in use today.
+The legislators' alarm was understandable,
+but the content that generates maximum outrage is chosen for its visceral impact,
+not because it represents what most people actually play.
+The average video game in 1993,
+like the average video game today,
+involved puzzles, sports, or platform navigation.
+
+Then in April 1999,
+two students at Columbine High School in Colorado
+killed twelve classmates and a teacher before taking their own lives.
+Both had played *Doom*.
+Senators introduced legislation,
+retailers pulled games from shelves,
+and the attorney Jack Thompson spent years filing lawsuits
+claiming games were murder simulators and that the industry bore direct responsibility for the shootings,
+winning settlements before being permanently disbarred for misconduct.
+
+Dave Grossman offered a more careful version of the alarm [%b Grossman1995 Grossman1999 %].
+His claim rested on military training research:
+fewer than a quarter of soldiers in World War II actually fired their weapons in combat,
+so the Army redesigned its training using operant conditioning with human-silhouette targets
+to raise that rate in Korea and Vietnam.
+Violent video games applied the same conditioning to children
+without consent or any ethical framework.
+Unlike the public panic, his argument was internally coherent.
+
+Unfortunately,
+the scientific literature did not validate it.
+The core methodological problem is that laboratory measures of aggression
+bear little relationship to real-world violence.
+Such measures typically involve things like
+how loud a noise blast a participant gives an opponent,
+or how much hot sauce they pour for someone who dislikes spicy food.
+Studies that find effects measure immediate post-game behavior in artificial settings,
+and the effect sizes are small.
+Large longitudinal studies,
+which are better positioned to detect real-world outcomes,
+consistently find no meaningful relationship between video game consumption and violent behavior.
+Meta-analyses that account for publication bias—the tendency of journals
+to publish positive findings—find that the field systematically overestimated effects
+because studies finding no relationship were less likely to be published
+[%b Ferguson2015 Markey2017 %].
+
+The simplest check on the strong version of the argument is cross-national.
+Japan and South Korea are among the highest per-capita consumers of video games in the world,
+and South Korea built a multi-billion-dollar professional esports industry.
+Both countries have dramatically lower rates of violent crime than the United States.
+The Netherlands and other Northern European countries show the same pattern.
+Gun availability, income inequality, and the specific history of racially organized social violence
+are better explanations for American rates of violence
+than video game consumption,
+but are also much harder for the public and public figures to face.
+
+In 2011 the Supreme Court settled the legal question,
+if not the empirical one.
+California had enacted a law restricting the sale of violent video games to minors.
+The Court struck it down in *Brown v. Entertainment Merchants Association*,
+applying the same First Amendment analysis it would apply to books or films.
+The majority noted that the research California presented
+did not establish a causal link between violent games and harm to minors,
+and that the burden of proof for restricting expression falls on those who seek restriction.
+That burden had not been met.
+
+By then the panic was already fading,
+displaced by fresh anxieties about social media and smartphones.
+What had not faded were the harms the panic had never addressed.
+While legislators debated spine-ripping finishing moves,
+the games industry had been building something that warranted far more scrutiny: loot boxes.
+A loot box is a randomized reward purchased with real money;
+you pay to receive an item of unknown value,
+which may be common or rare.
+Children's games marketed this mechanic aggressively to young players.
+Several European regulators eventually concluded that loot boxes constitute gambling.
+Belgium banned them in 2018.
+The United Kingdom's Gambling Commission produced guidance treating certain loot box mechanics
+as gambling products requiring the same protections applied to casinos.
+The United States,
+whose legislators had spent years fighting over *Mortal Kombat*,
+moved slowly.
+
+The lesson is not that moral panics are always wrong,
+or that industries accused of harm should be left alone.
+It is that effective regulation requires an accurate diagnosis of the *actual* harm,
+not the harm that generates the most compelling congressional testimony.
+The video game violence campaign failed because the evidence never supported the hypothesis;
+the energy expended on it left the real harm—addictive design and gambling mechanics
+ in games marketed to children—largely unaddressed.
+When a proposed regulation is described as protecting children,
+the right question is not only whether children need protecting,
+but from exactly what,
+by what mechanism,
+and whether the remedy addresses that mechanism.
+
+As we will see [later](@/how-change/),
+we don't have to wait for disaster to start the process.
+The world dealt with the hole in the ozone layer before it cost lives,
+and we could choose to act now on social media and AI.

@@ -234,6 +234,15 @@
     [9781107434899](https://isbnsearch.org/isbn/9781107434899).
     *A history of how South Africa became a global pioneer in biometric identification in order to implement apartheid.*
 
+<span id="Bregman2020">Bregman2020</span>
+:   Rutger Bregman:
+    *Humankind: A Hopeful History*
+    (translated by Erica Moore and Elizabeth Manton).
+    Little, Brown,
+    2020,
+    [9780316418539](https://isbnsearch.org/isbn/9780316418539).
+    *Reexamines famous social-science studies—Stanford Prison Experiment, Robbers Cave, the bystander effect—and argues they were methodologically flawed or misrepresented, making a popular case that humans are fundamentally cooperative rather than selfish.*
+
 <span id="Browne2015">Browne2015</span>
 :   Simone Browne:
     *Dark Matters: On the Surveillance of Blackness*.
@@ -1614,6 +1623,14 @@
     [9780802121431](https://isbnsearch.org/isbn/9780802121431).
     *A comparative analysis of East Asian economies showing that land reform and industrial policy, not free markets, drove their economic growth.*
 
+<span id="Suzman2021">Suzman2021</span>
+:   James Suzman:
+    *Work: A History of How We Spend Our Time*.
+    Penguin Press,
+    2021,
+    [9780525561750](https://isbnsearch.org/isbn/9780525561750).
+    *Anthropological sweep from Paleolithic hunter-gatherers through the industrial present, arguing that scarcity-driven overwork is a recent and historically unusual arrangement—most of our ancestors worked far less and valued leisure more.*
+
 ## T
 
 <span id="Tarrant2016">Tarrant2016</span>
@@ -1758,6 +1775,14 @@
     2011,
     [9780199560172](https://isbnsearch.org/isbn/9780199560172).
     *Comparative analysis of how African governments negotiated with donors.*
+
+<span id="Whitman2017">Whitman2017</span>
+:   James Q. Whitman:
+    *Hitler's American Model: The United States and the Making of Nazi Race Law*.
+    Princeton University Press,
+    2017,
+    [9780691172422](https://isbnsearch.org/isbn/9780691172422).
+    *Documents how Nazi jurists in 1934 explicitly studied American Jim Crow and immigration statutes as models for the Nuremberg race laws, showing that they sometimes rejected American practices as too harsh rather than too lenient.*
 
 <span id="Whyte1991">Whyte1991</span>
 :   William Foote Whyte and Kathleen King Whyte:

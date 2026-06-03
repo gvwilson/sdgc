@@ -36,14 +36,14 @@ help = "Build HTML."
 cmd = """
     mccole build --src . --dst docs --single-page docs/all.html
     touch docs/.nojekyll
-    rm docs/*/slides.md
 """
 
 [tool.mccole]
 brand = "SDGC"
 skips = [
     "*~",
-    "docs/",
+    "*.txt",
+    "docs",
     "typos.toml",
     "uv.lock"
 ]
