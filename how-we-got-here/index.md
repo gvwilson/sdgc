@@ -94,9 +94,7 @@ PayPal holds tens of billions of dollars in customer balances that do not carry 
 and Stripe extends credit to merchants.
 These companies are, in each case, capturing the profit of money creation
 while avoiding the obligations that historically came with it—the same maneuver
-that London goldsmiths discovered in the 1660s
-[%b Kindleberger2005 Chang2012 %].
-
+that London goldsmiths discovered in the 1660s [%b Kindleberger2005 Chang2012 %].
 
 ## The Invention of the Corporation
 
@@ -239,16 +237,120 @@ Switching costs compound this:
 users who have built workflows and contact lists around a platform
 can't afford to move to a competitor even when the competitor offers a better product.
 
-The resulting cycle—subsidize users,
-lock them in,
-then extract value by degrading service—is enshittification.
+In 2005, a Dutch startup called Booking.com offered hotels a deal:
+list your rooms on our platform for a 12% commission,
+and we will send you customers you would not otherwise reach.
+Hotels signed up;
+travelers followed, because the inventory was there,
+and by the early 2010s,
+Booking.com was the dominant hotel search platform across Europe and much of Asia.
+
+Then the commissions started climbing.
+By 2019, many hotels were paying 25-30% per booking,
+plus additional fees for "preferred placement" near the top of search results.
+Hotels that declined to pay for placement found themselves buried behind those that did.
+The traveler experience degraded too:
+search results increasingly reflected who had paid for prominence,
+not which hotel best matched the search.
+
+Hotels understood what had happened,
+but they were locked in.
+Their repeat customers now booked through Booking.com rather than directly,
+because that was where travelers looked.
+A hotel that left the platform did not take its customers with it—those
+relationships belonged to the platform.
+Leaving meant losing access to a market the platform now controlled.
+
+Cory Doctorow named this pattern [%g enshittification "enshittification" %].
 A platform enters a market by offering a service below cost to build a user base.
 Once users are locked in,
-it begins subsidizing business customers.
+it begins subsidizing business customers,
+using the captive user base as leverage.
 Once business customers are also locked in,
-it harvests both.
+it harvests both by
+degrading service quality,
+raising prices,
+and extracting the maximum value from a market it now controls.
 The platform can do this because the switching costs that lock users in
-also protect it from competitive consequences.
+also protect it from competitive consequences
+[%b Doctorow2022 %].
+
+Enshittification depends on two things:
+network effects and [%g structural-lock-in "structural lock-in" %].
+Neither is not specific to digital platforms.
+The record club Columbia House ran the same play in a different era.
+Launched in the 1950s in the United States and Canada
+and later extended to the United Kingdom, Australia, and Brazil,
+it offered new members twelve records or cassettes for a penny.
+The first transaction was a real deal.
+The extraction came later:
+members committed to purchasing eight more titles at "regular club prices,"
+which were two to three times the retail price of the same albums in a shop.
+If a member forgot to decline the monthly selection,
+it arrived automatically and the cost appeared on their bill.
+The penny offer built the membership;
+the commitment structure extracted the value.
+Columbia House recruited around sixteen million members in the United States alone
+before the model collapsed when digital music eliminated the inventory advantage.
+
+<div class="callout" markdown="1">
+
+In 1986, a corporation better known for making women's underwear
+acquired JanSport and, over the following decades,
+bought nearly every backpack brand with a reputation for durability.
+Controlling more than half the US backpack market,
+it had no competitive pressure to maintain quality.
+Fabric thickness dropped, cheaper zippers replaced better ones, and stitching density fell.
+The products looked identical on the shelf;
+customers discovered what they had actually bought when the stitching pulled apart at the stress points.
+
+JanSport continued to advertise a lifetime warranty,
+and the suggestion "just use the warranty" sounds entirely reasonable.
+In practice, using it required paying $12 to $25 in return shipping,
+waiting three to six weeks,
+and arguing that a failure qualified as a "defect in materials and workmanship"
+rather than "normal wear and tear."
+(The warranty language was not incidental;
+it was written to exclude precisely the kind of failure
+that was now designed into the product.)
+One customer,
+when told their zipper failure was wear and tear,
+got quotes of $50 to $100 from local tailors,
+then bought a used bag at a thrift store for four dollars rather than a new one.
+
+</div>
+
+Grab, the ride-hailing and delivery platform dominant across eight countries in Southeast Asia,
+followed the same trajectory at scale.
+It entered markets including Malaysia, Indonesia, Vietnam, Thailand, and the Philippines
+with driver incentives and passenger subsidies
+that made rides cheaper than local alternatives.
+It acquired Uber's Southeast Asian operations in 2018,
+eliminating its main competitor outright.
+With competition gone,
+driver commissions rose and passenger fees increased.
+The platform began requiring restaurants and drivers to pay for placement
+in its food-delivery and services listings.
+The pattern was identical to Booking.com's,
+conducted in markets where regulatory capacity to respond was considerably thinner.
+
+Investor dynamics accelerate enshittification.
+Platforms in their subsidy phase operate at significant losses,
+funded by venture capital in expectation of eventual monopoly returns.
+Once the platform achieves dominance,
+those investors demand extraction.
+Losses during the subsidy phase are booked as investment;
+extraction during the harvest phase is booked as profit.
+The users who benefited from below-cost service in year one
+fund those returns in year ten.
+
+Antitrust enforcement has provided limited relief.
+Because acquisitions of potential competitors are evaluated on
+whether they raised consumer prices immediately—not
+whether they reduced competition structurally—dominant platforms can acquire dozens of rivals
+before those rivals threaten their market share.
+The result is that enshittification faces no real competitive check:
+alternatives are acquired or driven out during the subsidy phase.
 
 Antitrust law in the United States was supposed to prevent this.
 Beginning in the 1970s,
@@ -585,5 +687,5 @@ This does solve the problem Mazzucato describes,
 since the state that takes the foundational risk never fully loses its claim on the result.
 It creates a different problem, though:
 accountability runs upward to the Communist Party rather than outward to citizens,
-and the line between a national champion and an instrument of state policy disappears entirely
-[%b Chang2012 Acemoglu2023 Webber2011 %].
+and the line between a national champion and an instrument of state policy
+disappears entirely [%b Chang2012 Acemoglu2023 Webber2011 %].

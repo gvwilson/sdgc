@@ -466,6 +466,35 @@ that turned out to be wrong.
 The same thing is happening now with attempts to regulate the harm caused by
 social media, AI, and large tech platforms' surveillance of everyday life.
 
+Two structural interventions *have* produced results.
+The European Union's Digital Markets Act,
+which took effect in 2024,
+requires platforms designated as "gatekeepers"
+(those with market capitalizations above €75 billion
+or monthly user bases above 45 million in Europe)
+to allow interoperability with competing services,
+to refrain from self-preferencing their own products in search results,
+and to allow users to uninstall pre-installed software.
+Fines for non-compliance reach 20% of global revenue.
+The act is the first regulatory framework
+designed specifically around the leverage that platform dominance creates,
+rather than around the consumer prices those platforms charge.
+
+India's Unified Payments Interface uses a different model:
+intervene before dominance rather than after.
+Instead of regulating private platforms that have already achieved lock-in,
+India built public payment infrastructure
+that any platform can connect to on equal terms.
+Google Pay, PhonePe, and Paytm compete on the same rails;
+none owns the customer relationship—that belongs to the user's bank account.
+No single platform can raise fees on the underlying infrastructure
+because the infrastructure is public.
+Brazil's Pix system follows similar principles,
+as do comparable approaches adopted by central banks in Ghana and Sri Lanka.
+The question today is not whether enshittification can be stopped,
+but why regulators in Canada, the US, and elsewhere choose not to stop it
+[%b Shapiro1999 Sapp2026 %].
+
 ## When the Diagnosis Is Wrong
 
 The case studies above share a pattern:
