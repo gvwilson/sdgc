@@ -212,7 +212,7 @@ by putting its European headquarters there,
 the company could book sales across the continent while keeping profits in a jurisdiction
 that had negotiated unusually favorable rulings with dozens of major multinationals.
 Google's arrangement was so elaborate to have its own nickname:
-the Double Irish with a Dutch Sandwich.
+the Double Irish with a Dutch Sandwich [%b Shaxson2011 %].
 
 <div class="callout" markdown="1">
 
@@ -233,7 +233,6 @@ None of this was invented by tech companies,
 but they used it on a larger scale than almost anyone before them.
 
 </div>
-[%b Shaxson2011 %]
 
 The OECD's BEPS project,
 launched in 2013,

@@ -30,25 +30,25 @@ they feel both sides are strident and self-righteous.
 
 ## Prose
 
-1.  [Introduction](@/intro/) (454)
-1.  [A Few Key Ideas](@/few-ideas/) (4881)
-1.  [How We Got Here](@/how-we-got-here/) (4629)
-1.  [What Drives Behavior](@/behavior/) (4315)
-1.  [When the Model Is the Harm](@/harmful-models/) (5408)
-1.  [Privacy, Power, and the Self](@/privacy/) (4956)
-1.  [Who Gets What and Why](@/inequality/) (3183)
-1.  [Controlling Workers](@/worker-control/) (4909)
-1.  [Regulation That Worked](@/regulation-works/) (3365)
-1.  [What Changes and How](@/how-change/) (3722)
-1.  [What You Do Next](@/what-next/) (1320)
+1.  [Introduction](@/intro/)
+1.  [A Few Key Ideas](@/few-ideas/)
+1.  [How We Got Here](@/how-we-got-here/)
+1.  [What Drives Behavior](@/behavior/)
+1.  [When the Model Is the Harm](@/harmful-models/)
+1.  [Privacy, Power, and the Self](@/privacy/)
+1.  [Who Gets What and Why](@/inequality/)
+1.  [Controlling Workers](@/worker-control/)
+1.  [Regulation That Worked](@/regulation-works/)
+1.  [What Changes and How](@/how-change/)
+1.  [What You Do Next](@/what-next/)
 
 ### Undone
 
-1.  [What We Owe the Future](@/future/) (2371)
-1.  [Money, Monopoly, and Bubbles](@/monopoly/) (3130)
-1.  [Alternatives and Dead Weight](@/alternatives/) (3433)
-1.  [Speech, Arms, and Algorithms](@/speech-arms/) (2529)
-1.  [When the Algorithm Comes for You](@/ai-happens/) (1419)
+1.  [What We Owe the Future](@/future/)
+1.  [Money, Monopoly, and Bubbles](@/monopoly/)
+1.  [Alternatives and Dead Weight](@/alternatives/)
+1.  [Speech, Arms, and Algorithms](@/speech-arms/)
+1.  [When the Algorithm Comes for You](@/ai-happens/)
 
 </div>
 
