@@ -276,6 +276,14 @@
     [9780275981136](https://isbnsearch.org/isbn/9780275981136).
     *Debunks the legend that yellow journalism caused the Spanish-American War, while examining how the press shapes and distorts historical memory.*
 
+<span id="Case2021">Case2021</span>
+:   Anne Case and Angus Deaton:
+    *Deaths of Despair and the Future of Capitalism*.
+    Princeton Universitiy Press,
+    2021,
+    [9780691217079](https://isbnsearch.org/isbn/9780691217079).
+    *Looks at deaths from suicide and substance abuse among working-class Americans, and at the social and economic forces that are causing them.*
+
 <span id="Cassidy2025">Cassidy2025</span>
 :   John Cassidy:
     *Capitalism and Its Critics: A History: From the Industrial Revolution to AI*.
@@ -731,6 +739,12 @@
     [9780520258464](https://isbnsearch.org/isbn/9780520258464).
     *Documents successful public health campaigns in injury prevention to identify what makes safety regulation actually work.*
 
+<span id="HemenwayFalk2026">HemenwayFalk2026</span>
+:   Brett Hemenway Falk and Gerry Tsoukalas:
+    "The AI Layoff Trap".
+    https://arxiv.org/abs/2603.20617,
+    March 2026
+
 <span id="Herman1988">Herman1988</span>
 :   Edward S. Herman and Noam Chomsky:
     *Manufacturing Consent: The Political Economy of the Mass Media*.
@@ -1089,6 +1103,14 @@
     [9781610396134](https://isbnsearch.org/isbn/9781610396134).
     *Argues that the state, not private enterprise, has been the primary source of transformative technological innovation, and that public investment deserves public reward.*
 
+<span id="McGrann2026">McGrann2026</span>
+:   Owen McGrann:
+    "The Dead Economy Theory."
+    *Bitter Buffaloes*,
+    May 1, 2026,
+    https://www.owenmcgrann.com/p/the-dead-economy-theory.
+    *Argues that AI-driven mass labor replacement creates a structural prisoners' dilemma in which each firm rationally automates beyond the socially optimal level, destroying the consumer base on which all firms depend.*
+
 <span id="McIntosh1989">McIntosh1989</span>
 :   Peggy McIntosh:
     "White Privilege: Unpacking the Invisible Knapsack."
@@ -1342,6 +1364,14 @@
     2019,
     [9781786635167](https://isbnsearch.org/isbn/9781786635167).
     *Argues that giant corporations like Walmart already engage in complex central planning, undermining the claim that it is inherently inefficient.*
+
+<span id="Piketty2017">Piketty2017</span>
+:   Thomas Piketty:
+    *Capital in the Twenty-First Century*.
+    Harvard University Press,
+	2017 (original 2013),
+    [9780674979857](https://isbnsearch.org/isbn/9780674979857).
+    *Argues that wealth inequality tends to grow over time because the return on capital consistently outpaces economic growth, concentrating ownership among the already-wealthy unless deliberately checked by policy interventions like progressive taxation.*
 
 <span id="Popper2011">Popper2011</span>
 :   Karl Popper:

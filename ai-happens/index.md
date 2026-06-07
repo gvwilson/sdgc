@@ -56,6 +56,64 @@ Every previous major automation wave distributed them badly,
 not because it had to,
 but because the people who owned the technology had more political power than the people displaced by it.
 
+## The Demand Problem
+
+The economic structure of AI displacement creates a specific trap.
+Economists Brett Hemenway Falk and Gerry Tsoukalas at Wharton described it in a paper
+they titled "The AI Layoff Trap" [%b HemenwayFalk2026 %].
+In competitive markets, an automating firm captures the full cost savings from replacing workers
+but bears only a fraction of the resulting demand destruction.
+In a market with twenty competitors, each firm absorbs one-twentieth of the demand it destroys;
+the rest falls on rivals.
+Every firm has a rational individual incentive to automate beyond the socially optimal level,
+because the gain from cutting labor costs outweighs
+the diffuse shared consequence of eliminating consumer spending.
+Better AI worsens this: wider productivity gains accelerate the race toward a shrinking market.
+Henry Ford understood the opposite logic: his workers needed to earn enough to buy his cars.
+The AI economy is eliminating the workers and expecting the cars to keep selling [%b McGrann2026 %].
+
+Sometimes the layoffs happen before anyone checks whether the technology can do the job.
+Acemoglu's term for this is "excessive automation":
+using AI to eliminate jobs without generating meaningfully lower production costs,
+while imposing substantial social costs.
+When Block's Jack Dorsey laid off nearly half his workforce in March 2025, citing AI coding agents,
+investors responded with a twenty-five percent stock price surge in after-hours trading.
+The market rewarded the elimination of human labor with an immediate transfer of value to shareholders,
+regardless of whether the AI actually performed the eliminated work.
+
+Anne Case and Angus Deaton tracked what happened to communities when manufacturing employment disappeared:
+rising rates of suicide, drug overdose, and alcoholic liver disease among populations
+that had lost their economic function [%b Case2021 %].
+The mechanism was not only poverty but the loss of purpose, social status, and a perceived future.
+Communities organized around industries that left did not quietly transform into something else.
+The AI industry's narratives about abundance repeat the promises of globalization.
+The evidence from globalization is that the losers do not become winners on their own,
+and their losses produce political consequences that outlast any particular trade agreement [%b McGrann2026 %].
+
+The tools are also degrading the workers they are supposed to help.
+Anthropic's own internal research found that junior engineers
+who relied heavily on AI coding agents understood their work significantly less when tested afterward,
+even though they completed tasks at roughly the same speed as those who did not.
+The retraining argument assumes people can develop new skills to stay relevant.
+The evidence suggests that the tools accelerating displacement
+are simultaneously eroding the capacity for skill development.
+
+The research underlying this technology was publicly funded.
+The mathematical advances, large-scale training methods, and semiconductor progress
+were developed through universities, DARPA, and national laboratories.
+Private companies captured the reward.
+As Mazzucato has argued,
+AI risks becoming an engine of rent extraction rather than value creation [%b Mazzucato2013 %].
+By the first three quarters of 2025, AI-related investments accounted for roughly thirty-nine percent
+of US economic growth, giving the federal government a vested interest in sustaining the boom.
+The regulator and the regulated have converged into a single interest.
+The interventions economists have identified,
+such public ownership stakes in AI infrastructure,
+aggressive antitrust enforcement,
+and a tax on automated labor,
+require democratic institutions willing to challenge the richest companies in human history,
+and those companies are spending heavily to prevent exactly that [%b McGrann2026 %].
+
 ## The Business Model and the IP Problem
 
 AI services are currently cheap or free,
