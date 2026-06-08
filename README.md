@@ -64,12 +64,6 @@ they feel both sides are strident and self-righteous.
 
 </div>
 
-## Recycled
-
-1.  [Seeing the World](@/seeing/)
-1.  [Power Inside Organizations](@/inside-orgs/)
-1.  [Disruption, Fraud, and Enclosure](@/disruption/) (2388)
-
 <p class="center">
   <em>
     start where you are

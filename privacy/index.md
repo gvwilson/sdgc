@@ -275,7 +275,7 @@ But the desire of states and institutions to pin individuals permanently to a re
 did not die with the calipers.
 
 The history of identity management is partly the history of states
-trying to solve what James C. Scott calls the legibility problem [%b Scott1998 %].
+trying to solve what James C. Scott calls the [%g legibility "legibility" %] problem [%b Scott1998 %].
 A state cannot tax, draft, or police people it cannot identify.
 Medieval English peasants might know themselves as "John the Miller's son from the village by the ford",
 but that description doesn't survive a move to a city or a change of occupation.
@@ -368,7 +368,8 @@ It has also created new forms of exclusion.
 People who cannot authenticate are cut off from food rations and pension payments,
 and the database itself represents a concentration of sensitive biometric information
 that, if breached, cannot be reset:
-you can change your password, but you cannot get new fingerprints.
+you can change your password, but you cannot get new fingerprints
+[%b Khera2019 %].
 
 <div class="callout" markdown="1">
 

@@ -1369,7 +1369,7 @@
 :   Thomas Piketty:
     *Capital in the Twenty-First Century*.
     Harvard University Press,
-	2017 (original 2013),
+    2017 (original 2013),
     [9780674979857](https://isbnsearch.org/isbn/9780674979857).
     *Argues that wealth inequality tends to grow over time because the return on capital consistently outpaces economic growth, concentrating ownership among the already-wealthy unless deliberately checked by policy interventions like progressive taxation.*
 

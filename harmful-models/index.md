@@ -453,7 +453,7 @@ The recommendation algorithm knows far more precisely
 what content will hold each specific user's attention for the next few minutes
 than the newspaper editor deciding what to put on the front page.
 
-Engagement maximization and social harm are not separable
+Engagement maximization through [%g algorithmic-amplification "algorithmic amplification" %] and social harm are not separable
 because the content that maximizes engagement is not randomly distributed.
 Research consistently shows that outrage, fear, and social comparison
 generate stronger and more persistent engagement signals
@@ -604,10 +604,11 @@ Every household paid approximately one-tenth of its productive output.
 Today, the App Store charges a thirty percent commission on every transaction made through it:
 a tithe on productive activity conducted within the platform's jurisdiction,
 owed by anyone whose business depends on access to that platform's infrastructure.
-Excommunication—removal from the Church's services—meant you could not conduct legal business.
-Deplatforming works the same way:
+[%g excommunication "Excommunication" %]—removal from the Church's services—meant you could not conduct legal business.
+[%g deplatforming "Deplatforming" %] works the same way:
 a creator removed from a major platform loses access to customers, tools, and markets
-with no due process and no external authority to appeal to.
+with no [%g due-process "due process" %] and no external authority to appeal to
+[%b Southern1990 %].
 
 </div>
 
@@ -625,7 +626,7 @@ is not whether the services have value,
 but whether the entity providing them has made itself structurally necessary
 specifically to extract rents that a competitive market would not sustain.
 
-The yakuza are declining.
+The yakuza (officially designated [%g boryokudan "*boryokudan*" %] in Japanese anti-crime legislation) are declining.
 Japan's anti-organized crime laws, passed in 1992 and strengthened since,
 have made it progressively harder for syndicate members to interface with legitimate business.
 Banks will not open accounts for known members,
@@ -655,7 +656,8 @@ Congressional hearings in 1959 exposed the practice,
 the Federal Communications Commission made [%g payola "payola" %] illegal,
 and Alan Freed,
 one of the most prominent DJs of the era,
-was prosecuted and his career ended.
+was prosecuted and his career ended
+[%b Segrave1994 %].
 
 However,
 the hearings focused on individual wrongdoers rather than
@@ -665,7 +667,8 @@ through intermediaries that technically complied with disclosure requirements
 while achieving the same result.
 This is an example of [%g regulatory-capture "regulatory capture" %]:
 the agency charged with overseeing an industry becomes more responsive to the industry's interests
-than to the public interest it was created to protect.
+than to the public interest it was created to protect
+[%b Stigler1971 %].
 
 A related problem arises
 when a platform operates as both a marketplace administrator and a competitor within that marketplace.

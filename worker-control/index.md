@@ -152,7 +152,7 @@ Antitrust law has historically been reluctant to treat voluntarily agreed contra
 even when the practical alternatives to agreement are limited.
 The prevailing view is that if the franchisee had an alternative and chose this arrangement,
 the arrangement is presumptively legitimate.
-This framing does not account for information asymmetry at the time of contracting
+This framing does not account for [%g information-asymmetry "information asymmetry" %] at the time of contracting
 or the way switching costs increase over time.
 And it does not account for the fact that the "voluntary" choice
 is often a choice between accepting one set of platform terms
@@ -312,7 +312,7 @@ instead,
 tech companies brag about it.
 Organizing feels like betrayal—not because the employer has convinced workers that unions are bad,
 but because workers have been convinced that they are not really workers at all
-[%b Cech2021 %].
+[%b Cech2021 Graeber2018 %].
 
 <div class="callout" markdown="1">
 

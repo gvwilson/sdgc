@@ -10,7 +10,7 @@ New work appeared, but not the same work,
 not in the same places,
 and not for everyone who needed it.
 Understanding what AI actually is and what historical patterns actually predict
-is more useful than either dismissing the fear or surrendering to it [%b Acemoglu2023 %].
+is more useful than either dismissing the fear or surrendering to it [%b Acemoglu2023 Keynes1930 %].
 
 ## What AI Is, and What Automation Does
 
@@ -83,7 +83,7 @@ regardless of whether the AI actually performed the eliminated work.
 
 Anne Case and Angus Deaton tracked what happened to communities when manufacturing employment disappeared:
 rising rates of suicide, drug overdose, and alcoholic liver disease among populations
-that had lost their economic function [%b Case2021 %].
+that had lost their economic function [%b Case2021 Suzman2021 %].
 The mechanism was not only poverty but the loss of purpose, social status, and a perceived future.
 Communities organized around industries that left did not quietly transform into something else.
 The AI industry's narratives about abundance repeat the promises of globalization.

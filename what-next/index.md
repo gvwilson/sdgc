@@ -57,7 +57,7 @@ is when not changing becomes more costly than changing.
 
 ## Moral Reframing in Practice
 
-The criminalization of homosexuality is often treated as an ancient prejudice that modernity finally overcame,
+The criminalization of homosexuality through [%g sodomy-laws "sodomy laws" %] is often treated as an ancient prejudice that modernity finally overcame,
 but its legal form is specific and recent.
 The British Offences Against the Person Act of 1861
 and the Criminal Law Amendment Act of 1885—under which Oscar Wilde was prosecuted—established

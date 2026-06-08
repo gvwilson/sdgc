@@ -193,7 +193,7 @@ The result simply does not represent what voters wanted.
 
 Countries using proportional representation have consistently higher voter turnout and lower polarization
 than those using plurality systems [%b Achen2017 %].
-New Zealand used first-past-the-post voting until 1996,
+New Zealand used [%g first-past-the-post "first-past-the-post" %] voting until 1996,
 when it switched to a mixed-member proportional system after a national referendum.
 Voter turnout rose,
 and Parliament became more representative of the actual distribution of voter preferences.

@@ -100,7 +100,7 @@ that London goldsmiths discovered in the 1660s [%b Kindleberger2005 Chang2012 %]
 
 The limited liability corporation is the dominant form of business organization,
 and its history is stranger than most people realize.
-Joint-stock companies with limited liability appeared in England and the Netherlands in the early 1600s.
+[%g joint-stock-company "Joint-stock companies" %] with limited liability appeared in England and the Netherlands in the early 1600s.
 The Dutch East India Company, founded in 1602,
 is often called the world's first publicly traded corporation:
 it issued shares to outside investors,
@@ -127,7 +127,7 @@ Their legal documents were drafted for that structure,
 their lawyers know it,
 and their limited partners expect it.
 A Canadian founder who takes US venture money
-often has to execute what is called a "Delaware flip":
+often has to execute what is called a [%g delaware-flip "Delaware flip" %]:
 creating a new Delaware holding company above the existing Canadian entity,
 transferring the intellectual property,
 and essentially making the company American on paper.
@@ -138,7 +138,7 @@ it is pure path dependency imposed by the capital markets.
 
 What tech companies have innovated on is not the basic corporate form
 but the voting structure within it.
-Dual-class share structures,
+[%g dual-class-shares "Dual-class share structures" %],
 in which founders hold shares with ten or more votes each
 while public investors hold shares with one vote,
 have become standard in major tech IPOs.

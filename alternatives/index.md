@@ -270,7 +270,7 @@ Neither of these is natural or inevitable.
 They are all choices,
 and the choice that has dominated tech for the past forty years
 is not the only choice available
-[%b Blasi2013 Yunus2007 %].
+[%b Baiocchi2005 Blasi2013 Phillips2019 Yunus2007 %].
 
 ## The Eight-Hour Day
 

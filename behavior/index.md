@@ -207,7 +207,7 @@ a successful evolutionary strategy.
 The capacity for that cooperation,
 and the emotional responses that sustain it like fairness, shame, and indignation,
 are as deeply embedded in human nature as any appetite for self-interest
-[%b Bowles2011 %].
+[%b Bowles2011 Bregman2020 %].
 
 None of this means humans are angels.
 Self-interested behavior is real.

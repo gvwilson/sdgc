@@ -504,7 +504,7 @@ Another kind of regulatory failure is equally instructive:
 one in which the pressure for regulation is genuine and well-intentioned
 but aimed at the wrong target.
 
-Moral panics about new media are old.
+[%g moral-panic "Moral panics" %] about new media are old.
 Dime novels corrupted working-class youth in the 1880s.
 Comic books produced juvenile delinquents in the 1950s,
 according to psychiatrist Fredric Wertham's *Seduction of the Innocent* [FIXME: add bibliography entry and break this sentence in two-it's too long],
@@ -565,7 +565,7 @@ and the effect sizes are small.
 Large longitudinal studies,
 which are better positioned to detect real-world outcomes,
 consistently find no meaningful relationship between video game consumption and violent behavior.
-Meta-analyses that account for publication bias—the tendency of journals
+Meta-analyses that account for [%g publication-bias "publication bias" %]—the tendency of journals
 to publish positive findings—find that the field systematically overestimated effects
 because studies finding no relationship were less likely to be published
 [%b Ferguson2015 Markey2017 %].

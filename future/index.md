@@ -150,11 +150,11 @@ but rather "what would actually change our behavior?"
 
 ## When the Future Is Used Against the Present
 
-MacAskill's longtermism is not merely an academic position.
+MacAskill's [%g longtermism "longtermism" %] is not merely an academic position.
 It is the philosophical foundation of a cluster of movements and organizations
 that have come to exert significant influence over technology policy and philanthropic giving.
 Émile Torres, a philosopher who helped develop these ideas before becoming one of their sharpest critics,
-named the cluster TESCREAL:
+named the cluster [%g tescreal "TESCREAL" %]:
 Transhumanism, Extropianism, Singularitarianism, Cosmism, Rationalism, Effective Altruism, and Longtermism.
 The ideologies in this cluster share the longtermist premise
 that the scale of the future is so vast
@@ -192,7 +192,8 @@ as trustees of civilization accountable to no present constituency.
 The argument that today's people must accept disruption, displacement, and concentrated power
 because future people's welfare is at stake
 is being made by very wealthy people
-about costs borne by others who have no voice in the decision.
+about costs borne by others who have no voice in the decision
+[%b Andreessen2023 %].
 
 This is the same rhetorical structure as other forms of extraction:
 the resources and labor of present people converted into benefits

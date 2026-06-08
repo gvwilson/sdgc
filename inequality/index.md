@@ -257,7 +257,7 @@ Irish immigrants in the 1840s appeared in popular cartoons as racially distinct 
 while Italian immigrants in the early twentieth century were subject to legal discrimination
 partly justified on racial grounds.
 Each of these groups eventually became "white" through political processes
-that included them while excluding Black Americans [%b Omi2015 %].
+that included them while excluding Black Americans [%b Oluo2018 Omi2015 %].
 
 Understanding how racial categories are built, and by whom, is necessary for understanding
 how algorithmic systems operate in societies organized around race and caste.
@@ -267,7 +267,7 @@ A hiring model trained on historical promotion decisions learns to prefer candid
 who resemble the people who were previously promoted,
 in organizations that excluded people by race and class.
 A recidivism prediction tool trained on arrest data learns patterns from policing decisions
-that were themselves racially disparate [%b Kendi2016 %].
+that were themselves racially disparate [%b Kendi2016 Wilkerson2020 %].
 
 ## The Taboos of Professional Culture
 
@@ -459,7 +459,7 @@ and when these systems produce discriminatory outcomes,
 the platform does not bear a cost proportional to the harm.
 The credit bureau model took decades to produce Equifax.
 The tech industry produced the same structure at global scale in about fifteen years,
-and called it connecting the world [%b Oneil2016 Pasquale2015 %].
+and called it connecting the world [%b Chouldechova2017 Oneil2016 Pasquale2015 %].
 
 <div class="callout" markdown="1">
 
@@ -492,7 +492,7 @@ Cities that received Carnegie libraries did so on his terms:
 local governments had to provide the land and commit to maintaining the buildings in perpetuity.
 The offer was generous; it also bypassed democratic mechanisms.
 
-The more consequential precedent was the Flexner Report of 1910,
+The more consequential precedent was the [%g flexner-report "Flexner Report" %] of 1910,
 commissioned by the Carnegie Foundation for the Advancement of Teaching.
 It recommended consolidating medical education around elite university-based institutions
 and closing the smaller proprietary schools it judged substandard.
