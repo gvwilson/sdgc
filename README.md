@@ -31,7 +31,11 @@ they feel both sides are strident and self-righteous.
 ## Prose
 
 1.  [Introduction](@/intro/)
-1.  [A Few Key Ideas](@/few-ideas/)
+1.  [A Little Psychology](@/psychology/)
+
+### Undone
+
+1.  [Pending](@/pending/)
 1.  [How We Got Here](@/how-we-got-here/)
 1.  [What Drives Behavior](@/behavior/)
 1.  [When the Model Is the Harm](@/harmful-models/)
@@ -41,9 +45,6 @@ they feel both sides are strident and self-righteous.
 1.  [Regulation That Worked](@/regulation-works/)
 1.  [What Changes and How](@/how-change/)
 1.  [What You Do Next](@/what-next/)
-
-### Undone
-
 1.  [What We Owe the Future](@/future/)
 1.  [Money, Monopoly, and Bubbles](@/monopoly/)
 1.  [Alternatives and Dead Weight](@/alternatives/)

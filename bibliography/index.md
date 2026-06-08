@@ -60,7 +60,7 @@
 
 ## B
 
-<span id="BabiakHare2019">BabiakHare2019</span>
+<span id="Babiak2019">Babiak2019</span>
 :   Paul Babiak and Robert D. Hare:
     *Snakes in Suits: Understanding and Surviving the Psychopaths in Your Office*
     (revised ed.).
@@ -175,7 +175,7 @@
     [9780300209334](https://isbnsearch.org/isbn/9780300209334).
     *Historical and economic argument for broadening employee ownership as a way to share the gains from capitalism more widely.*
 
-<span id="BoardFritzon2005">BoardFritzon2005</span>
+<span id="Board2005">Board2005</span>
 :   Belinda J. Board and Katarina Fritzon:
     "Disordered Personalities at Work."
     *Psychology, Crime & Law*,
@@ -599,6 +599,15 @@
     1998 (original 1958),
     [9780395925003](https://isbnsearch.org/isbn/9780395925003).
     *Argued that postwar American prosperity masked a dangerous imbalance: abundance of private goods alongside systematic neglect of public ones.*
+
+<span id="Galinsky2001">Galinsky2001</span>
+:   Adam D. Galinsky and Thomas Mussweiler:
+    "First Offers as Anchors: The Role of Perspective-Taking and Negotiator Focus."
+    *Journal of Personality and Social Psychology*,
+    81(4),
+    2001,
+    [10.1037/0022-3514.81.4.657](https://doi.org/10.1037/0022-3514.81.4.657).
+    *Demonstrates that making the first offer in a negotiation anchors the outcome in the first mover's favor.*
 
 <span id="GartonAsh2016">GartonAsh2016</span>
 :   Timothy Garton Ash:
@@ -1853,6 +1862,14 @@
     2013,
     [9780393345834](https://isbnsearch.org/isbn/9780393345834).
     *A legal history of the US Second Amendment showing that gun rights have always been contested and that the current individual right interpretation is historically novel.*
+
+<span id="Woodford2012">Woodford2012</span>
+:   Michael Woodford:
+    *Exposure: Inside the Olympus Scandal: How I Went from CEO to Whistleblower*.
+    Portfolio/Penguin,
+    2012,
+    [9781591846888](https://isbnsearch.org/isbn/9781591846888).
+    *First-hand account by the Olympus CEO who uncovered a $1.7 billion fraud and was fired for reporting it.*
 
 <span id="Wright2013">Wright2013</span>
 :   Lawrence Wright:
