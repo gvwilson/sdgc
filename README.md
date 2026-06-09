@@ -32,11 +32,11 @@ they feel both sides are strident and self-righteous.
 
 1.  [Introduction](@/intro/)
 1.  [A Little Psychology](@/psychology/)
+1.  [How We Got Here](@/how-we-got-here/)
 
 ### Undone
 
 1.  [Pending](@/pending/)
-1.  [How We Got Here](@/how-we-got-here/)
 1.  [What Drives Behavior](@/behavior/)
 1.  [When the Model Is the Harm](@/harmful-models/)
 1.  [Privacy, Power, and the Self](@/privacy/)
