@@ -32,6 +32,11 @@
     severance requirements, or just-cause protections that
     significantly limit at-will termination.
 
+<span id="audit-studies">audit studies</span>
+:   A research methodology in which matched fictitious applications or
+    inquiries are submitted to real decision-makers to measure
+    differential treatment by race, gender, or other characteristics.
+
 <span id="availability-heuristic">availability heuristic</span>
 :   The mental shortcut of estimating how likely or common something is
     by how easily examples of it come to mind.  Vivid or recent events
@@ -179,12 +184,14 @@
 
 <span id="cultural-capital">cultural capital</span>
 :   The non-financial social assets that confer advantage in
-    education, employment, and status, including familiarity with
-    dominant cultural norms, aesthetic preferences, modes of speech,
-    and educational credentials.
-    The concept was developed by Pierre Bourdieu to explain how class
-    advantages are reproduced across generations without the direct
-    transfer of money.
+    education, employment, and status, such as fashion preferences,
+    modes of speech, and educational credentials, that perpetuate
+    class advantages without direct transfer of money.
+
+<span id="culture-fit">culture fit</span>
+:   The use of perceived compatibility with an existing team's norms
+    and personality as a criterion in hiring decisions, which tends to
+    reproduce the demographic composition of existing teams.
 
 ## D
 
@@ -417,6 +424,10 @@
     time-inconsistent preferences.
 
 ## I
+
+<span id="implicit-bias">implicit bias</span>
+:   Unconscious attitudes or stereotypes that influence decisions and
+    behavior in ways the decision-maker does not recognize or intend.
 
 <span id="impression-management">impression management</span>
 :   The ongoing effort by individuals to control how they are
@@ -880,6 +891,12 @@
     requirements, or by refusing to implement open standards that
     would reduce switching costs.
 
+<span id="statistical-discrimination">statistical discrimination</span>
+:   The practice of using group averages as proxies for individual
+    characteristics in decisions about hiring, lending, or other
+    allocations, producing disparate outcomes even without conscious
+    prejudice.
+
 <span id="structural-lock-in">structural lock-in</span>
 :   The condition in which technical, contractual, or network
     dependencies make switching away from a platform or system
@@ -903,6 +920,11 @@
     incumbents exploit to retain users.
 
 ## T
+
+<span id="taste-discrimination">taste discrimination</span>
+:   The situation in which employers who prefer not to hire members of
+    certain groups effectively pay a premium for that preference,
+    disadvantaging discriminating firms in competitive markets.
 
 <span id="tax-haven">tax haven</span>
 :   A jurisdiction that imposes low or zero taxes on foreign income,

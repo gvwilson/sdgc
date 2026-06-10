@@ -507,8 +507,8 @@ but aimed at the wrong target.
 [%g moral-panic "Moral panics" %] about new media are old.
 Dime novels corrupted working-class youth in the 1880s.
 Comic books produced juvenile delinquents in the 1950s,
-according to psychiatrist Fredric Wertham's *Seduction of the Innocent* [FIXME: add bibliography entry and break this sentence in two-it's too long],
-which brought comic books before a Senate subcommittee in 1954
+according to psychiatrist Fredric Wertham's *Seduction of the Innocent* [%b Wertham1954 %].
+His testimony brought comic books before a Senate subcommittee in 1954
 and led directly to the Comics Code Authority,
 a self-regulatory body that banned dark content so comprehensively
 that it effectively gutted the medium for a generation.

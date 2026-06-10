@@ -219,8 +219,7 @@ It also suppressed the development of competitive long-distance service
 and technologies that threatened the core telephone business
 [%b Wu2010 %].
 
-The British railway mania of the 1840s followed the same cycle earlier and more visibly,
-as the [Fads and Bubbles](@/fads/) chapter describes.
+The British railway mania of the 1840s followed the same cycle earlier and more visibly.
 The consolidation that followed produced a small number of large regional monopolies.
 Parliament responded with rate controls and mandated third-party access to track,
 which the railway companies contested for decades,

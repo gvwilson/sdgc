@@ -93,6 +93,14 @@
     [9781400851911](https://isbnsearch.org/isbn/9781400851911).
     *Traces three centuries of transatlantic disputes over copyright law, showing how cultural and economic interests have repeatedly clashed over who owns creative work.*
 
+<span id="Banaji2013">Banaji2013</span>
+:   Mahzarin R. Banaji and Anthony G. Greenwald:
+    *Blindspot: Hidden Biases of Good People*.
+    Delacorte,
+    2013,
+    [9780553804645](https://isbnsearch.org/isbn/9780553804645).
+    *Reports decades of research showing that most people, including those who explicitly reject prejudice, harbor automatic associations between social groups in ways that affect their judgments and behavior.*
+
 <span id="Bandura1999">Bandura1999</span>
 :   Albert Bandura:
     "Moral Disengagement in the Perpetration of Inhumanities."
@@ -110,6 +118,23 @@
     1972 (original 1957),
     [9780374521509](https://isbnsearch.org/isbn/9780374521509).
     *Shows how myths naturalize what are actually historical, ideological constructions to make happenstance appear inevitable.*
+
+<span id="Beard2017">Beard2017</span>
+:   Mary Beard:
+    *Women & Power: A Manifesto*.
+    Profile Books,
+    2017,
+    [9781788160612](https://isbnsearch.org/isbn/9781788160612).
+    *Traces two thousand years of women's exclusion from public speech and power, arguing that the patterns are structural and require more than individual success to change.*
+
+<span id="Becker1971">Becker1971</span>
+:   Gary S. Becker:
+    *The Economics of Discrimination*
+    (2nd ed.).
+    University of Chicago Press,
+    1971,
+    9780226041162.
+    *Argued that employers who discriminate pay a competitive cost, and incorrectly predicted that market forces would eventually eliminate labor discrimination.*
 
 <span id="Beckerman2022">Beckerman2022</span>
 :   Gal Beckerman:
@@ -1112,6 +1137,14 @@
     [9781610396134](https://isbnsearch.org/isbn/9781610396134).
     *Argues that the state, not private enterprise, has been the primary source of transformative technological innovation, and that public investment deserves public reward.*
 
+<span id="McGhee2021">McGhee2021</span>
+:   Heather McGhee:
+    *The Sum of Us: What Racism Costs Everyone and How We Can Prosper Together*.
+    One World,
+    2021,
+    [9780525509561](https://isbnsearch.org/isbn/9780525509561).
+    *Argues that zero-sum racial thinking has led to policies that damaged white working-class Americans alongside Black ones, and that building solidarity across racial lines serves the interests of most Americans.*
+
 <span id="McGrann2026">McGrann2026</span>
 :   Owen McGrann:
     "The Dead Economy Theory."
@@ -1806,6 +1839,13 @@
     2011,
     [9781608461066](https://isbnsearch.org/isbn/9781608461066).
     *Analysis of Bolivia's social movements and the Morales government's 2006 nationalization of natural gas resources, examining how redirected revenues reduced poverty by more than half over the following decade.*
+
+<span id="Wertham1954">Wertham1954</span>
+:   Fredric Wertham:
+    *Seduction of the Innocent*.
+    Rinehart,
+    1954.
+    *Argued that comic books caused juvenile delinquency and desensitized children to violence, leading directly to congressional hearings and the Comics Code Authority, a self-regulatory body that effectively gutted the medium for a generation.*
 
 <span id="Whitfield2011">Whitfield2011</span>
 :   Lindsay Whitfield (ed.):
