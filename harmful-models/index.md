@@ -121,7 +121,7 @@ I think it's worth keeping the cocaine cartels in mind
 
 Another book that I really enjoyed was [%b Davies2022 %],
 which is about how legendary frauds reveal the workings of the world.
-while he doesn't discuss big tech,
+While he doesn't discuss big tech,
 the parallels are inescapable.
 Understanding the classic patterns of fraud laid out in Davies' book
 makes it possible to identify them in the software industry,
@@ -276,8 +276,7 @@ was declared waste, Crown land, or legally available for settlement.
 This did to colonized peoples what the Enclosure Acts had done to English commoners:
 extinguish practices that had sustained communities for generations,
 convert resource into commodities that could be extracted or sold,
-and make the people dependent on their new overlords.
-[%b Linebaugh2014 %]
+and make the people dependent on their new overlords [%b Linebaugh2014 %].
 
 <div class="callout" markdown="1">
 
@@ -302,8 +301,7 @@ produced sharp falls in drug-related HIV transmission and overdose deaths
 without increasing use rates relative to comparable European countries.
 The pattern of what gets legalized, when, and for whom
 tracks political economy, racial hierarchy, and commercial interest
-far more reliably than it tracks harm
-[%b Hari2015 Nutt2012 %].
+far more reliably than it tracks harm [%b Hari2015 Nutt2012 %].
 
 </div>
 
@@ -329,8 +327,7 @@ This isn't deception:
 it's a mutual agreement to treat the fiction as real
 to make the experience more emotionally satisfying.
 When a wrestler breaks kayfabe—acknowledges the performance from inside it—it violates a social contract,
-not a factual claim
-[%b Barthes1972 %].
+not a factual claim [%b Barthes1972 %].
 
 Big tech runs on a remarkably similar agreement.
 Consider the long rivalry between Apple and Google.
@@ -399,8 +396,7 @@ and openness to accountability is not whether individual participants believe wh
 Some of them probably do.
 The question is whether the performance is producing structural change
 or whether it is performing structural change for an audience
-that finds the performance sufficient
-[%b Frankfurt2005 Mazer1998 %].
+that finds the performance sufficient [%b Frankfurt2005 Mazer1998 %].
 
 ## Big Tech is Like the Penny Press
 
@@ -436,8 +432,7 @@ crime, scandal, nationalist outrage, and stories written to produce emotional re
 and each escalation by one paper forced a matching response from the other.
 Journalism that was inaccurate and inflammatory was not the result of a conspiracy.
 It was the predictable output of two rational businesses
-responding to the same incentive structure
-[%b Campbell2001 Nasaw2000 %].
+responding to the same incentive structure [%b Campbell2001 Nasaw2000 %].
 
 The [%g propaganda-model "propaganda model" %] [%b Herman1988 %] describes how
 this system shapes content without requiring deliberate censorship.
@@ -460,8 +455,7 @@ generate stronger and more persistent engagement signals
 than accurate information, considered analysis,
 or content that simply satisfies a question and lets the user close the tab.
 Big tech companies that depend on advertising revenue
-will therefore always amplify inflammatory distortion over mere facts
-[%b Wu2016 %].
+will therefore always amplify inflammatory distortion over mere facts [%b Wu2016 %].
 
 ## Big Tech is Like Multi-Level Marketing
 
@@ -487,8 +481,7 @@ all of whom must sell product to sustain the commission structure above them.
 The US Federal Trade Commission found in a 2011 analysis
 that in one major MLM company,
 fewer than 1% of participants earned a net profit after expenses.
-The other 99% subsidized them
-[%b FitzPatrick2020 %].
+The other 99% subsidized them [%b FitzPatrick2020 %].
 
 When Uber launched, it told drivers they were entrepreneurs:
 captains of their own ships,
@@ -541,8 +534,7 @@ is that MLMs are occasionally subject to regulatory action.
 The platform economy has largely avoided that outcome
 by being larger, more diffuse, and more politically connected.
 The most honest description of both is that they sell hope:
-the hope that this time, for this person, the math will work out
-[%b Srnicek2016 %].
+the hope that this time, for this person, the math will work out [%b Srnicek2016 %].
 
 ## Big Tech is Like the Yakuza
 
@@ -607,8 +599,7 @@ owed by anyone whose business depends on access to that platform's infrastructur
 [%g excommunication "Excommunication" %]—removal from the Church's services—meant you could not conduct legal business.
 [%g deplatforming "Deplatforming" %] works the same way:
 a creator removed from a major platform loses access to customers, tools, and markets
-with no [%g due-process "due process" %] and no external authority to appeal to
-[%b Southern1990 %].
+with no [%g due-process "due process" %] and no external authority to appeal to [%b Southern1990 %].
 
 </div>
 
@@ -638,8 +629,7 @@ None of this happened because the yakuza became less useful.
 It happened because a sustained political decision was made
 to make the cost of association with them prohibitive for legitimate businesses.
 The tech industry's political connections are currently a source of strength;
-this history suggests they can be made a source of vulnerability
-[%b Adelstein2023 Kaplan2012 %].
+this history suggests they can be made a source of vulnerability [%b Adelstein2023 Kaplan2012 %].
 
 ## Big Tech is Like the Radio Payola System
 
@@ -656,8 +646,7 @@ Congressional hearings in 1959 exposed the practice,
 the Federal Communications Commission made [%g payola "payola" %] illegal,
 and Alan Freed,
 one of the most prominent DJs of the era,
-was prosecuted and his career ended
-[%b Segrave1994 %].
+was prosecuted and his career ended [%b Segrave1994 %].
 
 However,
 the hearings focused on individual wrongdoers rather than
@@ -667,8 +656,7 @@ through intermediaries that technically complied with disclosure requirements
 while achieving the same result.
 This is an example of [%g regulatory-capture "regulatory capture" %]:
 the agency charged with overseeing an industry becomes more responsive to the industry's interests
-than to the public interest it was created to protect
-[%b Stigler1971 %].
+than to the public interest it was created to protect [%b Stigler1971 %].
 
 A related problem arises
 when a platform operates as both a marketplace administrator and a competitor within that marketplace.
@@ -700,5 +688,5 @@ a search engine that derived no revenue from placement
 would have no incentive to blur the line between paid and organic results.
 Short of this,
 accurate disclosure would require prominence and clarity that platforms have no incentive to provide,
-since their business model depends on users not knowing that the game is rigged
-[%b Doctorow2022 Stoller2019 Khan2017 %].
+since their business model depends on users not knowing that
+the game is rigged [%b Doctorow2022 Stoller2019 Khan2017 %].

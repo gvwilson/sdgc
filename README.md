@@ -34,11 +34,11 @@ they feel both sides are strident and self-righteous.
 1.  [A Little Psychology](@/psychology/)
 1.  [How We Got Here](@/how-we-got-here/)
 1.  [A Little More Psychology](@/morepsych/)
+1.  [When the Model Is the Harm](@/harmful-models/)
 
 ### Undone
 
 1.  [Pending](@/pending/)
-1.  [When the Model Is the Harm](@/harmful-models/)
 1.  [Privacy, Power, and the Self](@/privacy/)
 1.  [Who Gets What and Why](@/inequality/)
 1.  [Controlling Workers](@/worker-control/)
