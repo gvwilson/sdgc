@@ -6,30 +6,30 @@ Privacy is not a timeless natural right.
 As Sarah Igo describes in her history of privacy in America,
 what is and isn't private has expanded in some directions and contracted in others over the past century
 with no consistent underlying principle.
-Sexual behavior between consenting adults was legally public
-in the sense that it was criminally regulated well into the twentieth century.
-Medical records were routinely shared between physicians, employers, and insurers without patient consent.
+Sexual behavior between consenting adults was legally public well into the twentieth century,
+in the sense that it was criminally regulated.
+For much of the same time,
+medical records were routinely shared between physicians, employers, and insurers without patient consent.
 The expansion of legal privacy protection into both of these areas
-was the result of specific case-by-case struggles
-[%b Igo2020 %].
+was the result of specific case-by-case struggles [%b Igo2020 %].
 
-At the same time,
+Similarly,
 financial transactions that were once private are now reported to governments
 under anti-money-laundering and tax-compliance measures,
 and communications that were once protected by the practical difficulty of interception
-are now trivially monitored at scale.
+are routinely monitored at scale [%b Snowden2020 %].
 These shifts also do not reflect a coherent theory of what should be private.
 They reflect the outcomes of contests between specific interests,
 and the interests of states and large corporations have generally prevailed over
 the interests of individuals.
 
 The concept of a private individual self—a zone belonging to a person rather than to a household,
-a clan, or a community—is also historically recent and unevenly distributed.
+a clan, or a community—is also historically recent and unevenly distributed [%b Jenkins2024 %].
 In pre-modern Europe, the unit of privacy was the household, not the person,
 and the head of household had authority over what happened inside it.
 Women and servants had no separate private sphere.
 In Ottoman law, the *harim* (from the Arabic *haram*, meaning forbidden or protected)
-designated the domestic sphere of the household as legally inviolable—
+designated the domestic sphere of the household as legally inviolable:
 not the "harem" of European fantasy, but a legal protection preventing
 state or community intrusion into the home without cause.
 This was a meaningful protection, but it applied to the household as a unit,
@@ -38,7 +38,7 @@ not to the individuals inside it.
 Japan's traditional distinction between *uchi* (inside) and *soto* (outside)
 organized public and private behavior very differently from Western liberal individualism.
 The interior of the household was intensely private from outside scrutiny,
-but the expectation of individual interior privacy—thoughts, feelings, and desires
+but the expectation of individuals' interior privacy—thoughts, feelings, and desires
 kept from family members—was much weaker.
 The communal interior of the family, not the individual self, was the protected unit.
 
@@ -47,16 +47,15 @@ operate through collective custodianship of sacred, medicinal, or ceremonial kno
 This is a form of collective privacy:
 certain knowledge belongs to particular communities and is not available to outsiders.
 Colonial administrators and anthropologists treated this as obscurantism,
-and "freedom of information" in the colonial context often meant forced extraction—
-ceremonies documented, sacred objects removed, genealogies recorded for administrative purposes.
+and "freedom of information" in the colonial context often meant forced extraction:
+ceremonies documented, sacred objects removed, and genealogies recorded for administrative purposes.
 Privacy as extraction is the mirror image of privacy as protection.
 
-Tiffany Jenkins argues that the boundary between public and private is itself a political artifact
-[%b Jenkins2024 %].
-The line is drawn and redrawn by courts, legislators, and social movements,
-and it always serves someone's interests.
-The modern expansion of state intervention into domestic life—
-child protection laws, domestic violence legislation, reproductive rights regulation—
+Tiffany Jenkins' history recounts how the boundary between public and private
+has been drawn and redrawn by courts, legislators, and social movements,
+always in someone's interests [%b Jenkins2024 %].
+The modern expansion of state intervention into domestic life
+with child protection laws, domestic violence legislation, and regulation of reproductive rights
 was often demanded by reformers and feminists against the privacy claims of male heads of household
 who wanted the state to stay out.
 The private sphere has not been progressively liberated from state interference;
@@ -64,8 +63,8 @@ it has been a contested terrain in which some forms of privacy have been won and
 
 ## The Psychology of Private Space
 
-The sociologist Erving Goffman argued in 1959 that everyday social interaction is a kind of performance
-[%b Goffman1959 %].
+The sociologist Erving Goffman argued in 1959 that
+everyday social interaction is a kind of performance [%b Goffman1959 %].
 People present a "front stage" version of themselves when they know they are being observed:
 maintaining composure,
 managing impressions,
@@ -136,8 +135,7 @@ were not privacy in the Western legal sense,
 but they served the same developmental function.
 
 The harm of involuntary exposure is correspondingly real.
-The *charivari*
-was a public shaming ritual practiced across medieval and early modern Europe.
+The *charivari* was a public shaming ritual practiced across medieval and early modern Europe.
 It deployed community visibility as a disciplinary tool against people who violated social norms.
 The same mechanism operated in public "struggle sessions" during the Cultural Revolution in China,
 in the public confession practices of various religious traditions,
@@ -150,19 +148,14 @@ but a precondition for social participation.
 
 ## Paying for the Privilege
 
-People using social media and AI are revealing more about themselves
-than the Stasi could ever have dreamed of knowing.
+The [%g surveillance-economy "surveillance economy" %] that social media and AI have created
+goes far beyond anything the Stasi dreamed of.
 The irony is that the Stasi had to coerce their informants;
 we pay subscription fees for the privilege of being surveilled.
-
-The most thorough surveillance states in history were built without computers.
-The [%g surveillance-economy "surveillance economy" %] that social media platforms have created
-differs in purpose and legal status from those states,
-but shares their appetite for information about everyone.
-
 Corporate data collection operates under a framework built largely around consent
 obtained through contracts that no one reads
 and that cannot meaningfully be refused by people who want to participate in modern life.
+
 When a platform argues that its collection of behavioral data is voluntary
 and therefore not a privacy violation,
 it is making a legal argument, not a factual one.
@@ -173,10 +166,11 @@ to conduct surveillance they could not legally conduct directly.
 <div class="callout" markdown="1">
 
 Facebook's recommendation algorithm promoted content dehumanizing the Rohingya people in Myanmar,
-a fact the company's own researchers documented;
-the UN's 2018 fact-finding mission identified Facebook as a "contributing factor" to the genocide—
-a case where corporate surveillance infrastructure was weaponized for ethnic cleansing
-at a cost of zero to the platform.
+a fact the company's own researchers documented.
+The UN's 2018 fact-finding mission identified Facebook as
+a "contributing factor" to the genocide:
+corporate surveillance infrastructure was weaponized for ethnic cleansing
+at not cost to the platform or its owners.
 
 </div>
 
@@ -208,7 +202,8 @@ but it allows identity development to occur at all.
 
 Pseudonymity has a longer history than the internet.
 George Eliot was the pen name of Mary Ann Evans,
-who wrote under a male name partly to be taken seriously in a literary culture that dismissed women novelists,
+who wrote under a male name partly to be taken seriously
+in a literary culture that dismissed women novelists,
 but also because a male persona gave her the freedom to inhabit subject positions
 her own social location would not have authorized.
 
@@ -227,7 +222,7 @@ The private space of one person's typewriter was a form of speech protection
 that the absence of legal protection could not entirely eliminate.
 
 The Hijra communities of South Asia—a third-gender identity category
-that existed in India, Pakistan, and Bangladesh for centuries before British colonization—survived
+that existed for centuries before British colonization—survived
 partly because the British administrative apparatus never successfully catalogued them.
 The Criminal Tribes Act of 1871 attempted to classify and control gender and sexual nonconformity,
 but the practices, initiations, and knowledge that defined Hijra identity
@@ -320,8 +315,7 @@ because fingerprints are harder to falsify than signatures
 and do not require literacy.
 A system designed to prevent forgery of internal passports became,
 almost automatically,
-one of the most comprehensive biometric databases in the world at the time
-[%b Breckenridge2016 %].
+one of the most comprehensive biometric databases in the world at the time [%b Breckenridge2016 %].
 
 This creates a dilemma that does not have a clean solution.
 Democratic participation depends on being able to identify voters.
@@ -368,8 +362,7 @@ It has also created new forms of exclusion.
 People who cannot authenticate are cut off from food rations and pension payments,
 and the database itself represents a concentration of sensitive biometric information
 that, if breached, cannot be reset:
-you can change your password, but you cannot get new fingerprints
-[%b Khera2019 %].
+you can change your password, but you cannot get new fingerprints [%b Khera2019 %].
 
 <div class="callout" markdown="1">
 
@@ -397,19 +390,18 @@ organizers,
 and a political coalition that made the status quo more costly than change.
 The center always wants more information.
 The question is always whether the people most likely to be harmed by that information
-have enough power to say no
-[%b Cole2002 Torpey2000 %].
+have enough power to say no [%b Cole2002 Torpey2000 %].
 
 ## The Moral Arguments
 
-The first American legal argument for a right to privacy was made by two Boston lawyers,
-Samuel Warren and Louis Brandeis,
+The first American legal argument for a right to privacy
+was made by Samuel Warren and Louis Brandeis
 in an 1890 law review article.
 They argued that the individual had a "right to be let alone",
 i.e., a right to protection not just from physical intrusion but from unwanted publicity.
 Their immediate concern was sensationalist newspaper journalism.
 Both men were wealthy, socially prominent, and worried about gossip columns.
-The argument they made was real and important,
+Their argument was real and important,
 but its social location is worth noting:
 the first articulated right to privacy in American law emerged from
 the needs of the prominent to be protected from exposure,
@@ -437,7 +429,8 @@ the claim that women had no recourse against husbands and fathers.
 
 Jenkins argues that the twentieth-century expansion of state intervention into domestic life
 was not an erosion of privacy but a redrawing of its boundaries [%b Jenkins2024 %].
-Feminists and child advocates demanded that the state enter spaces it had previously left to male authority.
+Feminists and child advocates demanded that the state enter spaces
+it had previously left to male authority.
 In doing so, they were not anti-privacy;
 they were arguing that the women and children in those spaces
 deserved privacy from the men who controlled them.
@@ -472,13 +465,11 @@ in the Cayman Islands, the British Virgin Islands, Switzerland, Luxembourg, Irel
 was constructed over the twentieth century
 through legislation specifically designed
 to allow wealth to evade the oversight of the countries where it was generated [%b Shaxson2011 %].
-Switzerland's banking secrecy law was formalized in 1934.
-Its immediate purpose was partly to protect the assets of Jewish depositors from the Nazi government;
+Switzerland's banking secrecy law of 1934
+was enacted partly to protect the assets of Jewish depositors from the Nazi government;
 within years it was also protecting the assets that wealthy Europeans
-were hiding from their own governments' tax authorities,
-and then providing the architecture through which Nazi institutions
-concealed looted wealth through Swiss intermediaries.
-The same legal instrument served opposite populations almost simultaneously.
+were hiding from their own governments',
+and then the money, art, and treasures that Nazis had looted from their victims.
 
 Gabriel Zucman estimates that approximately $7.6 trillion in private wealth is held in offshore accounts,
 costing governments roughly $200 billion annually in lost corporate tax revenue
@@ -579,17 +570,6 @@ The same legal instrument protects both the person whose private medical conditi
 was published without consent and the politician who wants voters to forget a corruption conviction.
 Privacy law cannot easily distinguish between them.
 
-<div class="callout" markdown="1">
-
-The European Union's GDPR,
-which treats biometric data as a special category requiring explicit consent,
-is the most significant constraint on commercial biometric data collection in the world.
-The tech industry's response has been intrusive pop-ups
-designed to make users blame governments for safeguarding their privacy
-rather than companies for trying to collect information for resale.
-
-</div>
-
 What holds across these cases is the principle:
 privacy for persons, transparency for institutions.
 Private individuals acting in their private capacity have strong claims to be left alone.
@@ -613,250 +593,3 @@ They are doing it on behalf of the people for whom privacy is the difference bet
 What abusive privacy and identity regimes have been constrained,
 those constraints have come from organized political activity,
 not from enlightenment at the top [%b Igo2020 %].
-
-## Big Tech is Like a Company Town
-
-E.P. Thompson's account of the transition from putting-out to factory production
-made a point that factories were initially not more efficient at producing cloth:
-they were more effective at eliminating worker autonomy.
-Before industrialization,
-workers controlled their own time and pace,
-could share work across household members,
-and could resist disadvantageous terms through slow work, variable quality, and informal coordination.
-The factory closed off these responses:
-workers arrived at fixed times,
-worked at a supervised pace,
-and until labor unions emerged,
-had no practical means of collective withdrawal.
-The shift to app-based platform work is doing the same thing today.
-The app is not merely a more convenient interface.
-It is supervisory infrastructure that monitors pace and completion rates
-and eliminates the degrees of freedom that less tightly managed arrangement permitted
-[%b Thompson1963 %].
-
-<div class="callout" markdown="1">
-
-Grab and Gojek motorcycle drivers in Jakarta,
-who own their vehicles but are subject to algorithmically set rates they cannot negotiate
-and risk deactivation for declining rides,
-have organized repeated strikes—the precise form of collective resistance
-available to workers who cannot withdraw their invested capital.
-
-</div>
-
-George Pullman built Pullman, Illinois in the 1880s alongside his railroad car factory:
-a planned community where the company owned the workers' housing, stores, church, library, and bank.
-Workers were paid partly in [%g scrip "scrip" %] redeemable only at company stores.
-When Pullman cut wages during the depression of 1893 while holding rents fixed,
-workers could not cushion the blow by cutting other expenses,
-because the company controlled those too.
-They had no recourse and nothing left to lose.
-The 1894 Pullman Strike paralyzed rail traffic across the country
-and required federal troops to suppress,
-which tells you something about what total control eventually produces.
-
-A developer whose business depends entirely on the App Store,
-a seller whose inventory and customer relationships live on Amazon,
-or a creator whose audience exists only within a single platform
-is in an equivalent position:
-the terms can be changed at any time,
-the cost of departure is prohibitive,
-and the entity that provides the housing also adjudicates disputes about it.
-
-What the company town reveals is something market economics tends to obscure:
-the difference between an employer and an infrastructure provider is a matter of degree,
-not kind.
-An employer controls your income;
-an infrastructure provider controls the conditions
-under which you can earn, spend, and participate in social life.
-Pullman did not merely employ his workers:
-he owned the physical environment in which they lived,
-which meant that the power relationship extended past the end of the workday
-into every dimension of daily existence.
-
-Pullman justified all of this in the language of paternalistic improvement.
-The company town was presented as a planned community
-designed to give workers superior housing, sanitation, and amenities
-compared to what they could obtain elsewhere.
-This was partly true:
-Pullman, Illinois was better built than most industrial housing of the period.
-But the justification also framed the absence of collective bargaining as a feature rather than a constraint.
-Workers who were being improved did not need unions.
-They needed to trust the judgment of the person improving them.
-Conveniently,
-this gave the appearance of converting a power arrangement into a benevolent one
-[%b Lindsey1942 %].
-
-The Pullman case was not unusual.
-Coal patches in Appalachia and the Canadian Maritimes operated on the same model:
-company-owned housing,
-company stores where scrip could be spent,
-company control of access roads and community infrastructure.
-In the post-Civil War South, plantation stores extended dependency relationships
-across the formal end of slavery,
-tying sharecroppers to specific land through debt
-that was nearly impossible to escape
-without leaving behind the credit, relationships, and community standing
-that they depended on.
-Mining camps across Latin America reproduced the same structure under different flags.
-The company town is a recurring organizational form
-because it solves a genuine problem for whoever controls it:
-it makes exit nearly impossible while appearing to be voluntary.
-
-<div class="callout" markdown="1">
-
-Foxconn's manufacturing campuses in Shenzhen house hundreds of thousands of workers in company dormitories,
-sell goods through company stores, and provide company-managed transportation—
-the Pullman model operating at a scale Pullman could not have imagined,
-producing the consumer electronics sold by companies that will not acknowledge the supply chain.
-
-</div>
-
-The distinction between short-term dependency and structural lock-in
-is what keeps workers and developers in arrangements that are getting worse.
-Short-term dependency is a rational calculation:
-you stay because the current terms are good enough and leaving has costs.
-Structural lock-in is different.
-The costs of leaving have been deliberately raised
-so that the calculation does not change even as the terms worsen.
-A platform can worsen its terms incrementally;
-each incremental worsening is individually insufficient to justify the exit cost,
-even if the cumulative total is large.
-
-A more extreme form of this appears in the danwei,
-the work unit system through which Mao-era China organized urban life.
-The danwei was the unit through which citizens accessed employment,
-housing, healthcare, food rations, and education for their children.
-To be removed from a danwei was to lose access to all of these simultaneously.
-The contemporary parallel is super-apps like WeChat
-that integrate messaging, payments, healthcare bookings,
-government service access, merchant discovery, and social identity in a single system.
-A user whose account is suspended loses not just a communication tool
-but the infrastructure through which they conduct their civic and commercial life.
-The Pullman Company controlled the economic conditions of workers' lives.
-The super-app, at its most developed, aims to be a danwei
-[%b Stoller2019 Walder2017 %].
-
-## Big Tech is Like the Beauty Industry
-
-The beauty industry does not merely sell products.
-It works by making people believe they have flaws they were not previously considered flaws,
-by creating status competition around those flaws,
-by ensuring that the standards people are supposed to meet remain unstable,
-and then sells temporary relief from the insecurity it has helped create.
-The customer is never meant to arrive,
-because that would end the business model.
-
-The same logic governs much of the digital economy.
-Platforms do not simply sell access to information, communication, or entertainment.
-They produce social comparison at industrial scale,
-amplify the feeling of falling behind or being left out,
-and then sell ads, subscriptions, and self-optimization tools as the remedy.
-
-Thorstein Veblen identified all of this,
-even though he was writing in 1899 rather than in the age of Instagram.
-The point of status goods is not that they are useful or pleasurable.
-It is that they are visible evidence of social rank.
-The phrase "keeping up with the Joneses",
-which entered American English in the early twentieth century,
-names the same dynamic more plainly.
-Consumption becomes competitive because social standing is comparative,
-which means there is never "enough".
-This competition is profitable because the goalposts move as soon as people approach them
-[%b Veblen1899 %].
-
-The beauty industry is a particularly efficient machine
-for converting status anxiety into revenue
-because it treats the human body as a perpetually unfinished project.
-Skin can always be smoother,
-hair shinier,
-teeth whiter,
-age less visible,
-and weight lower.
-What matters is not whether any particular intervention works as advertised.
-What matters is the manufactured belief that our peers are taking action,
-so we must too.
-This is why beauty advertising oscillates between aspiration and warning:
-you want to be admired,
-but you fear that you will also be judged.
-
-Women have always borne the brunt of this manufactured insecurity.
-The modern beauty industry developed alongside labor markets and marriage markets
-in which women's economic security and social standing were tied more closely to appearance
-than men's.
-As legal barriers to women's advancement weakened,
-appearance standards became a more intense disciplinary mechanism,
-not a less important one.
-A market built around telling women that their bodies require continuous corrective spending
-fits very comfortably inside a misogynist social order
-[%b Peiss2011 %].
-
-<div class="callout" markdown="1">
-
-South Korea has the highest cosmetic surgery rate per capita in the world,
-produced by a feedback loop among K-pop image norms, social media filters,
-cosmetic surgery clinics, and legally tolerated workplace appearance discrimination
-that has exported its manufactured insecurity to dozens of countries along with its skincare products.
-
-</div>
-
-Big tech has given this machinery telemetry, automation, and scale.
-The platform feed is a Jones machine.
-It puts other people's vacations, kitchens, bodies, weddings, and workout routines in front of us
-not as occasional local gossip but as a continuous global stream.
-The result is not just envy:
-it is the normalization of comparison as a default mental state.
-Am I fit enough, rich enough, busy enough, stylish enough, politically
-informed enough, raising my children well enough, or aging well enough?
-A system that can keep those questions humming in the background can monetize them indefinitely.
-
-The comparison does not have to be truthful to be effective.
-Beauty advertising has always relied on lighting, retouching, and selective casting.
-Social platforms inherit all of that and add filters,
-algorithmic selection,
-and engagement optimization.
-The most attention-grabbing images are not the most representative ones.
-They are the ones most likely to intensify feeling s admiration, desire, resentment, or shame.
-The platform does not need users to believe that everyone else is happier, younger, or richer than us.
-It only needs users to feel,
-for a few seconds at a time and many times a day,
-that they are falling behind.
-
-Influencer culture is itself manufactured.
-The beauty industry has long depended on the blurring of intimacy and commerce.
-Advice from a beautician and endorsements by actresses all worked because
-they borrowed the authority of friendship or expertise while remaining commercial speech.
-Influencers do the same thing with better metrics.
-They present consumption as personality and sponsorship as authenticity.
-
-This is also where misogyny returns in a more explicit form.
-Women are subjected to the harshest forms of visual ranking online,
-and platforms profit from that ranking
-regardless of what they say in public about empowerment or self-expression.
-Image-heavy systems reliably reward content that conforms to existing beauty norms
-while presenting itself as spontaneous self-presentation.
-The labor required to produce that appearance is substantial and usually hidden.
-The result is an economy in which women are pushed to become both product and salesperson,
-while the platform captures a share of every transaction.
-
-The beauty industry also helps explain why the language of choice is inadequate.
-No one is forced to buy a serum or post a filtered selfie,
-but choices made in response to organized social pressure are not free
-in any meaningful social sense.
-A teenager deciding whether to participate in appearance-based competition on a platform
-is making an individual decision
-inside a system designed to make non-participation costly,
-just like a programmer deciding to maintain a LinkedIn presence
-full of visible hustle and polished enthusiasm.
-The compulsion is social before it is economic,
-and economic because it is social.
-
-What the beauty analogy adds to our understanding of big tech
-is not just that platforms sell ads—every industry does that.
-It is that platforms are in the business of manufacturing dissatisfaction
-and organizing it into recurring revenue.
-Their entire business model is that you are not quite enough yet,
-but perhaps one more purchase will fix that.
-A business model built on that premise
-has no interest in ever letting us feel finished
-[%b Packard2007 Wu2016 %].
