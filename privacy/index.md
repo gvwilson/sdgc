@@ -146,34 +146,6 @@ exposure can be a weapon,
 so the ability to protect against exposure is not a luxury
 but a precondition for social participation.
 
-## Paying for the Privilege
-
-The [%g surveillance-economy "surveillance economy" %] that social media and AI have created
-goes far beyond anything the Stasi dreamed of.
-The irony is that the Stasi had to coerce their informants;
-we pay subscription fees for the privilege of being surveilled.
-Corporate data collection operates under a framework built largely around consent
-obtained through contracts that no one reads
-and that cannot meaningfully be refused by people who want to participate in modern life.
-
-When a platform argues that its collection of behavioral data is voluntary
-and therefore not a privacy violation,
-it is making a legal argument, not a factual one.
-The legal distinction between state surveillance and corporate surveillance
-also ignores how governments now use corporate data collections
-to conduct surveillance they could not legally conduct directly.
-
-<div class="callout" markdown="1">
-
-Facebook's recommendation algorithm promoted content dehumanizing the Rohingya people in Myanmar,
-a fact the company's own researchers documented.
-The UN's 2018 fact-finding mission identified Facebook as
-a "contributing factor" to the genocide:
-corporate surveillance infrastructure was weaponized for ethnic cleansing
-at not cost to the platform or its owners.
-
-</div>
-
 ## The Freedom to Become
 
 Mary Gray's study of rural LGBTQ+ youth in the United States
@@ -247,6 +219,70 @@ claim that only those with something to hide need privacy—only
 makes sense from the position of someone whose identity, relationships, and beliefs are not criminalized.
 It is not a neutral observation about human behavior;
 it is the argument of someone who has never needed the protection they are asking others to give up.
+
+## The Moral Arguments
+
+The first American legal argument for a right to privacy
+was made by Samuel Warren and Louis Brandeis
+in an 1890 law review article.
+They argued that the individual had a "right to be let alone",
+i.e., a right to protection not just from physical intrusion but from unwanted publicity.
+Their immediate concern was sensationalist newspaper journalism.
+Both men were wealthy, socially prominent, and worried about gossip columns.
+Their argument was real and important,
+but its social location is worth noting:
+the first articulated right to privacy in American law emerged from
+the needs of the prominent to be protected from exposure,
+not from the needs of the powerless to be protected from the state.
+
+This origin has never fully left the concept.
+Privacy arguments protect domestic violence abusers alongside their victims.
+They protect financial fraud alongside confidential medical records,
+and corporate malfeasance alongside personal correspondence.
+Privacy as a legal and political value does not come pre-sorted by who it helps.
+
+The feminist critique made this plain.
+The slogan "the personal is political,"
+associated with the women's liberation movement of the 1960s and 1970s,
+was a direct challenge to the liberal privacy argument.
+Women's subordination was legally protected in the private sphere:
+for example,
+marital rape was not a crime in most US states until the 1970s and 1980s
+because marriage was treated as a private relationship outside legal scrutiny.
+Domestic violence of other forms was (and in practice still is)
+routinely treated as a private family matter.
+The claim that the state should not interfere in private relationships was,
+in practice,
+the claim that women had no recourse against husbands and fathers.
+
+Jenkins argues that the twentieth-century expansion of state intervention into domestic life
+was not an erosion of privacy but a redrawing of its boundaries [%b Jenkins2024 %].
+Feminists and child advocates demanded that the state enter spaces
+it had previously left to male authority.
+In doing so, they were not anti-privacy;
+they were arguing that the women and children in those spaces
+deserved privacy from the men who controlled them.
+The same concept, applied by different actors, produced opposite conclusions.
+
+The communitarian critique of privacy takes a different shape.
+Communities can and do provide forms of accountability that states cannot,
+and privacy can be an obstacle to that accountability.
+But this argument has a history of being deployed most aggressively against communities
+that were not the ones making it.
+In British India,
+child marriage prohibitions and widow protection laws were introduced
+in a framework that described Hindu family privacy as barbaric and in need of civilizing intervention.
+The language of accountability to higher norms was used to justify intrusion
+into the domestic practices of colonized people by administrators
+who had no sustained interest in the well-being of the women and children they claimed to protect.
+
+American privacy worked the same way domestically [%b Igo2020 %].
+Poor families and immigrant families in the early twentieth century
+were subjected to social worker surveillance and home inspection regimes
+that middle-class families were not.
+The expansion of welfare services came with
+a corresponding expansion of state visibility into the households that received them.
+Privacy, like other goods, was distributed in proportion to social power.
 
 ## Identity and Legibility
 
@@ -392,69 +428,33 @@ The center always wants more information.
 The question is always whether the people most likely to be harmed by that information
 have enough power to say no [%b Cole2002 Torpey2000 %].
 
-## The Moral Arguments
+## Paying for the Privilege
 
-The first American legal argument for a right to privacy
-was made by Samuel Warren and Louis Brandeis
-in an 1890 law review article.
-They argued that the individual had a "right to be let alone",
-i.e., a right to protection not just from physical intrusion but from unwanted publicity.
-Their immediate concern was sensationalist newspaper journalism.
-Both men were wealthy, socially prominent, and worried about gossip columns.
-Their argument was real and important,
-but its social location is worth noting:
-the first articulated right to privacy in American law emerged from
-the needs of the prominent to be protected from exposure,
-not from the needs of the powerless to be protected from the state.
+The [%g surveillance-economy "surveillance economy" %] that social media and AI have created
+goes far beyond anything the Stasi dreamed of.
+The irony is that the Stasi had to coerce their informants;
+we pay subscription fees for the privilege of being surveilled.
+Corporate data collection operates under a framework built largely around consent
+obtained through contracts that no one reads
+and that cannot meaningfully be refused by people who want to participate in modern life.
 
-This origin has never fully left the concept.
-Privacy arguments protect domestic violence abusers alongside their victims.
-They protect financial fraud alongside confidential medical records,
-and corporate malfeasance alongside personal correspondence.
-Privacy as a legal and political value does not come pre-sorted by who it helps.
+When a platform argues that its collection of behavioral data is voluntary
+and therefore not a privacy violation,
+it is making a legal argument, not a factual one.
+The legal distinction between state surveillance and corporate surveillance
+also ignores how governments now use corporate data collections
+to conduct surveillance they could not legally conduct directly.
 
-The feminist critique made this plain.
-The slogan "the personal is political,"
-associated with the women's liberation movement of the 1960s and 1970s,
-was a direct challenge to the liberal privacy argument.
-Women's subordination was legally protected in the private sphere:
-for example,
-marital rape was not a crime in most US states until the 1970s and 1980s
-because marriage was treated as a private relationship outside legal scrutiny.
-Domestic violence of other forms was (and in practice still is)
-routinely treated as a private family matter.
-The claim that the state should not interfere in private relationships was,
-in practice,
-the claim that women had no recourse against husbands and fathers.
+<div class="callout" markdown="1">
 
-Jenkins argues that the twentieth-century expansion of state intervention into domestic life
-was not an erosion of privacy but a redrawing of its boundaries [%b Jenkins2024 %].
-Feminists and child advocates demanded that the state enter spaces
-it had previously left to male authority.
-In doing so, they were not anti-privacy;
-they were arguing that the women and children in those spaces
-deserved privacy from the men who controlled them.
-The same concept, applied by different actors, produced opposite conclusions.
+Facebook's recommendation algorithm promoted content dehumanizing the Rohingya people in Myanmar,
+a fact the company's own researchers documented.
+The UN's 2018 fact-finding mission identified Facebook as
+a "contributing factor" to the genocide:
+corporate surveillance infrastructure was weaponized for ethnic cleansing
+at not cost to the platform or its owners.
 
-The communitarian critique of privacy takes a different shape.
-Communities can and do provide forms of accountability that states cannot,
-and privacy can be an obstacle to that accountability.
-But this argument has a history of being deployed most aggressively against communities
-that were not the ones making it.
-In British India,
-child marriage prohibitions and widow protection laws were introduced
-in a framework that described Hindu family privacy as barbaric and in need of civilizing intervention.
-The language of accountability to higher norms was used to justify intrusion
-into the domestic practices of colonized people by administrators
-who had no sustained interest in the well-being of the women and children they claimed to protect.
-
-American privacy worked the same way domestically [%b Igo2020 %].
-Poor families and immigrant families in the early twentieth century
-were subjected to social worker surveillance and home inspection regimes
-that middle-class families were not.
-The expansion of welfare services came with
-a corresponding expansion of state visibility into the households that received them.
-Privacy, like other goods, was distributed in proportion to social power.
+</div>
 
 ## When Privacy Protects Power
 
