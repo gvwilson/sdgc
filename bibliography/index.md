@@ -871,15 +871,7 @@
     [9780691247908](https://isbnsearch.org/isbn/9780691247908).
     *Describes how Modi's government has systematically weakened Indian democratic institutions while mobilizing Hindu nationalist identity politics.*
 
-<span id="Jenkins2024">Jenkins2024</span>
-:   Tiffany Jenkins:
-    *Strangers and Intimates: How the State Took Over Your Most Private Relationships*.
-    Bloomsbury,
-    2024,
-    [9781529034165](https://isbnsearch.org/isbn/9781529034165).
-    *Argues that the boundary between public and private life is a political artifact, tracing how states have repeatedly redrawn it—often at the demand of reformers—and what this means for individual freedom and social accountability.*
-
-<span id="JenkinsGoetz1999">JenkinsGoetz1999</span>
+<span id="Jenkins1999">Jenkins1999</span>
 :   Rob Jenkins and Anne Marie Goetz:
     "Accounts and Accountability: Theoretical Implications of the Right-to-Information Movement in India."
     *Third World Quarterly*,
@@ -887,6 +879,14 @@
     1999,
     [10.1080/01436599913712](https://doi.org/10.1080/01436599913712).
     *Analysis of the grassroots campaign for the right to information in rural Rajasthan and its implications for democratic accountability and bottom-up legal reform.*
+
+<span id="Jenkins2024">Jenkins2024</span>
+:   Tiffany Jenkins:
+    *Strangers and Intimates: How the State Took Over Your Most Private Relationships*.
+    Bloomsbury,
+    2024,
+    [9781529034165](https://isbnsearch.org/isbn/9781529034165).
+    *Argues that the boundary between public and private life is a political artifact, tracing how states have repeatedly redrawn it—often at the demand of reformers—and what this means for individual freedom and social accountability.*
 
 <span id="JohnsonKwak2010">JohnsonKwak2010</span>
 :   Simon Johnson and James Kwak:

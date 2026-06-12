@@ -533,7 +533,7 @@ The difficulty is not an argument against transparency,
 but does require advocates to be specific about who, what, and how.
 
 Rob Jenkins and Anne Marie Goetz's analysis of India's Right to Information movement
-documents what organized civil society can achieve [%b JenkinsGoetz1999 %].
+documents what organized civil society can achieve [%b Jenkins1999 %].
 The RTI Act, passed in 2005, gave Indian citizens the legal right to request government documents
 and required agencies to respond within thirty days.
 It emerged from a sustained campaign by village-level activists in Rajasthan
