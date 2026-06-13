@@ -36,11 +36,11 @@ they feel both sides are strident and self-righteous.
 1.  [A Little More Psychology](@/morepsych/)
 1.  [When the Model Is the Harm](@/harmful-models/)
 1.  [Privacy, Power, and the Self](@/privacy/)
+1.  [Who Gets What and Why](@/inequality/)
 
 ### Undone
 
 1.  [Pending](@/pending/)
-1.  [Who Gets What and Why](@/inequality/)
 1.  [Controlling Workers](@/worker-control/)
 1.  [Regulation That Worked](@/regulation-works/)
 1.  [What Changes and How](@/how-change/)
