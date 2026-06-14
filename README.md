@@ -40,7 +40,7 @@ they feel both sides are strident and self-righteous.
 
 ### Undone
 
-1.  [Pending](@/pending/)
+1.  [More Analogies](@/more-analogies/)
 1.  [Controlling Workers](@/worker-control/)
 1.  [Regulation That Worked](@/regulation-works/)
 1.  [What Changes and How](@/how-change/)

@@ -1,5 +1,28 @@
 # What Changes and How
 
+## What Has Actually Worked
+
+Alternatives to the dysfunctions described in this chapter exist and have been tried.
+Ranked-choice voting in Ireland, Australia, New Zealand, and more than a dozen US cities
+has not produced chaos:
+it has produced legislatures that more closely reflect what voters actually want.
+Independent redistricting commissions have measurably reduced partisan gerrymandering
+in Arizona, California, and Michigan,
+where independent bodies now draw district lines rather than the legislators who benefit from them.
+New York City's public matching funds for small donations have shifted the incentive structure for candidates,
+making it possible to run a competitive campaign on small contributions
+rather than depending on a handful of major donors.
+Broad constitutional reform through sustained public participation succeeded in Iceland
+following the 2008 financial crisis.
+
+Campaigns that engaged the active participation of roughly 3.5 percent of a population
+have been sufficient to force political change in case after case.
+Electoral organizing, legal challenges, constitutional campaigns,
+and redistricting advocacy have all worked when that threshold of organized, sustained pressure was reached.
+The rich and powerful will always resist;
+while the specific tools differ,
+sustained, organized pressure wins time after time [%b Young2024 %].
+
 ## A Paradise Built in Hell
 
 On the morning of December 6, 1917,

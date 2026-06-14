@@ -1,6 +1,5 @@
 # Speech, Arms, and Algorithms
 
-
 ## Free Speech and Hate Speech
 
 Every democratic society claims to protect free speech,
@@ -219,7 +218,6 @@ each time after courts found unconstitutional partisan manipulation.
 Each time,
 the party in power drew a new map that preserved the same structural advantage under a different justification.
 
-
 ## Money, Suppression, and the Shrinking Coalition
 
 In 2010, the US Supreme Court's *Citizens United v. FEC* ruling
@@ -253,7 +251,6 @@ they produce discriminatory outcomes through the design of the system [%b Anders
 When the US Supreme Court gutted key provisions of the Voting Rights Act in 2013,
 several states with documented histories of voting discrimination
 implemented new restrictions within hours of the ruling.
-
 
 ## How Democracies Erode
 
@@ -301,27 +298,3 @@ Mark Zuckerberg controls approximately 57 percent of Meta's voting power
 while owning roughly 13 percent of its equity.
 Private concentration of control over information flows for billions of people has public consequences,
 but the legal frameworks to address it mostly do not yet exist.
-
-
-## What Has Actually Worked
-
-Alternatives to the dysfunctions described in this chapter exist and have been tried.
-Ranked-choice voting in Ireland, Australia, New Zealand, and more than a dozen US cities
-has not produced chaos:
-it has produced legislatures that more closely reflect what voters actually want.
-Independent redistricting commissions have measurably reduced partisan gerrymandering
-in Arizona, California, and Michigan,
-where independent bodies now draw district lines rather than the legislators who benefit from them.
-New York City's public matching funds for small donations have shifted the incentive structure for candidates,
-making it possible to run a competitive campaign on small contributions
-rather than depending on a handful of major donors.
-Broad constitutional reform through sustained public participation succeeded in Iceland
-following the 2008 financial crisis.
-
-Campaigns that engaged the active participation of roughly 3.5 percent of a population
-have been sufficient to force political change in case after case.
-Electoral organizing, legal challenges, constitutional campaigns,
-and redistricting advocacy have all worked when that threshold of organized, sustained pressure was reached.
-The rich and powerful will always resist;
-while the specific tools differ,
-sustained, organized pressure wins time after time [%b Young2024 %].

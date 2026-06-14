@@ -1,72 +1,5 @@
 # Pending
 
-## Cognitive Pollution
-
-Engineers learn to reason about direct, traceable failures:
-a faulty valve leads to a boiler explosion or a bug crashes a program.
-This model frames harm as rare, dramatic, and attributable,
-but the most serious damage caused by industry hasn't actually worked this way.
-Instead,
-it has been diffuse, cumulative, slow to emerge,
-and difficult to attribute to any single decision or actor.
-
-When leaded gasoline lowered the IQs of an entire generation of children,
-no single tank of fuel caused a measurable injury.
-Similarly, no particular cigarette is responsible for any particular cancer death.
-The harm is real and massive,
-but it was distributed across millions of exposures,
-tens of millions of people,
-and decades,
-so those responsible didn't meet the legal requirement of direct and proximate cause.
-
-This pattern is no longer confined to physical toxins.
-Social media platforms optimized for engagement produce radicalization and depression as a byproduct.
-The harm is diffuse:
-no single recommendation causes a school shooting or an act of genocide.
-The long, probabilistic causal chain makes it difficult to assign fault
-and therefore difficult to regulate.
-
-The term [%g cognitive-pollution "cognitive pollution" %] is increasingly used to describe this.
-As with other forms of pollution,
-it is proving difficult to regulate,
-and tech companies have every incentive to maintain that difficulty.
-After all,
-as long as harm cannot be attributed to them,
-they can externalize its cost onto the people who absorb it.
-
-The tobacco industry did not accidentally produce uncertainty about the link between smoking and cancer.
-It funded research specifically intended to produce uncertainty,
-identified scientists willing to dispute the consensus,
-and maintained that effort for decades after the science was settled.
-The same pattern appears in the history of leaded gasoline,
-asbestos,
-oxycontin,
-and now social media and AI
-[%b Oreskes2010 Michaels2008 %].
-
-Civil and chemical engineers are now taught about pollution,
-not because the profession had a crisis of conscience,
-but because society decided over the course of many decades and through many court cases
-to hold polluters liable for harm.
-Noise pollution, and now light pollution, are retracing that history,
-and I think that if we take mental health as seriously as physical health,
-it's inevitable that we will start to hold companies accountable for the mental suffering they cause.
-
-If we frame harm as rare, dramatic, and attributable,
-responsible engineering means avoiding the specific decision that produces attributable failures.
-Under the pollution model,
-on the other hand,
-responsible engineers are accountable for long-term cumulative effects.
-A few recent court judgments in the United States may show that this shift is finally happening,
-but they will undoubtedly be contested,
-and as the overturn of Roe v. Wade shows,
-precedent isn't enough of a guarantee.
-Legislation that holds tech companies responsible for the damage their products do to users' mental health
-can come sooner,
-will be far more robust,
-and will have more impact than pious gestures like banning young people from using social media
-[%b Perrow1999 Singer2023 %].
-
 ## Big Tech is Like a Company Town
 
 E.P. Thompson's account of the transition from putting-out to factory production
@@ -308,48 +241,170 @@ but perhaps one more purchase will fix that.
 A business model built on that premise
 has no interest in ever letting us feel finished [%b Packard2007 Wu2016 %].
 
-## The Taboos of Professional Culture
+## Big Tech is Like the Sharecropping System
 
-Every professional culture places certain topics outside the scope of legitimate concern,
-and those who choose to discuss them publicly anyway
-run the risk of being ostracized as radicals.
-Medicine was slow to discuss error and malpractice,
-while law was slow to discuss access and cost.
-A similar pattern is visible in the literature written for software engineers:
-thousands of pages on management, leadership, and technical decision-making,
-but almost nothing on workers' rights, collective action, or alternative ownership structures.
-As with medicine and law,
-the topics excluded are ones that threaten the interests of
-the profession's most powerful practitioners.
+After the American Civil War,
+former slaves and poor white farmers in the South farmed land they did not own
+under a system called [%g sharecropping "sharecropping" %].
+Contracts that gave the landowner a percentage of the harvest,
+required them to buy supplies on credit from the landowner's store at prices the landowner set,
+and prohibited them from selling to anyone other than the landowner.
+The debt was structured so that a bad harvest
+(or even a good one, depending on how the accounts were kept)
+left the farmer owing more at year's end than at the beginning.
+The system was legal,
+entered into "voluntarily" (by people with no other options),
+and reproduced the economic relations of slavery without the formal institution.
 
-Medicine's encounter with its own error rate is a case study in professional taboo and its eventual failure.
-For most of the twentieth century,
-the dominant framework for medical error was individual blame:
-a bad outcome was the fault of a bad physician,
-and the appropriate response was to identify and punish the individual.
-This framework served the profession's interest in self-regulation and resisted external oversight.
-The finding that between 44,000 and 98,000 Americans died annually from preventable medical errors
-was not new to researchers,
-but was taboo because it endangered the profession as a whole.
-Aviation-style checklists,
-which treat error as a predictable product of complex systems rather than individual failure,
-were resisted for decades by physicians who experienced them as an affront to professional judgment.
-The evidence that checklists reduced deaths in surgical settings was not in dispute.
-The resistance was to the implication that
-standardized protocols should constrain clinical practice [%b Gawande2009 Kohn1999 %].
+Historians and economists have found systematic underweighting of harvests and overcharging of credit accounts.
+The system was designed to perpetuate indebtedness, not resolve it.
+To make a bad situation worse,
+the merchant providing supplies was often the same person as the landowner;
+if not,
+they usually operated as a tied supplier.
+The farmer could not buy supplies from a competing merchant because
+the [%g crop-lien "crop lien" %] pledged the entire harvest to the furnishing merchant
+as collateral for the advance.
+"On credit" prices at the furnishing merchant's store were set at a markup over cash prices
+that could run from thirty to sixty percent.
 
-The software engineering profession has its equivalent silences.
-The books on software engineering cover project management,
-software architecture,
-team dynamics,
-technical leadership,
-and career development.
-What they do not cover is workers' rights,
-the legal framework governing noncompete agreements and ownership of employee inventions,
-alternative ownership structures like cooperatives and worker-owned firms,
-or the systematic harassment and exclusion of women.
-The topics placed out of bounds are those that,
-if examined,
-would reveal tensions in the profession's self-understanding or power structure.
-The placement of a boundary is a form of power,
-exercised by those with enough standing to enforce it [%b Douglas2002 %].
+By pledging next year's crop to cover this year's debt,
+the farmer legally committed future labor before that labor was performed.
+This is the structure of platform lock-in:
+time and effort are committed to a platform
+before the platform's terms are known for the following year.
+A sharecropper who improved the land was *more* trapped,
+not less,
+because the accumulated investment had nowhere else to go.
+The same is true of a creator who has built a hundred thousand subscribers
+on a platform that then changes its revenue-sharing terms.
+
+[%g peonage "Peonage" %] was the name for debt arrangements that crossed from exploitative into criminal.
+It refers to holding a worker in involuntary servitude through debt
+while using threats or actual violence to prevent them from leaving.
+Federal peonage statutes were enacted after Reconstruction,
+and some prosecutions did occur in the early twentieth century
+after investigative journalism and advocacy exposed conditions
+in the turpentine camps and cotton plantations of the Deep South.
+These prosecutions targeted individual employers;
+they did not address the systemic accounting fraud or the market structure that produced mass indebtedness
+[%b Daniel1972 Blackmon2008 %].
+
+The platform equivalent of this operates through percentage fees,
+arbitrary algorithmic changes,
+and paid promotion requirements.
+When YouTube changed its monetization criteria in 2018
+to require one thousand subscribers and four thousand watch hours
+before a channel could earn advertising revenue,
+channels that had not yet crossed those thresholds were cut off from income they had been building toward.
+When organic reach on Facebook declined sharply for business pages after 2012,
+businesses that had invested in building Facebook audiences were told
+they could pay for promotion to reach the audiences they had already acquired.
+The audience is the crop;
+the algorithm change is the landlord raising the rent after the harvest is in.
+
+A related but distinct mechanism appears in gig economy work,
+which parallels the [%g putting-out-system "putting-out system" %] of early modern textile production.
+Merchants in eighteenth and nineteenth century Britain supplied raw materials to rural householders,
+who processed them at home using their own equipment.
+The merchants then collected the finished goods at prices they set.
+The household owned its tools;
+the merchant owned the raw material, the finished product, and the customer relationship.
+If demand fell,
+the merchant stopped delivering material and the household had to absorb the income shock.
+The merchant's flexibility was the household's precarity, by design
+[%b Devries2008 %].
+
+Gig economy platforms reproduce this structure.
+The delivery worker owns the car or bicycle.
+The platform owns the customer relationship, the pricing mechanism, and access to the market.
+A worker who attempts to find customers outside the platform risks deactivation,
+which functions as accusations of theft or embezzlement did in the putting-out system:
+because formal ownership of the customer relationship belongs to the platform,
+any attempt to access that relationship independently constitutes
+a violation of the terms of service that governs continued access to work.
+
+## Big Tech is Like a Fast Food Franchise
+
+A McDonald's franchisee invests several hundred thousand dollars building and equipping a restaurant,
+recruits and trains staff,
+manages daily operations,
+and absorbs the risk of a bad location.
+McDonald's sets the menu,
+the supplier list,
+the pricing guidelines,
+the design specifications,
+the training requirements,
+and the standards against which the franchise can be audited and revoked.
+The franchisee's capital is at risk;
+McDonald's corporate's is not.
+McDonald's also, in most arrangements, owns the real estate and charges the franchisee rent.
+The arrangement is voluntary in the sense that no one forces the franchisee to sign.
+It is asymmetric in the sense that every significant decision rests with one party.
+
+The franchisee agreed to all of this in advance.
+
+McDonald's corporate revenue derives primarily from real estate, not from food.
+The company acquires the land and building,
+then leases them to the franchisee
+at rates that capture a substantial share of the location's economic value
+regardless of operating performance.
+Franchise royalties are calculated as a percentage of gross sales,
+not profit,
+meaning the franchisor collects whether the franchisee makes money or not.
+The hamburgers are the mechanism by which the real estate and royalty revenue are generated.
+This structure is not incidental to the model;
+it *is* the model.
+
+The parallel to third-party sellers on Amazon,
+app developers on iOS and Android,
+and content creators on social media is structural:
+the platform sets the rules,
+extracts a percentage,
+and can change the terms or terminate the relationship on short notice
+[%b Schlosser2001 %].
+
+Platform fees work like franchise royalties:
+they are a take on gross transaction value,
+not on seller profit.
+
+Apple's standard rate is thirty percent of revenue from in-app purchases,
+a figure that it set unilaterally
+and has adjusted modestly only under regulatory pressure.
+The developer has no alternative distribution channel for iOS users,
+because Apple prohibits [%g sideloading "sideloading" %] and third-party app stores on its platform.
+This makes the fee unavoidable for any developer who wants access to iOS customers.
+What's more,
+Apple and Google review apps before they are listed,
+can remove them after listing,
+and adjudicate appeals internally.
+There is no neutral third party with authority to override a platform's decision.
+
+All this creates an investment trap for platform participants.
+A seller who has accumulated reviews, rankings, and sales history on Amazon
+cannot transfer that reputation to another marketplace;
+a developer whose app has a rating history on the App Store
+cannot move that history to Google Play.
+This is not an accident:
+it is the mechanism that keeps participants in the system
+after the platform has extracted the value of introducing customers to them.
+
+Antitrust law has historically been reluctant to treat voluntarily agreed contractual terms as coercive,
+even when the practical alternatives to agreement are limited.
+The prevailing view is that if the franchisee had an alternative and chose this arrangement,
+the arrangement is presumptively legitimate.
+This framing does not account for [%g information-asymmetry "information asymmetry" %] at the time of contracting
+or the way switching costs increase over time.
+And it does not account for the fact that the "voluntary" choice
+is often a choice between accepting one set of platform terms
+or not accessing a market at all
+[%b Stoller2019 %].
+
+<div class="callout" markdown="1">
+
+The UK Supreme Court ruled in 2021 that Uber drivers were workers entitled to minimum wage and holiday pay,
+not independent contractors—the first major judicial rejection of the claim
+that a platform's "voluntary" contractual structure exempts it from employment law,
+now being contested and replicated across Europe.
+
+</div>
