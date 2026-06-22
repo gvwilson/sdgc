@@ -2,9 +2,12 @@
 
 <p class="subtitle">a few things programmers should know about society to understand big tech, social media, and AI</p>
 
+<div class="row" markdown="1">
+<div class="col-6" markdown="1">
+
 <div id="lessons" markdown="1">
 
-## Prose
+## Chapters
 
 1.  [Introduction](@/intro/)
 1.  [A Little Psychology](@/a-little-psychology/)
@@ -21,6 +24,9 @@
 
 </div>
 
+</div>
+<div class="col-6" markdown="1"
+
 <div id="appendices" markdown="1">
 
 ## Appendices
@@ -31,6 +37,9 @@
 1.  [Bibliography](@/bibliography/)
 1.  [Glossary](@/glossary/)
 
+</div>
+
+</div>
 </div>
 
 <p class="center">
