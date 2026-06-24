@@ -21,6 +21,7 @@
 1.  [Regulation That Worked](@/regulation-that-worked/)
 1.  [When the Algorithm Comes for You](@/ai-happens/)
 1.  [How Change Happens](@/change-happens/)
+1.  [Conclusion](@/finale/)
 
 </div>
 
