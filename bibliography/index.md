@@ -417,6 +417,14 @@
     [9781982114930](https://isbnsearch.org/isbn/9781982114930).
     *Explains the mechanics of financial fraud by showing the structural features of markets that make them possible.*
 
+<span id="Davies2025">Davies2025</span>
+:   Dan Davies:
+    *The Unaccountability Machine: Why Big Systems Make Terrible Decisions*.
+    University of Chicago Press,
+    2025,
+    [9780226843087](https://isbnsearch.org/isbn/9780226843087).
+    *Looks back to the cybernetics movement to explain how large organizations have evolved to shield their leaders from personal accountability.*
+
 <span id="Devries2008">Devries2008</span>
 :   Jan de Vries:
     *The Industrious Revolution: Consumer Behavior and the Household Economy, 1650 to the Present*.
@@ -811,14 +819,6 @@
     [9780061965500](https://isbnsearch.org/isbn/9780061965500).
     *Political history of the American gay rights movement's legal and legislative strategy.*
 
-<span id="Hochschild2006">Hochschild2006</span>
-:   Adam Hochschild:
-    *Bury The Chains: Prophets and Rebels in the Fight to Free an Empire's Slaves*.
-    Mariner Books,
-    2006,
-    [9780618619078](https://isbnsearch.org/isbn/9780618619078).
-    *History of the British abolitionist movement, showing how a small group of dedicated people built the world's first successful human rights campaign.*
-
 <span id="Hochschild1989">Hochschild1989</span>
 :   Arlie Hochschild and Anne Machung:
     *The Second Shift: Working Families and the Revolution at Home*.
@@ -826,6 +826,14 @@
     1989,
     [9780142002926](https://isbnsearch.org/isbn/9780142002926).
     *Describes how women in dual-income American households perform roughly a month of additional unpaid domestic labor per year compared to their partners, and how they rationalize this inequality as personal choice.*
+
+<span id="Hochschild2006">Hochschild2006</span>
+:   Adam Hochschild:
+    *Bury The Chains: Prophets and Rebels in the Fight to Free an Empire's Slaves*.
+    Mariner Books,
+    2006,
+    [9780618619078](https://isbnsearch.org/isbn/9780618619078).
+    *History of the British abolitionist movement, showing how a small group of dedicated people built the world's first successful human rights campaign.*
 
 <span id="Hoffer2010">Hoffer2010</span>
 :   Eric Hoffer:

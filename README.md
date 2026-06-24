@@ -17,6 +17,7 @@
 1.  [Privacy, Power, and the Self](@/privacy-power-self/)
 1.  [Who Gets What and Why](@/inequality/)
 1.  [More Analogies](@/more-analogies/)
+1.  [Control and Alternatives](@/control-and-alternatives/)
 1.  [What We Owe the Future](@/what-we-owe-the-future/)
 1.  [Regulation That Worked](@/regulation-that-worked/)
 1.  [When the Algorithm Comes for You](@/ai-happens/)

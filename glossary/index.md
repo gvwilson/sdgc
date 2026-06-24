@@ -479,6 +479,9 @@
 
 ## K
 
+<span id="karoshi">karoshi</span>
+:   Death from overwork.
+
 <span id="kayfabe">kayfabe</span>
 :   The collective maintenance, by performers and audience alike, of
     the fiction that professional wrestling matches are genuine
