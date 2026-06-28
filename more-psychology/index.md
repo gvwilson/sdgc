@@ -19,7 +19,7 @@ His insight was that you do not need to argue with people about whether they wan
 You can create the conditions under which they will want it
 [%b Bernays2024 %].
 
-The [previous section on psychology](@root/a-little-psychology/) explained how
+The [previous section on psychology](@/a-little-psychology/) explained how
 people make decisions differently than the rational-actor model predicts.
 This post makes a related point:
 before you can ask how people choose,

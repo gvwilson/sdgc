@@ -685,7 +685,7 @@ which can be difficult.
 ## Beyond the Anglo-American Tradition
 
 Germany's large manufacturing firms operate under Mitbestimmung,
-the codetermination system described in [Labor and Passion](@/labor/),
+the codetermination system
 in which workers hold legally mandated seats on corporate supervisory boards.
 The [%g mittelstand "Mittelstand" %]
 (Germany's medium-sized family-owned manufacturers)

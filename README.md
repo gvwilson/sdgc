@@ -27,7 +27,7 @@
 </div>
 
 </div>
-<div class="col-6" markdown="1"
+<div class="col-6" markdown="1">
 
 <div id="appendices" markdown="1">
 
