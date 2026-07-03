@@ -44,6 +44,12 @@
 </div>
 </div>
 
+## Acknowledgments {: #acknowledgments}
+
+[*Greg Wilson*][wilson-greg] is a programmer, author, and educator based in Toronto.
+He was the co-founder and first Executive Director of Software Carpentry
+and received ACM SIGSOFT's Influential Educator Award in 2020.
+
 <p class="center">
   <em>
     start where you are
@@ -55,3 +61,4 @@
 </p>
 
 [repo]: https://github.com/gvwilson/sdgc
+[wilson-greg]: https://third-bit.com/
