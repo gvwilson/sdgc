@@ -4,3 +4,6 @@
 .venv
 __pycache__
 *.txt
+
+/.quarto/
+**/*.quarto_ipynb

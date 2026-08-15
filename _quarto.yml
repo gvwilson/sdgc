@@ -1,0 +1,46 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "SDGC"
+  repo-url: "https://github.com/gvwilson/sdgc"
+  repo-actions: [edit, source, issue]
+  chapters:
+    - index.qmd
+    - a-little-psychology/index.qmd
+    - how-we-got-here/index.qmd
+    - more-psychology/index.qmd
+    - harmful-models/index.qmd
+    - privacy-power-self/index.qmd
+    - inequality/index.qmd
+    - more-analogies/index.qmd
+    - control-and-alternatives/index.qmd
+    - what-we-owe-the-future/index.qmd
+    - regulation-that-worked/index.qmd
+    - ai-happens/index.qmd
+    - change-happens/index.qmd
+    - finale/index.qmd
+  appendices:
+    - license/index.qmd
+    - conduct/index.qmd
+    - contributing/index.qmd
+    - bibliography/index.qmd
+    - glossary/index.qmd
+
+bibliography: bibliography/references.bib
+csl: bibliography/apa.csl
+
+filters:
+  - bin/links.lua
+
+shortcodes:
+  - bin/glossary.lua
+  - bin/inc-noh1.lua
+
+format:
+  html:
+    css: assets/mccole.css
+    link-citations: true
+    theme: cosmo
+    toc: true
