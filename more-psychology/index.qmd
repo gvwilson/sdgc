@@ -38,14 +38,16 @@ He called it the "dependence effect":
 the wants that production satisfies are themselves created by the process of production.
 Advertising does not serve existing desires:
 it manufactures new ones and attaches them to products.
-The economy doesn't exist to satisfy people's needs—it exists to perpetuate itself
+The economy doesn't exist to satisfy people's needs:
+it exists to perpetuate itself
 [@Galbraith1998].
 
 In South Korea,
 cosmetic surgery has grown into a multi-billion-dollar industry
 drawing patients from across East and Southeast Asia.
-The procedures most in demand—eyelid surgery, jaw reduction, and particular forms of rhinoplasty—track
-the standards of appearance disseminated through Korean entertainment products,
+The procedures most in demand,
+such as eyelid surgery, jaw reduction, and particular kinds of nose jobs,
+track the standards of appearance disseminated through Korean entertainment products,
 which are themselves produced by a commercial industry with strong incentives to generate aspiration.
 
 Digital platforms have scaled this dynamic.
@@ -61,7 +63,9 @@ A nudge changes how a choice is presented without altering the options.
 What we're describing here is shaping what you want before you arrive at a choice.
 In India, skin-lightening products generate annual revenues in the billions of dollars,
 sustained by advertising that associates lighter skin with success, desirability, and social mobility.
-The market for these products—many of which contain harmful ingredients—doesn't reflect a natural preference.
+The market for these products,
+many of which contain harmful ingredients
+doesn't reflect a natural preference.
 It reflects decades of advertising, colonial inheritance, and film industry imagery.
 
 Markets can satisfy preferences efficiently.
@@ -184,7 +188,8 @@ that housing prices never declined nationally at the same time.
 They were right until they were catastrophically wrong.
 
 Crucially,
-the losses did not fall on the banks that had made the bad loans—the US government covered those.
+the losses did not fall on the banks that had made the bad loans:
+the US government covered those.
 The losses fell on homeowners who lost their houses and
 workers who lost their jobs when the broader economy contracted.
 John Kenneth Galbraith noted in his history of the 1929 crash
@@ -242,8 +247,9 @@ Studies of admissions to elite universities,
 hiring at professional services firms,
 and promotion within corporations consistently
 find that formal credentials matter less than {{<g social-legibility "social legibility">}}:
-the ability to display the {{<g cultural-capital "cultural capital">}}—tastes, manners, and cultural references—
-that signals membership in the right networks.
+the ability to display the {{<g cultural-capital "cultural capital">}}
+such as tastes, manners, and cultural references
+that signal membership in the right networks.
 Lauren Rivera's research on hiring at elite firms
 found that interviewers routinely described candidates as "polished" or "rough around the edges"
 in ways that correlated with class background rather than competence.
@@ -289,10 +295,10 @@ because most organizations never close that loop.
 ::: {.callout-note title="Getting the Right Answer"}
 
 India's IIT and IIM entrance examinations were designed as objective filters,
-but a coaching industry whose best programs charge fees equivalent to several years of average household income
+but a coaching industry whose best programs charge fees
+equivalent to several years of average household income
 ensures that upper-caste and wealthy families dominate admission lists
-despite formally caste-neutral scoring—the prior filter that formal meritocratic criteria operate within,
-invisible to anyone who sees only the exam results.
+despite formally caste-neutral scoring.
 
 :::
 
@@ -527,9 +533,10 @@ In the most famous version of Milgram's experiments,
 subjects were told they were participating in a study of learning
 and were instructed by an authority figure to administer electric shocks to another person
 whenever that person gave a wrong answer.
-The other person was a confederate; the shocks were fake; the screams were recorded.
-Sixty-five percent of subjects administered what they had been told was the maximum voltage —
-labeled "Danger: Severe Shock" — because a person in a lab coat told them to.
+The other person was a confederate: the shocks were fake and the screams were recorded.
+Sixty-five percent of subjects administered what they had been told was the maximum voltage
+(labeled "Danger: Severe Shock")
+because a person in a lab coat told them to.
 Milgram's explanation was that people in hierarchical situations shift into an agentic state:
 they stop regulating their own behavior against their personal moral standards
 and start executing instructions from whoever they perceive as legitimate authority,

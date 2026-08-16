@@ -31,8 +31,9 @@ that the most important thing we can do is improve the long-run trajectory of ci
 rather than address present problems [@Macaskill2023].
 
 Rights theorists start from a different place but reach a similar conclusion.
-If future people will have the same moral status as present people—which
-seems hard to deny—then the fact that they don't exist yet
+If future people will have the same moral status as present people,
+which seems hard to deny,
+then the fact that they don't exist yet
 is morally arbitrary in the same way that geographic distance is morally arbitrary.
 We don't think we owe less to someone suffering in a country we've never visited.
 Why would temporal distance be different?
@@ -163,10 +164,8 @@ were not to give to the most urgent present needs
 but to fund AI safety research, pandemic preparedness for civilization-ending pathogens,
 and other efforts aimed at preventing extinction or steering the long-run trajectory of civilization.
 This is not irrational given the premise.
-The problem is that the premise—
-that we can make meaningful probability estimates about civilization-scale outcomes
-centuries or millennia into the future—
-is not grounded in anything.
+The problem is that the premise—that we can make meaningful probability estimates
+about civilization-scale outcomescenturies or millennia into the future—is not grounded in anything.
 It is speculation wearing the mathematical clothing of rigor.
 
 The deeper problem is structural.
@@ -176,7 +175,7 @@ has more moral authority than any present institution or democratic process.
 This is exactly the reasoning several tech billionaires have adopted.
 Elon Musk has described his accumulation of capital, media platforms, and satellite networks
 as necessary to prevent humanity from being locked into a bad long-run future.
-OpenAI's founding mission statement—to develop AI safely "for the benefit of all humanity"—
+OpenAI's founding mission statement to develop AI safely "for the benefit of all humanity"
 is a longtermist framing that positions the organization's leadership
 as trustees of civilization accountable to no present constituency.
 The argument that today's people must accept disruption, displacement, and concentrated power
@@ -309,4 +308,5 @@ like safe drinking water, healthy coral reefs, and free elections.
 I believe that we don't own those things.
 We are just their trustees,
 and like all trustees,
-we are accountable for what we hand on—even if the beneficiaries aren't in the room.
+we are accountable for what we hand on,
+even if the beneficiaries aren't in the room.

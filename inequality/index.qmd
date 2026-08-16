@@ -41,11 +41,11 @@ about the allocation of things people want.
 Politics is what happens when a group of people
 who do not fully agree on goals or values
 nonetheless need to act together.
-The alternative to politics is not harmony—it is coercion.
+The alternative to politics is not harmony: it is coercion.
 Isaiah Berlin argued that this disagreement is not a temporary condition
 awaiting the right institutional fix [@Berlin1991].
-The goods people pursue—liberty and equality, security and freedom, efficiency and fairness—are
-genuinely plural and irreconcilable:
+The goods people pursue are genuinely plural and irreconcilable.
+Liberty and equality, security and freedom, efficiency and fairness:
 you cannot maximize all of them simultaneously,
 and no rearrangement will make the conflict disappear.
 Liberal democracy is not a system for finding the right answer.
@@ -179,8 +179,8 @@ The question is whether to participate consciously and honestly or not
 ## The Hidden Ledger
 
 The political decisions that shape organizations do not operate in a vacuum.
-They interact with social categories that were themselves created through prior political decisions—
-categories that shape who finds it easy to enter a winning coalition
+They interact with social categories that were themselves created through prior political decisions,
+and these categories shape who finds it easy to enter a winning coalition
 and who remains part of the interchangeable selectorate.
 
 In 1950,
@@ -202,7 +202,8 @@ The pencil test is an extreme example of
 something that operates wherever racial classification exists:
 a social and political determination dressed as a natural fact.
 Race is not a biological category.
-This is not a political opinion—it is the settled position of geneticists,
+This is not a political opinion:
+it is the settled position of geneticists,
 who have found more variation within conventionally defined racial groups than between them.
 Race has been defined and redefined by specific people for specific political reasons.
 
@@ -265,7 +266,8 @@ and still encode the effects of decades of discriminatory lending.
 Neighborhoods that were {{<g redlining "redlined">}} in the twentieth century
 still show lower average credit scores today:
 not because their residents are less creditworthy,
-but because they were systematically excluded from the wealth-building mechanisms that credit history reflects.
+but because they were systematically excluded from
+the wealth-building mechanisms that credit history reflects.
 A score that accurately summarizes a history of exclusion still perpetuates exclusion.
 
 In the 2017 Equifax breach,
@@ -314,8 +316,8 @@ and without an address they couldn't register.
 Government officials and advice workers,
 when presented with this loop,
 would sometimes suggest that claimants "just go to the library" to use a computer.
-They did not know—or had not thought through the fact—that
-some libraries require a membership card to use their computers,
+They did not know (or had not thought through the fact)
+that some libraries require a membership card to use their computers,
 that membership cards require proof of address,
 and that the Universal Credit application times out and loses your work
 if you do not complete it in a single session.

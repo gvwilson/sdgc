@@ -118,7 +118,9 @@ advocates have to choose which cases to bring, in which courts, at which moment
 ## The Expanding Circle
 
 The circle of people we recognize as fully human has expanded
-over the last two and a half centuries—slowly, and with catastrophic reversals,
+over the last two and a half centuries.
+It has happened slowly,
+and with catastrophic reversals,
 but through mechanisms that are identifiable and replicable.
 
 The historian Lynn Hunt points to something unexpected: novels [@ Hunt2007].
@@ -145,8 +147,9 @@ James Somerset was an enslaved man brought to England
 who escaped and was recaptured by his enslaver.
 His case was taken up by abolitionists,
 who argued that English common law did not support slavery.
-Lord Mansfield's ruling was narrow—it said only that
-Somerset could not be forcibly transported out of England—but abolitionists used it as a wedge.
+Lord Mansfield's ruling said only that
+Somerset could not be forcibly transported out of England,
+but abolitionists used it as a wedge.
 
 They had already built a network of committees, pamphlets, and petitions.
 The boycott of West Indian sugar in the 1790s was the first mass consumer boycott in British history.
@@ -176,8 +179,8 @@ even if the industry has largely avoided the conversation.
 Every system that makes decisions about people
 embeds assumptions about whose interests count and whose harm is legible.
 Facial recognition systems that perform poorly on darker skin tones
-are not neutral tools that happen to malfunction for some users—they encode
-a prior judgment about whose face needs to be recognized accurately.
+are not neutral tools that happen to malfunction for some users.
+They encode a prior judgment about whose face needs to be recognized accurately.
 Content moderation systems that work better in English than in Amharic or Tagalog
 reflect a prior judgment about whose speech deserves moderation resources.
 Peter Singer argued that reason itself pushes in this direction:
@@ -202,7 +205,7 @@ but are not the mechanism by which industries get regulated or power gets redist
 Instead,
 five tools have historically accomplished this:
 
-**Collective organizing** means building institutions with the capacity to act in coordination.
+*Collective organizing* means building institutions with the capacity to act in coordination.
 Unions, professional associations, tenants' organizations, and consumer groups
 all operate on the same principle:
 the leverage available to any individual is small,
@@ -212,14 +215,18 @@ In the tech industry, this includes formal union organizing,
 which has made progress at some major tech companies in recent years,
 but also informal networks, internal advocacy groups, and walkouts.
 The 2023 Writers Guild of America strike demonstrated that workers
-can negotiate explicit contractual limits on how AI is used against them—limits
+can negotiate explicit contractual limits on how AI is used against them
 that no individual writer could have secured alone.
 
-**Regulatory pressure** means participating in the political processes through which rules get made.
-This includes litigation, which has broken up monopolies, forced safety standards, and established legal rights.
+*Regulatory pressure* means participating in the political processes through which rules get made.
+This includes litigation, which has broken up monopolies,
+forced safety standards,
+and established legal rights.
 It includes lobbying, which is what organized groups do when they communicate with legislators.
-It includes public comment, which is how regulatory agencies collect input from people outside government.
-It includes electoral organizing, because the people who make and enforce rules are selected through elections.
+It includes public comment,
+which is how regulatory agencies collect input from people outside government.
+It includes electoral organizing,
+because the people who make and enforce rules are selected through elections.
 None of these are glamorous, and most of them are slow.
 The tobacco case took forty years from the first clear science to a partial legal settlement.
 The environmental victories described in earlier chapters took decades of sustained pressure.
@@ -227,9 +234,10 @@ The tech industry's political connections are currently a source of strength;
 the history of the yakuza suggests they can be made a source of vulnerability
 through sustained political decisions to make the cost of association with harmful practices prohibitive.
 
-**Alternative structures** means building institutions that demonstrate other models are possible.
-Worker cooperatives, public banking, open-source software, public payment infrastructure like India's UPI—
-these are not just alternatives to existing institutions.
+*Alternative structures* means building institutions that demonstrate other models are possible.
+Worker cooperatives, public banking, open-source software,
+and public payment infrastructure like India's UPI
+are not just alternatives to existing institutions.
 They are existence proofs that the existing institutions are not the only possible arrangement.
 Mondragón has been running for nearly seventy years.
 The Viennese Gemeindebau has housed working-class families for a century.
@@ -237,7 +245,7 @@ Credit unions serve roughly a billion people worldwide.
 The claim that shareholder capitalism is the only workable model for large-scale enterprise
 is empirically false, and demonstrating that falseness is itself a form of political action.
 
-**Strategic communication** means engaging seriously with the psychology of belief change.
+*Strategic communication* means engaging seriously with the psychology of belief change.
 Facts do not change minds in contested domains; stories told by trusted messengers do.
 This is not a counsel of manipulation.
 It is a recognition that if you want to change what people believe about AI regulation,
@@ -245,11 +253,11 @@ platform power, or labor rights,
 you need to find people whose social worlds already include such conversations,
 meet them where they are,
 and make updating their beliefs consistent with rather than threatening to their identities.
-Public health campaigns that have worked—on smoking, on seatbelt use, on HIV—
-did not do it by publishing better statistics.
+Public health campaigns on smoking, seatbelt use, and HIV
+did not succeed by publishing better statistics.
 They found language and messengers that made the change feel possible.
 
-**Sustained participation** means showing up repeatedly over years.
+*Sustained participation* means showing up repeatedly over years.
 The Federalist Society built its judicial pipeline over forty years.
 The labor movement built the eight-hour day over forty years.
 The LGBTQ+ rights movement built toward marriage equality over forty years.

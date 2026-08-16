@@ -91,8 +91,8 @@ Surveillance changes behavior even when nothing being done is wrong.
 After Edward Snowden's revelations in 2013
 made the scale of the NSA's surveillance clear [@Snowden2020],
 researchers documented a measurable drop in Google searches
-for terms associated with terrorism, drugs, or other sensitive topics—not
-because fewer people were curious,
+for terms associated with terrorism, drugs, or other sensitive topics.
+This didn't happen because fewer people were curious,
 but because curiosity became something that required calculation.
 This is the chilling effect:
 the awareness of being watched changes what people are willing to risk.
@@ -506,22 +506,24 @@ that would have enabled legal action.
 The tobacco industry's internal documents provide a decades-long parallel.
 From the 1950s onward, tobacco company researchers produced evidence
 that cigarettes caused cancer and that nicotine was addictive.
-Those documents were treated as confidential corporate information—
-trade secrets, attorney-client privileged communications—
+Those documents were treated as confidential corporate information
 while the companies' public-facing research denied what their private research showed.
 The internal memos were finally produced in 1998 litigation.
 The deaths attributable to that gap between public claim and private knowledge are not a small number.
 
 State secrecy operates the same logic at the largest scale.
 Classification systems and executive privilege have been used
-to prevent accountability for torture—the Abu Ghraib photographs were eventually published,
+to prevent accountability for torture.
+For example,
+the Abu Ghraib photographs were eventually published,
 but the legal memos authorizing enhanced interrogation were withheld for years.
-The Saudi government invoked sovereignty and confidentiality to slow accountability
+Similarly,
+the Saudi government invoked sovereignty and confidentiality to slow accountability
 for the murder of journalist Jamal Khashoggi.
 Every authoritarian government that has committed atrocities
 has used state secrecy as its first line of defense,
-while using forced transparency—public trials, published confessions, exposed private lives—
-as a weapon against opponents.
+while using forced transparency such as public trials, and published confessions
+as weapons against opponents.
 Privacy and exposure have always been deployed together,
 each in the direction of power.
 
@@ -580,8 +582,10 @@ all have weaker claims.
 This principle is never self-enforcing.
 The direction of institutional pressure is always toward the legibility of persons
 and away from the legibility of institutions.
-Maintaining the opposite—protecting the private lives of individuals
-while demanding transparency from power—
+Maintaining the opposite
+(i.e.,
+protecting the private lives of individuals
+while demanding transparency from power)
 requires organized political effort to sustain [@Scott1998].
 
 The platforms and governments that describe privacy as "dead"
