@@ -27,6 +27,7 @@ book:
     - contributing/index.qmd
     - bibliography/index.qmd
     - glossary/index.qmd
+    - workshop/index.qmd
 
 bibliography: bibliography/references.bib
 csl: mccole/book.csl
