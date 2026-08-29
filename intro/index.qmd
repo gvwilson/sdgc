@@ -56,8 +56,8 @@ and more willing to listen.
 Thirty years later,
 a billionaire named Marc Andreessen published a manifesto
 with the intellectual depth and writing style
-of something a freshman would throw together in a caffeine-fueled frenzy
-after binging on right-wing podcast [@Andreessen2023].
+of a freshman in a caffeine-fueled frenzy
+after binging on right-wing podcasts [@Andreessen2023].
 Andreessen's manifesto attacked anyone who thought technology should be regulated,
 that its risks should be weighed against its benefits,
 or that workers and communities affected by technological change should have a say in it.

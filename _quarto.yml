@@ -8,6 +8,7 @@ book:
   repo-actions: [edit, source, issue]
   chapters:
     - index.qmd
+    - intro/index.qmd
     - a-little-psychology/index.qmd
     - how-we-got-here/index.qmd
     - more-psychology/index.qmd
