@@ -1193,59 +1193,56 @@ introduce new material.
 ## Reading list
 
 1.  Power and institutions
-    -   Steven Lukes, [*Power: A Radical View*](https://isbnsearch.org/isbn/9781352012347)
-    -   Douglass C. North, [*Institutions, Institutional Change and Economic Performance*](https://isbnsearch.org/isbn/9780521397346)
-    -   Mancur Olson, [*The Logic of Collective Action*](https://isbnsearch.org/isbn/9780674537507)
+    -   [@Lukes2021]
+    -   [@North1990]
+    -   [@Olson1965]
 1.  Markets are made, not natural
-    -   Karl Polanyi, [*The Great Transformation*](https://isbnsearch.org/isbn/9780807056431)
-    -   Mariana Mazzucato, [*The Entrepreneurial State*](https://isbnsearch.org/isbn/9781610396134)
-    -   George A. Akerlof, ["The Market for 'Lemons'"](https://doi.org/10.1016/B978-0-12-214850-7.50022-X)
-    -   Elinor Ostrom, [*Governing the Commons*](https://isbnsearch.org/isbn/9780521405997)
+    -   [@Polanyi2001]
+    -   [@Mazzucato2013]
+    -   [@Akerlof1978]
+    -   [@Ostrom2015]
 1.  How people actually think
-    -   Daniel Kahneman, [*Thinking, Fast and Slow*](https://isbnsearch.org/isbn/9780374533557)
-    -   Jonathan Haidt, [*The Righteous Mind*](https://isbnsearch.org/isbn/9780307455772)
-    -   Richard H. Thaler and Cass R. Sunstein, [*Nudge*](https://isbnsearch.org/isbn/9780143115267)
+    -   [@Kahneman2011]
+    -   [@Haidt2012]
+    -   [@Thaler2009]
 1.  Inequality and stratification
-    -   Charles Tilly, [*Durable Inequality*](https://isbnsearch.org/isbn/9780520221703)
-    -   Kimberlé Crenshaw, ["Demarginalizing the Intersection of Race and Sex"](https://doi.org/10.5771/9783748948049-335)
-    -   Thomas Piketty, [*Capital in the Twenty-First Century*](https://isbnsearch.org/isbn/9780674430006)
+    -   [@Tilly1998]
+    -   [@Crenshaw1989]
+    -   [@Piketty2017]
 1.  Deciding what is harmful and how we regulate it
-    -   Tom Wainwright, [*Narconomics*](https://isbnsearch.org/isbn/9781610395830)
-    -   David Nutt, [*Drugs Without the Hot Air*](https://isbnsearch.org/isbn/9781906860165)
-    -   Johann Hari, [*Chasing the Scream*](https://isbnsearch.org/isbn/9781620408902)
-    -   Naomi Oreskes and Erik M. Conway, [*Merchants of Doubt*](https://isbnsearch.org/isbn/9781596916104)
-    -   Sarah E. Igo, [*The Known Citizen*](https://isbnsearch.org/isbn/9780674244795)
-    -   Allan M. Brandt, [*The Cigarette Century*](https://isbnsearch.org/isbn/9780465070473)
-    -   Tim Wu, [*The Master Switch*](https://isbnsearch.org/isbn/9780307269935)
+    -   [@Wainwright2017]
+    -   [@Nutt2012]
+    -   [@Hari2015]
+    -   [@Oreskes2010]
+    -   [@Igo2020]
+    -   [@Brandt2007]
+    -   [@Wu2010]
 1.  Media, ideology, and public opinion
-    -   Edward S. Herman and Noam Chomsky, [*Manufacturing Consent*](https://isbnsearch.org/isbn/9780375714498)
-    -   Zeynep Tufekci, [*Twitter and Tear Gas*](https://isbnsearch.org/isbn/9780300215120)
-    -   danah boyd, [*It's Complicated: The Social Lives of Networked Teens*](https://isbnsearch.org/isbn/9780300166316)
+    -   [@Herman1988]
+    -   [@Tufekci2017]
+    -   [@Boyd2014]
 1.  How change happens, and applying it all
-    -   John W. Kingdon, [*Agendas, Alternatives, and Public Policies*](https://isbnsearch.org/isbn/9780321121851)
-    -   Frances Fox Piven and Richard A. Cloward, [*Poor People's Movements*](https://isbnsearch.org/isbn/9780394726977)
-    -   Albert O. Hirschman, [*Exit, Voice, and Loyalty*](https://isbnsearch.org/isbn/9780674276604)
+    -   [@Kingdon1995]
+    -   [@Piven1979]
+    -   [@Hirschman1970]
 
 On social media and AI specifically:
 
--   Shoshana Zuboff, [*The Age of Surveillance Capitalism*](https://isbnsearch.org/isbn/9781610395694)
--   Cathy O'Neil, [*Weapons of Math Destruction*](https://isbnsearch.org/isbn/9780553418811)
--   Ruha Benjamin, [*Race After Technology*](https://isbnsearch.org/isbn/9781509526406)
--   Kate Crawford, [*Atlas of AI*](https://isbnsearch.org/isbn/9780300209570)
--   Virginia Eubanks, [*Automating Inequality*](https://isbnsearch.org/isbn/9781250074317)
--   Safiya Umoja Noble, [*Algorithms of Oppression*](https://isbnsearch.org/isbn/9781479837243)
+-   [@Zuboff2019]
+-   [@ONeil2016]
+-   [@Benjamin2019]
+-   [@Crawford2021]
+-   [@Eubanks2018]
+-   [@Noble2018]
 
 For further reading:
 
--   Tom Wainwright [*Narconomics*](https://isbnsearch.org/isbn/9781610397704)
--   William Black [*The Best Way to Rob a Bank Is to Own One*](https://isbnsearch.org/isbn/9780292706385)
--   Rebecca Solnit [*A Paradise Built in Hell*](https://isbnsearch.org/isbn/9780670021079)
--   Erica Chenoweth and Maria J. Stephan [*Why Civil Resistance Works*](https://isbnsearch.org/isbn/9780231156820)
--   Marilyn Waring [*If Women Counted*](https://isbnsearch.org/isbn/9780062509338)
--   Mariana Mazzucato [*The Entrepreneurial State*](https://isbnsearch.org/isbn/9781610396134)
--   David Graeber [*Debt: The First 5,000 Years*](https://isbnsearch.org/isbn/9781933633862)
--   Oreskes & Conway [*Merchants of Doubt*](https://isbnsearch.org/isbn/9781608193943)
--   Diane Vaughan [*The Challenger Launch Decision*](https://isbnsearch.org/isbn/9780226851754)
+-   [@Black2005]
+-   [@Solnit2009]
+-   [@Chenoweth2011]
+-   [@Waring1988]
+-   [@Graeber2011]
+-   [@Vaughan1996]
 
 ## Appendix: harm-to-lesson map
 
