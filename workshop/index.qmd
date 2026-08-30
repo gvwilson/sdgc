@@ -1,18 +1,19 @@
 # Workshop Outline
 
-This one-day workshop introduces a few ideas that someone with a background in
-computer science (or tech more generally) needs to know in order to think
-clearly about the harms of social media and AI, and about how they should be
-regulated. I would be very grateful for feedback; in particular, I know I'm
-trying to cram far too much into one day, and many of my references are probably
-out of date.
+This workshop introduces ideas that someone with a background in computer
+science (or tech more generally) needs to know in order to think clearly about
+the harms of social media and AI, and about how they should be regulated.  The
+material is structured as two days with exercises and breaks. I would be very
+grateful for feedback; many of my references are probably out of date.
 
 ## At a glance
 
--   Length: one day (roughly eight hours, including breaks and lunch)
+-   Length: two days (roughly twelve to fourteen hours of teaching, plus
+    breaks and lunch).
 -   Audience: people with programming backgrounds
--   Format: 7 45-minute lessons, each followed by one 10-15 minute exercise
-    taken from those listed with the lesson.
+-   Format: 7 lessons of roughly 60-90 minutes, each followed by one
+    or two 10-15 minute exercises taken from those listed with the
+    lesson.
 
 ## Stance
 
@@ -38,7 +39,7 @@ out of date.
 
 ## Learning outcomes
 
-By the end of the day, participants should be able to:
+By the end of the workshop, participants should be able to:
 
 -   Distinguish *structural* explanations from *individual* ones, and explain
     why individual explanations are the default in tech culture.
@@ -62,7 +63,7 @@ By the end of the day, participants should be able to:
 
 ## How to run this
 
-Pick one exercise per lesson.
+Pick one or two exercises per lesson.
 :   Four or more are provided so you can match the room, the time available, and
     the participants' interests. Do not try to run them all.
 
@@ -70,9 +71,10 @@ Exercises are the assessment.
 :   Exercises are where participants convert a claim into something they can
     use. Do not skip the debriefs: they are where the learning is consolidated.
 
-Use think-pair-share as the default format.
-:   One minute alone, two minutes in pairs, then report back. This gets more
-    voices into the room than any other structure in the time available.
+Use groupwork and think-pair-share.
+:   One or two minutes alone, a few minutes in pairs or larger groups,
+    then report back. This gets more voices into the room than any
+    other structure in the time available.
 
 Keep it concrete.
 :   Every abstract concept in this plan has a named example.  When discussion
@@ -80,7 +82,7 @@ Keep it concrete.
     law?"
 
 Do not manufacture consensus.
-:   Like-minded people and disagree about ends and means. "What would change
+:   Like-minded people can disagree about ends and means. "What would change
     your mind?" is usually a better question than "who's right?"
 
 Separate the descriptive from the normative.
@@ -90,8 +92,8 @@ Separate the descriptive from the normative.
 ## Materials
 
 -   A whiteboard or shared document for each group.
--   Sticky notes—lots of sticky notes.
--   Access to the [SDGC materials][sdgc].
+-   Sticky notes.
+-   Breakout spaces.
 
 ## 1) Deciding what is harmful and how to regulate it
 
@@ -99,58 +101,73 @@ Separate the descriptive from the normative.
 
 ### Learning objectives
 
--   Explain why what gets labeled "harmful", and therefore gets regulated,
-    does not track a neutral measurement of damage.
--   Contrast the rare-dramatic-attributable model of harm with the diffuse-pollution model,
-    and say which one describes social media and AI.
--   Distinguish a moral panic from an evidence-backed harm,
-    and say what each implies for regulation.
--   Name the instruments by which harm is regulated and the failure mode of capture.
+-   Explain why what gets labeled "harmful" and therefore gets regulated does
+    not track a neutral measurement of damage.
+-   Contrast the rare-dramatic-attributable model of harm with the
+    diffuse-pollution model, and say which one describes social media and AI.
+-   Distinguish a moral panic from an evidence-backed harm, and say what each
+    implies for regulation.
+-   Name the instruments by which harm is regulated and the failure mode of
+    capture.
 
 ### Key concepts
 
--   Harm is not self-evident. What counts as harm, and which harms get
-    regulated, is decided through contests of power, moral panic, racial
-    hierarchy, and commercial interest, not by first measuring damage and then
-    writing a law.
--   Rare, dramatic, and attributable vs. diffuse, cumulative, and statistical.
-    Engineers are trained on the first model: the faulty valve that causes a
+Harm is not self-evident.
+:   What counts as harm, and which harms get regulated, is decided through
+    contests of power, moral panic, racial hierarchy, and commercial interest,
+    not by first measuring damage and then writing a law.
+Rare, dramatic, and attributable vs. diffuse, cumulative, and statistical.
+:   Engineers are trained on the first model: the faulty valve that causes a
     boiler explosion. The worst industrial harms (leaded gasoline, tobacco,
     asbestos, opioids, and now social media) are the second: real and massive,
     but spread across millions of small exposures so that no single decision can
     be shown to have caused a single injury.
--   The pollution model. Once a society accepts that harm can be diffuse and
-    cumulative, responsibility shifts from proving individual causation to
-    holding the emitter accountable for the aggregate. Engineers now study
-    pollution not out of conscience but because liability eventually forced them
-    to.
--   Moral panic. A disproportionate alarm that often targets the *wrong* harm
-    and leaves the real one unaddressed. The violent-video-game panic is the
-    canonical case; the real harm was loot boxes, not gunfire.
--   The differential legalization of pleasure. Alcohol kills hundreds of
-    thousands a year and sits in supermarkets; cannabis, with a lower harm
-    profile, was criminalized for most of a century, with enforcement falling on
-    Black and Latino communities. What gets legalized tracks political
-    economy and racial hierarchy far more reliably than it tracks
-    harm.
--   Precautionary principle and product safety. Where harm is plausible and
-    irreversible, the burden of proof may rest on those introducing the risk.
-    Pre-market drug approval is the model.
--   Regulation as a toolkit and regulatory capture: recap of standards,
-    licensing, disclosure, liability, taxation, and structural remedies, and the
-    recurring failure mode in which regulators come to serve the regulated.
+The pollution model.
+:   Once a society accepts that harm can be diffuse and cumulative,
+    responsibility shifts from proving individual causation to holding the
+    emitter accountable for the aggregate. Engineers now study pollution not out
+    of conscience but because liability eventually forced them to.
+Moral panic.
+:   A disproportionate alarm that often targets the *wrong* harm and leaves the
+    real one unaddressed. The violent-video-game panic is the canonical case;
+    the real harm was loot boxes, not gunfire.
+The differential legalization of pleasure.
+:   Alcohol kills hundreds of thousands a year and sits in supermarkets;
+    cannabis, with a lower harm profile, was criminalized for most of a century,
+    with enforcement falling on Black and Latino communities. What gets
+    legalized tracks political economy and racial hierarchy far more reliably
+    than it tracks harm.
+Precautionary principle and product safety.
+:   Where harm is plausible and irreversible, the burden of proof may rest on
+    those introducing the risk.  Pre-market drug approval is the model.
+Regulation as a toolkit and regulatory capture.
+:   recap of standards, licensing, disclosure, liability, taxation, and
+    structural remedies, and the recurring failure mode in which regulators come
+    to serve the regulated.
+The uncertainty playbook and the industry response.
+:   When a harm is alleged, the standard playbook is to fund scientists, insist
+    correlation is not causation, call regulation an attack on freedom, create
+    neutral-sounding front groups, and delay. The industry response then moves
+    through four phases: denial, uncertainty, the market argument, and finally
+    acceptance— where compliance reliably turns out cheaper than predicted.
+Non-identity.
+:   Some harms, especially those to "future people," cannot name an individual
+    victim; this is the philosophical twin of diffuse, cumulative harm, and it
+    explains why such harms are so easy to postpone.
 
-### Flow
+### Content
 
 1.  Opening question (3 min): "Which is more dangerous: alcohol or cannabis? How
     do you know, and does the law match your answer?"
-1.  Sex, drugs, and guns (10 min): three cases that show harm is contested, not
-    measured.
+1.  Sex, drugs, guns, and privacy (20 min): four cases that show harm is
+    contested, not measured.
    -   Sex. What was "private" versus what was "criminal" has been redrawn case
        by case, in someone's interests, with no consistent underlying
        principle. Sexual behavior between consenting adults was legally public
        (in the sense of being criminally regulated) well into the twentieth
-       century; the expansion of privacy was won, not discovered.
+       century; the expansion of privacy was won, not discovered. Sodomy laws
+       are a Victorian legal export (1861/1885, Oscar Wilde) spread through
+       colonial law, not an ancient universal.
    -   Drugs. Alcohol kills hundreds of thousands a year and is sold in
        supermarkets; cannabis, with a lower measured harm profile, was a
        criminal offense whose enforcement fell almost entirely on Black and
@@ -163,35 +180,65 @@ Separate the descriptive from the normative.
        organized violence as the real drivers. Motivated reasoning (Lesson 4)
        means even a trained scientist who owns a gun scrutinizes gun-violence
        studies more skeptically than climate studies.
+   -   Privacy. The category "privacy" is contested in exactly the same way: its
+       historical unit was the *household*, not the person ("the personal is
+       political"), and marital rape was legal in most US states until the
+       1970s-80s. What counts as a protected, private sphere is won and redrawn,
+       not discovered.
    -   The point is that we do not first measure harm and then regulate. We
        first decide who and what matters, then find or manufacture the harm that
        justifies the decision.
-1.  Two models of harm (7 min): rare/dramatic/attributable versus
+1.  Two models of harm (10 min): rare/dramatic/attributable versus
     diffuse/cumulative. The engineer's default is the first; the worst damage
     from industry has been the second. Leaded gasoline lowered a generation's
     IQs without any single tank of fuel causing a measurable injury; no
     particular cigarette caused any particular cancer death. Social media's
     harms are this kind (so-called "cognitive pollution"), so the causal chain
     is long, probabilistic, and hard to attribute, and therefore hard to
-    regulate.
-1.  Pollution and dangerous pharmaceuticals (7 min): the two cases where
-    regulation actually worked, and why.
-   -   Pollution. Hill and Doll's 1950 study linked smoking to lung cancer; the
-       tobacco industry's response was to fund research *designed to produce
-       uncertainty*, and it worked for decades (the same playbook ran for leaded
-       gasoline, asbestos, and oxycontin, and is running now for social media
-       and AI). The remedy was the pollution model: hold the emitter liable for
-       the aggregate, not for a specific injury. The ozone layer was protected
-       before it cost lives: proof we need not wait for disaster.
+    regulate. Parfit's non-identity problem is the philosophical twin: harms to
+    "future people" cannot name an individual victim, which is why they are so
+    easy to postpone and so hard to regulate.
+1.  The uncertainty playbook (12 min): when a harm is alleged, the standard
+    industry playbook runs in five steps—fund scientists, insist correlation is
+    not causation, call regulation an attack on freedom, create neutral-sounding
+    front groups, and delay. The response then moves through four phases:
+    denial, uncertainty, the market argument, and finally acceptance—and
+    compliance reliably turns out cheaper than predicted. The tobacco industry
+    ran this script for decades after Hill and Doll's 1950 study; the same
+    script ran for leaded gasoline, asbestos, and oxycontin, and is running now
+    for social media and AI.
+1.  Pollution and dangerous pharmaceuticals (20 min): two cases where regulation
+    worked, and why.
+   -   Pollution. The remedy was to hold the emitter liable for the aggregate,
+       not for a specific injury. The ozone layer was protected before it cost
+       lives: proof we need not wait for disaster.  Minamata is the same lesson
+       read backwards—Chisso's mercury poisoning, with cats as the ignored early
+       warning. The Sandoz/Rhine spill (1986) produced the binding Rhine Action
+       Programme, showing that a cross-border disaster can be converted into
+       enforceable rules.
    -   Dangerous pharmaceuticals. Thalidomide was approved in West Germany in
        1957; Frances Kelsey, a pharmacologist at the FDA, refused to approve it
        in the US because the safety evidence was insufficient, and the birth
        defects that followed where it *was* approved vindicated her. The result
-       was pre-market approval and the precautionary principle.
+       was pre-market approval and the precautionary principle. Kefauver-Harris
+       (1962) is the legislative landmark: before it, you could sell a drug in
+       the US without proving it did anything.
+   -   The limits of a settlement. In the 1998 Master Settlement Agreement the
+       states sued to recover $206 billion in Medicaid costs from the tobacco
+       companies, but this was a *settlement*, not a solution: it monetized the
+       harm rather than removing it.
    -   What worked. Accurate diagnosis of the *actual* harm; the right
-       instrument; and a regulator that was not captured. Capture is the
-       recurring enemy, and the industries that fight regulation are the same
-       ones that manufacture uncertainty about it.
+       instrument; and a regulator that was not captured.
+1.  When regulators fail (10 min): capture is the recurring enemy. Wirecard
+    shows the extreme version: Germany's regulator attacked the *journalist*
+    instead of the fraud. Korean chaebol executives were convicted and then
+    pardoned as too important to jail: "too big to jail" is not a tech
+    invention.
+1.  Moral panic (8 min): moral panic has a lineage—dime novels, then Wertham's
+    comics, then rock and roll, then D&D, then video games—and cross-national
+    checks reveal how fragile most claims are (Japan and South Korea have high
+    game use and low violence). The real harm in the video-game panic was loot
+    boxes, not gunfire.
 1.  Recap and bridge (3 min): Social-media and AI harms are pollution-model
     harms. The trap is moral-panic framing (e.g., "ban the kids' phones")
     instead of the actual harm: attention extraction, addictive design,
@@ -229,6 +276,16 @@ Redesign the law.
     regulation that tracks the *actual* harm, and name the political obstacles
     to passing it.
 
+Beat the playbook.
+:   You are the regulator and the industry is running the five-step uncertainty
+    playbook. For each step, name one counter-move (independent funding,
+    burden-of-proof rules, naming the front groups, deadlines).
+
+Settlement or solution.
+:   Study the 1998 Master Settlement Agreement. Why did a $206 billion settlement
+    fail to end the tobacco problem? What would a *solution* have required, and
+    why was a settlement the outcome the parties preferred?
+
 ### Takeaway
 
 Harm is not a fact that precedes regulation; it is a claim made by the powerful,
@@ -243,49 +300,42 @@ capture.
 
 Nader's story can be told in just a few seconds:
 
-> "GM's response was not to fix the car; it was to hire private detectives to
+> GM's response was not to fix the car; it was to hire private detectives to
 > dig up dirt on Nader." … "GM's president was summoned to testify before the
-> United States Senate and had to apologize on national television."
+> United States Senate and had to apologize on national television.
 
 #### [How the Rivers Ran Again](../regulation-that-worked/index.qmd)
 
 A good example of how *framing a harm* precedes regulating it, and about
 regulation working:
 
-> "On June 22, 1969, the Cuyahoga River in Cleveland, Ohio, caught fire. This
+> On June 22, 1969, the Cuyahoga River in Cleveland, Ohio, caught fire. This
 > sounds dramatic, but it was also the thirteenth time the river had caught fire
-> since 1868."
-
-#### [How the Rivers Ran Again](../regulation-that-worked/index.qmd)
+> since 1868.
 
 Two more "regulation that worked" cases with vivid sensory detail: the 1952
 London smog ("so thick that people could not see their own feet," with a
 spokesman blaming "influenza"), and going from the Great Stinnk of 1858 to "In
 1983, a salmon was caught in the Thames for the first time since the 1820s."
 
-#### [How the Rivers Ran Again](../regulation-that-worked/index.qmd)
-
-A compact illustration of diffuse, cumulative harm and the cost of waiting for
-dramatic, attributable proof
-
 #### [Forty Years to an Agreement](../regulation-that-worked/index.qmd)
 
 The ISDS callout is the best single example of regulatory capture's
 international cousin, and it has a punchline:
 
-> "a move so transparently opportunistic that even the arbitrators were not
-> impressed."
+> a move so transparently opportunistic that even the arbitrators were not
+> impressed.
 
 #### [Unsafe at Any Speed](../regulation-that-worked/index.qmd)
 
-A rare example of a firm choosing public good over patent that keeps Lesson 1
-from being uniformly grim:
+A rare example of a firm choosing public good that keeps Lesson 1 from being
+uniformly grim:
 
-> "Nils Bohlin, an engineer at Volvo, had developed the three-point belt the
+> Nils Bohlin, an engineer at Volvo, had developed the three-point belt the
 > year before, and Volvo had made the patent freely available to every
-> manufacturer in the world."
+> manufacturer in the world.
 
-#### [d `how-we-got-here/index.qm](../glossary/index.qmd)
+#### [The Tontine](../glossary/index.qmd)
 
 The tontine is a one-paragraph warning about how market structures can *build
 in* harm that doubles as the opening image for "the monopolist's playbook".
@@ -294,20 +344,32 @@ in* harm that doubles as the opening image for "the monopolist's playbook".
 
 A good example of *reframing* a harm to make it regulable:
 
-> "The managers had locked the stairwell doors to prevent workers from taking
+> The managers had locked the stairwell doors to prevent workers from taking
 > unauthorized breaks and to stop theft of fabric. 146 workers died, most of
 > them young immigrant women, many of them Jewish and Italian. Some jumped from
 > the windows. The owners were acquitted of manslaughter charges and collected
-> the insurance."
+> the insurance.
 
 #### [The Monopolist's Playbook](../how-we-got-here/index.qmd)
 
 For the "regulation can fail" part of the lesson, this punchline is hard to
 beat:
 
-> "What is less often noted is that several successor companies immediately
+> What is less often noted is that several successor companies immediately
 > reconsolidated, and that John D. Rockefeller's personal fortune *increased*
-> after the breakup as the stock prices of the subsidiaries rose."
+> after the breakup as the stock prices of the subsidiaries rose.
+
+#### [What We Owe the Future](../what-we-owe-the-future/index.qmd)
+
+Parfit's non-identity problem is the philosophical twin of diffuse, cumulative
+harm: if our choices change *who* is born, no particular future person can say
+we made them worse off, yet the choice still has victims in the aggregate.
+
+#### [Privacy, Power, and the Self](../privacy-power-self/index.qmd)
+
+The "privacy is contested" point extends Lesson 1's opening claim about harm:
+the historical unit of privacy was the *household*, not the person, and marital
+rape was legal in most US states until the 1970s-80s.
 
 ## 2) Power and institutions
 
@@ -315,43 +377,77 @@ beat:
 
 ### Learning objectives
 
--   Describe the three "faces" of power (decision, agenda, preference-shaping).
+-   Describe the three faces of power (decision, agenda, preference-shaping).
 -   Define an institution as "the rules of the game" (formal and informal).
 -   Explain why concentrated interests usually defeat diffuse ones.
 
 ### Key concepts
 
--   Three faces of power (Lukes):
+-   Three faces of power [@Lukes2021]:
     1.  Who wins when there is a visible decision
     1.  Who controls what gets onto the agenda in the first place
     1.  Who shapes what people even *want*, so that some options never occur to anyone
--   Institutions (Douglass North):
+-   Institutions [@North1990]:
     -   The formal rules (laws, contracts) and informal constraints (norms, conventions, taboos)
         that structure interaction
     -   Institutions always allocate advantage; they are never neutral
--   Collective action problem (Mancur Olson):
+-   Collective action problem [@Olson1965]:
     -   It's easier to organize a small group with a large stake than a large group with a small stake
     -   This is why producers beat consumers and platforms beat users
 -   Path dependence:
     -   Early choices lock in later outcomes, even after the original reasons disappear
+-   Selectorate theory: leaders distribute resources to the small "winning
+    coalition" that keeps them in power, not to the whole population (or the
+    whole "family").
+-   Legibility [@Scott1998]: surnames, house numbers, passports, and ID
+    registers exist so the state can tax, draft, and police; standardization is
+    an instrument of administration, not a neutral convenience.
 
-### Flow
+### Content
 
 1.  Opening question (3 min): "Think of a product decision at your company.  Who
     actually decided it, and whose interests won?"
-1.  What is power? (10 min): Walk through Lukes' three faces with concrete
+1.  What is power? (12 min): Walk through Lukes' three faces with concrete
     examples. Visible: who wins the vote. Hidden: who writes the agenda, the
     roadmap, the API. Invisible: who shapes what feels "natural", "obvious", or
     "inevitable". Point out that a "neutral" default or a "technical" constraint
-    is usually an act of agenda-setting.
-1.  Institutions (10 min): North's definition. Formal vs. informal rules.  Show
+    is usually an act of agenda-setting. "We don't do politics here" is the
+    third face's catchphrase: it usually means the winners already have what
+    they want and can describe their arrangement as natural.
+1.  Institutions (15 min): North's definition. Formal vs. informal rules.  Show
     that software itself is an institution: default settings, permission models,
     and rate limits are rules that allocate advantage. A design decision is a
-    governance decision.
-1.  Collective action (7 min): Olson's concentrated-vs-diffuse logic.  Example:
+    governance decision. Make the point concrete:
+   -   The 1886 US railroad gauge change: an "incompatibility" was a market
+       weapon—southern carriers profited from unloading and reloading freight at
+       the gauge boundary, so the "technical" choice was political.
+   -   Tithing and excommunication: the App Store's 30% cut is a tithe;
+       deplatforming is excommunication (removal from the infrastructure needed
+       to do business).
+   -   Incentives produce the wrongdoing: Wells Fargo fired 5,300 staff over
+       fake accounts ("eight is great")—mass wrongdoing flows from impossible
+       quotas, not from bad individuals.
+   -   Self-fulfilling design: terms of service written for adversaries and
+       moderation that treats everyone as a suspect produce the distrust they
+       assume (contrast with Ostrom's governed commons).
+1.  Platforms as quasi-governments (10 min): eBay adjudicates disputes, App
+    Store review is the only appeal, and Facebook makes de facto regulatory
+    decisions in other countries. The yakuza supplied 2011 Tohoku disaster
+    relief faster than the state—a reminder that "governance" is whoever can
+    actually get things done.
+1.  Legibility and institutional money (10 min): James C. Scott's point that
+    surnames, house numbers, and passports exist so the state can tax, draft,
+    and police; South Africa's pass laws became the world's first biometric
+    register (1986). Philanthrocapitalism is the private-sector twin:
+    donor-advised funds (~$230B) and the Giving Pledge convert taxable wealth
+    into permanently controlled endowments, and the Gates Foundation was at one
+    point the WHO's second-largest funder.
+1.  Collective action (10 min): Olson's concentrated-vs-diffuse logic.  Example:
     ad-tech firms (few, organized, rich) versus individual users (many,
     unorganized, each with a small stake). This single asymmetry predicts much
-    of tech policy.
+    of tech policy. Selectorate theory sharpens the point: leaders distribute to
+    a small winning coalition, not the whole "family", and Pfeffer found
+    political skill predicts advancement better than technical competence.
 1.  Recap (5 min).
 
 ### Exercises
@@ -383,6 +479,17 @@ Path dependence hunt.
     explained more by history ("it's always been done this way") than by present
     need. Trace the lock-in and name who benefits from keeping it.
 
+Quasi-government audit.
+:   Pick one platform decision (a ban, a commission change, an API restriction)
+    and compare it to a government decision. Who is the constituency? Where is
+    the appeal? Which face of power is doing the work?
+
+Incentive autopsy.
+:   Take a case like Wells Fargo's fake accounts. Trace the quota, the
+    measurement, and the reward structure that produced the wrongdoing. Then
+    redesign the institution so the bad behavior is no longer the rational
+    response.
+
 ### Takeaway
 
 Power is not only about who wins visible fights; it is about who sets the agenda
@@ -396,17 +503,17 @@ they are never neutral.
 George Pullman's 1894 company town is the single best illustration of the
 workshop's key claim that a design decision is a governance decision.
 
-> "When Pullman cut wages during the depression of 1893 while holding rents
+> When Pullman cut wages during the depression of 1893 while holding rents
 > fixed, workers could not cushion the blow by cutting other expenses, because
 > the company controlled those too. They had no recourse and nothing left to
 > lose. The 1894 Pullman Strike paralyzed rail traffic across the country and
 > required federal troops to suppress, which tells you something about what
-> total control eventually produces."
+> total control eventually produces.
 
 The payoff line to bring it into tech:
 
-> "An employer controls your income; an infrastructure provider controls the
-> conditions under which you can earn, spend, and participate in social life."
+> An employer controls your income; an infrastructure provider controls the
+> conditions under which you can earn, spend, and participate in social life.
 
 Other useful references are the *danwei*/WeChat parallel ("A user whose account
 is suspended loses not just a communication tool but the infrastructure through
@@ -418,17 +525,17 @@ campuses.
 The Musk "hardcore" email illustrates the lesson's question ("who actually
 decided it, and whose interests won?"):
 
-> "In November 2022, after laying off about a third of its original workforce,
+> In November 2022, after laying off about a third of its original workforce,
 > Elon Musk sent an email to the remaining Twitter employees asking them to
 > click a button to confirm that they were committed to working 'hardcore' for
 > the company's next phase. Those who did not click by the deadline would be
 > treated as having resigned. A few months earlier, Twitter's former leadership
-> had described it as a family."
+> had described it as a family.
 
 Lasswell's definition is a clean, quotable anchor for the whole lesson:
 
-> "The political scientist Harold Lasswell defined politics in 1936 as the study
-> of 'who gets what, when, how.'"
+> The political scientist Harold Lasswell defined politics in 1936 as the study
+> of 'who gets what, when, how.'
 
 #### [We're All Family Here](../inequality/index.qmd)
 
@@ -441,23 +548,29 @@ the winning coalition."
 
 #### [The Invention of the Corporation](../how-we-got-here/index.qmd)
 
-The workshop says software is an institution.  This shows the *corporation* is
+The workshop says software is an institution.  This shows the corporation is
 too, and that its "neutral" form is a choice with distributional consequences:
 
-> "The usual excuse for why tech companies aren't worker cooperatives or other
+> The usual excuse for why tech companies aren't worker cooperatives or other
 > equitable structures is that cooperative governance is too slow and
 > cooperative financing too limited. This explanation is conveniently
 > incomplete. It omits the fact that the founders, lawyers, and venture
-> capitalists making the choice benefit most from the conventional structure."
+> capitalists making the choice benefit most from the conventional structure.
 
 #### [Big Tech is Like the Enclosure Movement](../harmful-models/index.qmd)
 
 The cleanest "institutions allocate advantage" case, and a bridge to Lesson 5:
 
-> "The process was not neutral arbitration between competing claims: the
+> The process was not neutral arbitration between competing claims: the
 > landowners who stood to benefit were the same class that controlled
 > Parliament. The commoners whose rights were extinguished had no equivalent
-> political representation."
+> political representation.
+
+#### [Privacy, Power, and the Self](../privacy-power-self/index.qmd)
+
+Scott's legibility argument is the through-line for the "passports, house
+numbers, and biometrics" examples: the state standardizes people so they can be
+taxed, drafted, and policed.
 
 ## 3) Where markets come from
 
@@ -465,13 +578,15 @@ The cleanest "institutions allocate advantage" case, and a bridge to Lesson 5:
 
 ### Learning objectives
 
--   Explain why "the free market" is a description of a rule-bound institution, not an absence of rules.
+-   Explain why "the free market" is a description of a rule-bound institution,
+    not an absence of rules.
 -   Name and give examples of four kinds of market failure.
--   Say who bears the cost and who captures the benefit in a negative externality.
+-   Say who bears the cost and who captures the benefit in a negative
+    externality.
 
 ### Key concepts
 
--   Embeddedness (Karl Polanyi): markets are always embedded in a web of legal,
+-   Embeddedness [@Polanyi2001]: markets are always embedded in a web of legal,
     social, and political rules. Property rights, enforceable contracts,
     currency, and liability all rest on the state. "Deregulation" is not the
     removal of rules; it is the substitution of one set of rules for another.
@@ -481,7 +596,7 @@ The cleanest "institutions allocate advantage" case, and a bridge to Lesson 5:
 -   Public goods: non-excludable and non-rivalrous goods like trust, safety, and
     an informed electorate that markets under-produce because no one can be made
     to pay.
--   Information asymmetry (George Akerlof): when one party knows much more than
+-   Information asymmetry [@Akerlof1978]: when one party knows much more than
     the other, the "market for lemons" result is that bad options drive out good
     ones.
 -   Market power: network effects and switching costs produce concentration,
@@ -489,23 +604,55 @@ The cleanest "institutions allocate advantage" case, and a bridge to Lesson 5:
     them.
 -   Market failure: a situation in which an unadjusted market produces an
     outcome that is neither efficient nor fair.
+-   The commons [@Ostrom2015]: Hardin described an *unmanaged* commons he never
+    studied; Ostrom's eight design principles show communities can govern shared
+    resources without markets or the state.
+-   Enshittification [@Doctorow2025]: platforms first attract users, then
+    extract value from users and from their suppliers.
 
-### Flow
+### Content
 
 1.  Opening question (3 min): "Which product in this room is *unregulated*?"
     Let the room discover that the answer is "none."
-1.  Markets are constructed (10 min): Every marketplace has rules about who may
+1.  Markets are constructed (15 min): Every marketplace has rules about who may
     sell, what counts as fraud, who is liable, and how disputes are resolved.
     Those rules are choices with distributional consequences. Show that
-    "deregulation" is re-regulation.
-1.  Market failure (12 min): Four mechanisms, each with a tech example:
+    "deregulation" is re-regulation. Fill in the history:
+   -   The barter myth [@Graeber2011]: credit and debt predate money; money
+       emerged to settle debts, not to simplify barter.
+   -   Limited liability is a grant from the state (Dutch East India Company,
+       1602), not a natural feature of commerce.
+   -   The Statute of Anne (1710) created copyright to break the Stationers'
+       monopoly, not to protect authors; the 1998 term extension was timed to
+       keep Mickey Mouse out of the public domain.
+   -   "Homo economicus" is a political argument dressed as math: from Hobbes to
+       Spencer's "survival of the fittest" to the rational agent.
+1.  Market failure (15 min): Four mechanisms, each with a tech example:
     1.  Externalities (misinformation, polarization, teen anxiety as costs
         priced at zero)
     1.  Public goods (an informed public, institutional trust)
-    1.  information asymmetry (you do not know what the recommender is doing, or
+    1.  Information asymmetry (you do not know what the recommender is doing, or
         why)
-    1.  market power (network effects make dominant social networks hard to
+    1.  Market power (network effects make dominant social networks hard to
         exit)
+1.  Add the commons as a fifth idea.  Apple's green-bubble lock-in is a
+    market-power case study—internal documents admit RCS would reduce the social
+    cost of switching, and the DMA forced support in 2024.
+1.  Public subsidy, private profit (8 min): every technology in the iPhone was
+    government-funded (DARPA internet, GPS, Siri/SRI); the mRNA vaccine produced
+    Moderna's ~$200B while the NIH's IP claim went unenforced; Apple paid 0.005%
+    tax on Irish profits.
+1.  Enshittification (8 min): Doctorow's ladder with concrete rungs—Booking.com's
+    commission from 12% to 25-30%, Columbia House's penny records, JanSport's
+    backpacks, YouTube's 2018 monetization threshold. Platforms first attract
+    users, then extract from them and their suppliers.
+1.  Institutional variety (8 min): beyond the shareholder firm—the Islamic waqf
+    (roughly a third of Ottoman farmland), keiretsu, the Mittelstand, the Hindu
+    Undivided Family (Tata/Birla). The firm we treat as "natural" is one choice
+    among many.
+1.  The MLM warning (5 min): the FTC found <1% of participants earned a net
+    profit; Amazon Basics competes with its own sellers using their sales data;
+    Uber pitched drivers as "entrepreneurs."
 1.  Who pays, who benefits (5 min): "Efficiency" is not the same as fairness. A
     market can be efficient and still concentrate benefits and diffuse harms.
     (Lesson 1 uses this distinction.)
@@ -540,6 +687,16 @@ Free market autopsy.
     liability, and standards. Discuss: is "deregulation" ever actually the
     *absence* of rules?
 
+Subsidy autopsy.
+:   Pick a consumer product and list every government-funded technology inside
+    it (the internet, GPS, voice recognition, vaccines). Then discuss who
+    captured the profit and who paid the research bill.
+
+Commons design.
+:   Take a shared resource (an open-source project, a Wikipedia article, a
+    neighborhood) and draft the design principles that keep it from turning
+    into Hardin's tragedy. Compare your list with Ostrom's eight.
+
 ### Takeaway
 
 There is no market without rules. The interesting questions are which rules
@@ -552,41 +709,41 @@ standard correction, not an alien intrusion.
 
 An opening hook for the workshop as a whole:
 
-> "In order to show how the free market really works, he went and studied it in
-> its pure, unconstrained form: the cocaine cartels."
+> In order to show how the free market really works, he went and studied it in
+> its pure, unconstrained form: the cocaine cartels.
 
 The killer detail is brand protection without trademark law:
 
-> "A cocaine cartel can't use trademark law. It can, however, use violence
+> A cocaine cartel can't use trademark law. It can, however, use violence
 > against competitors who sell adulterated product under the same name or who
 > operate in territory the cartel has claimed. The aim—maintaining exclusivity
-> and quality signals—is the same, it's just the mechanism that differs."
+> and quality signals—is the same, it's just the mechanism that differs.
 
 #### [The Creation of Money](../how-we-got-here/index.qmd)
 
 The strongest possible "markets rest on rules" illustration is the 1660s
 goldsmith story:
 
-> "This is just as ridiculous as it sounds, but very useful. When you repay a
+> This is just as ridiculous as it sounds, but very useful. When you repay a
 > loan, the deposit disappears from your account and the corresponding debt
-> disappears from the bank's books. Money is destroyed."
+> disappears from the bank's books. Money is destroyed.
 
 #### [Big Tech is Like Professional Wrestling](../harmful-models/index.qmd)
 
 The workshop discusses "market power" but has no example of *fake* competition:
 
-> "What the kayfabe obscures is that Apple earns approximately $20 billion a
+> What the kayfabe obscures is that Apple earns approximately $20 billion a
 > year from a deal that makes Google the default search engine on every iPhone
 > sold. The two rivals are financially interdependent, and each needs the other
-> to play its designated role."
+> to play its designated role.
 
 #### [The Demand Problem](../ai-happens/index.qmd)
 
 A market-failure mechanism not in the workshop's four-part list:
 
-> "Every firm therefore has a rational-as-in-psychopathic incentive to automate
+> Every firm therefore has a rational-as-in-psychopathic incentive to automate
 > beyond the socially optimal level, because the gain from cutting labor costs
-> outweighs the diffuse shared consequence of eliminating consumer spending."
+> outweighs the diffuse shared consequence of eliminating consumer spending.
 
 Contrast this with Henry Ford's opposite logic ("his employees needed to earn
 enough to buy his cars") and Jack Dorsey/Block's 2025 layoffs being rewarded
@@ -605,8 +762,14 @@ found" is a quotable takeaway.
 The chapter's most quotable metaphor for platform lock-in and information
 asymmetry is:
 
-> "The audience is the crop; the algorithm change is the landlord raising the
-> rent after the harvest is in."
+> The audience is the crop; the algorithm change is the landlord raising the
+> rent after the harvest is in.
+
+#### [Control and Alternatives](../control-and-alternatives/index.qmd)
+
+The source for the "institutional variety" point: the shareholder firm is not
+natural or inevitable, and alternatives such as cooperatives and the Mittelstand
+are durable institutions, not seminar hypotheticals.
 
 ## 4) How people actually think
 
@@ -621,7 +784,7 @@ asymmetry is:
 
 ### Key concepts
 
--   Dual-process theory (Daniel Kahneman): System 1 is fast, automatic, and
+-   Dual-process theory [@Kahneman2011]: System 1 is fast, automatic, and
     associative; System 2 is slow, effortful, and deliberative. Most online
     behavior is System 1, which is why it is so predictable and so exploitable.
 -   Heuristics and biases: availability (what comes easily to mind), anchoring
@@ -630,32 +793,54 @@ asymmetry is:
     rates).
 -   Motivated reasoning: when identity is at stake, reasoning becomes a lawyer
     hired to defend a conclusion rather than a judge weighing evidence.
--   Social identity (Henri Tajfel and John Turner): the mere assignment of
-    people to groups produces in-group favoritism. People hold beliefs partly to
-    *belong*, not only to be right.
--   Conformity and obedience: Asch's line-length studies and Milgram's obedience
-    experiments show how powerfully social context shapes behavior.
--   Moral foundations (Jonathan Haidt): different audiences weight values such
-    as care/harm, fairness, loyalty, authority, and purity differently.
-    Persuasion that ignores this fails.
+-   Social identity [Tajfel1979]: the mere assignment of people to groups
+    produces in-group favoritism. People hold beliefs partly to *belong*, not
+    only to be right.
+-   Conformity and obedience: Asch's line-length studies [@Asch1956] and
+    Milgram's obedience experiments show how powerfully social context shapes
+    behavior.
+-   Moral foundations [@Haidt2012]: different audiences weight values such as
+    care/harm, fairness, loyalty, authority, and purity differently.  Persuasion
+    that ignores this fails.
 -   Attention as a scarce resource: variable rewards, infinite scroll, and dark
     patterns are engineered to exploit known psychology.
+-   Loss aversion and hyperbolic discounting: losses loom larger than gains, and
+    distant costs are heavily discounted—taxi drivers work longer on bad days,
+    and "our future selves are strangers" (gym memberships, quitting smoking).
+-   Status and relative position: people care about where they stand relative to
+    others, not just about absolute level; this is why public status comparisons
+    are so powerful.
+-   Moral disengagement [@Bandura1999]: euphemisms and relabeling let good
+    people do harmful work without feeling like bad people.
 
-### Flow
+### Content
 
 1.  Opening question (3 min): "Why did you click the last thing you clicked?"
-1.  Two systems and biases (10 min): System 1/System 2, then four biases with
+1.  Two systems and biases (15 min): System 1/System 2, then the biases with
     everyday online examples. Emphasize: these are *features*, usually adaptive,
-    but they are predictable, and predictability is exploitability.
-1.  Identity and belonging (10 min): Minimal-group results; identity-protective
-    cognition; Asch and Milgram as demonstrations that social context can
-    overpower private judgment (including critique of Milgram's findings). Moral
-    foundations: why two reasonable people talk past each other about content
-    moderation.
-1.  The attention economy (7 min): Map the psychological mechanisms to specific
-    design choices: variable rewards, manufactured urgency, disguised ads,
-    social proof, default nudges. A design choice is a psychological
-    intervention, whether the designer acknowledges it or not.
+    but they are predictable, and predictability is exploitability. Add loss
+    aversion and hyperbolic discounting: taxi drivers work longer on bad days,
+    and "our future selves are strangers" (gym memberships, quitting smoking).
+1.  Identity, belonging, and status (15 min): Minimal-group results;
+    identity-protective cognition; Asch and Milgram as demonstrations that social
+    context can overpower private judgment (including critique of Milgram's
+    findings). Moral foundations: why two reasonable people talk past each other
+    about content moderation. Then status: it beats income. Norway's public tax
+    records widened the well-being gap 29% (Perez-Truglia), and Robert Frank's
+    local-rank finding shows people care about position, not level.
+1.  People want data but believe stories (5 min): public-health campaigns use
+    named people, not statistics; industries fund data-heavy think tanks for the
+    *appearance* of rigor.
+1.  Nudges, defaults, and the attention economy (12 min): Map the psychological
+    mechanisms to specific design choices: variable rewards, manufactured
+    urgency, disguised ads, social proof, default nudges. The nudge proof is
+    strong: pension auto-enrollment took participation from 50-60% to 80-90% (UK
+    2012, ~10M workers), and the Behavioural Insights Team's "nine out of ten
+    pay on time" tax letter. A design choice is a psychological intervention,
+    whether the designer acknowledges it or not.
+1.  Moral disengagement (5 min): Bandura's point that euphemisms let good people
+    do harmful work—"user data as exhaust" and "engagement optimization" are the
+    tech versions.
 
 ### Exercises
 
@@ -685,6 +870,16 @@ Design a nudge.
     intervention (education, disclosure). Predict which works better and why,
     then discuss the ethics of each.
 
+Status check.
+:   Identify one place where you compare yourself to others online (follower
+    counts, salary, shipping speed). What does the comparison do to your
+    satisfaction, and who benefits from keeping you in that comparison?
+
+Nudge autopsy.
+:   Find a default in a product you use (auto-renew, pre-checked boxes, a default
+    privacy setting). Trace who set it, who benefits, and what the opt-out rate
+    likely is.
+
 ### Takeaway
 
 People are not broken computers: they are social animals with fast, fallible,
@@ -698,16 +893,16 @@ exploits it is the business model of the attention economy.
 The workshop says "dual-process" and "framing"; this is the canonical, 90-second
 demonstration to run in the room:
 
-> "Program A would save exactly 200 people. Program B had a one-in-three chance
+> Program A would save exactly 200 people. Program B had a one-in-three chance
 > of saving all 600 and a two-in-three chance of saving none. Most people chose
 > A… Statistically, the two programs are identical, but this time, most people
-> chose D. Nothing changed except how the outcomes were described."
+> chose D. Nothing changed except how the outcomes were described.
 
 Further:
 
-> "Participants spun a wheel rigged to land on either 10 or 65, then estimated
+> Participants spun a wheel rigged to land on either 10 or 65, then estimated
 > the percentage of African countries in the United Nations. Those who had seen
-> 65 guessed about 45 percent higher than those who had seen 10."
+> 65 guessed about 45 percent higher than those who had seen 10.
 
 The follow-through ("prosecutors set high anchor charges," "retailers display
 high 'original' prices," "speak first" in salary negotiation) connects it to
@@ -717,9 +912,9 @@ participants' own lives.
 
 The workshop treats preferences as a given, so briefly mention Bernays:
 
-> "Women smoking in public was a social taboo; framing the act as feminist
+> Women smoking in public was a social taboo; framing the act as feminist
 > defiance was designed to dissolve that taboo and open the female market to
-> tobacco sales. It worked."
+> tobacco sales. It worked.
 
 This sets up the "recommendation systems are also preference-construction
 systems" claim, and pairs naturally with Veblen ("keeping up with the Joneses")
@@ -731,16 +926,15 @@ because that would end the business model."
 The workshop mentions Milgram, but not the most useful finding for a workshop
 about change, which is the effect of a single dissenter:
 
-> "Sixty-five percent of subjects administered what they had been told was the
-> maximum voltage… because a person in a lab coat told them to."
+> Sixty-five percent of subjects administered what they had been told was the
+> maximum voltage… because a person in a lab coat told them to.
 
 #### [Corporations are Psychopaths](../a-little-psychology/index.qmd)
 
 The Broadmoor finding that corporate executives out-score the patients of a
 hospital for the criminally insane on psychopathy measures will stick with
 learners.  Pair it with the Challenger "normalization of deviance" callout and
-the "we just build hammers" reframing, both in
-[More Psychology](../more-psychology/index.qmd).
+the "we just build hammers" reframing in [More Psychology](../more-psychology/index.qmd).
 
 #### [Facts Alone Don't Change Minds](../a-little-psychology/index.qmd)
 
@@ -756,11 +950,12 @@ anchor.
 
 -   Contrast structural and individual explanations of social outcomes.
 -   Explain cumulative advantage and opportunity hoarding.
--   Describe intersectionality and why single-axis analyses miss the worst harms.
+-   Describe intersectionality and why single-axis analyses miss the worst
+    harms.
 
 ### Key concepts
 
--   Stratification (Max Weber): three analytically distinct dimensions that
+-   Stratification [@Weber1946]: three analytically distinct dimensions that
     overlap but do not coincide:
     1.  Class (economic position)
     1.  Status (prestige and honor)
@@ -769,29 +964,56 @@ anchor.
     positions versus attributing them to personal traits and effort.
 -   Cumulative advantage (the Matthew effect): advantage begets advantage; early
     differences compound over a lifetime.
--   Opportunity hoarding (Charles Tilly): groups use credentials, networks, and
+-   Opportunity hoarding [@Tilly1998]: groups use credentials, networks, and
     gatekeeping to keep advantages for themselves while appearing to reward
     merit.
--   Intersectionality (Kimberlé Crenshaw): overlapping systems of disadvantage
+-   Intersectionality [@Crenshaw1989]: overlapping systems of disadvantage
     interact; they do not simply add.
 -   Social mobility: intergenerational mobility is far lower and stickier than
     the "American Dream" story implies; "meritocracy" often functions as a
     legitimation story for inherited advantage.
+-   Meritocracy [@Young1958]: the word was coined in a 1958 *satire*;
+    merit-pay organizations show *larger* gender gaps (moral licensing), and
+    believing in meritocracy predicts harsher judgment of the poor.
+-   Poverty and bandwidth [@Mullainathan2013]: scarcity depletes cognitive
+    capacity the way sleep deprivation does, which is why "just try harder" is
+    not a serious explanation.
 
-### Flow
+### Content
 
 1.  Opening question (3 min): "When you explain why someone succeeded or failed,
     which verbs do you reach for?"
 1.  Three dimensions (10 min): Weber's class/status/power, with tech examples: a
     staff engineer may have high class but limited power; a founder has power; a
-    moderator has neither. Mismatches matter.
-1.  Structure vs. individual (12 min): The fundamental attribution error applied
+    moderator has neither. Mismatches matter. Wilkinson & Pickett add the
+    cross-national finding: more unequal societies do worse on nearly every
+    social indicator, and the mechanism is status anxiety.
+1.  Structure vs. individual (15 min): The fundamental attribution error applied
     to society: we explain *others'* outcomes by their traits and *our own* by
     circumstance. Cumulative advantage: early advantage compounds.  Opportunity
     hoarding: how "merit" filters are built to reproduce advantage.
     Intersectionality: compounding and interacting disadvantage, and why systems
     (e.g., a facial-recognition model, a hiring algorithm) distribute harm
-    unevenly across overlapping identities.
+    unevenly across overlapping identities. Make discrimination concrete:
+   -   Audit studies: identical resumes with white-coded names get consistently
+       more callbacks; Rivera's "polished" versus "rough around the edges" is
+       class, not competence.
+   -   Amazon's internal recruiting tool (abandoned 2018) penalized resumes
+       containing "women's."
+   -   Women's share of computing was higher in the 1980s than today, so the
+       "pipeline" explanation is contradicted by the evidence.
+   -   Becker's 1957 prediction that competition eliminates discrimination was
+       falsified; favored-group workers benefit from exclusion (LBJ: "give him
+       somebody to look down on").
+1.  Poverty is a tax on cognition (8 min): scarcity depletes cognitive bandwidth
+    like sleep deprivation [@Mullainathan2013]; McIntosh's invisible knapsack
+    explains why "just try harder" fails [@McIntosh1989]. Credit bureaus collect
+    without consent and profit whether the data is accurate or not (Equifax
+    2017: ~147M exposed); accuracy is not fairness.
+1.  Meritocracy, examined (8 min): "Meritocracy" was coined by Michael Young in
+    a 1958 satire. Merit-pay organizations show *larger* gender pay gaps (moral
+    licensing [@Castilla2010]), and believing in meritocracy predicts harsher
+    judgment of the poor.
 1.  Mobility and measurement (5 min): Mobility is low and sticky across
     generations. Treat "meritocracy" as an empirical claim to test, not an
     assumption.
@@ -823,6 +1045,17 @@ Intersectional case.
     identities (a facial-recognition system, a hiring algorithm, an automated
     welfare screen). Why does a single-axis analysis miss the worst harms?
 
+Merit audit.
+:   Take a supposedly merit-based process (a hiring funnel, an awards program, a
+    promotion ladder). Check whether it produces the outcomes meritocracy
+    predicts, and identify where credentials and networks do the actual
+    sorting.
+
+Bandwidth check.
+:   List five decisions you make easily when rested that become hard when you
+    are tired or under financial pressure. What would a product look like if it
+    assumed its users were often in that state?
+
 ### Takeaway
 
 Inequality is not a sorting of individuals by merit; it is the accumulated
@@ -835,10 +1068,10 @@ test, and often a story that legitimizes inheritance.
 
 This quote drives home how arbitrary classifications are:
 
-> "In 1950, South Africa's apartheid government created the Race Classification
+> In 1950, South Africa's apartheid government created the Race Classification
 > Board… The examiners used what they called the pencil test: if a pencil
 > inserted into someone's hair stayed in place without falling, the person might
-> be classified as 'Coloured' rather than 'White.'"
+> be classified as 'Coloured' rather than 'White.'
 
 The follow-through on siblings classified differently, with different rights,
 makes intersectionality concrete. The "Hispanic" category being invented by the
@@ -848,9 +1081,9 @@ Nixon administration in 1970 is the same point in a US key.
 
 Cumulative advantage across generations, made measurable:
 
-> "Neighborhoods that were redlined in the twentieth century still show lower
+> Neighborhoods that were redlined in the twentieth century still show lower
 > average credit scores today: not because their residents are less
-> creditworthy, but because they were systematically excluded."
+> creditworthy, but because they were systematically excluded.
 
 #### [Why Don't You Just…](../inequality/index.qmd)
 
@@ -860,11 +1093,11 @@ loop is the human-scale companion story.
 
 #### [Who Gets to Decide](../inequality/index.qmd)
 
-Carnegie is the workshop-ready paradox, with ten workers killed by Pinkertons in
-1892, then a lifetime funding libraries "on his terms." The Flexner Report is
-the sharper institutional example: it raised medical standards *and* "closed
-most of the schools that had trained Black physicians or admitted women in
-significant numbers." Both are opportunity hoarding wearing a merit badge.
+Carnegie is an exemplary paradox: ten workers killed by Pinkertons in 1892, then
+a lifetime funding libraries "on his terms." The Flexner Report is the sharper
+institutional example: it raised medical standards *and* "closed most of the
+schools that had trained Black physicians or admitted women in significant
+numbers." Both are opportunity hoarding wearing a merit badge.
 
 #### [Women's Work](../control-and-alternatives/index.qmd)
 
@@ -873,14 +1106,21 @@ highlight:
 
 - Iceland 1975: "ninety percent of Icelandic women refused to work at paid jobs,
   in the home, or anywhere else… The economy of Iceland effectively stopped."
-- Marilyn Waring on GDP: a woman cooking for her family adds nothing to GDP, but
-  if she hires a cook and works, GDP rises twice.
-- Hochschild's "second shift": women in dual-income couples work "roughly a full
-  additional month" per year, and rationalize it via "family myths."
+- Waring on GDP [@Waring1988]: a woman cooking for her family adds nothing to
+  GDP, but if she hires a cook and works, GDP rises twice.
+- The "second shift" [@Hochschild1989]: women in dual-income couples work
+  "roughly a full additional month" per year, and rationalize it via "family
+  myths."
 
 This also connects directly to the platform economy (care-work apps formalize
 undervalued labor "while keeping the wages and protections of the informal
 economy").
+
+#### [More Psychology](../more-psychology/index.qmd)
+
+The source for the meritocracy and audit-study material: "meritocracy" was
+coined in a 1958 satire, merit-pay organizations show larger gender gaps, and
+identical resumes get different callbacks depending on the name at the top.
 
 ## 6) Media, ideology, and public opinion
 
@@ -889,7 +1129,8 @@ economy").
 ### Learning objectives
 
 -   Distinguish agenda-setting from framing.
--   Describe the shift from human gatekeeping to algorithmic engagement and its consequences.
+-   Describe the shift from human gatekeeping to algorithmic engagement and its
+    consequences.
 -   Apply a "manufacturing consent" lens to platform-era media.
 
 ### Key concepts
@@ -905,35 +1146,65 @@ economy").
     concentration had its own distortions: platforms replaced it with
     engagement-maximizing algorithms, which are a different and arguably worse
     concentration.
--   The propaganda model (Edward Herman and Noam Chomsky): five filters
-    (ownership, advertising, sourcing, flak, and ideology) shape what gets
-    through.  As a result, the range of acceptable debate is narrower than the
-    range of actual opinion.
--   Manufactured consent vs. media effects: the debate over how much media shape
-    belief versus reflect it; the safe conclusion is that both happen.
+-   The propaganda model [@Herman1988]: five filters (ownership, advertising,
+    sourcing, flak, and ideology) shape what gets through.  As a result, the
+    range of acceptable debate is narrower than the range of actual opinion.
 -   Epistemic fragmentation: filter bubbles and polarization, with the caveat
     that the empirical "echo chamber" story is more mixed than popular accounts
     claim; the larger problem may be a shared but distorted diet, not total
     separation.
 -   Moral panic: a disproportionate, often exaggerated public alarm that can
     coexist with a real, evidence-backed harm.
+-   The dependence effect [@Galbraith1998]: advertising manufactures the wants
+    that production then satisfies.
+-   Narrative economics [@Shiller2015]: markets and beliefs move on contagious
+    stories as much as on fundamentals.
+-   Privacy as framing: who gets to be private and who is watched is itself a
+    contest; "privacy for persons, transparency for institutions" is one attempt
+    to settle it.
 
-### Flow
+### Content
 
 1.  Opening question (3 min): "What did you learn about the world this week, and
     who decided it was worth your attention?"
 1.  From gatekeeping to platforms (10 min): The twentieth-century gatekeeper and
     its problems; the platform replacement and its problems.  Concentration did
     not go away; it changed shape and added a profit motive tuned to engagement.
-1.  Framing and agenda (10 min): Agenda-setting and framing with concrete
+1.  Framing and agenda (12 min): Agenda-setting and framing with concrete
     before/after pairs. Show that a reframe changes the feasible policy menu.
-1.  The propaganda model (10 min): Herman and Chomsky's five filters, updated
+    Add Galbraith's dependence effect: advertising manufactures the wants that
+    production then satisfies. And representation changes what is thinkable:
+    Nichelle Nichols's Uhura (MLK, Whoopi Goldberg, Mae Jemison), and the Rooney
+    Rule as a minimal intervention.
+1.  The propaganda model (12 min): Herman and Chomsky's five filters, updated
     for platforms (engagement, algorithmic amplification, influencer economies).
     Manufactured consent: the center of gravity of "respectable" debate is not
-    where public opinion actually is.
-1.  Epistemic fragmentation (5 min): Polarization and filter bubbles, with the
+    where public opinion actually is. Add narrative economics (Shiller): markets
+    move on contagious stories. And note the ideology of the future:
+    TESCREAL/longtermism (Torres) lets the already-powerful frame themselves as
+    "trustees of civilization" and justify present costs for an unknowable
+    future.
+1.  Privacy and surveillance as framing (12 min): who gets to be private, and who
+    is watched.
+   -   Goffman's front/back stage [@Goffman1959]: "a society without back stages
+       is one where performance is continuous and exhausting"; Snowden's
+       measurable chilling effect on Google searches.
+   -   "Paying for the privilege": the Stasi had to coerce informants; we pay
+       subscription fees to be surveilled.
+   -   The first privacy right (Warren & Brandeis, 1890) protected the prominent
+       from gossip, not the powerless from the state; "nothing to hide" is a
+       privileged argument [@Browne2015].
+   -   Financial secrecy protects power: Swiss banking law 1934 (Jewish
+       depositors to Nazi loot), Zucman's ~$7.6T offshore, the Panama/Pandora
+       Papers.
+   -   The balance: "privacy for persons, transparency for institutions" (India's
+       RTI Act 2005, South Africa's TRC, and the double edge of the
+       right-to-be-forgotten).
+1.  Epistemic fragmentation (8 min): Polarization and filter bubbles, with the
     empirical caveat. Acknowledge uncertainty rather than overclaiming; this is
-    what a rigorous progressive account does.
+    what a rigorous progressive account does. Disasters reveal mutual aid, not
+    barbarism (Quarantelli/Solnit): "elite panic" versus ordinary generosity, and
+    media selection bias manufactures mistrust.
 
 ### Exercises
 
@@ -962,6 +1233,18 @@ Redesign the gatekeeper.
 :   If you had to replace engagement maximization with a different editorial
     principle, what would it be? Name the new distortions it would introduce.
 
+Privacy frame swap.
+:   Take a surveillance story (ad targeting, workplace monitoring, a data breach)
+    and retell it once from the "personal privacy" frame and once from the
+    "power and institutions" frame. Who is the agent and who is the victim in
+    each version?
+
+Representation audit.
+:   Pick a domain where one kind of person is overwhelmingly represented (an
+    executive suite, a cast list, a dataset of "successful" people). What
+    becomes thinkable when that changes, and what is the minimal intervention
+    (like the Rooney Rule) that gets the change started?
+
 ### Takeaway
 
 Belief is produced, not just discovered. Whoever controls the agenda and the
@@ -974,34 +1257,40 @@ frame controls a large part of what is thinkable. Platforms changed the
 
 The propaganda model's origin story connects back to lesson 4:
 
-> "Women smoking in public was a social taboo; framing the act as feminist
+> Women smoking in public was a social taboo; framing the act as feminist
 > defiance was designed to dissolve that taboo and open the female market to
-> tobacco sales. It worked."
+> tobacco sales. It worked.
 
 #### [Big Tech is Like the Penny Press](../harmful-models/index.qmd)
 
 Reframes "media got worse" as a market structure, not a conspiracy:
 
-> "Neither set out to destabilize democratic discourse; they just wanted to
+> Neither set out to destabilize democratic discourse; they just wanted to
 > sell newspapers. However, the market provided a clear signal: crime, scandal,
 > nationalist outrage, and stories written to produce emotional responses drove
 > circulation, and each escalation by one paper forced a matching response from
-> the other."
+> the other.
 
 #### [The Eight-Hour Day](../control-and-alternatives/index.qmd)
 
 A concrete example of agenda-setting done via a calendar:
 
-> "The Haymarket affair became a rallying point for the international labor
+> The Haymarket affair became a rallying point for the international labor
 > movement; May Day was adopted as a workers' holiday across most of the world
 > (with the notable exception of the United States and Canada, which moved their
-> Labor Day to September specifically to avoid the association)."
+> Labor Day to September specifically to avoid the association).
 
 #### [The Psychology of Private Space](../privacy-power-self/index.qmd)
 
 For the "manufacturing consent" discussion, the Stasi numbers are unforgettable
 (~90,000 officers, ~180,000 informants surveilling ~16 million people) and
 support the claim that surveillance rewires the people it surveils.
+
+#### [What We Owe the Future](../what-we-owe-the-future/index.qmd)
+
+TESCREAL/longtermism [@Torres2024] is the ideology to watch in this lesson:
+framing AI's builders as "trustees of civilization" lets the already-powerful
+justify present costs for an unknowable future.
 
 ## 7) How change happens
 
@@ -1011,32 +1300,39 @@ support the claim that surveillance rewires the people it surveils.
 
 -   Describe the conditions under which social movements succeed.
 -   Explain a "policy window" and assess whether one is open.
--   Connect a specific social-media or AI harm to each of the day's six prior lessons.
--   Sketch a realistic reform strategy and name their own leverage as a technologist.
+-   Connect a specific social-media or AI harm to each of the day's six prior
+    lessons.
+-   Sketch a realistic reform strategy and name their own leverage as a
+    technologist.
 
 ### Key concepts
 
 -   Social movements and collective action: movements succeed when they combine
     organization, opportunity, and framing (resource mobilization and
     political-process traditions).
--   Policy window (John Kingdon): when the problem stream (a defined crisis),
+-   Policy window [@Kingdon1995]: when the problem stream (a defined crisis),
     the politics stream (a constituency and mood), and the policy stream (a
     ready-made solution) align, change becomes possible. Windows open rarely and
     close quickly.
 -   Coalitions: durable change usually requires unusual alliances across groups
     that do not otherwise agree.
--   Exit, voice, and loyalty (Albert Hirschman): the three responses to a
-    failing institution, and why voice is usually the only one that changes the
+-   Exit, voice, and loyalty [@Hirschman1970]: the three responses to a failing
+    institution, and why voice is usually the only one that changes the
     institution itself.
 -   Technologists' leverage: scarce skills, access to systems, and inside
     knowledge vs. constraints (NDAs, golden handcuffs, the myth of the "neutral
     engineer").
+-   Worker power: institutions such as codetermination, sectoral bargaining, and
+    arbitration have delivered durable gains; they are won, not conceded.
+-   The five tools: collective organizing, regulatory pressure, alternative
+    structures, strategic communication, and sustained participation are an
+    alternative taxonomy of the reform menu.
 
-### Flow
+### Content
 
 1.  Opening question (3 min): "Name one thing that is better now than it was
     fifty years ago. Who made it better, and how?"
-1.  How change happens (12 min): Organization + opportunity + framing.
+1.  How change happens (15 min): Organization + opportunity + framing.
     Examples: civil rights, environmental regulation, seat belts, tobacco,
     marriage equality, worker safety. Emphasize: change is slow, non-linear, and
     won by *pressure*, not persuasion alone. Kingdon's three streams and the
@@ -1044,19 +1340,45 @@ support the claim that surveillance rewires the people it surveils.
     -   Problem: is it defined as a crisis?
     -   Politics: who is the constituency?
     -   Policy: is there a ready solution?
-1.  The technologist's role (7 min): Insider/outsider power. Engineers can
+    Add three more mechanisms: ACT UP (1987) used direct action to accelerate
+    drug approval and changed FDA timelines; the expanding circle distributed
+    slave narratives (Equiano, Douglass) as strategy and ran the 1790s sugar
+    boycott as the first mass consumer boycott; Kerala's 1969 land reform was won
+    by election, not occupation, and paid off in literacy and life-expectancy
+    gains once the landlord class's veto was broken.
+1.  Worker power (10 min): union wins were not conceded—the Combination Acts,
+    the Tolpuddle Martyrs, the 1926 General Strike, Thatcher, and the eight-hour
+    day that came only after WWI's fear of revolution. The institutions that
+    made them stick: German codetermination (workers hold half the board),
+    Australia's arbitration and "basic wage" (Harvester 1907), and COSATU's role
+    in ending apartheid. Rana Plaza (1,134 dead, 2013) led to the Bangladesh
+    Accord, a real gain, then weakened, then re-won (two steps forward, one step
+    back).
+1.  The technologist's role (10 min): Insider/outsider power. Engineers can
     refuse, whistleblow, organize, build alternatives, or work on policy. Their
     leverage is unusual (scarcity, access) and their constraints are real
-    (contracts, career risk, the ideology of neutrality).
+    (contracts, career risk, the ideology of neutrality). Two warnings: the
+    passion principle [@Cech2021] turns "do what you love" into a way for
+    employers to extract—*karoshi* ("death from overwork") is its Japanese
+    endpoint—and the software-engineering literature covers architecture and
+    management but not workers' rights or cooperatives, the way medicine once
+    hid its error rate (44k-98k preventable deaths/year).
 1.  Applying the toolkit (5 min): Name the harms (attention extraction,
     misinformation, polarization, discrimination, labor deskilling,
     surveillance, concentration, environmental cost). Map each to the day's
     lessons.
-1   Outline a realistic menu (5 min): transparency and audits, liability,
+1.  Outline a realistic menu (8 min): transparency and audits, liability,
     structural remedies (interoperability, breakups), worker power, public
     alternatives, global coordination.  Be honest about capture risk for each.
+    DMA 2024 (gatekeepers, fines up to 20% of global revenue) and India's
+    UPI / Brazil's Pix are "public rails before dominance."
 1.  Synthesis and close (5 min): The arc of the day: "how society works" is
-    knowable, and knowing it is the prerequisite for changing it.
+    knowable, and knowing it is the prerequisite for changing it. The finale's
+    five tools are an alternative reform-menu taxonomy: collective organizing,
+    regulatory pressure, alternative structures, strategic communication, and
+    sustained participation (the Federalist Society's 40-year pipeline).
+    "Refusing to vote or join a union is a political act"; refusing to engage
+    simply delegates the decision to whoever will.
 
 ### Exercises
 
@@ -1091,6 +1413,18 @@ Backward plan.
     are mandatory and meaningful"). Work backward to name the milestones,
     coalitions, and political conditions required at each stage.
 
+Worker-power audit.
+:   Choose one workplace harm (surveillance, deskilling, on-call exhaustion,
+    pay opacity). Which of the worker-power institutions (codetermination,
+    sectoral bargaining, arbitration, a union) would address it, and who would
+    have to move first?
+
+Five tools.
+:   Take a single reform (e.g., algorithmic audits) and map it onto the five
+    tools—collective organizing, regulatory pressure, alternative structures,
+    strategic communication, sustained participation. Which tool is missing from
+    most tech-industry versions of this plan?
+
 ### Takeaway
 
 The harms are not mysterious and the responses are not untried.  Every tool
@@ -1099,12 +1433,12 @@ hold real cards; the question is whether they play them.
 
 ### Further reading
 
-#### [d `finale/index.qm](../change-happens/index.qmd)
+#### [The 3.5% Threshold](../change-happens/index.qmd)
 
-Chenoweth and Stephan's 3.5% threshold made concrete:
+The 3.5% threshold of [@Chenoweth2011] made concrete:
 
-> "in a city of half a million people, it is seventeen thousand people doing
-> something instead of just complaining."
+> in a city of half a million people, it is seventeen thousand people doing
+> something instead of just complaining.
 
 #### [A Paradise Built in Hell](../change-happens/index.qmd)
 
@@ -1112,27 +1446,27 @@ The workshop's change stories are all about pressure; this adds the *capacity*
 side (what gets built between crises). The Halifax Explosion (1917) and the
 Hurricane Katrina media-lie case are both ready to tell:
 
-> "Subsequent investigation found that the reported gang violence did not
+> Subsequent investigation found that the reported gang violence did not
 > happen, the murder rate in the city did not spike, and most of the 'looting'
-> was people taking food and water to survive. But these lies had consequences."
+> was people taking food and water to survive. But these lies had consequences.
 
 #### [The Ozone Hole That Closed](../change-happens/index.qmd)
 
 The workshop mentions the ozone layer in passing; this is the full, hopeful case
-study of *why* Montreal worked:
+study of why Montreal worked:
 
-> "The mechanism was a binding international agreement with differentiated
+> The mechanism was a binding international agreement with differentiated
 > obligations, a technology transfer fund, and trade sanctions against
-> non-participants."
+> non-participants.
 
 #### [The Eight-Hour Day](../control-and-alternatives/index.qmd)
 
 The workshop lists worker safety among "how change happens" examples; this is
 the origin story with a takeaway:
 
-> "It was the first time anywhere in the world that workers had achieved the
+> It was the first time anywhere in the world that workers had achieved the
 > eight-hour day; they did it not through moral persuasion but by applying
-> collective leverage at a moment of their opponents' weakness."
+> collective leverage at a moment of their opponents' weakness.
 
 #### [Big Tech is Like the Yakuza](../harmful-models/index.qmd)
 
@@ -1140,9 +1474,9 @@ A hopeful, non-obvious change story: a structurally powerful industry shrunk not
 by becoming less useful but by "a sustained political decision… to make the cost
 of association with them prohibitive":
 
-> "Registered yakuza membership fell from roughly 180,000 in the 1960s to under
+> Registered yakuza membership fell from roughly 180,000 in the 1960s to under
 > 20,000 by the early 2020s. None of this happened because the yakuza became
-> less useful."
+> less useful.
 
 #### [Alternatives That Scaled](../control-and-alternatives/index.qmd)
 
@@ -1150,29 +1484,38 @@ The workshop's "public alternatives" bullet has no examples. These are the
 existence proofs: Red Vienna's Gemeindebau (still ~220,000 municipally owned
 apartments), Amul (3.6 million farmer-members), Desjardins (~8 million members,
 survived 2008 "in considerably better shape" than the big banks), and Mondragón
-("running for nearly seventy years"). The chapter's thesis sentence is the
-takeaway:
-
-> "Mondragón, Raiffeisen, the Viennese Gemeindebau, Amul, and Desjardins are not
-> arguments in a seminar: they are institutions that issue annual reports."
+("running for nearly seventy years") are not arguments in a seminar: they are
+institutions that issue annual reports.
 
 #### [What Collective Action Has Achieved](../ai-happens/index.qmd)
 
 A recent proof that technologists' leverage is real, for the "technologist's
 role" section:
 
-> "When the strike ended, the WGA had won explicit contract language: AI cannot
-> write or rewrite scripts, and scripts cannot be used to train AI systems."
+> When the strike ended, the WGA had won explicit contract language: AI cannot
+> write or rewrite scripts, and scripts cannot be used to train AI systems.
 
 #### [Land to the Tiller](../change-happens/index.qmd)
 
 The workshop's change stories are mostly bottom-up; this is the rare top-down
 case that reframes what "structural remedy" can mean:
 
-> "Under American military occupation, Japan's agricultural land was seized from
+> Under American military occupation, Japan's agricultural land was seized from
 > landlords and sold to the tenant farmers who had been working it, at prices set
 > well below market value, paid in bonds that inflation promptly turned into
-> confetti. This was expropriation, and it worked."
+> confetti. This was expropriation, and it worked.
+
+#### [Conclusion](../finale/index.qmd)
+
+The "five tools" taxonomy and the ACT UP / expanding-circle stories: the reform
+menu is not just regulation—it is organizing, alternatives, communication, and
+sustained participation.
+
+#### [What We Owe the Future](../what-we-owe-the-future/index.qmd)
+
+Dario Amodei's own warning is the sober close to the "technologist's role"
+section: AI severs "the average person's leverage through economic value"—the
+material basis of democracy itself.
 
 ## Closing synthesis (25 min)
 
@@ -1186,6 +1529,10 @@ introduce new material.
 1.  Ask each participant to write one sentence naming a specific social-media or
     AI harm, the lesson that best explains it, and one realistic response. Go
     around the room; collect the sentences.
+1.  Close on the future: Berlin's "crooked timber of humanity" warns that monism
+    (one supreme value) is the root of tyranny—the trap the longtermist frame
+    triggers—and "don't foreclose options" is the most defensible version of what
+    we owe the future.
 1.  Point to the reading list below and, if running this with colleagues, to a
     follow-up session or reading group.
 
@@ -1234,7 +1581,7 @@ On social media and AI specifically:
 -   [@Eubanks2018]
 -   [@Noble2018]
 
-For further reading:
+Miscellaneous:
 
 -   [@Black2005]
 -   [@Solnit2009]
