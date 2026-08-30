@@ -1,6 +1,35 @@
 # Unused lesson material
 
-## 1) Power and institutions
+## 1) Deciding what is harmful and how to regulate it
+
+- Privacy is contested like sex: the unit of privacy was the *household*, not
+  the person; "the personal is political"; marital rape was legal in most US
+  states until the 1970s-80s. (`privacy-power-self`)
+- Sodomy laws are a Victorian legal export (1861/1885, Oscar Wilde) spread
+  through colonial law, not an ancient universal. (`finale`)
+- The five-step uncertainty playbook: fund scientists, insist correlation is
+  not causation, call regulation an attack on freedom, create neutral-sounding
+  front groups, delay. (`regulation-that-worked`)
+- The four-phase industry response: denial to uncertainty to market argument to
+  acceptance (compliance always turns out cheaper than predicted).
+  (`regulation-that-worked`)
+- Kefauver-Harris (1962): before it, you could sell a drug in the US without
+  proving it did anything. (`regulation-that-worked`)
+- The 1998 Master Settlement Agreement: states sued to recover $206B in Medicaid
+  costs, but this was a settlement, not a solution. (`regulation-that-worked`)
+- Minamata: Chisso's mercury, with cats as the ignored early warning; the
+  Sandoz/Rhine spill (1986) produced the binding Rhine Action Programme.
+  (`regulation-that-worked`)
+- Wirecard: Germany's regulator attacked the *journalist* instead of the fraud;
+  Korean chaebol executives were convicted then pardoned as too important to
+  jail. (`a-little-psychology`, `harmful-models`)
+- The moral-panic lineage (dime novels to Wertham's comics to rock to D&D) and the
+  cross-national check (Japan/South Korea: high game use, low violence). The
+  real harm was loot boxes, not gunfire. (`regulation-that-worked`)
+- Parfit's non-identity problem: harms to "future people" can't name individual
+  victims; this is the philosophical twin of diffuse harm. (`what-we-owe-the-future`)
+
+## 2) Power and institutions
 
 - The 1886 US railroad gauge change: an "incompatibility" was a market weapon:
   southern carriers profited from unloading/reloading freight at the gauge
@@ -33,7 +62,7 @@
   moderation that treats everyone as a suspect produce the distrust they assume
   (the contrast with Ostrom's governed commons). (`a-little-psychology`)
 
-## 2) Markets are made, not natural
+## 3) Markets are made, not natural
 
 - Graeber's barter myth: credit and debt predate money; money emerged to settle
   debts, not to simplify barter. (`how-we-got-here`)
@@ -63,7 +92,7 @@
   Basics competes with its own sellers using their sales data; Uber pitched
   drivers as "entrepreneurs." (`harmful-models`)
 
-## 3) How people actually think
+## 4) How people actually think
 
 - Loss aversion and hyperbolic discounting: taxi drivers work longer on bad
   days; "our future selves are strangers" (gym memberships, quitting smoking).
@@ -80,7 +109,7 @@
   optimization" are euphemistic labels that let good people do harmful work.
   (`a-little-psychology`, `more-psychology`)
 
-## 4) Inequality and stratification
+## 5) Inequality and stratification
 
 - "Meritocracy" was coined by Michael Young in a 1958 *satire*; he spent the
   rest of his life pointing out the misuse. (`more-psychology`)
@@ -107,35 +136,6 @@
 - Becker's 1957 prediction that competition eliminates discrimination was
   falsified; favored-group workers benefit from exclusion (LBJ: "give him
   somebody to look down on"). (`more-psychology`)
-
-## 5) Deciding what is harmful and how to regulate it
-
-- Privacy is contested like sex: the unit of privacy was the *household*, not
-  the person; "the personal is political"; marital rape was legal in most US
-  states until the 1970s-80s. (`privacy-power-self`)
-- Sodomy laws are a Victorian legal export (1861/1885, Oscar Wilde) spread
-  through colonial law, not an ancient universal. (`finale`)
-- The five-step uncertainty playbook: fund scientists, insist correlation is
-  not causation, call regulation an attack on freedom, create neutral-sounding
-  front groups, delay. (`regulation-that-worked`)
-- The four-phase industry response: denial to uncertainty to market argument to
-  acceptance (compliance always turns out cheaper than predicted).
-  (`regulation-that-worked`)
-- Kefauver-Harris (1962): before it, you could sell a drug in the US without
-  proving it did anything. (`regulation-that-worked`)
-- The 1998 Master Settlement Agreement: states sued to recover $206B in Medicaid
-  costs, but this was a settlement, not a solution. (`regulation-that-worked`)
-- Minamata: Chisso's mercury, with cats as the ignored early warning; the
-  Sandoz/Rhine spill (1986) produced the binding Rhine Action Programme.
-  (`regulation-that-worked`)
-- Wirecard: Germany's regulator attacked the *journalist* instead of the fraud;
-  Korean chaebol executives were convicted then pardoned as too important to
-  jail. (`a-little-psychology`, `harmful-models`)
-- The moral-panic lineage (dime novels to Wertham's comics to rock to D&D) and the
-  cross-national check (Japan/South Korea: high game use, low violence). The
-  real harm was loot boxes, not gunfire. (`regulation-that-worked`)
-- Parfit's non-identity problem: harms to "future people" can't name individual
-  victims; this is the philosophical twin of diffuse harm. (`what-we-owe-the-future`)
 
 ## 6) Media, ideology, and public opinion
 
