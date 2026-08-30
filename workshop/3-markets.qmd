@@ -1,0 +1,9 @@
+---
+title: Where Markets Come From
+author: Greg Wilson
+date: 2026
+format: revealjs
+---
+## 3) Where markets come from
+
+-   FIXME

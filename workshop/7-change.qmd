@@ -1,0 +1,9 @@
+---
+title: Change
+author: Greg Wilson
+date: 2026
+format: revealjs
+---
+## 7) How change happens
+
+-   FIXME

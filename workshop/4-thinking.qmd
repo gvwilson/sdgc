@@ -1,0 +1,9 @@
+---
+title: How People Actually Think
+author: Greg Wilson
+date: 2026
+format: revealjs
+---
+## 4) How people actually think
+
+-   FIXME

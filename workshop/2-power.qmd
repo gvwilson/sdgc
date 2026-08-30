@@ -1,0 +1,9 @@
+---
+title: Power and Institutions
+author: Greg Wilson
+date: 2026
+format: revealjs
+---
+## 2) Power and institutions
+
+-   FIXME

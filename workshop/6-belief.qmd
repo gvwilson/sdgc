@@ -1,0 +1,9 @@
+---
+title: Belief
+author: Greg Wilson
+date: 2026
+format: revealjs
+---
+## 6) Media, ideology, and public opinion
+
+-   FIXME

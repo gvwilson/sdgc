@@ -1,0 +1,9 @@
+---
+title: Regulation
+author: Greg Wilson
+date: 2026
+format: revealjs
+---
+## 1) Deciding what is harmful and how to regulate it
+
+-   FIXME

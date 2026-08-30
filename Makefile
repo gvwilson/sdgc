@@ -8,7 +8,7 @@ LINKS=mccole/links.md
 GLOSSARY=glossary/index.qmd
 MD_SRC=$(wildcard *.qmd) $(wildcard */*.qmd)
 QUARTO=quarto
-SLIDES_SRC=$(wildcard slides.qmd) $(wildcard */slides.qmd)
+SLIDES_SRC=$(wildcard workshop/*-*.qmd)
 SLIDES_DST=$(patsubst %.qmd,${DOCS}/%.html,${SLIDES_SRC})
 SLIDES_FLAGS=\
   -f markdown \
@@ -54,6 +54,7 @@ ${DOCS}/%.html: %.qmd
 	pandoc $< ${SLIDES_FLAGS} -o $@
 	cp mccole/slides.css ${DOCS}/mccole/slides.css
 	sed -i '' '/simple\.css/d' $@
+	sed -i '' 's:mccole/slides.css:../mccole/slides.css:g' $@
 
 ## check: check structure, spelling, etc.
 check: check-bib check-links check-glossary check-typos

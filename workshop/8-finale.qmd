@@ -1,0 +1,9 @@
+---
+title: Conclusion
+author: Greg Wilson
+date: 2026
+format: revealjs
+---
+## Closing
+
+-   FIXME
