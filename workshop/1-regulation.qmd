@@ -4,6 +4,175 @@ author: Greg Wilson
 date: 2026
 format: revealjs
 ---
-## 1) Deciding what is harmful and how to regulate it
 
--   FIXME
+## Harm is not self-evident
+
+*   What counts as harm is decided through contests of power, moral panic, and commercial interest
+*   We do not first measure damage and then write a law
+*   Alcohol kills hundreds of thousands a year and sits in supermarkets
+*   Cannabis, with a lower measured harm profile, was criminalized for most of a century [@Nutt2012]
+
+## Opening question
+
+*   Which is more dangerous: alcohol or cannabis?
+*   How do you know?
+*   Does the law match your answer?
+*   The gap between measured harm and legal treatment is the subject of this lesson
+
+## Four contested cases: sex
+
+*   What was private versus criminal has been redrawn case by case, in someone's interests
+*   Sexual behavior between consenting adults was criminally regulated well into the twentieth century
+*   Sodomy laws are a Victorian legal export from 1861 and 1885, spread through colonial law (Oscar Wilde)
+*   They are not an ancient universal
+*   The expansion of privacy was won, not discovered
+
+## Four contested cases: drugs
+
+*   Enforcement of cannabis laws fell almost entirely on Black and Latino communities
+*   Portugal's 2001 decriminalization of personal possession was paired with treatment and harm reduction
+*   It cut HIV transmission and overdose deaths without raising use [@Hari2015]
+*   Regulation tracks political economy and racial hierarchy, not harm
+
+## Four contested cases: guns
+
+*   After Columbine, legislators went after violent video games
+*   The evidence never supported that hypothesis
+*   Cross-national comparisons point to gun availability and inequality as the real drivers
+*   Motivated reasoning means even a trained scientist who owns a gun scrutinizes gun-violence studies more skeptically
+
+## Four contested cases: privacy
+
+*   The historical unit of privacy was the household, not the person
+*   Marital rape was legal in most US states until the 1970s and 1980s
+*   What counts as a protected, private sphere is won and redrawn, not discovered [@Igo2020]
+
+## The point of the four cases
+
+*   We do not first measure harm and then regulate
+*   We first decide who and what matters
+*   Then we find or manufacture the harm that justifies the decision
+*   Harm is contested, not measured
+
+## Two models of harm
+
+*   Rare, dramatic, and attributable: the faulty valve that causes a boiler explosion
+*   Diffuse, cumulative, and statistical: millions of small exposures with no single cause
+*   The engineer's default is the first model
+*   The worst industrial harms are the second
+
+## The diffuse harm cases
+
+*   Leaded gasoline lowered a generation's IQs without any single tank causing measurable injury
+*   No particular cigarette caused any particular cancer death [@Brandt2007]
+*   Social media harms are the diffuse kind, with a long probabilistic causal chain
+*   That is why they are hard to regulate
+
+## The pollution model
+
+*   Once harm is accepted as diffuse and cumulative, responsibility shifts
+*   From proving individual causation to holding the emitter accountable for the aggregate
+*   Engineers study pollution today because liability eventually forced them to
+*   Not out of conscience
+
+## The non-identity problem
+
+*   Some harms, especially to future people, cannot name an individual victim
+*   If our choices change who is born, no particular future person can say we made them worse off
+*   This is the philosophical twin of diffuse, cumulative harm
+*   It explains why such harms are so easy to postpone and so hard to regulate
+
+## The regulatory toolkit
+
+*   Standards and licensing
+*   Disclosure requirements
+*   Liability rules
+*   Taxation and pricing
+*   Structural remedies
+*   The recurring failure mode: capture, where regulators come to serve the regulated
+
+## The uncertainty playbook: five steps
+
+*   Fund scientists
+*   Insist correlation is not causation
+*   Call regulation an attack on freedom
+*   Create neutral-sounding front groups
+*   Delay [@Oreskes2010]
+
+## The four phases
+
+*   Denial
+*   Uncertainty
+*   The market argument
+*   Acceptance
+*   Compliance reliably turns out cheaper than predicted
+
+## The playbook in the wild
+
+*   Tobacco ran this script for decades after Hill and Doll's 1950 study [@Brandt2007]
+*   The same script ran for leaded gasoline, asbestos, and oxycontin
+*   It is running now for social media and AI
+*   GM's response to Ralph Nader was private detectives digging for dirt, not fixing the car
+
+## Regulation that worked: pollution
+
+*   The remedy: hold the emitter liable for the aggregate, not for a specific injury
+*   The Cuyahoga River caught fire in 1969, for the thirteenth time since 1868
+*   A visible disaster became leverage for enforceable rules
+*   The ozone layer was protected before it cost lives
+
+## Minamata and the Rhine
+
+*   Minamata: Chisso's mercury poisoning, with cats as the ignored early warning
+*   The lesson read backwards: waiting for a named victim is a trap
+*   The 1986 Sandoz Rhine spill produced the binding Rhine Action Programme
+*   A cross-border disaster was converted into enforceable rules
+
+## Regulation that worked: pharmaceuticals
+
+*   Thalidomide was approved in West Germany in 1957
+*   Frances Kelsey at the FDA refused approval because the safety evidence was insufficient
+*   The birth defects where it was approved vindicated her
+*   The result was pre-market approval and the precautionary principle
+
+## Kefauver-Harris (1962)
+
+*   Before it, you could sell a drug in the US without proving it did anything
+*   Pre-market approval puts the burden of proof on those introducing the risk
+*   Nils Bohlin's three-point belt: Volvo made the patent freely available to every manufacturer
+*   The precautionary principle is the model for plausible, irreversible harms
+
+## The limits of a settlement
+
+*   The 1998 Master Settlement Agreement recovered $206 billion from tobacco companies
+*   It was a settlement, not a solution: it monetized the harm rather than removing it
+*   A solution would have required a different instrument and an uncaptured regulator
+*   The Triangle Shirtwaist owners were acquitted and collected the insurance
+
+## When regulators fail: capture
+
+*   Capture is the recurring enemy
+*   Regulators come to serve the regulated
+*   The Monopolist's Playbook: Standard Oil's successors reconsolidated after the breakup
+*   Rockefeller's fortune increased as the subsidiary stock prices rose
+
+## Too big to jail
+
+*   Wirecard: Germany's regulator attacked the journalist instead of the fraud
+*   Korean chaebol executives were convicted and then pardoned as too important to jail
+*   "Too big to jail" is not a tech invention
+*   ISDS is capture's international cousin
+
+## Moral panic
+
+*   The lineage: dime novels, comics, rock and roll, D&D, video games
+*   Cross-national checks reveal how fragile most claims are
+*   Japan and South Korea have high game use and low violence
+*   The real harm in the video-game panic was loot boxes, not gunfire
+
+## Recap and takeaway
+
+*   Social-media and AI harms are pollution-model harms
+*   The trap is moral-panic framing such as "ban the kids' phones"
+*   The actual harms: attention extraction, addictive design, discrimination, surveillance
+*   Regulating well means diagnosing the actual harm and defending the regulator from capture

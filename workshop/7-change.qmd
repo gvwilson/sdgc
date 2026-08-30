@@ -4,6 +4,119 @@ author: Greg Wilson
 date: 2026
 format: revealjs
 ---
-## 7) How change happens
 
--   FIXME
+## Opening question
+
+*   Name one thing that is better now than it was fifty years ago
+*   Who made it better, and how?
+*   Change is slow, non-linear, and won by pressure, not persuasion alone
+
+## How change happens
+
+*   Organization plus opportunity plus framing
+*   Resource mobilization and political-process traditions agree on these three
+*   The 3.5% threshold: in a city of half a million, that is seventeen thousand people doing something instead of complaining [@Chenoweth2011]
+*   Sustained, nonviolent mass participation is the lever
+
+## Kingdon's policy window [@Kingdon1995]
+
+*   Three streams must align
+    *   Problem: is it defined as a crisis?
+    *   Politics: who is the constituency?
+    *   Policy: is there a ready solution?
+*   Windows open rarely and close quickly
+
+## ACT UP
+
+*   In 1987 ACT UP used direct action to accelerate drug approval
+*   They changed FDA timelines through sustained pressure, not persuasion
+*   The WGA's 2023 strike won contract language that AI cannot write or rewrite scripts
+*   Technologists' leverage is real when it is organized
+
+## The expanding circle
+
+*   Slave narratives by Equiano and Douglass were distributed as strategy
+*   The 1790s sugar boycott was the first mass consumer boycott
+*   Communication plus organized refusal changed what was acceptable
+*   The audience was organized, not just informed
+
+## Kerala's land reform
+
+*   In 1969 Kerala won land reform by election, not occupation
+*   Land went to the tenants who worked it
+*   Literacy and life-expectancy gains followed once the landlord class's veto was broken
+*   A structural remedy can be won through ordinary politics
+
+## Worker power: won, not conceded
+
+*   The Combination Acts, the Tolpuddle Martyrs, the 1926 General Strike
+*   The eight-hour day came only after WWI's fear of revolution
+*   Workers achieved it by applying collective leverage at a moment of the opponents' weakness
+*   Gains are taken, then defended, then taken again
+
+## Institutions that made it stick
+
+*   German codetermination gives workers half the board
+*   Australia's Harvester case (1907) set a "basic wage" through arbitration
+*   COSATU helped end apartheid
+*   Durable gains need institutions, not just moments of pressure
+
+## Rana Plaza
+
+*   In 2013 the Rana Plaza collapse killed 1,134 garment workers
+*   The Bangladesh Accord was a real gain, then weakened, then re-won
+*   Two steps forward, one step back
+*   Worker safety is won and defended, not granted
+
+## The technologist's role
+
+*   Insider/outsider power
+*   Engineers can refuse, whistleblow, organize, build alternatives, or work on policy
+*   Their leverage is unusual: scarcity and access
+*   Their constraints are real: contracts, career risk, the ideology of neutrality
+
+## What technologists hold
+
+*   Scarcity and access are cards few others hold
+*   The yakuza declined not because they became less useful, but because association was made costly
+*   A structurally powerful industry can be shrunk by sustained political decision
+*   Refusing to engage simply delegates the decision to whoever will
+
+## The passion principle [@Cech2021]
+
+*   "Do what you love" becomes a way for employers to extract
+*   Karoshi, death from overwork, is the Japanese endpoint
+*   The software literature covers architecture and management but not workers' rights or cooperatives
+*   Medicine once hid its error rate of 44,000 to 98,000 preventable deaths a year; our field hides the same things
+
+## Applying the toolkit
+
+*   Name the harms: attention extraction, misinformation, polarization, discrimination, labor deskilling, surveillance, concentration, environmental cost
+*   Map each harm to the day's lessons
+*   Every real harm has structural, economic, psychological, regulatory, and ideological dimensions
+*   If you cannot name the mechanism, you cannot change it
+
+## A realistic menu
+
+*   Transparency and audits
+*   Liability
+*   Structural remedies: interoperability and breakups
+*   Worker power
+*   Public alternatives
+*   Global coordination; be honest about capture risk for each
+
+## The five tools
+
+*   Collective organizing
+*   Regulatory pressure
+*   Alternative structures
+*   Strategic communication
+*   Sustained participation
+*   The Federalist Society ran a 40-year pipeline; the tools work for whoever uses them longest
+
+## Takeaway
+
+*   The harms are not mysterious and the responses are not untried
+*   Every tool discussed in the workshop is available to people who organize
+*   Technologists hold real cards; the question is whether they play them
+*   Amodei's warning: AI severs the average person's leverage through economic value

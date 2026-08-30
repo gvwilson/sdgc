@@ -4,6 +4,113 @@ author: Greg Wilson
 date: 2026
 format: revealjs
 ---
-## 6) Media, ideology, and public opinion
 
--   FIXME
+## Opening question
+
+*   What did you learn about the world this week, and who decided it was worth your attention?
+*   Belief is produced, not just discovered
+*   Whoever controls the agenda and the frame controls a large part of what is thinkable
+
+## From gatekeeping to platforms
+
+*   For much of the twentieth century a small number of editors decided what was newsworthy
+*   That concentration had its own distortions
+*   Platforms replaced it with engagement-maximizing algorithms
+*   Concentration did not go away; it changed shape and added a profit motive
+
+## The penny press
+
+*   The shift to mass media is older than the internet
+*   Penny papers competed on crime, scandal, and nationalist outrage
+*   Each escalation by one paper forced a matching response from the other
+*   They did not set out to destabilize discourse; they wanted to sell newspapers
+
+## Agenda-setting
+
+*   Media may not tell you what to think, but they tell you what to think about
+*   Absence from the agenda is a form of power
+*   If an issue is never covered, it is effectively not real for the audience
+*   May Day became the workers' holiday worldwide; the US and Canada moved Labor Day to September to avoid the association
+
+## Framing
+
+*   How an issue is defined shapes which answers seem reasonable
+*   "Screen time" versus "attention extraction"
+*   "AI safety" versus "corporate accountability"
+*   A reframe changes the feasible policy menu
+
+## The dependence effect [@Galbraith1998]
+
+*   Advertising manufactures the wants that production then satisfies
+*   Bernays reframed women smoking as feminist defiance, and it worked
+*   Wants are not a fixed input to the economy; they are produced
+*   Recommendation systems are also preference-construction systems
+
+## Representation changes the thinkable
+
+*   Nichelle Nichols's Uhura showed a Black woman as a competent officer
+*   MLK, Whoopi Goldberg, and Mae Jemison all cited that image
+*   The Rooney Rule is a minimal intervention that changes who gets considered
+*   What becomes thinkable depends partly on who is shown doing it
+
+## The propaganda model [@Herman1988]
+
+*   Five filters shape what gets through: ownership, advertising, sourcing, flak, ideology
+*   The range of acceptable debate is narrower than the range of actual opinion
+*   This is manufacturing consent
+*   The center of gravity of "respectable" debate is not where public opinion actually is
+
+## Five filters, updated
+
+*   Engagement: what maximizes attention gets amplified
+*   Algorithmic amplification: no editor, but a tuned ranking function
+*   Influencer economies: distribution is bought and sold
+*   The filters changed shape; the narrowing did not disappear
+
+## Narrative economics [@Shiller2015]
+
+*   Markets and beliefs move on contagious stories as much as on fundamentals
+*   A bubble collapses when no greater fool can be found
+*   Stories coordinate expectations faster than data
+*   Whoever supplies the story steers the market
+
+## The ideology of the future
+
+*   TESCREAL and longtermism let the already-powerful frame themselves as trustees of civilization [@Torres2024]
+*   They justify present costs for an unknowable future
+*   Monism, one supreme value, is the trap
+*   Framing AI's builders as trustees forecloses other futures
+
+## Privacy as framing: Goffman [@Goffman1959]
+
+*   Front stage and back stage: a society without back stages is exhausting
+*   Snowden's disclosures had a measurable chilling effect on Google searches
+*   Who gets to be private and who is watched is itself a contest
+*   Privacy is not a single settled right; it is a set of claims being fought over
+
+## Surveillance is power
+
+*   The Stasi had roughly 90,000 officers and 180,000 informants surveilling 16 million people
+*   They had to coerce informants; we pay subscription fees to be surveilled
+*   "Nothing to hide" is a privileged argument [@Browne2015]
+*   Surveillance rewires the people it surveils
+
+## Financial secrecy
+
+*   Swiss banking law 1934 protected Nazi loot, including from Jewish depositors
+*   Zucman estimates roughly $7.6 trillion sits offshore
+*   The Panama and Pandora Papers show who actually gets privacy
+*   The balance: privacy for persons, transparency for institutions
+
+## Epistemic fragmentation
+
+*   Filter bubbles and polarization
+*   The empirical echo-chamber story is more mixed than popular accounts claim
+*   The larger problem may be a shared but distorted diet, not total separation
+*   Disasters reveal mutual aid, not barbarism; media selection bias manufactures mistrust
+
+## Takeaway
+
+*   Whoever controls the agenda and the frame controls a large part of what is thinkable
+*   Platforms changed the economics of that production
+*   And with it, the politics

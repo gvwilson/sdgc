@@ -4,6 +4,51 @@ author: Greg Wilson
 date: 2026
 format: revealjs
 ---
-## Closing
 
--   FIXME
+## The through-line (part 1)
+
+*   Harm is contested, not measured
+*   Regulation can and does work when it is not captured
+*   Power and institutions set the rules
+*   Markets are made, not natural
+
+## The through-line (part 2)
+
+*   People are social and fallible
+*   Inequality is produced, not earned
+*   Media manufacture the thinkable
+*   Change comes from organized pressure
+
+## One sentence each
+
+*   Write one sentence naming a specific social-media or AI harm
+*   Add the lesson that best explains it
+*   Add one realistic response
+*   No abstraction: name a product, a rule, and an action
+
+## Collect the sentences
+
+*   Go around the room and collect the sentences
+*   Look for which lessons appear most and which are missing
+*   This is the synthesis, not a new lecture
+
+## Berlin's crooked timber
+
+*   Berlin warned that monism, one supreme value, is the root of tyranny [@Berlin1991]
+*   That is the trap the longtermist frame triggers
+*   A single supreme value forecloses every other future
+*   "Don't foreclose options" is the most defensible version of what we owe the future
+
+## The pluralist close
+
+*   Keep multiple values in play: care, fairness, liberty, accountability
+*   The answers are not a single metric to optimize
+*   They are a set of institutions to build and defend
+*   Change is possible because it has happened
+
+## Where to go next
+
+*   Point to the reading list below
+*   If running with colleagues, name a follow-up session or reading group
+*   The harms are not mysterious and the responses are not untried
+*   The question is whether we organize to use them

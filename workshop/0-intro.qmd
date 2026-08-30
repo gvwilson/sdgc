@@ -4,6 +4,65 @@ author: Greg Wilson
 date: 2026
 format: revealjs
 ---
-## What This Workshop Is About
 
--   FIXME
+## What this workshop is about
+
+*   Two days for people with programming backgrounds
+*   Focus: the harms of social media and AI, and how to regulate them
+*   Goal: turn claims into tools you can actually use
+*   Structure: seven lessons, each with one or two exercises
+
+## At a glance
+
+*   Length: two days, roughly twelve to fourteen hours of teaching
+*   Audience: people with programming backgrounds
+*   Format: seven lessons of sixty to ninety minutes
+*   Each lesson is followed by one or two short exercises
+
+## Our stance (part 1)
+
+*   Power is distributed very unequally, and much that looks neutral or technical is a rule favoring some people over others
+*   Inequality is mostly the product of policy choices and inherited advantage, not the natural sorting of talent
+*   Markets are human institutions, not laws of nature
+
+## Our stance (part 2)
+
+*   What counts as harm is decided by people, not measured
+*   Alcohol, cannabis, sex, and guns are not regulated in proportion to the damage they do
+*   Regulation of food, medicine, air, water, cars, and tobacco has repeatedly protected the public
+*   Failures come from regulatory capture and weak enforcement, not the impossibility of governing markets
+
+## Our stance (part 3)
+
+*   Change is possible
+*   Change is usually won by organized collective action, not persuasion alone
+*   Technologists have unusual leverage in the fights now under way
+
+## Learning outcomes (part 1)
+
+*   Distinguish structural explanations from individual ones, and why individual ones are the tech default
+*   Identify who benefits and who bears the cost, especially concentrated benefits and diffuse costs
+*   Recognize market failures and name the regulatory instruments available
+*   Describe how cognitive biases, identity, and group belonging shape belief
+
+## Learning outcomes (part 2)
+
+*   Explain how a society decides what counts as harm, and the rare versus diffuse models of harm
+*   Give examples of regulation that worked and failed, and the mechanisms that explain the difference
+*   Explain how media and platforms frame issues and shape what is debatable
+*   Connect harms of social media and AI to each lesson and sketch realistic responses
+
+## How to run this
+
+*   Pick one or two exercises per lesson; do not try to run them all
+*   Exercises are the assessment; do not skip the debriefs
+*   Use groupwork and think-pair-share to get more voices into the room
+*   Keep it concrete: ask what each idea looks like in a product or a law
+*   Do not manufacture consensus; ask what would change someone's mind
+*   Keep descriptive claims separate from normative ones
+
+## Materials
+
+*   A whiteboard or shared document for each group
+*   Sticky notes
+*   Breakout spaces

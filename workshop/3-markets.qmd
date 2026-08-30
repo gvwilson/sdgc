@@ -4,6 +4,135 @@ author: Greg Wilson
 date: 2026
 format: revealjs
 ---
-## 3) Where markets come from
 
--   FIXME
+## Opening question
+
+*   Which product in this room is unregulated?
+*   The answer is none
+*   Every product rests on rules about property, contract, fraud, and liability
+*   "Deregulation" is really re-regulation
+
+## Markets are constructed [@Polanyi2001]
+
+*   Markets are always embedded in a web of legal, social, and political rules
+*   Property rights, enforceable contracts, currency, and liability all rest on the state
+*   Deregulation is not the removal of rules; it is the substitution of one set of rules for another
+*   The cocaine cartel is a market with property rights enforced by violence instead of trademark law
+
+## The barter myth [@Graeber2011]
+
+*   Credit and debt predate money
+*   Money emerged to settle debts, not to simplify barter
+*   In 1660s London, goldsmith receipts circulated as money
+*   When a loan is repaid, the deposit disappears and money is destroyed
+
+## Limited liability and copyright
+
+*   Limited liability is a grant from the state (Dutch East India Company, 1602)
+*   The Statute of Anne (1710) created copyright to break the Stationers' monopoly, not to protect authors
+*   The 1998 term extension was timed to keep Mickey Mouse out of the public domain
+*   These rules are choices with distributional consequences
+
+## Homo economicus
+
+*   "Homo economicus" is a political argument dressed as math
+*   From Hobbes to Spencer's "survival of the fittest" to the rational agent
+*   It describes one kind of market as if it were the only kind
+*   The firm we treat as natural is one choice among many
+
+## Four market failures
+
+*   Externalities: costs imposed on third parties that the price does not capture
+*   Public goods: non-excludable and non-rivalrous, so no one can be made to pay
+*   Information asymmetry: one party knows much more than the other [@Akerlof1978]
+*   Market power: network effects and switching costs produce concentration
+
+## Externalities and public goods in tech
+
+*   Externalities: misinformation, polarization, and teen anxiety are costs priced at zero
+*   Public goods: an informed public and institutional trust
+*   No single company has an incentive to produce trust
+*   That is an argument about who should produce it
+
+## Information asymmetry and market power
+
+*   You do not know what the recommender is doing, or why
+*   The "market for lemons": bad options drive out good ones [@Akerlof1978]
+*   Network effects make dominant social networks hard to exit
+*   Market power is the ability to set terms rather than take them
+
+## The commons as a fifth idea [@Ostrom2015]
+
+*   Hardin described an unmanaged commons he never studied
+*   Ostrom's design principles show communities can govern shared resources without markets or the state
+*   Open-source projects and Wikipedia are governed commons
+*   The tragedy is not inevitable; it is a design choice
+
+## Apple's green bubbles
+
+*   Internal documents admit RCS would reduce the social cost of switching
+*   The green-bubble lock-in is market power, not a protocol detail
+*   The DMA forced support in 2024
+*   A design choice can be a barrier to entry
+
+## Public subsidy, private profit
+
+*   Every technology in the iPhone was government-funded: DARPA internet, GPS, Siri
+*   The mRNA vaccine produced Moderna's roughly $200 billion while the NIH's IP claim went unenforced
+*   Apple paid 0.005 percent tax on Irish profits
+*   The public paid the research bill; private owners captured the profit
+
+## Efficiency is not fairness
+
+*   A market can be efficient and still concentrate benefits and diffuse harms
+*   Henry Ford paid his workers enough to buy his cars
+*   Block's 2025 layoffs were rewarded with a 25 percent stock bump
+*   Automation beyond the socially optimal level is rational for the firm, costly for everyone else
+
+## Enshittification [@Doctorow2025]
+
+*   Platforms first attract users, then extract value from users and their suppliers
+*   The audience is the crop; the algorithm change is the landlord raising the rent after the harvest
+*   Booking.com's commission rose from 12 to 25-30 percent
+*   Amazon Basics competes with its own sellers using their sales data
+
+## The enshittification ladder
+
+*   Columbia House's penny records
+*   YouTube's 2018 monetization threshold
+*   JanSport's backpacks
+*   Each rung is a small extraction that no single user will quit over
+
+## Institutional variety
+
+*   Beyond the shareholder firm: the Islamic waqf, keiretsu, the Mittelstand, the Hindu Undivided Family
+*   The waqf covered roughly a third of Ottoman farmland
+*   The Hindu Undivided Family structure ran Tata and Birla
+*   Cooperatives and the Mittelstand are durable institutions, not seminar hypotheticals
+
+## The MLM warning
+
+*   The FTC found under 1 percent of MLM participants earned a net profit
+*   Uber pitched drivers as "entrepreneurs" while setting the terms
+*   The structure that looks like opportunity is often extraction
+*   Fake competition is worse than monopoly
+
+## Kayfabe
+
+*   Apple and Google look like rivals
+*   Apple earns roughly $20 billion a year from making Google the default search engine on the iPhone
+*   The two rivals are financially interdependent
+*   Each needs the other to play its designated role
+
+## Bubbles and the greater fool
+
+*   A single Semper Augustus tulip bulb sold for the price of a canal house
+*   Newton lost a fortune in the South Sea Bubble: "I can calculate the motions of heavenly bodies, but not the madness of men"
+*   A bubble collapses when no greater fool can be found
+*   Markets move on contagious stories, not just fundamentals
+
+## Takeaway
+
+*   There is no market without rules
+*   The interesting questions are which rules exist, who wrote them, and who benefits
+*   When markets fail, regulation is the standard correction, not an alien intrusion

@@ -4,6 +4,128 @@ author: Greg Wilson
 date: 2026
 format: revealjs
 ---
-## 2) Power and institutions
 
--   FIXME
+## Opening question
+
+*   Think of a product decision at your company
+*   Who actually decided it?
+*   Whose interests won?
+*   Lasswell defined politics in 1936 as "who gets what, when, how"
+
+## Three faces of power [@Lukes2021]
+
+*   Face one: who wins when there is a visible decision
+*   Face two: who controls what gets onto the agenda in the first place
+*   Face three: who shapes what people even want, so some options never occur to anyone
+*   Power is not only about winning visible fights
+
+## Face one: the visible decision
+
+*   Who wins the vote, the launch review, the promotion panel
+*   Everyone can see this face, so it gets the most attention
+*   But the menu was usually fixed before the meeting started
+*   The announced decision is the last act, not the first
+
+## Face two: the agenda
+
+*   Who decides what goes on the roadmap, the API surface, the meeting agenda
+*   A "neutral" default or a "technical" constraint is usually agenda-setting
+*   Absence from the agenda is a form of power
+*   If a problem is never scheduled, it is never decided
+
+## Face three: preference-shaping
+
+*   Who shapes what feels natural, obvious, or inevitable
+*   "We don't do politics here" is the third face's catchphrase
+*   It usually means the winners already have what they want
+*   And they can describe their arrangement as natural
+
+## Institutions are the rules of the game [@North1990]
+
+*   Formal rules: laws and contracts
+*   Informal constraints: norms, conventions, taboos
+*   Institutions always allocate advantage; they are never neutral
+*   They structure interaction before any individual makes a choice
+
+## Software is an institution
+
+*   Default settings, permission models, and rate limits are rules
+*   Each one allocates advantage to someone
+*   The corporation is also an institution, and its form is a choice
+*   Founders and venture capitalists benefit most from the conventional structure
+
+## A design decision is a governance decision
+
+*   The 1886 US railroad gauge change was a market weapon, not a technical necessity
+    *   Southern carriers profited from reloading freight at the gauge boundary
+*   A design choice that looked technical was actually a tariff
+*   An employer controls income; an infrastructure provider controls the conditions of earning
+
+## Tithing and excommunication
+
+*   The App Store's 30 percent cut is a tithe
+*   Deplatforming is excommunication from the infrastructure needed to do business
+*   A suspended WeChat account removes civic and commercial life, not just chat
+*   Governance is whoever controls the infrastructure
+
+## Incentives produce the wrongdoing
+
+*   Wells Fargo fired 5,300 staff over fake accounts, under "eight is great"
+*   Mass wrongdoing flows from impossible quotas, not from bad individuals
+*   The institution produced the behavior the designers later blamed on employees
+
+## Self-fulfilling design
+
+*   Terms of service written for adversaries produce the distrust they assume
+*   Moderation that treats everyone as a suspect does the same
+*   Contrast with Ostrom's governed commons, where rules assume cooperation
+*   Institutions teach people how to behave, then reward what they teach
+
+## Platforms as quasi-governments
+
+*   eBay adjudicates disputes
+*   App Store review is the only appeal
+*   Facebook makes de facto regulatory decisions in other countries
+*   The yakuza delivered 2011 Tohoku disaster relief faster than the state
+
+## The company town
+
+*   George Pullman cut wages in 1893 while holding rents fixed
+    *   Workers could not cut other expenses because the company controlled those too
+*   The 1894 Pullman Strike paralyzed rail traffic and required federal troops
+*   Total control eventually produces resistance
+
+## Legibility [@Scott1998]
+
+*   Surnames, house numbers, and passports exist so the state can tax, draft, and police
+*   South Africa's pass laws became the world's first biometric register in 1986
+*   Standardization is an instrument of administration, not a neutral convenience
+*   The state standardizes people so they can be governed
+
+## Philanthrocapitalism
+
+*   Donor-advised funds and the Giving Pledge convert taxable wealth into controlled endowments
+*   Roughly $230 billion sits in donor-advised funds
+*   The Gates Foundation was at one point the WHO's second-largest funder
+*   Private money buys policy influence while wearing the language of charity
+
+## Collective action [@Olson1965]
+
+*   It is easier to organize a small group with a large stake than a large group with a small stake
+*   This is why producers beat consumers and platforms beat users
+*   Ad-tech firms are few, organized, and rich; users are many, unorganized, and each has a small stake
+*   This single asymmetry predicts much of tech policy
+
+## The winning coalition
+
+*   Selectorate theory: leaders distribute to the small coalition that keeps them in power
+*   Not to the whole population, and not to the whole "family"
+*   Musk's "hardcore" email let the remaining staff confirm loyalty while others resigned
+*   Pfeffer found political skill predicts advancement better than technical competence
+
+## Recap
+
+*   Power is about who sets the agenda and who shapes what people think they want
+*   Institutions are the mechanism, and they are never neutral
+*   Path dependence: early choices lock in later outcomes even after the original reasons disappear
+*   The enclosure movement is the same lesson: the winners wrote the rules through Parliament

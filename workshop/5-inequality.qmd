@@ -4,6 +4,100 @@ author: Greg Wilson
 date: 2026
 format: revealjs
 ---
-## 5) Inequality and stratification
 
--   FIXME
+## Opening question
+
+*   When you explain why someone succeeded or failed, which verbs do you reach for?
+*   Our default is to explain others by their traits and ourselves by circumstance
+*   This asymmetry is the doorway into structural explanation
+
+## Three dimensions of stratification [@Weber1946]
+
+*   Class: economic position
+*   Status: prestige and honor
+*   Power: capacity to realize one's will
+*   They overlap but do not coincide
+
+## Mismatches matter
+
+*   A staff engineer may have high class but limited power
+*   A founder has power
+*   A moderator has neither
+*   High income and low security can coexist in the same role
+
+## More unequal societies [@Wilkinson2011]
+
+*   More unequal societies do worse on nearly every social indicator
+*   The mechanism is status anxiety
+*   People compare themselves upward
+*   The gap itself is the harm, not just the average level
+
+## Structural vs. individual
+
+*   The fundamental attribution error applied to society
+*   We explain others' outcomes by their traits and our own by circumstance
+*   Individual explanation is the tech default
+*   Structural explanation asks what the rules, networks, and positions did
+
+## Cumulative advantage and opportunity hoarding
+
+*   Cumulative advantage: early advantage compounds over a lifetime
+*   The Matthew effect: advantage begets advantage
+*   Opportunity hoarding: "merit" filters are built to reproduce advantage [@Tilly1998]
+*   Credentials, networks, and gatekeeping do the sorting while appearing to reward merit
+
+## Intersectionality [@Crenshaw1989]
+
+*   Overlapping disadvantage interacts; it does not simply add
+*   A facial-recognition model or hiring algorithm distributes harm unevenly across identities
+*   Single-axis analysis misses the worst harms
+*   Race, class, gender, and disability compound rather than stack
+
+## Discrimination made concrete: audit studies
+
+*   Identical resumes with white-coded names get more callbacks
+*   Rivera's "polished" versus "rough around the edges" is class, not competence
+*   The name at the top changes the outcome
+*   The process looks neutral while the result is not
+
+## Discrimination made concrete: tech
+
+*   Amazon's recruiting tool penalized resumes containing "women's" (abandoned 2018)
+*   Women's share of computing was higher in the 1980s than today
+*   The "pipeline" explanation is contradicted by the evidence
+*   Becker's 1957 prediction that competition eliminates discrimination was falsified
+
+## The pencil test
+
+*   South Africa's Race Classification Board used a pencil in the hair to sort people
+*   Siblings could be classified differently, with different rights
+*   The "Hispanic" category was invented by the Nixon administration in 1970
+*   Categories are made, not found
+
+## Poverty is a tax on cognition [@Mullainathan2013]
+
+*   Scarcity depletes cognitive bandwidth the way sleep deprivation does
+*   McIntosh's invisible knapsack explains why "just try harder" fails [@McIntosh1989]
+*   Credit bureaus collect without consent and profit whether the data is accurate or not
+*   Equifax 2017 exposed roughly 147 million people; accuracy is not fairness
+
+## Meritocracy, examined [@Young1958]
+
+*   The word was coined in a 1958 satire by Michael Young
+*   Merit-pay organizations show larger gender pay gaps via moral licensing [@Castilla2010]
+*   Believing in meritocracy predicts harsher judgment of the poor
+*   The term legitimizes the inheritance it claims to have replaced
+
+## Merit badges and hoarding
+
+*   Carnegie: ten workers killed by Pinkertons in 1892, then a lifetime funding libraries on his terms
+*   The Flexner Report raised medical standards and closed most schools that trained Black physicians or admitted women
+*   Both are opportunity hoarding wearing a merit badge
+*   Waring: a woman cooking for her family adds nothing to GDP, but hiring a cook raises it twice [@Waring1988]
+
+## Takeaway
+
+*   Inequality is not a sorting of individuals by merit
+*   It is the accumulated effect of rules, networks, and compounding advantage
+*   Mobility is low and sticky across generations
+*   Meritocracy is a claim to test, and often a story that legitimizes inheritance

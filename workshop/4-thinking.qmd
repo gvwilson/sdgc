@@ -4,6 +4,117 @@ author: Greg Wilson
 date: 2026
 format: revealjs
 ---
-## 4) How people actually think
 
--   FIXME
+## Opening question
+
+*   Why did you click the last thing you clicked?
+*   Most online behavior is fast and automatic
+*   That makes it predictable
+*   Predictable is exploitable
+
+## Two systems [@Kahneman2011]
+
+*   System 1 is fast, automatic, and associative
+*   System 2 is slow, effortful, and deliberative
+*   Most online behavior runs on System 1
+*   Biases are features, usually adaptive, but they are predictable
+
+## Heuristics and biases
+
+*   Availability: what comes easily to mind
+*   Anchoring: the first number or frame sticks
+*   Confirmation: we seek and credit what we already believe
+*   Representativeness: we judge by resemblance, not base rates
+
+## Loss aversion and discounting
+
+*   Losses loom larger than gains
+*   Taxi drivers work longer on bad days
+*   Hyperbolic discounting: our future selves are strangers
+*   Gym memberships and quitting smoking are the everyday cases
+
+## Identity and belonging [@Tajfel1979]
+
+*   The mere assignment of people to groups produces in-group favoritism
+*   People hold beliefs partly to belong, not only to be right
+*   Motivated reasoning: reasoning defends a conclusion rather than weighing evidence
+*   When identity is at stake, facts become a lawyer, not a judge
+
+## Conformity and obedience [@Asch1956]
+
+*   Asch's line studies: people matched a wrong answer to avoid standing alone
+*   Milgram: sixty-five percent of subjects administered the maximum shock
+*   Because a person in a lab coat told them to
+*   Social context can overpower private judgment
+
+## The single dissenter
+
+*   In Milgram-style setups, one dissenting confederate sharply reduces compliance
+*   Conformity is fragile when someone models resistance
+*   This matters for the change lesson later
+*   One person going first changes what everyone else believes is possible
+
+## Moral foundations [@Haidt2012]
+
+*   Different audiences weight care, fairness, loyalty, authority, and purity differently
+*   Persuasion that ignores this fails
+*   Two reasonable people talk past each other about content moderation
+*   Because they start from different foundations
+
+## Status beats income
+
+*   People care about where they stand relative to others, not just absolute level
+*   Norway's public tax records widened the well-being gap by 29 percent [@PerezTruglia2020]
+*   Robert Frank's local-rank finding: people care about position, not level
+*   Public status comparisons are the strongest lever designers have
+
+## Stories beat data
+
+*   Public-health campaigns use named people, not statistics
+*   Industries fund data-heavy think tanks for the appearance of rigor
+*   People want data but believe stories
+*   A single vivid case outweighs a table of millions
+
+## The framing demonstration
+
+*   Program A saves 200 people; Program B has a one-in-three chance to save all 600
+*   Most people choose A
+*   Reframe the same choice as deaths, and most choose the risky option
+*   Nothing changed except how the outcomes were described
+
+## Anchoring in the wild
+
+*   People spun a wheel rigged to land on 10 or 65, then guessed the share of African UN members
+*   Those who saw 65 guessed about 45 percent higher
+*   Prosecutors set high anchor charges; retailers display high "original" prices
+*   The first number sticks, even when it is random
+
+## Nudges and the attention economy
+
+*   Variable rewards, manufactured urgency, disguised ads, social proof, default nudges
+*   Pension auto-enrollment took participation from 50-60 to 80-90 percent (UK 2012)
+*   The tax letter "nine out of ten pay on time" raised compliance
+*   A design choice is a psychological intervention, whether the designer admits it or not
+
+## Preference construction
+
+*   Bernays reframed women smoking as feminist defiance to open the female market to tobacco
+*   It worked
+*   Recommendation systems are also preference-construction systems
+*   The customer is never meant to arrive, because that would end the business model
+
+## Moral disengagement [@Bandura1999]
+
+*   Euphemisms let good people do harmful work without feeling like bad people
+*   "User data as exhaust"
+*   "Engagement optimization"
+*   Corporate executives out-score Broadmoor patients on psychopathy measures
+*   The Challenger disaster grew from "normalization of deviance," not a single evil actor
+
+## Takeaway
+
+*   People are not broken computers
+*   They are social animals with fast, fallible, identity-driven cognition
+*   Design that respects this is possible
+*   Design that exploits it is the business model of the attention economy
+*   "Just show people the facts" is not a change strategy
