@@ -1,19 +1,19 @@
 # Workshop Outline
 
-This workshop introduces ideas that someone with a background in computer
-science (or tech more generally) needs to know in order to think clearly about
-the harms of social media and AI, and about how they should be regulated.  The
-material is structured as two days with exercises and breaks. I would be very
-grateful for feedback; many of my references are probably out of date.
+This workshop introduces ideas that will help people with backgrounds in tech
+think clearly about the harms of social media and AI, and about how they should
+be regulated.  The material can be used as a two-day workshop with exercises and
+breaks. I would be very grateful for feedback; in particular, my perspective is
+often parochial, and many of my references are probably out of date.
 
 ## At a glance
 
 -   Length: two days (roughly twelve to fourteen hours of teaching, plus
     breaks and lunch).
--   Audience: people with programming backgrounds
--   Format: 7 lessons of roughly 60-90 minutes, each followed by one
-    or two 10-15 minute exercises taken from those listed with the
-    lesson.
+-   Audience: people with programming backgrounds, but little previous exposure
+    to research in psychology, sociology, or politics.
+-   Format: 7 lessons of roughly 60-90 minutes, each followed by one or two
+    10-15 minute exercises taken from those listed with the lesson.
 
 ## Stance
 
@@ -95,283 +95,7 @@ Separate the descriptive from the normative.
 -   Sticky notes.
 -   Breakout spaces.
 
-## 1) Deciding what is harmful and how to regulate it
-
-*How does a society decide what counts as harm, and what should it do about the harms it recognizes?*
-
-### Learning objectives
-
--   Explain why what gets labeled "harmful" and therefore gets regulated does
-    not track a neutral measurement of damage.
--   Contrast the rare-dramatic-attributable model of harm with the
-    diffuse-pollution model, and say which one describes social media and AI.
--   Distinguish a moral panic from an evidence-backed harm, and say what each
-    implies for regulation.
--   Name the instruments by which harm is regulated and the failure mode of
-    capture.
-
-### Key concepts
-
-Harm is not self-evident.
-:   What counts as harm, and which harms get regulated, is decided through
-    contests of power, moral panic, racial hierarchy, and commercial interest,
-    not by first measuring damage and then writing a law.
-Rare, dramatic, and attributable vs. diffuse, cumulative, and statistical.
-:   Engineers are trained on the first model: the faulty valve that causes a
-    boiler explosion. The worst industrial harms (leaded gasoline, tobacco,
-    asbestos, opioids, and now social media) are the second: real and massive,
-    but spread across millions of small exposures so that no single decision can
-    be shown to have caused a single injury.
-The pollution model.
-:   Once a society accepts that harm can be diffuse and cumulative,
-    responsibility shifts from proving individual causation to holding the
-    emitter accountable for the aggregate. Engineers now study pollution not out
-    of conscience but because liability eventually forced them to.
-Moral panic.
-:   A disproportionate alarm that often targets the *wrong* harm and leaves the
-    real one unaddressed. The violent-video-game panic is the canonical case;
-    the real harm was loot boxes, not gunfire.
-The differential legalization of pleasure.
-:   Alcohol kills hundreds of thousands a year and sits in supermarkets;
-    cannabis, with a lower harm profile, was criminalized for most of a century,
-    with enforcement falling on Black and Latino communities. What gets
-    legalized tracks political economy and racial hierarchy far more reliably
-    than it tracks harm.
-Precautionary principle and product safety.
-:   Where harm is plausible and irreversible, the burden of proof may rest on
-    those introducing the risk.  Pre-market drug approval is the model.
-Regulation as a toolkit and regulatory capture.
-:   recap of standards, licensing, disclosure, liability, taxation, and
-    structural remedies, and the recurring failure mode in which regulators come
-    to serve the regulated.
-The uncertainty playbook and the industry response.
-:   When a harm is alleged, the standard playbook is to fund scientists, insist
-    correlation is not causation, call regulation an attack on freedom, create
-    neutral-sounding front groups, and delay. The industry response then moves
-    through four phases: denial, uncertainty, the market argument, and finally
-    acceptance— where compliance reliably turns out cheaper than predicted.
-Non-identity.
-:   Some harms, especially those to "future people," cannot name an individual
-    victim; this is the philosophical twin of diffuse, cumulative harm, and it
-    explains why such harms are so easy to postpone.
-
-### Content
-
-1.  Opening question (3 min): "Which is more dangerous: alcohol or cannabis? How
-    do you know, and does the law match your answer?"
-1.  Sex, drugs, guns, and privacy (20 min): four cases that show harm is
-    contested, not measured.
-   -   Sex. What was "private" versus what was "criminal" has been redrawn case
-       by case, in someone's interests, with no consistent underlying
-       principle. Sexual behavior between consenting adults was legally public
-       (in the sense of being criminally regulated) well into the twentieth
-       century; the expansion of privacy was won, not discovered. Sodomy laws
-       are a Victorian legal export (1861/1885, Oscar Wilde) spread through
-       colonial law, not an ancient universal.
-   -   Drugs. Alcohol kills hundreds of thousands a year and is sold in
-       supermarkets; cannabis, with a lower measured harm profile, was a
-       criminal offense whose enforcement fell almost entirely on Black and
-       Latino communities. Portugal's 2001 decriminalization of personal
-       possession, paired with treatment and harm reduction, cut HIV
-       transmission and overdose deaths without raising use.
-   -   Guns. After Columbine, legislators went after violent video games; the
-       evidence never supported the hypothesis, and cross-national comparisons
-       point to gun availability, inequality, and the history of racially
-       organized violence as the real drivers. Motivated reasoning (Lesson 4)
-       means even a trained scientist who owns a gun scrutinizes gun-violence
-       studies more skeptically than climate studies.
-   -   Privacy. The category "privacy" is contested in exactly the same way: its
-       historical unit was the *household*, not the person ("the personal is
-       political"), and marital rape was legal in most US states until the
-       1970s-80s. What counts as a protected, private sphere is won and redrawn,
-       not discovered.
-   -   The point is that we do not first measure harm and then regulate. We
-       first decide who and what matters, then find or manufacture the harm that
-       justifies the decision.
-1.  Two models of harm (10 min): rare/dramatic/attributable versus
-    diffuse/cumulative. The engineer's default is the first; the worst damage
-    from industry has been the second. Leaded gasoline lowered a generation's
-    IQs without any single tank of fuel causing a measurable injury; no
-    particular cigarette caused any particular cancer death. Social media's
-    harms are this kind (so-called "cognitive pollution"), so the causal chain
-    is long, probabilistic, and hard to attribute, and therefore hard to
-    regulate. Parfit's non-identity problem is the philosophical twin: harms to
-    "future people" cannot name an individual victim, which is why they are so
-    easy to postpone and so hard to regulate.
-1.  The uncertainty playbook (12 min): when a harm is alleged, the standard
-    industry playbook runs in five steps—fund scientists, insist correlation is
-    not causation, call regulation an attack on freedom, create neutral-sounding
-    front groups, and delay. The response then moves through four phases:
-    denial, uncertainty, the market argument, and finally acceptance—and
-    compliance reliably turns out cheaper than predicted. The tobacco industry
-    ran this script for decades after Hill and Doll's 1950 study; the same
-    script ran for leaded gasoline, asbestos, and oxycontin, and is running now
-    for social media and AI.
-1.  Pollution and dangerous pharmaceuticals (20 min): two cases where regulation
-    worked, and why.
-   -   Pollution. The remedy was to hold the emitter liable for the aggregate,
-       not for a specific injury. The ozone layer was protected before it cost
-       lives: proof we need not wait for disaster.  Minamata is the same lesson
-       read backwards—Chisso's mercury poisoning, with cats as the ignored early
-       warning. The Sandoz/Rhine spill (1986) produced the binding Rhine Action
-       Programme, showing that a cross-border disaster can be converted into
-       enforceable rules.
-   -   Dangerous pharmaceuticals. Thalidomide was approved in West Germany in
-       1957; Frances Kelsey, a pharmacologist at the FDA, refused to approve it
-       in the US because the safety evidence was insufficient, and the birth
-       defects that followed where it *was* approved vindicated her. The result
-       was pre-market approval and the precautionary principle. Kefauver-Harris
-       (1962) is the legislative landmark: before it, you could sell a drug in
-       the US without proving it did anything.
-   -   The limits of a settlement. In the 1998 Master Settlement Agreement the
-       states sued to recover $206 billion in Medicaid costs from the tobacco
-       companies, but this was a *settlement*, not a solution: it monetized the
-       harm rather than removing it.
-   -   What worked. Accurate diagnosis of the *actual* harm; the right
-       instrument; and a regulator that was not captured.
-1.  When regulators fail (10 min): capture is the recurring enemy. Wirecard
-    shows the extreme version: Germany's regulator attacked the *journalist*
-    instead of the fraud. Korean chaebol executives were convicted and then
-    pardoned as too important to jail: "too big to jail" is not a tech
-    invention.
-1.  Moral panic (8 min): moral panic has a lineage—dime novels, then Wertham's
-    comics, then rock and roll, then D&D, then video games—and cross-national
-    checks reveal how fragile most claims are (Japan and South Korea have high
-    game use and low violence). The real harm in the video-game panic was loot
-    boxes, not gunfire.
-1.  Recap and bridge (3 min): Social-media and AI harms are pollution-model
-    harms. The trap is moral-panic framing (e.g., "ban the kids' phones")
-    instead of the actual harm: attention extraction, addictive design,
-    discrimination, surveillance. Lessons 6 and 7 apply this to media and to
-    change.
-
-### Exercises
-
-Rank the harms, then the laws.
-:   Consider the list "alcohol, cannabis, heroin, gambling, social media,
-    AI-generated misinformation". Rank the items by measured harm, then by how
-    the law actually treats them. Discuss the gaps and what explains them.
-
-Two models of harm.
-:   Pick a harm (e.g., a bridge collapse, leaded gasoline, a data breach, or
-    teen anxiety from Instagram). Classify it as rare-dramatic-attributable or
-    diffuse-cumulative, and say which regulatory instrument each model naturally
-    suggests. Which model were you trained to think in?
-
-Moral panic vs. real harm.
-:   Choose a concern (violent video games, kids and phones, "AI will end
-    humanity"). List the features that make it look like a moral panic and the
-    features that make it an evidence-backed harm.  What is the *actual* harm
-    the panic may be distracting from?
-
-Precautionary vs. wait-and-see.
-:   Replay the thalidomide decision: you are the regulator with evidence that is
-    suggestive but not conclusive. Do you approve or wait? What does your answer
-    imply for "move fast and break things" and for releasing open-weight AI
-    models?
-
-Redesign the law.
-:   Pick a harm currently regulated on a moral or panic basis rather than an
-    evidence basis (e.g., cannabis, a social-media feature).  Propose a
-    regulation that tracks the *actual* harm, and name the political obstacles
-    to passing it.
-
-Beat the playbook.
-:   You are the regulator and the industry is running the five-step uncertainty
-    playbook. For each step, name one counter-move (independent funding,
-    burden-of-proof rules, naming the front groups, deadlines).
-
-Settlement or solution.
-:   Study the 1998 Master Settlement Agreement. Why did a $206 billion settlement
-    fail to end the tobacco problem? What would a *solution* have required, and
-    why was a settlement the outcome the parties preferred?
-
-### Takeaway
-
-Harm is not a fact that precedes regulation; it is a claim made by the powerful,
-the panicked, and the organized. Regulating well means diagnosing the actual
-harm rather than the one that generates the best testimony, using the pollution
-and product-safety models where they fit, and defending the regulator from
-capture.
-
-### Further reading
-
-#### [Unsafe at Any Speed](../regulation-that-worked/index.qmd)
-
-Nader's story can be told in just a few seconds:
-
-> GM's response was not to fix the car; it was to hire private detectives to
-> dig up dirt on Nader." … "GM's president was summoned to testify before the
-> United States Senate and had to apologize on national television.
-
-#### [How the Rivers Ran Again](../regulation-that-worked/index.qmd)
-
-A good example of how *framing a harm* precedes regulating it, and about
-regulation working:
-
-> On June 22, 1969, the Cuyahoga River in Cleveland, Ohio, caught fire. This
-> sounds dramatic, but it was also the thirteenth time the river had caught fire
-> since 1868.
-
-Two more "regulation that worked" cases with vivid sensory detail: the 1952
-London smog ("so thick that people could not see their own feet," with a
-spokesman blaming "influenza"), and going from the Great Stinnk of 1858 to "In
-1983, a salmon was caught in the Thames for the first time since the 1820s."
-
-#### [Forty Years to an Agreement](../regulation-that-worked/index.qmd)
-
-The ISDS callout is the best single example of regulatory capture's
-international cousin, and it has a punchline:
-
-> a move so transparently opportunistic that even the arbitrators were not
-> impressed.
-
-#### [Unsafe at Any Speed](../regulation-that-worked/index.qmd)
-
-A rare example of a firm choosing public good that keeps Lesson 1 from being
-uniformly grim:
-
-> Nils Bohlin, an engineer at Volvo, had developed the three-point belt the
-> year before, and Volvo had made the patent freely available to every
-> manufacturer in the world.
-
-#### [The Tontine](../glossary/index.qmd)
-
-The tontine is a one-paragraph warning about how market structures can *build
-in* harm that doubles as the opening image for "the monopolist's playbook".
-
-#### [The Eight-Hour Day](../control-and-alternatives/index.qmd)
-
-A good example of *reframing* a harm to make it regulable:
-
-> The managers had locked the stairwell doors to prevent workers from taking
-> unauthorized breaks and to stop theft of fabric. 146 workers died, most of
-> them young immigrant women, many of them Jewish and Italian. Some jumped from
-> the windows. The owners were acquitted of manslaughter charges and collected
-> the insurance.
-
-#### [The Monopolist's Playbook](../how-we-got-here/index.qmd)
-
-For the "regulation can fail" part of the lesson, this punchline is hard to
-beat:
-
-> What is less often noted is that several successor companies immediately
-> reconsolidated, and that John D. Rockefeller's personal fortune *increased*
-> after the breakup as the stock prices of the subsidiaries rose.
-
-#### [What We Owe the Future](../what-we-owe-the-future/index.qmd)
-
-Parfit's non-identity problem is the philosophical twin of diffuse, cumulative
-harm: if our choices change *who* is born, no particular future person can say
-we made them worse off, yet the choice still has victims in the aggregate.
-
-#### [Privacy, Power, and the Self](../privacy-power-self/index.qmd)
-
-The "privacy is contested" point extends Lesson 1's opening claim about harm:
-the historical unit of privacy was the *household*, not the person, and marital
-rape was legal in most US states until the 1970s-80s.
-
-## 2) Power and institutions
+## 1) Power and institutions
 
 *Why do some people's preferences become policy and other people's don't?*
 
@@ -388,11 +112,12 @@ rape was legal in most US states until the 1970s-80s.
     1.  Who controls what gets onto the agenda in the first place
     1.  Who shapes what people even *want*, so that some options never occur to anyone
 -   Institutions [@North1990]:
-    -   The formal rules (laws, contracts) and informal constraints (norms, conventions, taboos)
-        that structure interaction
+    -   The formal rules (laws, contracts) and informal constraints (norms,
+        conventions, taboos) that structure interaction
     -   Institutions always allocate advantage; they are never neutral
 -   Collective action problem [@Olson1965]:
-    -   It's easier to organize a small group with a large stake than a large group with a small stake
+    -   It's easier to organize a small group with a large stake than a large
+        group with a small stake
     -   This is why producers beat consumers and platforms beat users
 -   Path dependence:
     -   Early choices lock in later outcomes, even after the original reasons disappear
@@ -559,7 +284,7 @@ too, and that its "neutral" form is a choice with distributional consequences:
 
 #### [Big Tech is Like the Enclosure Movement](../harmful-models/index.qmd)
 
-The cleanest "institutions allocate advantage" case, and a bridge to Lesson 5:
+The cleanest "institutions allocate advantage" case, and a bridge to Lesson 4:
 
 > The process was not neutral arbitration between competing claims: the
 > landowners who stood to benefit were the same class that controlled
@@ -572,7 +297,7 @@ Scott's legibility argument is the through-line for the "passports, house
 numbers, and biometrics" examples: the state standardizes people so they can be
 taxed, drafted, and policed.
 
-## 3) Where markets come from
+## 2) Where markets come from
 
 *What are markets, and when do they fail?*
 
@@ -655,7 +380,7 @@ taxed, drafted, and policed.
     Uber pitched drivers as "entrepreneurs."
 1.  Who pays, who benefits (5 min): "Efficiency" is not the same as fairness. A
     market can be efficient and still concentrate benefits and diffuse harms.
-    (Lesson 1 uses this distinction.)
+    (Lesson 6 uses this distinction.)
 
 ### Exercises
 
@@ -771,7 +496,7 @@ The source for the "institutional variety" point: the shareholder firm is not
 natural or inevitable, and alternatives such as cooperatives and the Mittelstand
 are durable institutions, not seminar hypotheticals.
 
-## 4) How people actually think
+## 3) How people actually think
 
 *How do real humans make decisions, and how can that be exploited?*
 
@@ -942,7 +667,7 @@ This one line reframes the workshop's "just show people the facts" discussion,
 and the Facebook Papers/Frances Haugen callout gives it a current, concrete
 anchor.
 
-## 5) Inequality and stratification
+## 4) Inequality and stratification
 
 *Why are some people consistently better off, and is that "natural"?*
 
@@ -1122,7 +847,7 @@ The source for the meritocracy and audit-study material: "meritocracy" was
 coined in a 1958 satire, merit-pay organizations show larger gender gaps, and
 identical resumes get different callbacks depending on the name at the top.
 
-## 6) Media, ideology, and public opinion
+## 5) Media, ideology, and public opinion
 
 *How do people come to believe what they believe about the world?*
 
@@ -1137,7 +862,7 @@ identical resumes get different callbacks depending on the name at the top.
 
 -   Agenda-setting: media may not tell you what to *think*, but they tell you
     what to think *about*. Absence from the agenda is a form of power (recall
-    Lesson 2's second face).
+    Lesson 1's second face).
 -   Framing: how an issue is defined shapes which answers seem reasonable.
     "Screen time" versus "attention extraction"; "AI safety" versus "corporate
     accountability."
@@ -1154,7 +879,8 @@ identical resumes get different callbacks depending on the name at the top.
     claim; the larger problem may be a shared but distorted diet, not total
     separation.
 -   Moral panic: a disproportionate, often exaggerated public alarm that can
-    coexist with a real, evidence-backed harm.
+    coexist with a real, evidence-backed harm, and that often targets the
+    *wrong* harm while leaving the real one unaddressed.
 -   The dependence effect [@Galbraith1998]: advertising manufactures the wants
     that production then satisfies.
 -   Narrative economics [@Shiller2015]: markets and beliefs move on contagious
@@ -1255,7 +981,7 @@ frame controls a large part of what is thinkable. Platforms changed the
 
 #### [Why Do You Want What You Want?](../more-psychology/index.qmd)
 
-The propaganda model's origin story connects back to lesson 4:
+The propaganda model's origin story connects back to lesson 3:
 
 > Women smoking in public was a social taboo; framing the act as feminist
 > defiance was designed to dissolve that taboo and open the female market to
@@ -1291,6 +1017,278 @@ support the claim that surveillance rewires the people it surveils.
 TESCREAL/longtermism [@Torres2024] is the ideology to watch in this lesson:
 framing AI's builders as "trustees of civilization" lets the already-powerful
 justify present costs for an unknowable future.
+
+## 6) Deciding what is harmful and how to regulate it
+
+*How does a society decide what counts as harm, and what should it do about the harms it recognizes?*
+
+### Learning objectives
+
+-   Explain why what gets labeled "harmful" and therefore gets regulated does
+    not track a neutral measurement of damage.
+-   Contrast the rare-dramatic-attributable model of harm with the
+    diffuse-pollution model, and say which one describes social media and AI.
+-   Distinguish a moral panic from an evidence-backed harm, and say what each
+    implies for regulation.
+-   Name the instruments by which harm is regulated and the failure mode of
+    capture.
+
+### Key concepts
+
+Harm is not self-evident.
+:   What counts as harm, and which harms get regulated, is decided through
+    contests of power, moral panic, racial hierarchy, and commercial interest,
+    not by first measuring damage and then writing a law.
+Rare, dramatic, and attributable vs. diffuse, cumulative, and statistical.
+:   Engineers are trained on the first model: the faulty valve that causes a
+    boiler explosion. The worst industrial harms (leaded gasoline, tobacco,
+    asbestos, opioids, and now social media) are the second: real and massive,
+    but spread across millions of small exposures so that no single decision can
+    be shown to have caused a single injury.
+The pollution model.
+:   Once a society accepts that harm can be diffuse and cumulative,
+    responsibility shifts from proving individual causation to holding the
+    emitter accountable for the aggregate. Engineers now study pollution not out
+    of conscience but because liability eventually forced them to.
+The differential legalization of pleasure.
+:   Alcohol kills hundreds of thousands a year and sits in supermarkets;
+    cannabis, with a lower harm profile, was criminalized for most of a century,
+    with enforcement falling on Black and Latino communities. What gets
+    legalized tracks political economy and racial hierarchy far more reliably
+    than it tracks harm.
+Precautionary principle and product safety.
+:   Where harm is plausible and irreversible, the burden of proof may rest on
+    those introducing the risk.  Pre-market drug approval is the model.
+Regulation as a toolkit and regulatory capture.
+:   recap of standards, licensing, disclosure, liability, taxation, and
+    structural remedies, and the recurring failure mode in which regulators come
+    to serve the regulated.
+The uncertainty playbook and the industry response.
+:   When a harm is alleged, the standard playbook is to fund scientists, insist
+    correlation is not causation, call regulation an attack on freedom, create
+    neutral-sounding front groups, and delay. The industry response then moves
+    through four phases: denial, uncertainty, the market argument, and finally
+    acceptance— where compliance reliably turns out cheaper than predicted.
+Non-identity.
+:   Some harms, especially those to "future people," cannot name an individual
+    victim; this is the philosophical twin of diffuse, cumulative harm, and it
+    explains why such harms are so easy to postpone.
+
+### Content
+
+1.  Opening question (3 min): "Which is more dangerous: alcohol or cannabis? How
+    do you know, and does the law match your answer?"
+1.  Sex, drugs, guns, and privacy (20 min): four cases that show harm is
+    contested, not measured.
+   -   Sex. What was "private" versus what was "criminal" has been redrawn case
+       by case, in someone's interests, with no consistent underlying
+       principle. Sexual behavior between consenting adults was legally public
+       (in the sense of being criminally regulated) well into the twentieth
+       century; the expansion of privacy was won, not discovered. Sodomy laws
+       are a Victorian legal export (1861/1885, Oscar Wilde) spread through
+       colonial law, not an ancient universal.
+   -   Drugs. Alcohol kills hundreds of thousands a year and is sold in
+       supermarkets; cannabis, with a lower measured harm profile, was a
+       criminal offense whose enforcement fell almost entirely on Black and
+       Latino communities. Portugal's 2001 decriminalization of personal
+       possession, paired with treatment and harm reduction, cut HIV
+       transmission and overdose deaths without raising use.
+   -   Guns. After Columbine, legislators went after violent video games; the
+       evidence never supported the hypothesis, and cross-national comparisons
+       point to gun availability, inequality, and the history of racially
+       organized violence as the real drivers. Motivated reasoning (Lesson 3)
+       means even a trained scientist who owns a gun scrutinizes gun-violence
+       studies more skeptically than climate studies.
+   -   Privacy. The category "privacy" is contested in exactly the same way: its
+       historical unit was the *household*, not the person ("the personal is
+       political"), and marital rape was legal in most US states until the
+       1970s-80s. What counts as a protected, private sphere is won and redrawn,
+       not discovered.
+   -   The point is that we do not first measure harm and then regulate. We
+       first decide who and what matters, then find or manufacture the harm that
+       justifies the decision.
+1.  Two models of harm (10 min): rare/dramatic/attributable versus
+    diffuse/cumulative. The engineer's default is the first; the worst damage
+    from industry has been the second. Leaded gasoline lowered a generation's
+    IQs without any single tank of fuel causing a measurable injury; no
+    particular cigarette caused any particular cancer death. Social media's
+    harms are this kind (so-called "cognitive pollution"), so the causal chain
+    is long, probabilistic, and hard to attribute, and therefore hard to
+    regulate. Parfit's non-identity problem is the philosophical twin: harms to
+    "future people" cannot name an individual victim, which is why they are so
+    easy to postpone and so hard to regulate.
+1.  The uncertainty playbook (12 min): when a harm is alleged, the standard
+    industry playbook runs in five steps—fund scientists, insist correlation is
+    not causation, call regulation an attack on freedom, create neutral-sounding
+    front groups, and delay. The response then moves through four phases:
+    denial, uncertainty, the market argument, and finally acceptance—and
+    compliance reliably turns out cheaper than predicted. The tobacco industry
+    ran this script for decades after Hill and Doll's 1950 study; the same
+    script ran for leaded gasoline, asbestos, and oxycontin, and is running now
+    for social media and AI.
+1.  Pollution and dangerous pharmaceuticals (20 min): two cases where regulation
+    worked, and why.
+   -   Pollution. The remedy was to hold the emitter liable for the aggregate,
+       not for a specific injury. The ozone layer was protected before it cost
+       lives: proof we need not wait for disaster.  Minamata is the same lesson
+       read backwards—Chisso's mercury poisoning, with cats as the ignored early
+       warning. The Sandoz/Rhine spill (1986) produced the binding Rhine Action
+       Programme, showing that a cross-border disaster can be converted into
+       enforceable rules.
+   -   Dangerous pharmaceuticals. Thalidomide was approved in West Germany in
+       1957; Frances Kelsey, a pharmacologist at the FDA, refused to approve it
+       in the US because the safety evidence was insufficient, and the birth
+       defects that followed where it *was* approved vindicated her. The result
+       was pre-market approval and the precautionary principle. Kefauver-Harris
+       (1962) is the legislative landmark: before it, you could sell a drug in
+       the US without proving it did anything.
+   -   The limits of a settlement. In the 1998 Master Settlement Agreement the
+       states sued to recover $206 billion in Medicaid costs from the tobacco
+       companies, but this was a *settlement*, not a solution: it monetized the
+       harm rather than removing it.
+   -   What worked. Accurate diagnosis of the *actual* harm; the right
+       instrument; and a regulator that was not captured.
+1.  When regulators fail (10 min): capture is the recurring enemy. Wirecard
+    shows the extreme version: Germany's regulator attacked the *journalist*
+    instead of the fraud. Korean chaebol executives were convicted and then
+    pardoned as too important to jail: "too big to jail" is not a tech
+    invention.
+1.  Moral panic (8 min): recall the moral-panic concept from Lesson 5; it has a
+    lineage—dime novels, then Wertham's comics, then rock and roll, then D&D,
+    then video games—and cross-national checks reveal how fragile most claims
+    are (Japan and South Korea have high game use and low violence). The real
+    harm in the video-game panic was loot boxes, not gunfire.
+1.  Recap and bridge (3 min): Social-media and AI harms are pollution-model
+    harms. The trap is moral-panic framing (e.g., "ban the kids' phones")
+    instead of the actual harm: attention extraction, addictive design,
+    discrimination, surveillance. Lessons 6 and 7 apply this to media and to
+    change.
+
+### Exercises
+
+Rank the harms, then the laws.
+:   Consider the list "alcohol, cannabis, heroin, gambling, social media,
+    AI-generated misinformation". Rank the items by measured harm, then by how
+    the law actually treats them. Discuss the gaps and what explains them.
+
+Two models of harm.
+:   Pick a harm (e.g., a bridge collapse, leaded gasoline, a data breach, or
+    teen anxiety from Instagram). Classify it as rare-dramatic-attributable or
+    diffuse-cumulative, and say which regulatory instrument each model naturally
+    suggests. Which model were you trained to think in?
+
+Moral panic vs. real harm.
+:   Choose a concern (violent video games, kids and phones, "AI will end
+    humanity"). List the features that make it look like a moral panic and the
+    features that make it an evidence-backed harm.  What is the *actual* harm
+    the panic may be distracting from?
+
+Precautionary vs. wait-and-see.
+:   Replay the thalidomide decision: you are the regulator with evidence that is
+    suggestive but not conclusive. Do you approve or wait? What does your answer
+    imply for "move fast and break things" and for releasing open-weight AI
+    models?
+
+Redesign the law.
+:   Pick a harm currently regulated on a moral or panic basis rather than an
+    evidence basis (e.g., cannabis, a social-media feature).  Propose a
+    regulation that tracks the *actual* harm, and name the political obstacles
+    to passing it.
+
+Beat the playbook.
+:   You are the regulator and the industry is running the five-step uncertainty
+    playbook. For each step, name one counter-move (independent funding,
+    burden-of-proof rules, naming the front groups, deadlines).
+
+Settlement or solution.
+:   Study the 1998 Master Settlement Agreement. Why did a $206 billion settlement
+    fail to end the tobacco problem? What would a *solution* have required, and
+    why was a settlement the outcome the parties preferred?
+
+### Takeaway
+
+Harm is not a fact that precedes regulation; it is a claim made by the powerful,
+the panicked, and the organized. Regulating well means diagnosing the actual
+harm rather than the one that generates the best testimony, using the pollution
+and product-safety models where they fit, and defending the regulator from
+capture.
+
+### Further reading
+
+#### [Unsafe at Any Speed](../regulation-that-worked/index.qmd)
+
+Nader's story can be told in just a few seconds:
+
+> GM's response was not to fix the car; it was to hire private detectives to
+> dig up dirt on Nader." … "GM's president was summoned to testify before the
+> United States Senate and had to apologize on national television.
+
+#### [How the Rivers Ran Again](../regulation-that-worked/index.qmd)
+
+A good example of how *framing a harm* precedes regulating it, and about
+regulation working:
+
+> On June 22, 1969, the Cuyahoga River in Cleveland, Ohio, caught fire. This
+> sounds dramatic, but it was also the thirteenth time the river had caught fire
+> since 1868.
+
+Two more "regulation that worked" cases with vivid sensory detail: the 1952
+London smog ("so thick that people could not see their own feet," with a
+spokesman blaming "influenza"), and going from the Great Stinnk of 1858 to "In
+1983, a salmon was caught in the Thames for the first time since the 1820s."
+
+#### [Forty Years to an Agreement](../regulation-that-worked/index.qmd)
+
+The ISDS callout is the best single example of regulatory capture's
+international cousin, and it has a punchline:
+
+> a move so transparently opportunistic that even the arbitrators were not
+> impressed.
+
+#### [Unsafe at Any Speed](../regulation-that-worked/index.qmd)
+
+A rare example of a firm choosing public good that keeps Lesson 6 from being
+uniformly grim:
+
+> Nils Bohlin, an engineer at Volvo, had developed the three-point belt the
+> year before, and Volvo had made the patent freely available to every
+> manufacturer in the world.
+
+#### [The Tontine](../glossary/index.qmd)
+
+The tontine is a one-paragraph warning about how market structures can *build
+in* harm that doubles as the opening image for "the monopolist's playbook".
+
+#### [The Eight-Hour Day](../control-and-alternatives/index.qmd)
+
+A good example of *reframing* a harm to make it regulable:
+
+> The managers had locked the stairwell doors to prevent workers from taking
+> unauthorized breaks and to stop theft of fabric. 146 workers died, most of
+> them young immigrant women, many of them Jewish and Italian. Some jumped from
+> the windows. The owners were acquitted of manslaughter charges and collected
+> the insurance.
+
+#### [The Monopolist's Playbook](../how-we-got-here/index.qmd)
+
+For the "regulation can fail" part of the lesson, this punchline is hard to
+beat:
+
+> What is less often noted is that several successor companies immediately
+> reconsolidated, and that John D. Rockefeller's personal fortune *increased*
+> after the breakup as the stock prices of the subsidiaries rose.
+
+#### [What We Owe the Future](../what-we-owe-the-future/index.qmd)
+
+Parfit's non-identity problem is the philosophical twin of diffuse, cumulative
+harm: if our choices change *who* is born, no particular future person can say
+we made them worse off, yet the choice still has victims in the aggregate.
+
+#### [Privacy, Power, and the Self](../privacy-power-self/index.qmd)
+
+The "privacy is contested" point extends Lesson 6's opening claim about harm:
+the historical unit of privacy was the *household*, not the person, and marital
+rape was legal in most US states until the 1970s-80s.
 
 ## 7) How change happens
 
@@ -1522,10 +1520,11 @@ material basis of democracy itself.
 If there is time left, use it to make the day's through-line explicit, not to
 introduce new material.
 
-1.  Harm is contested, not measured; regulation can and does work when it is not
-    captured; power and institutions set the rules; markets are made, not
-    natural; people are social and fallible; inequality is produced, not earned;
-    media manufacture the thinkable; change comes from organized pressure.
+1.  Power and institutions set the rules; markets are made, not natural; people
+    are social and fallible; inequality is produced, not earned; media
+    manufacture the thinkable; harm is contested, not measured; regulation can
+    and does work when it is not captured; change comes from organized
+    pressure.
 1.  Ask each participant to write one sentence naming a specific social-media or
     AI harm, the lesson that best explains it, and one realistic response. Go
     around the room; collect the sentences.
@@ -1538,14 +1537,6 @@ introduce new material.
 
 ## Reading list
 
-1.  Deciding what is harmful and how we regulate it
-    -   [@Wainwright2017]
-    -   [@Nutt2012]
-    -   [@Hari2015]
-    -   [@Oreskes2010]
-    -   [@Igo2020]
-    -   [@Brandt2007]
-    -   [@Wu2010]
 1.  Power and institutions
     -   [@Lukes2021]
     -   [@North1990]
@@ -1567,6 +1558,14 @@ introduce new material.
     -   [@Herman1988]
     -   [@Tufekci2017]
     -   [@Boyd2014]
+1.  Deciding what is harmful and how we regulate it
+    -   [@Wainwright2017]
+    -   [@Nutt2012]
+    -   [@Hari2015]
+    -   [@Oreskes2010]
+    -   [@Igo2020]
+    -   [@Brandt2007]
+    -   [@Wu2010]
 1.  How change happens, and applying it all
     -   [@Kingdon1995]
     -   [@Piven1979]
@@ -1599,38 +1598,38 @@ A cheat sheet for the synthesis in Lesson 7.
     -   Markets: the cost of degraded attention is an unpriced externality.
     -   Psychology: variable rewards exploit System 1 and in-group signaling.
     -   Inequality: the cost falls hardest on those with the fewest resources to opt out.
+    -   Media: framing it as "screen time" blames users rather than the extractor.
     -   Harm & regulation: a diffuse, cumulative harm (the pollution model), not a dramatic one;
         regulate the emitter, not the user, and beware the "screen time" moral panic.
-    -   Media: framing it as "screen time" blames users rather than the extractor.
 -   Algorithmic discrimination
     -   Power: the "neutral model" hides a rule that allocates advantage.
     -   Markets: information asymmetry (the applicant cannot see the decision rule).
     -   Psychology: automation bias leads humans to defer to a confident number.
     -   Inequality: training data encode and compound historical stratification.
+    -   Media: coverage frames it as a "glitch" rather than a design choice.
     -   Harm & regulation: diagnose the actual harm (discrimination),
         then pick the instrument and guard against capture.
-    -   Media: coverage frames it as a "glitch" rather than a design choice.
 -   Election misinformation and polarization
     -   Power: whoever sets the feed's agenda shapes the thinkable.
     -   Markets: misinformation is a negative externality; trust is a public good.
     -   Psychology: confirmation bias and identity-protective cognition.
     -   Inequality: targeting is cheap precisely where people are most isolated.
+    -   Media: the collapse of gatekeeping replaced editors with engagement.
     -   Harm & regulation: a pollution-model harm;
         the pacing problem and global-versus-national jurisdiction complicate the remedy.
-    -   Media: the collapse of gatekeeping replaced editors with engagement.
 -   Surveillance and labor deskilling
     -   Power: surveillance shifts the balance of power between worker and firm.
     -   Markets: data is a barrier to entry and a source of market power.
     -   Psychology: ambient surveillance changes behavior even without explicit threat.
     -   Inequality: monitoring falls heaviest on the least powerful workers.
+    -   Media: "productivity" framing hides the redistribution of power.
     -   Harm & regulation: worker protection and privacy are proven regulatory domains;
         the challenge is diagnosis and capture, not feasibility.
-    -   Media: "productivity" framing hides the redistribution of power.
 -   Concentration of the industry
     -   Power: a handful of firms set the rules of the game for everyone else.
     -   Markets: network effects produce natural-monopoly tendencies.
     -   Psychology: switching costs exploit inertia and default bias.
     -   Inequality: returns accrue to owners, not to the workers who produce value.
+    -   Media: owned media and advertiser dependence shape the coverage of tech itself.
     -   Harm & regulation: antitrust is the classic structural remedy, weakened and due for revival;
         self-preferencing is payola with a new interface.
-    -   Media: owned media and advertiser dependence shape the coverage of tech itself.
