@@ -1,4 +1,4 @@
-# Overview {.unnumbered}
+# Sex and Drugs and Guns and Code {.unnumbered}
 
 A few things programmers should know in order to understand how big tech actually works.
 All of the material is available under an [open license](license/index.qmd),
