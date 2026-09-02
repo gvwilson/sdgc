@@ -8,6 +8,16 @@ book:
   repo-actions: [edit, source, issue]
   chapters:
     - index.qmd
+    - 0-intro/index.qmd
+    - 1-power/index.qmd
+    - 2-markets/index.qmd
+    - 3-thinking/index.qmd
+    - 4-inequality/index.qmd
+    - 5-belief/index.qmd
+    - 6-regulation/index.qmd
+    - 7-change/index.qmd
+    - 8-finale/index.qmd
+  appendices:
     - intro/index.qmd
     - a-little-psychology/index.qmd
     - how-we-got-here/index.qmd
@@ -22,7 +32,6 @@ book:
     - ai-happens/index.qmd
     - change-happens/index.qmd
     - finale/index.qmd
-  appendices:
     - license/index.qmd
     - conduct/index.qmd
     - contributing/index.qmd

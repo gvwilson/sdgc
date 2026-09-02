@@ -1,0 +1,198 @@
+# Where Markets Come From
+
+*What are markets, and when do they fail?*
+
+### Learning objectives
+
+-   Explain why "the free market" is a description of a rule-bound institution,
+    not an absence of rules.
+-   Name and give examples of four kinds of market failure.
+-   Say who bears the cost and who captures the benefit in a negative
+    externality.
+
+### Key concepts
+
+-   Embeddedness [@Polanyi2001]: markets are always embedded in a web of legal,
+    social, and political rules. Property rights, enforceable contracts,
+    currency, and liability all rest on the state. "Deregulation" is not the
+    removal of rules; it is the substitution of one set of rules for another.
+-   Externalities: costs or benefits imposed on third parties that the price
+    does not capture. Pollution is the classic negative externality; attention
+    extraction and misinformation are its digital descendants.
+-   Public goods: non-excludable and non-rivalrous goods like trust, safety, and
+    an informed electorate that markets under-produce because no one can be made
+    to pay.
+-   Information asymmetry [@Akerlof1978]: when one party knows much more than
+    the other, the "market for lemons" result is that bad options drive out good
+    ones.
+-   Market power: network effects and switching costs produce concentration,
+    sometimes "natural monopoly," and the ability to set terms rather than take
+    them.
+-   Market failure: a situation in which an unadjusted market produces an
+    outcome that is neither efficient nor fair.
+-   The commons [@Ostrom2015]: Hardin described an *unmanaged* commons he never
+    studied; Ostrom's eight design principles show communities can govern shared
+    resources without markets or the state.
+-   Enshittification [@Doctorow2025]: platforms first attract users, then
+    extract value from users and from their suppliers.
+
+### Content
+
+1.  Opening question (3 min): "Which product in this room is *unregulated*?"
+    Let the room discover that the answer is "none."
+1.  Markets are constructed (15 min): Every marketplace has rules about who may
+    sell, what counts as fraud, who is liable, and how disputes are resolved.
+    Those rules are choices with distributional consequences. Show that
+    "deregulation" is re-regulation. Fill in the history:
+   -   The barter myth [@Graeber2011]: credit and debt predate money; money
+       emerged to settle debts, not to simplify barter.
+   -   Limited liability is a grant from the state (Dutch East India Company,
+       1602), not a natural feature of commerce.
+   -   The Statute of Anne (1710) created copyright to break the Stationers'
+       monopoly, not to protect authors; the 1998 term extension was timed to
+       keep Mickey Mouse out of the public domain.
+   -   "Homo economicus" is a political argument dressed as math: from Hobbes to
+       Spencer's "survival of the fittest" to the rational agent.
+1.  Market failure (15 min): Four mechanisms, each with a tech example:
+    1.  Externalities (misinformation, polarization, teen anxiety as costs
+        priced at zero)
+    1.  Public goods (an informed public, institutional trust)
+    1.  Information asymmetry (you do not know what the recommender is doing, or
+        why)
+    1.  Market power (network effects make dominant social networks hard to
+        exit)
+1.  Add the commons as a fifth idea.  Apple's green-bubble lock-in is a
+    market-power case study—internal documents admit RCS would reduce the social
+    cost of switching, and the DMA forced support in 2024.
+1.  Public subsidy, private profit (8 min): every technology in the iPhone was
+    government-funded (DARPA internet, GPS, Siri/SRI); the mRNA vaccine produced
+    Moderna's ~$200B while the NIH's IP claim went unenforced; Apple paid 0.005%
+    tax on Irish profits.
+1.  Enshittification (8 min): Doctorow's ladder with concrete rungs—Booking.com's
+    commission from 12% to 25-30%, Columbia House's penny records, JanSport's
+    backpacks, YouTube's 2018 monetization threshold. Platforms first attract
+    users, then extract from them and their suppliers.
+1.  Institutional variety (8 min): beyond the shareholder firm—the Islamic waqf
+    (roughly a third of Ottoman farmland), keiretsu, the Mittelstand, the Hindu
+    Undivided Family (Tata/Birla). The firm we treat as "natural" is one choice
+    among many.
+1.  The MLM warning (5 min): the FTC found <1% of participants earned a net
+    profit; Amazon Basics competes with its own sellers using their sales data;
+    Uber pitched drivers as "entrepreneurs."
+1.  Who pays, who benefits (5 min): "Efficiency" is not the same as fairness. A
+    market can be efficient and still concentrate benefits and diffuse harms.
+    (Lesson 6 uses this distinction.)
+
+### Exercises
+
+Externality inventory.
+:   Pick one social-media harm (polarization, teen anxiety, election
+    misinformation). Identify the negative externality, who bears the cost, who
+    captures the benefit, and why the price does not reflect the cost.
+
+Public-good puzzle.
+:   Classify "an informed electorate," "trust in institutions," and "online
+    safety" as public goods. Explain the free-rider problem and why no single
+    company has an incentive to produce them. What follows for who *should*
+    produce them?
+
+Information asymmetry.
+:   Choose a feature such as a recommender, a "black box" credit or hiring
+    model, or an ad auction. Who knows more, the operator or the user? What
+    could close the gap: disclosure, audit, a right to explanation, or something
+    else?
+
+Natural monopoly.
+:   Argue whether a dominant social network is a natural monopoly due to network
+    effects, high switching costs, and/or data advantages).  If it is, what
+    follows for regulation?
+
+Free market autopsy.
+:   Find a product described as "the free market at work." List every government
+    rule (and private rule) it depends on related to property, contract, fraud,
+    liability, and standards. Discuss: is "deregulation" ever actually the
+    *absence* of rules?
+
+Subsidy autopsy.
+:   Pick a consumer product and list every government-funded technology inside
+    it (the internet, GPS, voice recognition, vaccines). Then discuss who
+    captured the profit and who paid the research bill.
+
+Commons design.
+:   Take a shared resource (an open-source project, a Wikipedia article, a
+    neighborhood) and draft the design principles that keep it from turning
+    into Hardin's tragedy. Compare your list with Ostrom's eight.
+
+### Takeaway
+
+There is no market without rules. The interesting questions are which rules
+exist, who wrote them, and who benefits. When markets fail, regulation is the
+standard correction, not an alien intrusion.
+
+### Further reading
+
+#### [Big Tech is Like a Drug Cartel](../harmful-models/index.qmd)
+
+An opening hook for the workshop as a whole:
+
+> In order to show how the free market really works, he went and studied it in
+> its pure, unconstrained form: the cocaine cartels.
+
+The killer detail is brand protection without trademark law:
+
+> A cocaine cartel can't use trademark law. It can, however, use violence
+> against competitors who sell adulterated product under the same name or who
+> operate in territory the cartel has claimed. The aim—maintaining exclusivity
+> and quality signals—is the same, it's just the mechanism that differs.
+
+#### [The Creation of Money](../how-we-got-here/index.qmd)
+
+The strongest possible "markets rest on rules" illustration is the 1660s
+goldsmith story:
+
+> This is just as ridiculous as it sounds, but very useful. When you repay a
+> loan, the deposit disappears from your account and the corresponding debt
+> disappears from the bank's books. Money is destroyed.
+
+#### [Big Tech is Like Professional Wrestling](../harmful-models/index.qmd)
+
+The workshop discusses "market power" but has no example of *fake* competition:
+
+> What the kayfabe obscures is that Apple earns approximately $20 billion a
+> year from a deal that makes Google the default search engine on every iPhone
+> sold. The two rivals are financially interdependent, and each needs the other
+> to play its designated role.
+
+#### [The Demand Problem](../ai-happens/index.qmd)
+
+A market-failure mechanism not in the workshop's four-part list:
+
+> Every firm therefore has a rational-as-in-psychopathic incentive to automate
+> beyond the socially optimal level, because the gain from cutting labor costs
+> outweighs the diffuse shared consequence of eliminating consumer spending.
+
+Contrast this with Henry Ford's opposite logic ("his employees needed to earn
+enough to buy his cars") and Jack Dorsey/Block's 2025 layoffs being rewarded
+with a +25% stock bump.
+
+#### [Fads and Bubbles](../more-psychology/index.qmd)
+
+Tulip mania ("a single bulb of the Semper Augustus tulip sold in Amsterdam for
+the price of a house on a canal") and Isaac Newton in the South Sea Bubble ("I
+can calculate the motions of heavenly bodies, but not the madness of men"). The
+"greater fool theory" line "A bubble collapses when no greater fool can be
+found" is a quotable takeaway.
+
+#### [Big Tech is Like the Sharecropping System](../more-analogies/index.qmd)
+
+The chapter's most quotable metaphor for platform lock-in and information
+asymmetry is:
+
+> The audience is the crop; the algorithm change is the landlord raising the
+> rent after the harvest is in.
+
+#### [Control and Alternatives](../control-and-alternatives/index.qmd)
+
+The source for the "institutional variety" point: the shareholder firm is not
+natural or inevitable, and alternatives such as cooperatives and the Mittelstand
+are durable institutions, not seminar hypotheticals.

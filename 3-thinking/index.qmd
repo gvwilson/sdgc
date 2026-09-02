@@ -1,0 +1,170 @@
+# How People Actually Think
+
+*How do real humans make decisions, and how can that be exploited?*
+
+### Learning objectives
+
+-   Distinguish fast/automatic from slow/deliberate processing.
+-   Name several biases and give an example of each in an online setting.
+-   Explain how identity and group membership shape belief,
+    and what that implies for "just show people the facts".
+
+### Key concepts
+
+-   Dual-process theory [@Kahneman2011]: System 1 is fast, automatic, and
+    associative; System 2 is slow, effortful, and deliberative. Most online
+    behavior is System 1, which is why it is so predictable and so exploitable.
+-   Heuristics and biases: availability (what comes easily to mind), anchoring
+    (the first number or frame sticks), confirmation (we seek and credit what we
+    already believe), representativeness (we judge by resemblance, not base
+    rates).
+-   Motivated reasoning: when identity is at stake, reasoning becomes a lawyer
+    hired to defend a conclusion rather than a judge weighing evidence.
+-   Social identity [Tajfel1979]: the mere assignment of people to groups
+    produces in-group favoritism. People hold beliefs partly to *belong*, not
+    only to be right.
+-   Conformity and obedience: Asch's line-length studies [@Asch1956] and
+    Milgram's obedience experiments show how powerfully social context shapes
+    behavior.
+-   Moral foundations [@Haidt2012]: different audiences weight values such as
+    care/harm, fairness, loyalty, authority, and purity differently.  Persuasion
+    that ignores this fails.
+-   Attention as a scarce resource: variable rewards, infinite scroll, and dark
+    patterns are engineered to exploit known psychology.
+-   Loss aversion and hyperbolic discounting: losses loom larger than gains, and
+    distant costs are heavily discounted—taxi drivers work longer on bad days,
+    and "our future selves are strangers" (gym memberships, quitting smoking).
+-   Status and relative position: people care about where they stand relative to
+    others, not just about absolute level; this is why public status comparisons
+    are so powerful.
+-   Moral disengagement [@Bandura1999]: euphemisms and relabeling let good
+    people do harmful work without feeling like bad people.
+
+### Content
+
+1.  Opening question (3 min): "Why did you click the last thing you clicked?"
+1.  Two systems and biases (15 min): System 1/System 2, then the biases with
+    everyday online examples. Emphasize: these are *features*, usually adaptive,
+    but they are predictable, and predictability is exploitability. Add loss
+    aversion and hyperbolic discounting: taxi drivers work longer on bad days,
+    and "our future selves are strangers" (gym memberships, quitting smoking).
+1.  Identity, belonging, and status (15 min): Minimal-group results;
+    identity-protective cognition; Asch and Milgram as demonstrations that social
+    context can overpower private judgment (including critique of Milgram's
+    findings). Moral foundations: why two reasonable people talk past each other
+    about content moderation. Then status: it beats income. Norway's public tax
+    records widened the well-being gap 29% (Perez-Truglia), and Robert Frank's
+    local-rank finding shows people care about position, not level.
+1.  People want data but believe stories (5 min): public-health campaigns use
+    named people, not statistics; industries fund data-heavy think tanks for the
+    *appearance* of rigor.
+1.  Nudges, defaults, and the attention economy (12 min): Map the psychological
+    mechanisms to specific design choices: variable rewards, manufactured
+    urgency, disguised ads, social proof, default nudges. The nudge proof is
+    strong: pension auto-enrollment took participation from 50-60% to 80-90% (UK
+    2012, ~10M workers), and the Behavioural Insights Team's "nine out of ten
+    pay on time" tax letter. A design choice is a psychological intervention,
+    whether the designer acknowledges it or not.
+1.  Moral disengagement (5 min): Bandura's point that euphemisms let good people
+    do harmful work—"user data as exhaust" and "engagement optimization" are the
+    tech versions.
+
+### Exercises
+
+Bias autopsy.
+:   Take a recent online argument or viral post. Identify at least two specific
+    biases at work (confirmation, availability, in-group signaling, anchoring)
+    and say how the platform's design amplified them.
+
+Dark-pattern hunt.
+:   In a product you use, find one dark pattern (forced continuity, disguised
+    ads, manufactured urgency, infinite scroll, confirshaming).  Name the
+    psychological mechanism it exploits.
+
+Identity check.
+:   Think of a belief you hold partly because of group membership. Describe,
+    honestly, what would happen to your social life if you changed it. Discuss
+    what this implies for "if we just showed people the facts."
+
+Moral-foundations translation.
+:   Pick a policy debate (e.g., whether to moderate misinformation). Argue it
+    once from a care/fairness frame and once from a loyalty/authority/purity
+    frame. Which audiences respond to which?
+
+Design a nudge.
+:   Choose a desirable online behavior (e.g., reading before sharing). Design
+    one System 1 intervention (default, friction, social proof) and one System 2
+    intervention (education, disclosure). Predict which works better and why,
+    then discuss the ethics of each.
+
+Status check.
+:   Identify one place where you compare yourself to others online (follower
+    counts, salary, shipping speed). What does the comparison do to your
+    satisfaction, and who benefits from keeping you in that comparison?
+
+Nudge autopsy.
+:   Find a default in a product you use (auto-renew, pre-checked boxes, a default
+    privacy setting). Trace who set it, who benefits, and what the opt-out rate
+    likely is.
+
+### Takeaway
+
+People are not broken computers: they are social animals with fast, fallible,
+identity-driven cognition. Design that respects this is possible; design that
+exploits it is the business model of the attention economy.
+
+### Further reading
+
+#### [People Don't Maximize Utility](../a-little-psychology/index.qmd)
+
+The workshop says "dual-process" and "framing"; this is the canonical, 90-second
+demonstration to run in the room:
+
+> Program A would save exactly 200 people. Program B had a one-in-three chance
+> of saving all 600 and a two-in-three chance of saving none. Most people chose
+> A… Statistically, the two programs are identical, but this time, most people
+> chose D. Nothing changed except how the outcomes were described.
+
+Further:
+
+> Participants spun a wheel rigged to land on either 10 or 65, then estimated
+> the percentage of African countries in the United Nations. Those who had seen
+> 65 guessed about 45 percent higher than those who had seen 10.
+
+The follow-through ("prosecutors set high anchor charges," "retailers display
+high 'original' prices," "speak first" in salary negotiation) connects it to
+participants' own lives.
+
+#### [Why Do You Want What You Want?](../more-psychology/index.qmd)
+
+The workshop treats preferences as a given, so briefly mention Bernays:
+
+> Women smoking in public was a social taboo; framing the act as feminist
+> defiance was designed to dissolve that taboo and open the female market to
+> tobacco sales. It worked.
+
+This sets up the "recommendation systems are also preference-construction
+systems" claim, and pairs naturally with Veblen ("keeping up with the Joneses")
+and the beauty-industry point that "the customer is never meant to arrive,
+because that would end the business model."
+
+#### [Why Don't People Just Say No?](../a-little-psychology/index.qmd)
+
+The workshop mentions Milgram, but not the most useful finding for a workshop
+about change, which is the effect of a single dissenter:
+
+> Sixty-five percent of subjects administered what they had been told was the
+> maximum voltage… because a person in a lab coat told them to.
+
+#### [Corporations are Psychopaths](../a-little-psychology/index.qmd)
+
+The Broadmoor finding that corporate executives out-score the patients of a
+hospital for the criminally insane on psychopathy measures will stick with
+learners.  Pair it with the Challenger "normalization of deviance" callout and
+the "we just build hammers" reframing in [More Psychology](../more-psychology/index.qmd).
+
+#### [Facts Alone Don't Change Minds](../a-little-psychology/index.qmd)
+
+This one line reframes the workshop's "just show people the facts" discussion,
+and the Facebook Papers/Frances Haugen callout gives it a current, concrete
+anchor.
