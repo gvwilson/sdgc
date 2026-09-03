@@ -12,70 +12,216 @@ subtitle: Why are some people consistently better off, and is that "natural"?
 
 :::
 
-## Key concepts
+When you explain why someone succeeded or failed,
+which verbs do you reach for?
+If you are like most people, you reach for verbs about the person—
+she *worked hard*, he *didn't apply himself*—
+rather than verbs about the system she was working inside.
+This chapter is about how much that reflex hides,
+and what it costs.
 
--   Stratification [@Weber1946]: three analytically distinct dimensions that
-    overlap but do not coincide:
-    1.  Class (economic position)
-    1.  Status (prestige and honor)
-    1.  Power (capacity to realize one's will)
--   Structural vs. individual explanation: attributing outcomes to systems and
-    positions versus attributing them to personal traits and effort.
--   Cumulative advantage (the Matthew effect): advantage begets advantage; early
-    differences compound over a lifetime.
--   Opportunity hoarding [@Tilly1998]: groups use credentials, networks, and
-    gatekeeping to keep advantages for themselves while appearing to reward
-    merit.
--   Intersectionality [@Crenshaw1989]: overlapping systems of disadvantage
-    interact; they do not simply add.
--   Social mobility: intergenerational mobility is far lower and stickier than
-    the "American Dream" story implies; "meritocracy" often functions as a
-    legitimation story for inherited advantage.
--   Meritocracy [@Young1958]: the word was coined in a 1958 *satire*;
-    merit-pay organizations show *larger* gender gaps (moral licensing), and
-    believing in meritocracy predicts harsher judgment of the poor.
--   Poverty and bandwidth [@Mullainathan2013]: scarcity depletes cognitive
-    capacity the way sleep deprivation does, which is why "just try harder" is
-    not a serious explanation.
+## Three Dimensions of Position
 
-## Content
+Max Weber argued that social position is not one thing but three,
+and that the three do not always travel together [@Weber1946].
+Class is economic position.
+Status is prestige and honor.
+Power is the capacity to realize one's will.
+A staff engineer at a large company may have high class but limited power;
+a founder has power;
+a content moderator has neither.
+The mismatches matter,
+because people assume that money, respect, and influence are interchangeable,
+and they are not.
 
-1.  Opening question: "When you explain why someone succeeded or failed,
-    which verbs do you reach for?"
-1.  Three dimensions: Weber's class/status/power, with tech examples: a
-    staff engineer may have high class but limited power; a founder has power; a
-    moderator has neither. Mismatches matter. Wilkinson & Pickett add the
-    cross-national finding: more unequal societies do worse on nearly every
-    social indicator, and the mechanism is status anxiety.
-1.  Structure vs. individual: The fundamental attribution error applied
-    to society: we explain *others'* outcomes by their traits and *our own* by
-    circumstance. Cumulative advantage: early advantage compounds.  Opportunity
-    hoarding: how "merit" filters are built to reproduce advantage.
-    Intersectionality: compounding and interacting disadvantage, and why systems
-    (e.g., a facial-recognition model, a hiring algorithm) distribute harm
-    unevenly across overlapping identities. Make discrimination concrete:
-   -   Audit studies: identical resumes with white-coded names get consistently
-       more callbacks; Rivera's "polished" versus "rough around the edges" is
-       class, not competence.
-   -   Amazon's internal recruiting tool (abandoned 2018) penalized resumes
-       containing "women's."
-   -   Women's share of computing was higher in the 1980s than today, so the
-       "pipeline" explanation is contradicted by the evidence.
-   -   Becker's 1957 prediction that competition eliminates discrimination was
-       falsified; favored-group workers benefit from exclusion (LBJ: "give him
-       somebody to look down on").
-1.  Poverty is a tax on cognition: scarcity depletes cognitive bandwidth
-    like sleep deprivation [@Mullainathan2013]; McIntosh's invisible knapsack
-    explains why "just try harder" fails [@McIntosh1989]. Credit bureaus collect
-    without consent and profit whether the data is accurate or not (Equifax
-    2017: ~147M exposed); accuracy is not fairness.
-1.  Meritocracy, examined: "Meritocracy" was coined by Michael Young in
-    a 1958 satire. Merit-pay organizations show *larger* gender pay gaps (moral
-    licensing [@Castilla2010]), and believing in meritocracy predicts harsher
-    judgment of the poor.
-1.  Mobility and measurement: Mobility is low and sticky across
-    generations. Treat "meritocracy" as an empirical claim to test, not an
-    assumption.
+The differences between positions are not just individual;
+they are social and, at the level of whole countries, measurable.
+Richard Wilkinson and Kate Pickett compared rich societies
+and found that more unequal ones do worse on nearly every social indicator—
+health, violence, trust, education, even mental illness—
+regardless of how wealthy the society is overall [@Wilkinson2011].
+Their explanation was status anxiety:
+in an unequal society, people spend their lives comparing themselves to those above them,
+and the anxiety that produces is itself destructive.
+Inequality is not only a distribution of resources;
+it is a distribution of stress.
+
+## Structure and the Individual
+
+The fundamental attribution error is the tendency
+to explain other people's outcomes by their traits
+and our own by circumstance.
+Applied to society,
+it becomes the default explanation for inequality:
+the successful are talented and hardworking,
+the unsuccessful are not.
+The evidence points the other way.
+
+The first mechanism is cumulative advantage,
+sometimes called the Matthew effect:
+advantage begets advantage.
+A wealthy school, a first internship, seed funding, an early follower count—
+each early advantage compounds,
+so that small differences at the start become large differences over a lifetime.
+The second is opportunity hoarding [@Tilly1998]:
+groups use credentials, networks, and gatekeeping
+to keep advantages for themselves while appearing to reward merit.
+The third is intersectionality [@Crenshaw1989]:
+overlapping systems of disadvantage interact rather than simply add,
+so that a person facing racism and sexism experiences something worse
+than the sum of the two,
+and a system designed to detect one kind of bias misses the people caught in both.
+
+The discrimination is concrete and, where tested, consistent.
+In {{<g audit-studies "audit studies">}},
+researchers send identical resumes to employers,
+varying only the name at the top,
+and names read as white consistently receive more callbacks [@Rivera2015].
+Lauren Rivera found that interviewers at elite firms
+described candidates as "polished" or "rough around the edges"
+in ways that tracked class background rather than competence.
+Amazon's internal recruiting tool, abandoned in 2018,
+penalized resumes containing the word "women's."
+And women's share of computing was higher in the 1980s than it is today,
+which directly contradicts the "pipeline" explanation
+that blames the shortage on a lack of interested women.
+
+Gary Becker predicted in 1957 that competition would eliminate discrimination,
+because a firm that ignored talent would be outcompeted [@Becker1971].
+The prediction was falsified.
+Discrimination persists in competitive markets because favored-group workers benefit from it,
+which is what Lyndon Johnson meant when he said that
+if you can convince the lowest white man he is better than the best Black man,
+he won't notice you are picking his pocket.
+
+## The Ledger Beneath the Surface
+
+The categories we treat as natural facts about people
+were mostly built by someone, for a reason.
+In 1950, South Africa's apartheid government created the Race Classification Board,
+whose examiners used the "pencil test"—
+if a pencil inserted into someone's hair stayed in place,
+the person might be classified as "Coloured" rather than "White."
+Siblings were assigned to different categories
+with different legal rights and different permitted neighborhoods.
+The US "Hispanic" category is younger still:
+it does not appear in census data before 1970,
+when the Nixon administration created it to aggregate Spanish-speaking populations
+for federal programs [@Omi2015].
+
+These categories leave a measurable trace.
+Neighborhoods that were {{<g redlining "redlined">}} in the twentieth century
+still show lower average credit scores today,
+not because their residents are less creditworthy,
+but because they were systematically excluded
+from the wealth-building mechanisms that credit history reflects.
+Credit bureaus sit at the center of this arrangement.
+They collect financial data about hundreds of millions of people without consent,
+profit whether the data is accurate or not,
+and in the 2017 Equifax breach
+exposed the personal information of roughly 147 million people
+while facing no criminal charges.
+Accuracy and fairness are not the same thing:
+a score that accurately summarizes a history of exclusion still perpetuates it.
+
+## Poverty Is a Tax on Cognition
+
+Sendhil Mullainathan and Eldar Shafir found that scarcity
+depletes cognitive capacity the way sleep deprivation does [@Mullainathan2013].
+Managing an unpredictable income,
+tracking which bills are overdue,
+deciding whether the bulk item is worth the storage cost—
+these consume the {{<g cognitive-bandwidth "cognitive bandwidth">}} that a person then does not have
+for navigating bureaucracies or resisting temptation.
+Peggy McIntosh called the flip side an "invisible knapsack":
+a set of advantages so routine that those who carry them
+do not experience them as advantages at all [@McIntosh1989].
+You do not notice that your name gets callbacks,
+that your neighborhood has a library,
+or that the official treats you as a legitimate claimant rather than a probable fraud.
+
+This is why "just try harder" is not a serious explanation.
+When Britain's Universal Credit system told claimants to "just go to the library" to apply online,
+the suggestion ignored that the library required a membership card,
+that the card required proof of address,
+and that the application timed out and lost your work
+if you did not finish it in a single session.
+The word "just" was doing an enormous amount of lifting.
+Each "just" solution transfers the cost of a structural failure
+onto the person least able to bear it [@Eubanks2018].
+
+## Meritocracy, Examined
+
+The word "meritocracy" was coined by Michael Young in a 1958 *satire* [@Young1958].
+His dystopia imagined a society that perfected the measurement of talent
+and sorted people ruthlessly by it,
+producing a ruling class convinced of its own deservingness.
+The word was then adopted as a term of praise,
+and Young spent the rest of his life pointing out the confusion.
+
+The claim does not survive contact with the data.
+Organizations that explicitly adopt merit-based pay principles
+show *larger* gender pay gaps than those that do not [@Castilla2010].
+The mechanism appears to be {{<g moral-licensing "moral licensing">}}:
+people who believe the system is already fair
+feel less need to monitor their own judgments for bias.
+Believing in meritocracy also predicts harsher judgment of people who fail—
+if outcomes are deserved, then failure is evidence of personal deficiency—
+which conveniently shifts responsibility from structures to individuals.
+
+The most instructive case is Andrew Carnegie.
+He accumulated his fortune partly by suppressing wages and,
+in 1892,
+hiring Pinkerton detectives to break a strike at his Homestead plant that left ten workers dead.
+He spent his final decades funding libraries, universities, and concert halls,
+on his terms:
+cities had to provide the land and commit to maintaining the buildings in perpetuity.
+The more consequential precedent was the Flexner Report of 1910,
+commissioned by the Carnegie Foundation.
+It raised medical training standards,
+and it also closed most of the schools that had trained Black physicians
+or admitted women in significant numbers [@Reich2018].
+Both are opportunity hoarding wearing a merit badge.
+Mobility between generations is far lower and stickier than the "American Dream" story implies,
+so "meritocracy" is best treated not as an assumption
+but as an empirical claim to test.
+
+## The Gendered Economy
+
+On October 24, 1975,
+ninety percent of Icelandic women refused to work—
+at paid jobs, in the home, or anywhere else.
+Schools closed, factories shut down, flights were cancelled,
+and the economy of Iceland effectively stopped.
+The women had made visible something the national accounts refuse to see:
+the work that has no price.
+
+Marilyn Waring spent years documenting the decisions embedded in GDP [@Waring1988].
+A woman who cooks dinner for her family contributes nothing to GDP,
+but if she hires a cook and goes out to work herself,
+GDP rises twice—
+once for her wages and once for the cook's.
+The system counts the second arrangement as more productive,
+a choice made by people who had mostly never performed the work in question.
+
+The sociologist Arlie Hochschild found that women in dual-income couples
+were coming home and working a second shift of domestic labor [@Hochschild1989].
+Over the course of a year,
+the women she studied worked roughly a full additional month compared to their partners,
+and then explained the inequality away with "family myths"—
+stories about why the division made sense in their particular case.
+The rationalization is the key point:
+exploitation is most durable when those experiencing it
+explain it to themselves as freedom.
+
+The platform economy has reproduced the structure with new interfaces.
+Apps coordinating cleaning, childcare, and elder care present themselves as markets
+connecting independent contractors with clients,
+but what they actually do is take informal, feminized labor that was already undervalued
+and formalize it while keeping the wages and protections of the informal economy.
+The worker bears the risk,
+the platform takes the margin,
+and the devaluation is the same one the national accounts have performed for decades.
 
 ::: {.callout-note title="Takeaway"}
 
@@ -122,63 +268,3 @@ Bandwidth check.
 :   List five decisions you make easily when rested that become hard when you
     are tired or under financial pressure. What would a product look like if it
     assumed its users were often in that state?
-
-## Further reading
-
-### [The Hidden Ledger](../inequality/index.qmd)
-
-This quote drives home how arbitrary classifications are:
-
-> In 1950, South Africa's apartheid government created the Race Classification
-> Board… The examiners used what they called the pencil test: if a pencil
-> inserted into someone's hair stayed in place without falling, the person might
-> be classified as 'Coloured' rather than 'White.'
-
-The follow-through on siblings classified differently, with different rights,
-makes intersectionality concrete. The "Hispanic" category being invented by the
-Nixon administration in 1970 is the same point in a US key.
-
-### [The Hidden Ledger](../inequality/index.qmd)
-
-Cumulative advantage across generations, made measurable:
-
-> Neighborhoods that were redlined in the twentieth century still show lower
-> average credit scores today: not because their residents are less
-> creditworthy, but because they were systematically excluded.
-
-### [Why Don't You Just…](../inequality/index.qmd)
-
-A scientific explanation of why "just try harder" is wrong, and why individual
-explanations are the default. The "Universal Credit/just go to the library"
-loop is the human-scale companion story.
-
-### [Who Gets to Decide](../inequality/index.qmd)
-
-Carnegie is an exemplary paradox: ten workers killed by Pinkertons in 1892, then
-a lifetime funding libraries "on his terms." The Flexner Report is the sharper
-institutional example: it raised medical standards *and* "closed most of the
-schools that had trained Black physicians or admitted women in significant
-numbers." Both are opportunity hoarding wearing a merit badge.
-
-### [Women's Work](../control-and-alternatives/index.qmd)
-
-The workshop doesn't talk about gender as much as it should. Some points to
-highlight:
-
-- Iceland 1975: "ninety percent of Icelandic women refused to work at paid jobs,
-  in the home, or anywhere else… The economy of Iceland effectively stopped."
-- Waring on GDP [@Waring1988]: a woman cooking for her family adds nothing to
-  GDP, but if she hires a cook and works, GDP rises twice.
-- The "second shift" [@Hochschild1989]: women in dual-income couples work
-  "roughly a full additional month" per year, and rationalize it via "family
-  myths."
-
-This also connects directly to the platform economy (care-work apps formalize
-undervalued labor "while keeping the wages and protections of the informal
-economy").
-
-### [More Psychology](../more-psychology/index.qmd)
-
-The source for the meritocracy and audit-study material: "meritocracy" was
-coined in a 1958 satire, merit-pay organizations show larger gender gaps, and
-identical resumes get different callbacks depending on the name at the top.

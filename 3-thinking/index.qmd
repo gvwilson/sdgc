@@ -12,65 +12,222 @@ subtitle: How do real humans make decisions, and how can that be exploited?
 
 :::
 
-## Key concepts
+Why did you click the last thing you clicked?
+The honest answer is usually not "because I weighed my options and chose rationally."
+It is something closer to "because it was there, it looked familiar, and everyone else seemed to be clicking."
+Most of what people do online is not the product of careful deliberation;
+it is the product of fast, automatic cognition,
+and fast, automatic cognition is predictable.
+Predictability is exploitability.
 
--   Dual-process theory [@Kahneman2011]: System 1 is fast, automatic, and
-    associative; System 2 is slow, effortful, and deliberative. Most online
-    behavior is System 1, which is why it is so predictable and so exploitable.
--   Heuristics and biases: availability (what comes easily to mind), anchoring
-    (the first number or frame sticks), confirmation (we seek and credit what we
-    already believe), representativeness (we judge by resemblance, not base
-    rates).
--   Motivated reasoning: when identity is at stake, reasoning becomes a lawyer
-    hired to defend a conclusion rather than a judge weighing evidence.
--   Social identity [Tajfel1979]: the mere assignment of people to groups
-    produces in-group favoritism. People hold beliefs partly to *belong*, not
-    only to be right.
--   Conformity and obedience: Asch's line-length studies [@Asch1956] and
-    Milgram's obedience experiments show how powerfully social context shapes
-    behavior.
--   Moral foundations [@Haidt2012]: different audiences weight values such as
-    care/harm, fairness, loyalty, authority, and purity differently.  Persuasion
-    that ignores this fails.
--   Attention as a scarce resource: variable rewards, infinite scroll, and dark
-    patterns are engineered to exploit known psychology.
--   Loss aversion and hyperbolic discounting: losses loom larger than gains, and
-    distant costs are heavily discounted—taxi drivers work longer on bad days,
-    and "our future selves are strangers" (gym memberships, quitting smoking).
--   Status and relative position: people care about where they stand relative to
-    others, not just about absolute level; this is why public status comparisons
-    are so powerful.
--   Moral disengagement [@Bandura1999]: euphemisms and relabeling let good
-    people do harmful work without feeling like bad people.
+## Two Systems, Many Biases
 
-## Content
+The psychologist Daniel Kahneman described two ways of thinking [@Kahneman2011].
+System 1 is fast, automatic, and associative:
+it is what lets you read a familiar face, flinch at a loud noise, or scroll without deciding to scroll.
+System 2 is slow, effortful, and deliberative:
+it is what you use to check a calculation, weigh a tradeoff, or resist the scroll.
+Most online behavior is System 1,
+which is why it is so predictable,
+and why it is so cheap to exploit at scale.
 
-1.  Opening question: "Why did you click the last thing you clicked?"
-1.  Two systems and biases: System 1/System 2, then the biases with
-    everyday online examples. Emphasize: these are *features*, usually adaptive,
-    but they are predictable, and predictability is exploitability. Add loss
-    aversion and hyperbolic discounting: taxi drivers work longer on bad days,
-    and "our future selves are strangers" (gym memberships, quitting smoking).
-1.  Identity, belonging, and status: Minimal-group results;
-    identity-protective cognition; Asch and Milgram as demonstrations that social
-    context can overpower private judgment (including critique of Milgram's
-    findings). Moral foundations: why two reasonable people talk past each other
-    about content moderation. Then status: it beats income. Norway's public tax
-    records widened the well-being gap 29% (Perez-Truglia), and Robert Frank's
-    local-rank finding shows people care about position, not level.
-1.  People want data but believe stories: public-health campaigns use
-    named people, not statistics; industries fund data-heavy think tanks for the
-    *appearance* of rigor.
-1.  Nudges, defaults, and the attention economy: Map the psychological
-    mechanisms to specific design choices: variable rewards, manufactured
-    urgency, disguised ads, social proof, default nudges. The nudge proof is
-    strong: pension auto-enrollment took participation from 50-60% to 80-90% (UK
-    2012, ~10M workers), and the Behavioural Insights Team's "nine out of ten
-    pay on time" tax letter. A design choice is a psychological intervention,
-    whether the designer acknowledges it or not.
-1.  Moral disengagement: Bandura's point that euphemisms let good people
-    do harmful work—"user data as exhaust" and "engagement optimization" are the
-    tech versions.
+The {{<g heuristics "heuristics">}} System 1 uses are usually adaptive.
+Nearby numbers are usually informative,
+so {{<g anchoring "anchoring">}}—the tendency to lean on the first number you see—
+usually helps.
+In one experiment, people spun a wheel rigged to land on 10 or 65,
+then estimated the percentage of African countries in the United Nations;
+those who had seen 65 guessed about 45 percent higher than those who had seen 10.
+They knew the wheel was random,
+but the number shaped their thinking anyway.
+This is why prosecutors set high anchor charges,
+why retailers display high "original" prices,
+and why the person who names the first number in a salary negotiation usually wins [@Galinsky2001].
+
+The {{<g availability-heuristic "availability heuristic">}} says that
+people estimate how likely something is by how easily examples come to mind.
+After a plane crash dominates the news,
+people overestimate the risk of flying,
+even though the statistics have not changed.
+Confirmation bias pushes people toward evidence that supports what they already believe,
+and the representativeness heuristic makes them judge by resemblance rather than base rates.
+None of these are bugs;
+they are features of a mind tuned for speed.
+But a feature is an exploit waiting to be found,
+and the attention economy has found them all.
+
+Two more findings matter for understanding online behavior.
+The first is {{<g loss-aversion "loss aversion">}}:
+a loss produces roughly twice the emotional impact of an equivalent gain.
+Taxi drivers in New York and Singapore work longer hours on bad days,
+when earnings are below their daily target,
+and knock off early on good days—
+managing losses against a reference point rather than maximizing income.
+The second is {{<g hyperbolic-discounting "hyperbolic discounting">}}:
+an extremely steep preference for the present over any future point.
+This is why someone can genuinely plan to quit smoking next year while lighting a cigarette,
+and why gym memberships are purchased with full intention and then rarely used.
+Our future selves are strangers,
+and we are generous to ourselves and stingy with strangers.
+
+## Belonging and Obedience
+
+People do not hold beliefs only to be right;
+they hold them partly to belong.
+The psychologist Henri Tajfel found that merely assigning people to groups at random—
+by a coin flip, by an arbitrary label—
+was enough to produce in-group favoritism [@Tajfel1979].
+Once a belief is tied to membership in a group,
+changing it is not just an intellectual update;
+it is a social risk.
+{{<g motivated-reasoning "Motivated reasoning">}} is what happens next:
+the mind becomes a lawyer hired to defend a conclusion
+rather than a judge weighing evidence.
+
+Social context can overpower private judgment outright.
+In Solomon Asch's line-length studies,
+subjects who could plainly see that two lines were the same length
+still agreed with a roomful of confederates who said otherwise [@Asch1956].
+In Stanley Milgram's obedience experiments,
+sixty-five percent of subjects administered what they had been told was the maximum voltage
+to an unseen "learner,"
+because a person in a lab coat told them to [@Milgram1974].
+Milgram's interpretation remains contested—his subjects were also following cues
+that this was a legitimate scientific procedure—
+but the core finding is robust:
+ordinary people will do harmful things when the social setting demands it.
+And the setting can be broken by a single dissenter.
+When one confederate refused to continue,
+compliance collapsed,
+because the social proof of refusal is as powerful as the social proof of compliance.
+
+This is where moral differences become legible.
+Jonathan Haidt's moral-foundations theory holds that
+different audiences weight different values—care, fairness, loyalty, authority, purity—differently [@Haidt2012].
+Two reasonable people can talk past each other about content moderation
+because one is reasoning from care and fairness
+while the other is reasoning from loyalty and authority.
+Persuasion that ignores which foundation the other person is standing on
+is not persuasion at all.
+
+## Status and the Social Self
+
+What people want is not only things;
+it is position.
+In 2001, Norway made its tax records publicly searchable online,
+and Ricardo Perez-Truglia used the moment as a natural experiment [@PerezTruglia2020].
+Absolute incomes did not change,
+but the well-being gap between higher- and lower-income Norwegians widened by 29 percent,
+because people could now see exactly where they stood relative to everyone else.
+Robert Frank found the same preference in the workplace:
+workers systematically accept lower total pay in exchange for higher rank within their peer group [@Frank1985].
+A programmer who is the best-paid person on a small team
+may prefer that to being a lower-ranked member of a higher-paying team.
+
+Thorstein Veblen saw this a century earlier.
+In *The Theory of the Leisure Class*,
+he described {{<g conspicuous-consumption "conspicuous consumption">}}:
+spending whose primary purpose is to signal social rank,
+and whose signal only works because it is costly [@Veblen1899].
+Fred Hirsch later pointed out that some goods are inherently {{<g positional-goods "positional">}}—
+their value depends on how few other people have them,
+and they cannot be democratized.
+An ocean view, a title, a degree from a selective school:
+these lose their value the moment everyone has one.
+Digital platforms have turned status into a continuous, quantified feed,
+where follower counts and reaction metrics do the work Veblen described,
+at a scale and refresh rate he could not have imagined.
+
+Preferences themselves are not as given as economics pretends.
+Edward Bernays, Sigmund Freud's nephew,
+was hired by American Tobacco in 1929 to make women smoke.
+He staged a group of women lighting cigarettes on Fifth Avenue as "torches of freedom,"
+framing a taboo-breaking act as feminist defiance,
+and it worked [@Bernays2024].
+Recommendation systems are the digital successor to this technique.
+They do not merely show you content that matches what you already want;
+they build a model of your pauses, clicks, and watch time,
+then serve content designed to maximize engagement.
+A recommendation system is also a preference-construction system,
+and the customer is never meant to arrive,
+because arrival would end the business model.
+
+## People Believe Stories, Not Spreadsheets
+
+A colleague once observed that people want data but believe stories.
+This is why the most effective public-health campaigns
+present specific, named people in specific situations
+rather than statistics.
+It is also why industries that want to prevent belief change
+fund think tanks that produce reports full of data:
+the point is not to persuade on the merits,
+but to borrow the appearance of rigor.
+The fossil-fuel industry has run this operation for thirty years,
+and tech companies have learned the technique.
+
+The deeper problem is that beliefs contested in public
+function primarily as signals of group identity [@SteinLubrano2024].
+Holding the wrong belief does not just mean being misinformed;
+it means being outside the group,
+so the social cost of updating is often higher than the mental cost of staying wrong.
+The Facebook Papers, leaked by Frances Haugen in 2021,
+showed that the company's own researchers knew Instagram was worsening mental health among teenage girls,
+and that its algorithms amplified outrage,
+and that the company chose not to act because acting would reduce engagement [@Frenkel2021].
+The people inside those organizations were not failing to understand the evidence.
+They were responding to incentives that made understanding expensive.
+
+## Nudges and the Attention Economy
+
+If small changes in how choices are presented can have large effects,
+then {{<g choice-architecture "choice architecture">}} is a policy tool.
+When workers must actively opt in to a pension plan,
+participation runs around 50 to 60 percent;
+when they are enrolled unless they opt out,
+it rises to 80 to 90 percent,
+with no change to the financial terms.
+Britain's automatic-enrollment reform of 2012
+brought over ten million additional workers into workplace pensions,
+and the Behavioural Insights Team found that adding
+"nine out of ten people in your area pay their taxes on time"
+to a tax letter recovered tens of millions of pounds at essentially no cost [@Thaler2009].
+
+The same science runs the attention economy in the other direction.
+Variable rewards, infinite scroll, manufactured urgency, disguised ads,
+social proof, and default nudges are all engineered to exploit known psychology.
+The distinction between a {{<g nudge "nudge">}} and a shove
+is not in the mechanism but in whose interests the design serves.
+Automatic pension enrollment serves the worker;
+automatic subscription renewal that is hard to cancel serves the company.
+Every notification badge and "people who liked this also liked" recommendation
+is a behavioral intervention.
+A design choice is a psychological intervention,
+whether the designer acknowledges it or not.
+
+## Moral Disengagement
+
+The last piece of the puzzle is how good people do harmful work
+without feeling like bad people.
+Albert Bandura called the mechanism {{<g moral-disengagement "moral disengagement">}} [@Bandura1999].
+It operates through euphemism, displacement of responsibility,
+diffusion of responsibility, and treating the harmed as abstractions.
+The tech industry's vocabulary is a catalogue of these moves:
+user data described as "exhaust,"
+manipulative design described as "engagement optimization,"
+surveillance described as "connecting people with relevant products."
+
+None of this requires individual villainy.
+When Robert Hare, the psychologist behind the Psychopathy Checklist,
+was asked to evaluate a publicly traded corporation as if it were a person,
+his conclusion was that it fit the profile [@Bakan2005].
+And the people who rise to the top of such organizations are not a random sample:
+one study of senior UK managers found they scored higher than the patients
+of a high-security psychiatric hospital
+on three personality-disorder traits [@Board2005].
+The system selects for the traits it rewards,
+and the traits it rewards are not always the ones it says it wants.
+Design that respects how people actually think is possible;
+design that exploits it is the business model of the attention economy.
 
 ::: {.callout-note title="Takeaway"}
 
@@ -117,59 +274,3 @@ Nudge autopsy.
 :   Find a default in a product you use (auto-renew, pre-checked boxes, a default
     privacy setting). Trace who set it, who benefits, and what the opt-out rate
     likely is.
-
-## Further reading
-
-### [People Don't Maximize Utility](../a-little-psychology/index.qmd)
-
-The workshop says "dual-process" and "framing"; this is the canonical, 90-second
-demonstration to run in the room:
-
-> Program A would save exactly 200 people. Program B had a one-in-three chance
-> of saving all 600 and a two-in-three chance of saving none. Most people chose
-> A… Statistically, the two programs are identical, but this time, most people
-> chose D. Nothing changed except how the outcomes were described.
-
-Further:
-
-> Participants spun a wheel rigged to land on either 10 or 65, then estimated
-> the percentage of African countries in the United Nations. Those who had seen
-> 65 guessed about 45 percent higher than those who had seen 10.
-
-The follow-through ("prosecutors set high anchor charges," "retailers display
-high 'original' prices," "speak first" in salary negotiation) connects it to
-participants' own lives.
-
-### [Why Do You Want What You Want?](../more-psychology/index.qmd)
-
-The workshop treats preferences as a given, so briefly mention Bernays:
-
-> Women smoking in public was a social taboo; framing the act as feminist
-> defiance was designed to dissolve that taboo and open the female market to
-> tobacco sales. It worked.
-
-This sets up the "recommendation systems are also preference-construction
-systems" claim, and pairs naturally with Veblen ("keeping up with the Joneses")
-and the beauty-industry point that "the customer is never meant to arrive,
-because that would end the business model."
-
-### [Why Don't People Just Say No?](../a-little-psychology/index.qmd)
-
-The workshop mentions Milgram, but not the most useful finding for a workshop
-about change, which is the effect of a single dissenter:
-
-> Sixty-five percent of subjects administered what they had been told was the
-> maximum voltage… because a person in a lab coat told them to.
-
-### [Corporations are Psychopaths](../a-little-psychology/index.qmd)
-
-The Broadmoor finding that corporate executives out-score the patients of a
-hospital for the criminally insane on psychopathy measures will stick with
-learners.  Pair it with the Challenger "normalization of deviance" callout and
-the "we just build hammers" reframing in [More Psychology](../more-psychology/index.qmd).
-
-### [Facts Alone Don't Change Minds](../a-little-psychology/index.qmd)
-
-This one line reframes the workshop's "just show people the facts" discussion,
-and the Facebook Papers/Frances Haugen callout gives it a current, concrete
-anchor.

@@ -14,80 +14,172 @@ subtitle: What actually produces change?
 
 :::
 
-## Key concepts
+Name one thing that is better now than it was fifty years ago.
+Now ask who made it better, and how.
+Gay marriage is legal in more places than it was,
+the ozone hole is closing,
+cars have seatbelts,
+and far fewer people die in factory fires than did in 1911.
+None of these things happened by themselves,
+and none of them happened because the people with power were persuaded.
+They happened because organized groups applied sustained pressure over time,
+and they rarely happen any other way.
 
--   Social movements and collective action: movements succeed when they combine
-    organization, opportunity, and framing (resource mobilization and
-    political-process traditions).
--   Policy window [@Kingdon1995]: when the problem stream (a defined crisis),
-    the politics stream (a constituency and mood), and the policy stream (a
-    ready-made solution) align, change becomes possible. Windows open rarely and
-    close quickly.
--   Coalitions: durable change usually requires unusual alliances across groups
-    that do not otherwise agree.
--   Exit, voice, and loyalty [@Hirschman1970]: the three responses to a failing
-    institution, and why voice is usually the only one that changes the
-    institution itself.
--   Technologists' leverage: scarce skills, access to systems, and inside
-    knowledge vs. constraints (NDAs, golden handcuffs, the myth of the "neutral
-    engineer").
--   Worker power: institutions such as codetermination, sectoral bargaining, and
-    arbitration have delivered durable gains; they are won, not conceded.
--   The five tools: collective organizing, regulatory pressure, alternative
-    structures, strategic communication, and sustained participation are an
-    alternative taxonomy of the reform menu.
+## How Change Happens
 
-## Content
+The historical record is consistent across very different contexts.
+Change happens when three things come together:
+organization, opportunity, and framing.
+The civil rights movement, environmental regulation, seat belts, tobacco control,
+marriage equality, and worker safety all followed this pattern—
+slow, non-linear, and won by pressure rather than persuasion alone.
+The popular story that Rosa Parks was a spontaneous individual is factually wrong:
+she was the secretary of the Montgomery chapter of the NAACP,
+had recently attended a training center for organizers,
+and was chosen as a plaintiff deliberately [@Beckerman2022].
+The bus boycott that followed was coordinated by hundreds of people whose names are not remembered.
 
-1.  Opening question: "Name one thing that is better now than it was
-    fifty years ago. Who made it better, and how?"
-1.  How change happens: Organization + opportunity + framing.
-    Examples: civil rights, environmental regulation, seat belts, tobacco,
-    marriage equality, worker safety. Emphasize: change is slow, non-linear, and
-    won by *pressure*, not persuasion alone. Kingdon's three streams and the
-    policy window:
-    -   Problem: is it defined as a crisis?
-    -   Politics: who is the constituency?
-    -   Policy: is there a ready solution?
-    Add three more mechanisms: ACT UP (1987) used direct action to accelerate
-    drug approval and changed FDA timelines; the expanding circle distributed
-    slave narratives (Equiano, Douglass) as strategy and ran the 1790s sugar
-    boycott as the first mass consumer boycott; Kerala's 1969 land reform was won
-    by election, not occupation, and paid off in literacy and life-expectancy
-    gains once the landlord class's veto was broken.
-1.  Worker power: union wins were not conceded—the Combination Acts,
-    the Tolpuddle Martyrs, the 1926 General Strike, Thatcher, and the eight-hour
-    day that came only after WWI's fear of revolution. The institutions that
-    made them stick: German codetermination (workers hold half the board),
-    Australia's arbitration and "basic wage" (Harvester 1907), and COSATU's role
-    in ending apartheid. Rana Plaza (1,134 dead, 2013) led to the Bangladesh
-    Accord, a real gain, then weakened, then re-won (two steps forward, one step
-    back).
-1.  The technologist's role: Insider/outsider power. Engineers can
-    refuse, whistleblow, organize, build alternatives, or work on policy. Their
-    leverage is unusual (scarcity, access) and their constraints are real
-    (contracts, career risk, the ideology of neutrality). Two warnings: the
-    passion principle [@Cech2021] turns "do what you love" into a way for
-    employers to extract—*karoshi* ("death from overwork") is its Japanese
-    endpoint—and the software-engineering literature covers architecture and
-    management but not workers' rights or cooperatives, the way medicine once
-    hid its error rate (44k-98k preventable deaths/year).
-1.  Applying the toolkit: Name the harms (attention extraction,
-    misinformation, polarization, discrimination, labor deskilling,
-    surveillance, concentration, environmental cost). Map each to the day's
-    lessons.
-1.  Outline a realistic menu: transparency and audits, liability,
-    structural remedies (interoperability, breakups), worker power, public
-    alternatives, global coordination.  Be honest about capture risk for each.
-    DMA 2024 (gatekeepers, fines up to 20% of global revenue) and India's
-    UPI / Brazil's Pix are "public rails before dominance."
-1.  Synthesis and close: The arc of the day: "how society works" is
-    knowable, and knowing it is the prerequisite for changing it. The finale's
-    five tools are an alternative reform-menu taxonomy: collective organizing,
-    regulatory pressure, alternative structures, strategic communication, and
-    sustained participation (the Federalist Society's 40-year pipeline).
-    "Refusing to vote or join a union is a political act"; refusing to engage
-    simply delegates the decision to whoever will.
+John Kingdon gave the pattern a precise description [@Kingdon1995].
+Change becomes possible when three streams align:
+a problem defined as a crisis,
+a politics stream with a constituency and a mood,
+and a policy stream containing a ready-made solution.
+The window opens rarely and closes quickly,
+so the people who want change must have built the solution
+*before* the problem becomes undeniable.
+
+Three mechanisms illustrate how this works in practice.
+ACT UP, founded in 1987, used direct action to accelerate drug approval,
+targeting the FDA and pharmaceutical companies until they changed their timelines—
+a demonstration that the process of regulation itself can be shifted by organized pressure.
+The abolitionist movement distributed slave narratives
+such as Olaudah Equiano's 1789 narrative and Frederick Douglass's 1845 memoir,
+making suffering imaginable to readers who had never seen it,
+and ran the 1790s sugar boycott as the first mass consumer boycott in British history [@Hochschild2006].
+And Kerala, in southern India, won land reform in 1969 not through occupation but through election,
+breaking the veto of the landlord class and unlocking decades of gains
+in literacy and life expectancy [@Dreze2013].
+
+There is also a quieter side to the record.
+Erica Chenoweth found that campaigns engaging the active participation
+of roughly 3.5 percent of a population have repeatedly been enough to force change [@Chenoweth2011].
+In a city of half a million people,
+that is seventeen thousand people doing something instead of just complaining.
+And the capacity for that something is real.
+After the 1917 Halifax explosion and Hurricane Katrina,
+ordinary people organized mutual aid with remarkable speed and generosity,
+even as authorities and media reported violence that later investigation showed never happened [@Solnit2009;@Quarantelli1998].
+The capacity is there; the question is whether it is organized.
+
+## Worker Power
+
+Worker power is the clearest example of gains that were won, not conceded.
+The Combination Acts criminalized unions in Britain;
+the Tolpuddle Martyrs were transported to Australia for forming one;
+the 1926 General Strike was defeated;
+and Thatcher spent a decade breaking what remained.
+The eight-hour day did not arrive because employers became convinced workers deserved it;
+it arrived after the First World War,
+when the fear of revolution made the cost of continued resistance
+higher than the cost of concession.
+The Melbourne stonemasons won the first eight-hour day in 1856
+not through moral persuasion
+but by applying collective leverage at a moment of their opponents' weakness.
+
+The institutions that made these gains stick were deliberately built.
+German {{<g codetermination "codetermination">}} puts workers on corporate supervisory boards,
+half of them in large firms.
+Australia's Harvester judgment of 1907 established a "basic wage"
+through a system of arbitration rather than bargaining alone.
+And COSATU, the South African trade-union federation,
+was a decisive force in ending apartheid.
+The pattern persists today.
+When the Rana Plaza factory collapse killed 1,134 garment workers in 2013,
+it produced the Bangladesh Accord,
+a real gain,
+then weakened,
+then re-won—
+two steps forward, one step back.
+
+## The Technologist's Role
+
+Technologists hold unusual cards.
+Their skills are scarce, they have access to systems that others cannot see,
+and they carry inside knowledge of how the machinery actually works.
+They also face real constraints:
+contracts, career risk, and the ideology of neutrality
+that says an engineer's job is to build, not to choose.
+Erin Cech calls the ideology the passion principle:
+"do what you love" is converted into a reason to accept extraction,
+and its Japanese endpoint is *karoshi*, death from overwork [@Cech2021].
+The software-engineering literature is a symptom of the same blind spot:
+it covers architecture and management extensively
+but has almost nothing to say about workers' rights or cooperatives,
+the way medicine once hid its own error rate.
+
+The leverage is not theoretical.
+In 2023, the Writers Guild of America struck for five months
+and won explicit contract language that AI cannot write or rewrite scripts,
+and that scripts cannot be used to train AI systems [@Kelly2022].
+No individual writer could have secured that alone.
+Technologists can refuse, whistleblow, organize, build alternatives, or work on policy,
+and each of those is a form of pressure.
+
+## The Reform Menu
+
+The menu of possible responses is not mysterious.
+Transparency and audits make harms visible;
+liability makes them costly;
+structural remedies such as interoperability and breakups attack the concentration itself;
+worker power changes who has a seat at the table;
+public alternatives remove the need to beg;
+and global coordination handles harms that cross borders.
+
+Each has a capture risk, and each has an existence proof.
+Japan's postwar land reform seized agricultural land from landlords
+and sold it to the tenant farmers who worked it,
+an expropriation that broke the landlord class and set the stage for industrialization [@Studwell2013].
+The {{<g montreal-protocol "Montreal Protocol">}} worked where other environmental agreements failed
+because it combined a binding agreement,
+differentiated obligations,
+a technology-transfer fund,
+and trade sanctions against non-participants [@Parson2003].
+The European Union's Digital Markets Act of 2024
+forces designated gatekeepers to allow interoperability and forbids self-preferencing,
+with fines of up to 20 percent of global revenue.
+India's UPI and Brazil's Pix built public payment rails before any private platform could achieve lock-in.
+And the yakuza, Japan's organized crime syndicates,
+shrank from roughly 180,000 members in the 1960s to under 20,000 by the 2020s
+not because they became less useful,
+but because a sustained political decision made the cost of associating with them prohibitive.
+A structurally powerful industry can be made a source of vulnerability.
+
+## Five Tools
+
+The finale of this workshop offers an alternative taxonomy of the reform menu:
+five tools that have historically done the work.
+*Collective organizing* means building institutions that can act in coordination.
+*Regulatory pressure* means participating in the slow work of making rules.
+*Alternative structures* means building existence proofs that the current arrangement is not the only one:
+Mondragón has run as a worker cooperative for nearly seventy years,
+Vienna's Gemeindebau still houses working-class families a century on,
+Amul coordinates 3.6 million farmer-members,
+and Desjardins serves roughly eight million members and survived 2008
+in considerably better shape than the big banks.
+*Strategic communication* means engaging with the psychology of belief change,
+because facts do not change contested minds—stories told by trusted messengers do.
+And *sustained participation* means showing up for decades:
+the Federalist Society built its judicial pipeline over forty years,
+and the labor movement built the eight-hour day over the same span.
+
+This is the hardest part of the message for people accustomed to fast feedback loops.
+No single action produces structural change;
+what produces it is organizational capacity built before the political opening arrives,
+and the willingness to use that capacity when the opening comes.
+Refusing to vote or join a union is a political act,
+and refusing to engage simply delegates the decision to whoever will.
+How society works is knowable,
+and knowing it is the prerequisite for changing it.
 
 ::: {.callout-note title="Takeaway"}
 
@@ -141,83 +233,3 @@ Five tools.
     tools—collective organizing, regulatory pressure, alternative structures,
     strategic communication, sustained participation. Which tool is missing from
     most tech-industry versions of this plan?
-
-## Further reading
-
-### [The 3.5% Threshold](../change-happens/index.qmd)
-
-The 3.5% threshold of [@Chenoweth2011] made concrete:
-
-> in a city of half a million people, it is seventeen thousand people doing
-> something instead of just complaining.
-
-### [A Paradise Built in Hell](../change-happens/index.qmd)
-
-The workshop's change stories are all about pressure; this adds the *capacity*
-side (what gets built between crises). The Halifax Explosion (1917) and the
-Hurricane Katrina media-lie case are both ready to tell:
-
-> Subsequent investigation found that the reported gang violence did not
-> happen, the murder rate in the city did not spike, and most of the 'looting'
-> was people taking food and water to survive. But these lies had consequences.
-
-### [The Ozone Hole That Closed](../change-happens/index.qmd)
-
-The workshop mentions the ozone layer in passing; this is the full, hopeful case
-study of why Montreal worked:
-
-> The mechanism was a binding international agreement with differentiated
-> obligations, a technology transfer fund, and trade sanctions against
-> non-participants.
-
-### [The Eight-Hour Day](../control-and-alternatives/index.qmd)
-
-The workshop lists worker safety among "how change happens" examples; this is
-the origin story with a takeaway:
-
-> It was the first time anywhere in the world that workers had achieved the
-> eight-hour day; they did it not through moral persuasion but by applying
-> collective leverage at a moment of their opponents' weakness.
-
-### [Big Tech is Like the Yakuza](../harmful-models/index.qmd)
-
-A hopeful, non-obvious change story: a structurally powerful industry shrunk not
-by becoming less useful but by "a sustained political decision… to make the cost
-of association with them prohibitive":
-
-> Registered yakuza membership fell from roughly 180,000 in the 1960s to under
-> 20,000 by the early 2020s. None of this happened because the yakuza became
-> less useful.
-
-### [Alternatives That Scaled](../control-and-alternatives/index.qmd)
-
-The workshop's "public alternatives" bullet has no examples. These are the
-existence proofs: Red Vienna's Gemeindebau (still ~220,000 municipally owned
-apartments), Amul (3.6 million farmer-members), Desjardins (~8 million members,
-survived 2008 "in considerably better shape" than the big banks), and Mondragón
-("running for nearly seventy years") are not arguments in a seminar: they are
-institutions that issue annual reports.
-
-### [What Collective Action Has Achieved](../ai-happens/index.qmd)
-
-A recent proof that technologists' leverage is real, for the "technologist's
-role" section:
-
-> When the strike ended, the WGA had won explicit contract language: AI cannot
-> write or rewrite scripts, and scripts cannot be used to train AI systems.
-
-### [Land to the Tiller](../change-happens/index.qmd)
-
-The workshop's change stories are mostly bottom-up; this is the rare top-down
-case that reframes what "structural remedy" can mean:
-
-> Under American military occupation, Japan's agricultural land was seized from
-> landlords and sold to the tenant farmers who had been working it, at prices set
-> well below market value, paid in bonds that inflation promptly turned into
-> confetti. This was expropriation, and it worked.
-
-### [Conclusion](../finale/index.qmd)
-
-The "five tools" taxonomy and the ACT UP / expanding-circle stories: the reform
-menu is not just regulation—it is organizing, alternatives, communication, and
-sustained participation.

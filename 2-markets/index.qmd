@@ -13,78 +13,296 @@ subtitle: What are markets, and when do they fail?
 
 :::
 
-## Key concepts
+"Which product in this room is *unregulated*?"
+The answer, once you start looking, is none of them.
+Every object on the shelf exists inside a web of rules about who may sell it,
+what counts as fraud, who is liable when it fails, and how disputes get resolved.
+"The free market" is not the absence of rules;
+it is a particular set of them.
 
--   Embeddedness [@Polanyi2001]: markets are always embedded in a web of legal,
-    social, and political rules. Property rights, enforceable contracts,
-    currency, and liability all rest on the state. "Deregulation" is not the
-    removal of rules; it is the substitution of one set of rules for another.
--   Externalities: costs or benefits imposed on third parties that the price
-    does not capture. Pollution is the classic negative externality; attention
-    extraction and misinformation are its digital descendants.
--   Public goods: non-excludable and non-rivalrous goods like trust, safety, and
-    an informed electorate that markets under-produce because no one can be made
-    to pay.
--   Information asymmetry [@Akerlof1978]: when one party knows much more than
-    the other, the "market for lemons" result is that bad options drive out good
-    ones.
--   Market power: network effects and switching costs produce concentration,
-    sometimes "natural monopoly," and the ability to set terms rather than take
-    them.
--   Market failure: a situation in which an unadjusted market produces an
-    outcome that is neither efficient nor fair.
--   The commons [@Ostrom2015]: Hardin described an *unmanaged* commons he never
-    studied; Ostrom's eight design principles show communities can govern shared
-    resources without markets or the state.
--   Enshittification [@Doctorow2025]: platforms first attract users, then
-    extract value from users and from their suppliers.
+The journalist Tom Wainwright made the same point from the other direction.
+In order to show how the free market really works,
+he went and studied it in its pure, unconstrained form: the cocaine cartels [@Wainwright2017].
+Even there, the rules did not disappear.
+A cartel can't use trademark law,
+but it can use violence against competitors who sell adulterated product under the same name.
+The aim—maintaining exclusivity and quality signals—is the same;
+only the mechanism differs.
+Markets do not exist without rules.
+The interesting questions are which rules exist, who wrote them, and who benefits.
 
-## Content
+## Markets Are Made of Rules
 
-1.  Opening question: "Which product in this room is *unregulated*?"
-    Let the room discover that the answer is "none."
-1.  Markets are constructed: Every marketplace has rules about who may
-    sell, what counts as fraud, who is liable, and how disputes are resolved.
-    Those rules are choices with distributional consequences. Show that
-    "deregulation" is re-regulation. Fill in the history:
-   -   The barter myth [@Graeber2011]: credit and debt predate money; money
-       emerged to settle debts, not to simplify barter.
-   -   Limited liability is a grant from the state (Dutch East India Company,
-       1602), not a natural feature of commerce.
-   -   The Statute of Anne (1710) created copyright to break the Stationers'
-       monopoly, not to protect authors; the 1998 term extension was timed to
-       keep Mickey Mouse out of the public domain.
-   -   "Homo economicus" is a political argument dressed as math: from Hobbes to
-       Spencer's "survival of the fittest" to the rational agent.
-1.  Market failure: Four mechanisms, each with a tech example:
-    1.  Externalities (misinformation, polarization, teen anxiety as costs
-        priced at zero)
-    1.  Public goods (an informed public, institutional trust)
-    1.  Information asymmetry (you do not know what the recommender is doing, or
-        why)
-    1.  Market power (network effects make dominant social networks hard to
-        exit)
-1.  Add the commons as a fifth idea.  Apple's green-bubble lock-in is a
-    market-power case study—internal documents admit RCS would reduce the social
-    cost of switching, and the DMA forced support in 2024.
-1.  Public subsidy, private profit: every technology in the iPhone was
-    government-funded (DARPA internet, GPS, Siri/SRI); the mRNA vaccine produced
-    Moderna's ~$200B while the NIH's IP claim went unenforced; Apple paid 0.005%
-    tax on Irish profits.
-1.  Enshittification: Doctorow's ladder with concrete rungs—Booking.com's
-    commission from 12% to 25-30%, Columbia House's penny records, JanSport's
-    backpacks, YouTube's 2018 monetization threshold. Platforms first attract
-    users, then extract from them and their suppliers.
-1.  Institutional variety: beyond the shareholder firm—the Islamic waqf
-    (roughly a third of Ottoman farmland), keiretsu, the Mittelstand, the Hindu
-    Undivided Family (Tata/Birla). The firm we treat as "natural" is one choice
-    among many.
-1.  The MLM warning: the FTC found <1% of participants earned a net
-    profit; Amazon Basics competes with its own sellers using their sales data;
-    Uber pitched drivers as "entrepreneurs."
-1.  Who pays, who benefits: "Efficiency" is not the same as fairness. A
-    market can be efficient and still concentrate benefits and diffuse harms.
-    (Lesson 6 uses this distinction.)
+The idea that markets arise naturally and rules are later imposed on them
+gets the history backwards.
+David Graeber spent years studying debt across cultures and centuries,
+and found that the story economists tell about money—
+that barter came first,
+that money was invented to make barter easier,
+and that credit developed on top of money—
+has almost no support in the historical record.
+The fish-for-axes economy of introductory textbooks never existed.
+What appears instead are systems of mutual obligation:
+I owe you, you owe me, the village keeps track.
+Credit is older than markets and older than money,
+and money emerged not to simplify barter but to settle and record debts [@Graeber2011].
+
+Even the creation of money turns out to be a rule-bound, and faintly ridiculous, institution.
+In the 1660s,
+London goldsmiths began issuing paper receipts for the gold and silver stored in their vaults,
+and merchants discovered it was easier to pay each other with receipts than to cart metal through the streets.
+The goldsmiths then noticed that only a fraction of depositors ever came to claim their metal,
+so they issued more receipts than they had gold,
+lending out the difference and collecting interest.
+When a modern bank makes a loan,
+it does not lend out money that was previously deposited;
+it creates the deposit at the same moment it creates the loan.
+Money that did not exist comes into existence through the act of lending,
+and when the loan is repaid,
+that money is destroyed [@McLeay2014].
+Who gets to create money, and under what constraints,
+has always been a political question dressed up as a technical one.
+
+Other "natural" features of markets are legal grants.
+Limited liability—the rule that an investor can lose no more than they put in—
+was not a spontaneous invention of commerce.
+It was created by governments to encourage private investment in ventures too risky for one person to fund alone,
+appearing with the Dutch East India Company in 1602
+and changing who was willing to invest, in what, and on what scale.
+Copyright has the same character.
+The Statute of Anne, enacted in England in 1710,
+is generally called the first copyright law,
+but it was passed not to protect authors
+but to break the monopoly of the London Stationers' Company,
+a printers' guild,
+and to replace it with a new system of publisher monopolies operating for limited terms.
+Authors received rights in the statute only to the extent that they assigned them to publishers,
+who were the real beneficiaries [@Bracha2019].
+The framing of copyright as a natural right of creators was a later construction
+that reversed the actual history—
+and the 1998 Sonny Bono Copyright Term Extension Act was timed,
+notoriously,
+to keep the earliest Mickey Mouse films out of the public domain.
+
+Even the idea of a rational economic agent is a political argument dressed as mathematics.
+The figure travels from Hobbes's self-interested subject,
+through Herbert Spencer's "survival of the fittest,"
+to the utility-maximizing rational actor of neoclassical economics.
+Each step converted a claim about how people *ought* to behave
+into a description of how they naturally *do*,
+and the description has consequences:
+it suggests that whoever wins under current rules wins because the rules are fair.
+"Deregulation" is best understood the same way.
+It is never the removal of rules;
+it is the substitution of one set of rules for another,
+and the new rules have winners and losers just as the old ones did.
+
+## Four Ways Markets Fail
+
+A market fails when an unadjusted market produces an outcome that is neither efficient nor fair.
+There are four standard mechanisms,
+each with a technology-shaped example.
+
+The first is externalities:
+costs or benefits imposed on third parties that the price does not capture.
+Pollution is the classic negative externality;
+misinformation, polarization, and teen anxiety are its digital descendants,
+imposed at scale and priced at zero.
+A less obvious externality sits behind the automation debate.
+In a competitive market,
+an automating firm captures the full cost savings from replacing workers
+but bears only a fraction of the resulting destruction of consumer demand.
+Every firm therefore has a rational-as-in-psychopathic incentive to automate
+beyond the socially optimal level,
+because the gain from cutting labor costs outweighs the diffuse, shared consequence of eliminating consumer spending [@HemenwayFalk2026].
+Henry Ford understood the opposite logic:
+his employees needed to earn enough to buy his cars.
+The AI economy is eliminating the workers and expecting the cars to keep selling [@McGrann2026].
+
+The second is public goods:
+goods that are non-excludable and non-rivalrous,
+like an informed electorate, institutional trust, or online safety.
+No one can be made to pay for them,
+and one person's use does not diminish another's,
+so markets under-produce them.
+Every firm has an incentive to free-ride on the trust that others maintain,
+and no single company has an incentive to build it alone.
+
+The third is {{<g information-asymmetry "information asymmetry">}}.
+In George Akerlof's "market for lemons,"
+when the seller knows much more than the buyer about the quality of a used car,
+the bad cars drive out the good ones,
+because buyers can't tell the difference and won't pay for quality [@Akerlof1978].
+The same logic governs a recommendation system:
+you do not know what the recommender is doing, or why,
+and the operator does.
+When one party to a transaction can see the whole board and the other can see only their own move,
+the outcome is not a fair trade.
+
+The fourth is market power.
+{{<g network-effects "Network effects">}} and {{<g switching-costs "switching costs">}} produce concentration,
+sometimes a "natural monopoly,"
+and the ability to set terms rather than take them.
+Here the technology industry runs a remarkably effective piece of theater.
+Apple positions itself as the champion of privacy in explicit contrast to Google's surveillance-funded model,
+a rivalry performed with the moral intensity of professional wrestling.
+The industry term for such a collective fiction is {{<g kayfabe "kayfabe">}},
+and what the performance obscures is that Apple earns roughly $20 billion a year
+from a deal that makes Google the default search engine on every iPhone sold [@Barthes1972].
+The two rivals are financially interdependent,
+and each needs the other to keep playing its designated role.
+
+## The Commons and the Lock-In
+
+To the four standard failures, add a fifth idea: the {{<g commons "commons">}}.
+Garrett Hardin's "tragedy of the commons" described an *unmanaged* commons he never studied,
+and Elinor Ostrom spent her career documenting what he missed:
+communities that govern shared resources sustainably for centuries,
+without either private ownership or state control,
+through locally developed rules, monitoring, and graduated sanctions [@Ostrom2015].
+The commons did not inevitably collapse;
+the argument that it did was made by enclosure's beneficiaries and repeated long after it was refuted.
+
+Platform lock-in is the digital descendant of the same contest over who gets to set the rules.
+Apple's green-bubble effect is a case study in manufactured switching costs:
+internal documents admitted that adopting the RCS messaging standard would reduce the social cost of leaving the iPhone,
+and Apple declined to do it until the European Union's Digital Markets Act forced support in 2024.
+The {{<g sharecropping "sharecropping">}} system that spread across the post-Civil-War American South
+offers the sharpest metaphor for what that lock-in feels like.
+A farmer pledged next year's crop to cover this year's debt,
+buying supplies on credit at the landowner's store at prices the landowner set,
+so that a bad harvest—or a good one, depending on how the accounts were kept—
+left the farmer owing more at year's end than at the beginning [@Blackmon2008].
+The platform equivalent runs through percentage fees, arbitrary algorithmic changes, and paid promotion.
+The audience is the crop;
+the algorithm change is the landlord raising the rent after the harvest is in.
+
+## Public Subsidy, Private Profit
+
+When Steve Jobs unveiled the iPhone in 2007,
+the crowd responded as if Apple had conjured something from nothing.
+What the applause missed was that every technology in the device had been developed with government money:
+the internet from the Defense Advanced Research Projects Agency,
+GPS from the US Air Force,
+the touchscreen from National Science Foundation-funded research,
+and Siri from a DARPA-funded project at SRI International.
+The government took the risk;
+the shareholders reaped the benefit [@Mazzucato2013].
+
+The drug industry runs the same arrangement at enormous scale.
+The mRNA platform behind the Moderna and Pfizer-BioNTech vaccines
+was built over decades by Katalin Karikó and Drew Weissman at the University of Pennsylvania,
+supported by the National Institutes of Health.
+When COVID-19 hit,
+the US government funded the trials and pre-purchased hundreds of millions of doses
+before any vaccine was authorized.
+The government provided the science, the capital, and the guaranteed market.
+Moderna became a $200 billion company,
+and the NIH's claim to a share of the intellectual property—
+which would have given the public some leverage over pricing—
+was disputed and ultimately not enforced.
+Marianna Mazzucato calls this arrangement the privatization of gains and the socialization of losses.
+
+The cycle closes with tax.
+Apple's arrangements in Ireland allowed it to pay an effective tax rate of 0.005% on European profits,
+so that the firms benefiting most from public research
+pay the least back into the systems that produced it.
+Public investment creates the technology,
+private firms capture the profits,
+and international tax structures ensure that
+only a tiny fraction of those profits flows back to the public budget.
+
+## Enshittification
+
+Cory Doctorow gave the platform life cycle a name: {{<g enshittification "enshittification">}} [@Doctorow2025].
+A platform first attracts users with a genuinely useful service,
+then locks in its business customers,
+then harvests both by degrading service quality, raising prices,
+and extracting the maximum value from a market it now controls.
+
+The ladder has concrete rungs.
+Booking.com offered hotels a 12% commission in the mid-2000s to bring them customers,
+became the dominant hotel-search platform across Europe,
+and by 2019 was charging many hotels 25-30% plus fees for "preferred placement."
+Columbia House ran the same play in an earlier era:
+a penny bought you twelve records,
+but the fine print committed you to buying eight more at "regular club prices"
+two to three times the retail price.
+JanSport's backpacks followed a different route to the same destination:
+after a single corporation bought most of the durable-backpack brands,
+fabric thickness dropped, zippers weakened, and the lifetime warranty was rewritten
+to exclude precisely the failures that were now designed into the product.
+When YouTube changed its monetization criteria in 2018
+to require a thousand subscribers and four thousand watch hours,
+channels that had not yet crossed the threshold
+were cut off from income they had been building toward,
+on a platform that owned the audience they had grown.
+
+Enshittification is not a bug in an otherwise healthy system;
+it is the logical end of network effects and {{<g structural-lock-in "structural lock-in">}},
+protected from competitive correction because the switching costs that trap users
+also insulate the platform from consequences [@Doctorow2022].
+
+## The Greater Fool
+
+Markets fail not only when they are captured,
+but when they stop reflecting anything except the behavior of other traders.
+In February 1637,
+a single bulb of the Semper Augustus tulip sold in Amsterdam for the price of a house on a canal [@Mackay1841].
+Isaac Newton, one of the smartest people who ever lived,
+lost the equivalent of several million dollars in the South Sea Bubble of 1720,
+reportedly observing afterward that he could calculate the motions of heavenly bodies
+but not the madness of men.
+
+The {{<g greater-fool-theory "greater fool theory">}} explains how this keeps happening:
+you do not have to believe a tulip is worth a house,
+only that someone else will pay you more for it next month than you paid today.
+Robert Shiller argues that markets are driven less by rational calculation
+than by contagious stories,
+in a feedback loop he calls narrative economics:
+a compelling story changes behavior,
+changed behavior changes prices,
+and rising prices seem to confirm the story [@Shiller2015].
+A bubble collapses when no greater fool can be found.
+
+## Other Ways to Organize a Firm
+
+The shareholder-owned corporation is treated as the natural form of a firm,
+but it is one choice among many,
+and the alternatives are durable institutions rather than seminar hypotheticals.
+The Islamic {{<g waqf "waqf">}} is a charitable endowment whose property cannot be sold or inherited,
+and whose income must serve a specified purpose in perpetuity;
+at their peak in the eighteenth-century Ottoman Empire,
+estimates suggest that as much as a third of agricultural land was held as waqf.
+Japan's {{<g keiretsu "keiretsu">}} are networks of interlocked companies that hold shares in one another,
+insulating management from hostile takeovers and rewarding long-term investment.
+Germany's {{<g mittelstand "Mittelstand">}}—medium-sized, family-owned manufacturers—
+pair multi-generational ownership with worker seats on supervisory boards.
+In India, the Hindu Undivided Family has been a recognized legal entity since the nineteenth century,
+and conglomerates such as Tata and Birla grew from structures
+in which the boundary between family and enterprise was deliberately blurred.
+
+Cooperatives are the most direct challenge to the shareholder model.
+The Mondragón Corporation in the Basque region,
+founded in 1956 and employing roughly 80,000 people by 2024,
+is owned by its workers rather than outside shareholders [@Morrison1991].
+The credit-union tradition that began with Friedrich Raiffeisen in 1860s Germany
+now counts roughly a billion members worldwide [@Whyte1991].
+These forms face real problems—raising capital without equity to sell,
+and the short time horizons of members who may not live to reap long-term investments—
+but they demonstrate that the investor-owned firm is a choice, not a law of nature.
+
+The choice is advertised more honestly than it is made.
+Multi-level marketing recruits people with the promise of entrepreneurship,
+but the US Federal Trade Commission found in a 2011 analysis
+that fewer than 1% of participants in one major MLM earned a net profit after expenses [@FitzPatrick2020].
+When Uber launched, it told drivers they were entrepreneurs,
+then set the prices, chose the rides, and deactivated accounts without meaningful appeal.
+Amazon Marketplace invites sellers to list products,
+observes exactly which products sell,
+and then launches competing Amazon Basics versions using the sales data it collected from the sellers it hosts.
+A market can be efficient and still concentrate benefits while diffusing harms.
+Efficiency is not fairness.
 
 ::: {.callout-note title="Takeaway"}
 
@@ -133,71 +351,3 @@ Commons design.
 :   Take a shared resource (an open-source project, a Wikipedia article, a
     neighborhood) and draft the design principles that keep it from turning
     into Hardin's tragedy. Compare your list with Ostrom's eight.
-
-## Further reading
-
-### [Big Tech is Like a Drug Cartel](../harmful-models/index.qmd)
-
-An opening hook for the workshop as a whole:
-
-> In order to show how the free market really works, he went and studied it in
-> its pure, unconstrained form: the cocaine cartels.
-
-The killer detail is brand protection without trademark law:
-
-> A cocaine cartel can't use trademark law. It can, however, use violence
-> against competitors who sell adulterated product under the same name or who
-> operate in territory the cartel has claimed. The aim—maintaining exclusivity
-> and quality signals—is the same, it's just the mechanism that differs.
-
-### [The Creation of Money](../how-we-got-here/index.qmd)
-
-The strongest possible "markets rest on rules" illustration is the 1660s
-goldsmith story:
-
-> This is just as ridiculous as it sounds, but very useful. When you repay a
-> loan, the deposit disappears from your account and the corresponding debt
-> disappears from the bank's books. Money is destroyed.
-
-### [Big Tech is Like Professional Wrestling](../harmful-models/index.qmd)
-
-The workshop discusses "market power" but has no example of *fake* competition:
-
-> What the kayfabe obscures is that Apple earns approximately $20 billion a
-> year from a deal that makes Google the default search engine on every iPhone
-> sold. The two rivals are financially interdependent, and each needs the other
-> to play its designated role.
-
-### [The Demand Problem](../ai-happens/index.qmd)
-
-A market-failure mechanism not in the workshop's four-part list:
-
-> Every firm therefore has a rational-as-in-psychopathic incentive to automate
-> beyond the socially optimal level, because the gain from cutting labor costs
-> outweighs the diffuse shared consequence of eliminating consumer spending.
-
-Contrast this with Henry Ford's opposite logic ("his employees needed to earn
-enough to buy his cars") and Jack Dorsey/Block's 2025 layoffs being rewarded
-with a +25% stock bump.
-
-### [Fads and Bubbles](../more-psychology/index.qmd)
-
-Tulip mania ("a single bulb of the Semper Augustus tulip sold in Amsterdam for
-the price of a house on a canal") and Isaac Newton in the South Sea Bubble ("I
-can calculate the motions of heavenly bodies, but not the madness of men"). The
-"greater fool theory" line "A bubble collapses when no greater fool can be
-found" is a quotable takeaway.
-
-### [Big Tech is Like the Sharecropping System](../more-analogies/index.qmd)
-
-The chapter's most quotable metaphor for platform lock-in and information
-asymmetry is:
-
-> The audience is the crop; the algorithm change is the landlord raising the
-> rent after the harvest is in.
-
-### [Control and Alternatives](../control-and-alternatives/index.qmd)
-
-The source for the "institutional variety" point: the shareholder firm is not
-natural or inevitable, and alternatives such as cooperatives and the Mittelstand
-are durable institutions, not seminar hypotheticals.

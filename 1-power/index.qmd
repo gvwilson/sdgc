@@ -11,74 +11,279 @@ subtitle: "Why do some people's preferences become policy and other people's don
 
 :::
 
-## Key concepts
+The political scientist Harold Lasswell defined politics in 1936
+as the study of "who gets what, when, how."
+The definition carries no assumption that the distribution is fair,
+no requirement that the process be democratic,
+and no claim that what gets distributed is material.
+It is simply a description of what happens whenever a group of people
+who do not fully agree on goals or values still have to act together.
 
--   Three faces of power [@Lukes2021]:
-    1.  Who wins when there is a visible decision
-    1.  Who controls what gets onto the agenda in the first place
-    1.  Who shapes what people even *want*, so that some options never occur to anyone
--   Institutions [@North1990]:
-    -   The formal rules (laws, contracts) and informal constraints (norms,
-        conventions, taboos) that structure interaction
-    -   Institutions always allocate advantage; they are never neutral
--   Collective action problem [@Olson1965]:
-    -   It's easier to organize a small group with a large stake than a large
-        group with a small stake
-    -   This is why producers beat consumers and platforms beat users
--   Path dependence:
-    -   Early choices lock in later outcomes, even after the original reasons disappear
--   Selectorate theory: leaders distribute resources to the small "winning
-    coalition" that keeps them in power, not to the whole population (or the
-    whole "family").
--   Legibility [@Scott1998]: surnames, house numbers, passports, and ID
-    registers exist so the state can tax, draft, and police; standardization is
-    an instrument of administration, not a neutral convenience.
+Think of a product decision at your company:
+an API change, a layoff, a content-moderation rule, a shift in the roadmap.
+Who actually decided it?
+Who set the agenda so that this was the decision on the table,
+rather than some other one?
+And whose interests won?
+Those three questions are the spine of this chapter.
+Power is not just about who wins a visible fight;
+it is about who decides what is worth fighting about in the first place,
+and who shapes what people think they want.
 
-## Content
+## The Three Faces of Power
 
-1.  Opening question: "Think of a product decision at your company.  Who
-    actually decided it, and whose interests won?"
-1.  What is power?: Walk through Lukes' three faces with concrete
-    examples. Visible: who wins the vote. Hidden: who writes the agenda, the
-    roadmap, the API. Invisible: who shapes what feels "natural", "obvious", or
-    "inevitable". Point out that a "neutral" default or a "technical" constraint
-    is usually an act of agenda-setting. "We don't do politics here" is the
-    third face's catchphrase: it usually means the winners already have what
-    they want and can describe their arrangement as natural.
-1.  Institutions: North's definition. Formal vs. informal rules.  Show
-    that software itself is an institution: default settings, permission models,
-    and rate limits are rules that allocate advantage. A design decision is a
-    governance decision. Make the point concrete:
-   -   The 1886 US railroad gauge change: an "incompatibility" was a market
-       weapon—southern carriers profited from unloading and reloading freight at
-       the gauge boundary, so the "technical" choice was political.
-   -   Tithing and excommunication: the App Store's 30% cut is a tithe;
-       deplatforming is excommunication (removal from the infrastructure needed
-       to do business).
-   -   Incentives produce the wrongdoing: Wells Fargo fired 5,300 staff over
-       fake accounts ("eight is great")—mass wrongdoing flows from impossible
-       quotas, not from bad individuals.
-   -   Self-fulfilling design: terms of service written for adversaries and
-       moderation that treats everyone as a suspect produce the distrust they
-       assume (contrast with Ostrom's governed commons).
-1.  Platforms as quasi-governments: eBay adjudicates disputes, App
-    Store review is the only appeal, and Facebook makes de facto regulatory
-    decisions in other countries. The yakuza supplied 2011 Tohoku disaster
-    relief faster than the state—a reminder that "governance" is whoever can
-    actually get things done.
-1.  Legibility and institutional money: James C. Scott's point that
-    surnames, house numbers, and passports exist so the state can tax, draft,
-    and police; South Africa's pass laws became the world's first biometric
-    register (1986). Philanthrocapitalism is the private-sector twin:
-    donor-advised funds (~$230B) and the Giving Pledge convert taxable wealth
-    into permanently controlled endowments, and the Gates Foundation was at one
-    point the WHO's second-largest funder.
-1.  Collective action: Olson's concentrated-vs-diffuse logic.  Example:
-    ad-tech firms (few, organized, rich) versus individual users (many,
-    unorganized, each with a small stake). This single asymmetry predicts much
-    of tech policy. Selectorate theory sharpens the point: leaders distribute to
-    a small winning coalition, not the whole "family", and Pfeffer found
-    political skill predicts advancement better than technical competence.
+The most intuitive account of power is the one Steven Lukes calls the first face:
+who wins when there is a visible decision [@Lukes2021].
+When a board votes, a legislature passes a bill, or a manager picks one proposal over another,
+the winner is exercising the most obvious kind of power,
+and it is easy to see because it happens in public.
+
+The second face is harder to see,
+because it happens before the vote.
+It is the power to decide what gets onto the agenda in the first place.
+A roadmap that never includes privacy work,
+an API that never exposes a particular capability,
+a meeting whose agenda is fixed before the people most affected walk into the room:
+these are all exercises of the second face.
+The people who control what is even considered never have to win the argument,
+because the argument never happens.
+This is why a "neutral" default or a "technical" constraint
+is very often an act of agenda-setting dressed in the language of inevitability.
+
+The third face is the deepest.
+It is the power to shape what people even *want*,
+so that some options never occur to anyone.
+The third face is at work when an arrangement feels natural, obvious, or inevitable
+rather than chosen,
+and its catchphrase is "we don't do politics here."
+The sentence almost always means something more precise:
+the winners already have what they want,
+and they can afford to describe their arrangement as simply how things are.
+In 2021, the software company Basecamp banned "societal and political discussions" at work,
+and roughly a third of its staff resigned.
+The decision to ban discussion of politics was itself a political decision,
+made unilaterally by the winning coalition.
+"We don't do politics here" is not the absence of politics;
+it is the third face doing its quiet work.
+
+## Institutions Are the Rules of the Game
+
+Douglass North defined an institution as "the rules of the game":
+the formal rules such as laws and contracts,
+and the informal constraints such as norms, conventions, and taboos,
+that structure human interaction [@North1990].
+The definition is deliberately broad,
+because institutions are everywhere,
+and they do more than constrain.
+They allocate advantage.
+A rule is never neutral,
+because every rule makes some outcomes easier and others harder,
+and someone benefits from each one.
+
+The English {{<g enclosure-movement "enclosure movement">}} is the cleanest illustration.
+Between 1750 and 1850,
+Parliament passed hundreds of private {{<g enclosure-acts "Enclosure Acts">}},
+each one extinguishing common rights over a specific area
+and converting that land into private property.
+The process was not neutral arbitration between competing claims:
+the landowners who stood to benefit were the same class that controlled Parliament,
+while the commoners whose rights were extinguished
+had no equivalent political representation [@Bollier2014].
+The rules changed,
+and the change had a direction.
+Institutions are the place where that direction gets set.
+
+## Design Decisions Are Governance Decisions
+
+A piece of software is an institution.
+Default settings, permission models, and rate limits
+are rules that allocate advantage just as surely as a zoning ordinance or a tax code,
+which means a design decision is a governance decision,
+whether or not anyone in the room is willing to say so.
+
+The 1886 American railroad gauge change makes the point concrete.
+Southern railroads ran on a five-foot gauge
+while northern lines ran on the standard four feet eight and a half inches,
+so freight crossing the boundary had to be unloaded and reloaded.
+Southern carriers profited from that break:
+the "incompatibility" was a market weapon, not a technical accident,
+and the "technical" choice was political all the way down.
+The eventual conversion to a single gauge was a decision
+about who would capture the value of moving goods.
+It was also an instance of path dependence:
+the gauge had been chosen for reasons that no longer applied,
+but once the tracks, the rolling stock, and the jobs were built around it,
+{{<g structural-lock-in "structural lock-in">}} made changing course mean tearing up an entire landscape.
+
+Platforms reproduce the same logic at a finer grain.
+The medieval Church provided civil infrastructure—
+records, courts, hospitals, schools—
+and collected a {{<g tithe "tithe">}} of roughly one-tenth of productive output in return,
+an obligation enforced whether or not you were a believer.
+The App Store's thirty percent commission
+is a tithe on productive activity conducted within its jurisdiction.
+{{<g excommunication "Excommunication">}}—removal from the Church's services—
+meant you could no longer conduct legal business;
+{{<g deplatforming "deplatforming">}} does the same to a creator or seller
+who loses access to customers, tools, and markets
+with no external authority to appeal to [@Southern1990].
+
+Institutions also produce behavior.
+When Wells Fargo fired 5,300 employees over fake accounts—"eight is great"—
+the wrongdoing did not flow from five thousand bad individuals.
+It flowed from impossible quotas, aggressive measurement,
+and a reward structure that made the bad behavior the rational response.
+The incentives produced the wrongdoing,
+and the institution shaped the incentives.
+
+Institutions can also be self-fulfilling.
+Terms of service written for adversaries,
+and moderation systems that treat everyone as a suspect,
+produce the distrust they assume.
+The contrast is Elinor Ostrom's work on the {{<g commons "commons">}}:
+communities that governed shared resources sustainably for centuries,
+not through privatization or state control,
+but through locally developed rules, monitoring, and graduated sanctions [@Ostrom2015].
+Design a system as if people are untrustworthy,
+and you get untrustworthy behavior;
+design it as if they can govern themselves,
+and you sometimes get self-governance.
+
+The same point applies to the corporate form itself.
+The usual excuse for why tech companies are not worker cooperatives
+or other equitable structures
+is that cooperative governance is too slow and cooperative financing too limited.
+That explanation is conveniently incomplete:
+it omits that the founders, lawyers, and venture capitalists making the choice
+benefit most from the conventional structure [@Whyte1991;@Kelly2012].
+The "neutral" form is a choice with distributional consequences.
+
+## Platforms as Quasi-Governments
+
+When a seller on eBay disputes a transaction,
+eBay adjudicates the claim.
+When a developer's app is removed from the App Store,
+Apple's internal review process is the only available appeal.
+When Facebook removes content in a country with regulated speech,
+it is making regulatory decisions in a jurisdiction
+where it has been granted no regulatory authority.
+Platforms are quasi-governments,
+and the word "quasi" is doing a lot of work.
+
+The clearest test of what governance actually is came from an unlikely source.
+In the days after the March 2011 Tōhoku earthquake and tsunami,
+the yakuza—Japan's organized crime syndicates—
+supplied food, water, and emergency goods to affected communities
+faster than official relief channels could mobilize [@Kaplan2012].
+The lesson is not that organized crime is admirable;
+it is that governance is whoever can actually get things done.
+When formal institutions are slow,
+whoever controls logistics, relationships, and trust governs in their place.
+
+That is the position platforms are building for themselves.
+George Pullman built a company town in Illinois in the 1880s,
+where the company owned the workers' housing, stores, church, library, and bank.
+When Pullman cut wages during the depression of 1893 while holding rents fixed,
+workers could not cushion the blow by cutting other expenses,
+because the company controlled those too.
+They had no recourse and nothing left to lose,
+and the 1894 Pullman Strike paralyzed rail traffic across the country
+and required federal troops to suppress—
+which tells you something about what total control eventually produces [@Lindsey1942].
+
+The difference between an employer and an infrastructure provider
+is a matter of degree, not kind.
+An employer controls your income;
+an infrastructure provider controls the conditions
+under which you can earn, spend, and participate in social life.
+Mao-era China's danwei work units controlled employment, housing, healthcare,
+food rations, and education through a single institution,
+so that to be removed from a danwei was to lose all of them at once.
+A super-app like WeChat integrates messaging, payments, healthcare bookings,
+government services, and social identity into a single system;
+a user whose account is suspended loses not just a communication tool
+but the infrastructure through which they conduct their civic and commercial life
+[@Stoller2019;@Walder2017].
+Foxconn's Shenzhen campuses,
+which house hundreds of thousands of workers in company dormitories
+with company stores and company transportation,
+are the Pullman model at a scale Pullman could not have imagined.
+
+## Legibility and Institutional Money
+
+James C. Scott argued that states standardize people
+so they can be taxed, drafted, and policed.
+Surnames, house numbers, passports, and identity registers
+exist not because the state wants to know you,
+but because it wants to be able to act upon you [@Scott1998].
+Scott called this {{<g legibility "legibility">}}:
+the degree to which an institution can observe, measure,
+and administer a population through standardized categories.
+The technical history of identification is also a political history of control,
+and South Africa's apartheid-era pass system—
+which became the world's first large-scale biometric register by 1986—
+is the sharpest reminder of it [@Breckenridge2016].
+
+The private sector has its own version of the same impulse.
+{{<g philanthrocapitalism "Philanthrocapitalism">}}—the use of private foundations
+and large-scale giving to shape public policy without democratic accountability—
+converts taxable wealth into permanently controlled endowments.
+{{<g donor-advised-fund "Donor-advised funds">}},
+which held over $230 billion in assets by 2022,
+let a donor take an immediate tax deduction
+while retaining the ability to direct distributions for decades.
+The Giving Pledge, launched in 2010,
+invites billionaires to promise publicly that they will give away most of their wealth—
+a promise that is not legally binding
+and is often fulfilled by moving assets into funds and foundations
+that remain under the donor's control [@Giridharadas2018].
+For many years the Gates Foundation was the second-largest funder of the World Health Organization,
+behind only the United States government.
+Whatever the intentions,
+that is influence exercised without the legitimacy
+that comes from being elected or removable.
+
+## Concentrated Interests, Diffuse Costs
+
+Mancur Olson explained why some groups reliably win and others reliably lose.
+It is easier to organize a small group with a large stake
+than a large group with a small stake [@Olson1965].
+Ad-tech firms—few, organized, and rich—
+can coordinate, hire lobbyists, and file comments on proposed regulations.
+Individual users—many, unorganized, and each with a small stake—
+mostly cannot.
+This single asymmetry predicts much of tech policy:
+producers beat consumers and platforms beat users,
+not because anyone is smarter or more virtuous,
+but because the costs of organizing are distributed unevenly.
+
+{{<g selectorate-theory "Selectorate theory">}} sharpens the point.
+Leaders of countries, companies, and volunteer organizations
+need enough support to stay in power,
+and they get it by distributing benefits
+to a minimum necessary {{<g winning-coalition "winning coalition">}}
+rather than to the whole population [@BuenodeMesquita2011].
+Everyone else is interchangeable,
+whatever the language about family.
+In November 2022,
+after laying off about a third of its workforce,
+Elon Musk emailed the remaining Twitter employees
+asking them to click a button confirming that they were committed to working "hardcore,"
+with those who did not click treated as having resigned;
+a few months earlier, Twitter's leadership had described the company as a family.
+The winning coalition is smaller than the family,
+and it is the coalition that gets served first.
+
+None of this is a secret to the people who succeed at it.
+Jeffrey Pfeffer found that political skill predicts advancement better than technical competence,
+and that managers who ignore politics systematically lose to those who do not [@Pfeffer1992].
+That is an uncomfortable finding for an industry
+that likes to imagine decisions are made by the best argument.
+They are made by the people who can assemble a coalition,
+set an agenda,
+and make their own interests look natural.
+The question is never whether power is present;
+it is whose interests it is serving.
 
 ::: {.callout-note title="Takeaway"}
 
@@ -127,79 +332,3 @@ Incentive autopsy.
     measurement, and the reward structure that produced the wrongdoing. Then
     redesign the institution so the bad behavior is no longer the rational
     response.
-
-## Further reading
-
-### [Big Tech is Like a Company Town](../more-analogies/index.qmd)
-
-George Pullman's 1894 company town is the single best illustration of the
-workshop's key claim that a design decision is a governance decision.
-
-> When Pullman cut wages during the depression of 1893 while holding rents
-> fixed, workers could not cushion the blow by cutting other expenses, because
-> the company controlled those too. They had no recourse and nothing left to
-> lose. The 1894 Pullman Strike paralyzed rail traffic across the country and
-> required federal troops to suppress, which tells you something about what
-> total control eventually produces.
-
-The payoff line to bring it into tech:
-
-> An employer controls your income; an infrastructure provider controls the
-> conditions under which you can earn, spend, and participate in social life.
-
-Other useful references are the *danwei*/WeChat parallel ("A user whose account
-is suspended loses not just a communication tool but the infrastructure through
-which they conduct their civic and commercial life"), and Foxconn's company-town
-campuses.
-
-### [We're All Family Here](../inequality/index.qmd)
-
-The Musk "hardcore" email illustrates the lesson's question ("who actually
-decided it, and whose interests won?"):
-
-> In November 2022, after laying off about a third of its original workforce,
-> Elon Musk sent an email to the remaining Twitter employees asking them to
-> click a button to confirm that they were committed to working 'hardcore' for
-> the company's next phase. Those who did not click by the deadline would be
-> treated as having resigned. A few months earlier, Twitter's former leadership
-> had described it as a family.
-
-Lasswell's definition is a clean, quotable anchor for the whole lesson:
-
-> The political scientist Harold Lasswell defined politics in 1936 as the study
-> of 'who gets what, when, how.'
-
-### [We're All Family Here](../inequality/index.qmd)
-
-Extends the "concentrated vs. diffuse" point from Olson.  The "winning
-coalition" idea explains why everyone else is "interchangeable" despite the
-family language. Also useful: Basecamp's 2021 ban on "societal and political
-discussions" and the immediate resignation of a third of staff: "the decision to
-ban discussion of politics was itself a political decision, made unilaterally by
-the winning coalition."
-
-### [The Invention of the Corporation](../how-we-got-here/index.qmd)
-
-The workshop says software is an institution.  This shows the corporation is
-too, and that its "neutral" form is a choice with distributional consequences:
-
-> The usual excuse for why tech companies aren't worker cooperatives or other
-> equitable structures is that cooperative governance is too slow and
-> cooperative financing too limited. This explanation is conveniently
-> incomplete. It omits the fact that the founders, lawyers, and venture
-> capitalists making the choice benefit most from the conventional structure.
-
-### [Big Tech is Like the Enclosure Movement](../harmful-models/index.qmd)
-
-The cleanest "institutions allocate advantage" case, and a bridge to Lesson 4:
-
-> The process was not neutral arbitration between competing claims: the
-> landowners who stood to benefit were the same class that controlled
-> Parliament. The commoners whose rights were extinguished had no equivalent
-> political representation.
-
-### [Privacy, Power, and the Self](../privacy-power-self/index.qmd)
-
-Scott's legibility argument is the through-line for the "passports, house
-numbers, and biometrics" examples: the state standardizes people so they can be
-taxed, drafted, and policed.
