@@ -1,14 +1,17 @@
+---
+subtitle: "Why do some people's preferences become policy and other people's don't?"
+---
 # Power and Institutions
 
-*Why do some people's preferences become policy and other people's don't?*
-
-### Learning objectives
+::: {.callout-note title="Learning Objectives"}
 
 -   Describe the three faces of power (decision, agenda, preference-shaping).
 -   Define an institution as "the rules of the game" (formal and informal).
 -   Explain why concentrated interests usually defeat diffuse ones.
 
-### Key concepts
+:::
+
+## Key concepts
 
 -   Three faces of power [@Lukes2021]:
     1.  Who wins when there is a visible decision
@@ -31,18 +34,18 @@
     registers exist so the state can tax, draft, and police; standardization is
     an instrument of administration, not a neutral convenience.
 
-### Content
+## Content
 
-1.  Opening question (3 min): "Think of a product decision at your company.  Who
+1.  Opening question: "Think of a product decision at your company.  Who
     actually decided it, and whose interests won?"
-1.  What is power? (12 min): Walk through Lukes' three faces with concrete
+1.  What is power?: Walk through Lukes' three faces with concrete
     examples. Visible: who wins the vote. Hidden: who writes the agenda, the
     roadmap, the API. Invisible: who shapes what feels "natural", "obvious", or
     "inevitable". Point out that a "neutral" default or a "technical" constraint
     is usually an act of agenda-setting. "We don't do politics here" is the
     third face's catchphrase: it usually means the winners already have what
     they want and can describe their arrangement as natural.
-1.  Institutions (15 min): North's definition. Formal vs. informal rules.  Show
+1.  Institutions: North's definition. Formal vs. informal rules.  Show
     that software itself is an institution: default settings, permission models,
     and rate limits are rules that allocate advantage. A design decision is a
     governance decision. Make the point concrete:
@@ -58,27 +61,34 @@
    -   Self-fulfilling design: terms of service written for adversaries and
        moderation that treats everyone as a suspect produce the distrust they
        assume (contrast with Ostrom's governed commons).
-1.  Platforms as quasi-governments (10 min): eBay adjudicates disputes, App
+1.  Platforms as quasi-governments: eBay adjudicates disputes, App
     Store review is the only appeal, and Facebook makes de facto regulatory
     decisions in other countries. The yakuza supplied 2011 Tohoku disaster
     relief faster than the state—a reminder that "governance" is whoever can
     actually get things done.
-1.  Legibility and institutional money (10 min): James C. Scott's point that
+1.  Legibility and institutional money: James C. Scott's point that
     surnames, house numbers, and passports exist so the state can tax, draft,
     and police; South Africa's pass laws became the world's first biometric
     register (1986). Philanthrocapitalism is the private-sector twin:
     donor-advised funds (~$230B) and the Giving Pledge convert taxable wealth
     into permanently controlled endowments, and the Gates Foundation was at one
     point the WHO's second-largest funder.
-1.  Collective action (10 min): Olson's concentrated-vs-diffuse logic.  Example:
+1.  Collective action: Olson's concentrated-vs-diffuse logic.  Example:
     ad-tech firms (few, organized, rich) versus individual users (many,
     unorganized, each with a small stake). This single asymmetry predicts much
     of tech policy. Selectorate theory sharpens the point: leaders distribute to
     a small winning coalition, not the whole "family", and Pfeffer found
     political skill predicts advancement better than technical competence.
-1.  Recap (5 min).
 
-### Exercises
+::: {.callout-note title="Takeaway"}
+
+Power is not only about who wins visible fights; it is about who sets the agenda
+and who shapes what people think they want. Institutions are the mechanism, and
+they are never neutral.
+
+:::
+
+## Exercises
 
 Map the decision.
 :   Pick a real decision, such as an API change, a layoff, a content-moderation
@@ -118,15 +128,9 @@ Incentive autopsy.
     redesign the institution so the bad behavior is no longer the rational
     response.
 
-### Takeaway
+## Further reading
 
-Power is not only about who wins visible fights; it is about who sets the agenda
-and who shapes what people think they want. Institutions are the mechanism, and
-they are never neutral.
-
-### Further reading
-
-#### [Big Tech is Like a Company Town](../more-analogies/index.qmd)
+### [Big Tech is Like a Company Town](../more-analogies/index.qmd)
 
 George Pullman's 1894 company town is the single best illustration of the
 workshop's key claim that a design decision is a governance decision.
@@ -148,7 +152,7 @@ is suspended loses not just a communication tool but the infrastructure through
 which they conduct their civic and commercial life"), and Foxconn's company-town
 campuses.
 
-#### [We're All Family Here](../inequality/index.qmd)
+### [We're All Family Here](../inequality/index.qmd)
 
 The Musk "hardcore" email illustrates the lesson's question ("who actually
 decided it, and whose interests won?"):
@@ -165,7 +169,7 @@ Lasswell's definition is a clean, quotable anchor for the whole lesson:
 > The political scientist Harold Lasswell defined politics in 1936 as the study
 > of 'who gets what, when, how.'
 
-#### [We're All Family Here](../inequality/index.qmd)
+### [We're All Family Here](../inequality/index.qmd)
 
 Extends the "concentrated vs. diffuse" point from Olson.  The "winning
 coalition" idea explains why everyone else is "interchangeable" despite the
@@ -174,7 +178,7 @@ discussions" and the immediate resignation of a third of staff: "the decision to
 ban discussion of politics was itself a political decision, made unilaterally by
 the winning coalition."
 
-#### [The Invention of the Corporation](../how-we-got-here/index.qmd)
+### [The Invention of the Corporation](../how-we-got-here/index.qmd)
 
 The workshop says software is an institution.  This shows the corporation is
 too, and that its "neutral" form is a choice with distributional consequences:
@@ -185,7 +189,7 @@ too, and that its "neutral" form is a choice with distributional consequences:
 > incomplete. It omits the fact that the founders, lawyers, and venture
 > capitalists making the choice benefit most from the conventional structure.
 
-#### [Big Tech is Like the Enclosure Movement](../harmful-models/index.qmd)
+### [Big Tech is Like the Enclosure Movement](../harmful-models/index.qmd)
 
 The cleanest "institutions allocate advantage" case, and a bridge to Lesson 4:
 
@@ -194,7 +198,7 @@ The cleanest "institutions allocate advantage" case, and a bridge to Lesson 4:
 > Parliament. The commoners whose rights were extinguished had no equivalent
 > political representation.
 
-#### [Privacy, Power, and the Self](../privacy-power-self/index.qmd)
+### [Privacy, Power, and the Self](../privacy-power-self/index.qmd)
 
 Scott's legibility argument is the through-line for the "passports, house
 numbers, and biometrics" examples: the state standardizes people so they can be

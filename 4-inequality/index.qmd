@@ -1,15 +1,18 @@
+---
+subtitle: Why are some people consistently better off, and is that "natural"?
+---
 # Inequality
 
-*Why are some people consistently better off, and is that "natural"?*
-
-### Learning objectives
+::: {.callout-note title="Learning Objectives"}
 
 -   Contrast structural and individual explanations of social outcomes.
 -   Explain cumulative advantage and opportunity hoarding.
 -   Describe intersectionality and why single-axis analyses miss the worst
     harms.
 
-### Key concepts
+:::
+
+## Key concepts
 
 -   Stratification [@Weber1946]: three analytically distinct dimensions that
     overlap but do not coincide:
@@ -35,16 +38,16 @@
     capacity the way sleep deprivation does, which is why "just try harder" is
     not a serious explanation.
 
-### Content
+## Content
 
-1.  Opening question (3 min): "When you explain why someone succeeded or failed,
+1.  Opening question: "When you explain why someone succeeded or failed,
     which verbs do you reach for?"
-1.  Three dimensions (10 min): Weber's class/status/power, with tech examples: a
+1.  Three dimensions: Weber's class/status/power, with tech examples: a
     staff engineer may have high class but limited power; a founder has power; a
     moderator has neither. Mismatches matter. Wilkinson & Pickett add the
     cross-national finding: more unequal societies do worse on nearly every
     social indicator, and the mechanism is status anxiety.
-1.  Structure vs. individual (15 min): The fundamental attribution error applied
+1.  Structure vs. individual: The fundamental attribution error applied
     to society: we explain *others'* outcomes by their traits and *our own* by
     circumstance. Cumulative advantage: early advantage compounds.  Opportunity
     hoarding: how "merit" filters are built to reproduce advantage.
@@ -61,20 +64,28 @@
    -   Becker's 1957 prediction that competition eliminates discrimination was
        falsified; favored-group workers benefit from exclusion (LBJ: "give him
        somebody to look down on").
-1.  Poverty is a tax on cognition (8 min): scarcity depletes cognitive bandwidth
+1.  Poverty is a tax on cognition: scarcity depletes cognitive bandwidth
     like sleep deprivation [@Mullainathan2013]; McIntosh's invisible knapsack
     explains why "just try harder" fails [@McIntosh1989]. Credit bureaus collect
     without consent and profit whether the data is accurate or not (Equifax
     2017: ~147M exposed); accuracy is not fairness.
-1.  Meritocracy, examined (8 min): "Meritocracy" was coined by Michael Young in
+1.  Meritocracy, examined: "Meritocracy" was coined by Michael Young in
     a 1958 satire. Merit-pay organizations show *larger* gender pay gaps (moral
     licensing [@Castilla2010]), and believing in meritocracy predicts harsher
     judgment of the poor.
-1.  Mobility and measurement (5 min): Mobility is low and sticky across
+1.  Mobility and measurement: Mobility is low and sticky across
     generations. Treat "meritocracy" as an empirical claim to test, not an
     assumption.
 
-### Exercises
+::: {.callout-note title="Takeaway"}
+
+Inequality is not a sorting of individuals by merit; it is the accumulated
+effect of rules, networks, and compounding advantage. Meritocracy is a claim to
+test, and often a story that legitimizes inheritance.
+
+:::
+
+## Exercises
 
 Explain the gap.
 :   Take a real inequality (who gets into a selective program, who receives
@@ -112,15 +123,9 @@ Bandwidth check.
     are tired or under financial pressure. What would a product look like if it
     assumed its users were often in that state?
 
-### Takeaway
+## Further reading
 
-Inequality is not a sorting of individuals by merit; it is the accumulated
-effect of rules, networks, and compounding advantage. Meritocracy is a claim to
-test, and often a story that legitimizes inheritance.
-
-### Further reading
-
-#### [The Hidden Ledger](../inequality/index.qmd)
+### [The Hidden Ledger](../inequality/index.qmd)
 
 This quote drives home how arbitrary classifications are:
 
@@ -133,7 +138,7 @@ The follow-through on siblings classified differently, with different rights,
 makes intersectionality concrete. The "Hispanic" category being invented by the
 Nixon administration in 1970 is the same point in a US key.
 
-#### [The Hidden Ledger](../inequality/index.qmd)
+### [The Hidden Ledger](../inequality/index.qmd)
 
 Cumulative advantage across generations, made measurable:
 
@@ -141,13 +146,13 @@ Cumulative advantage across generations, made measurable:
 > average credit scores today: not because their residents are less
 > creditworthy, but because they were systematically excluded.
 
-#### [Why Don't You Just…](../inequality/index.qmd)
+### [Why Don't You Just…](../inequality/index.qmd)
 
 A scientific explanation of why "just try harder" is wrong, and why individual
 explanations are the default. The "Universal Credit/just go to the library"
 loop is the human-scale companion story.
 
-#### [Who Gets to Decide](../inequality/index.qmd)
+### [Who Gets to Decide](../inequality/index.qmd)
 
 Carnegie is an exemplary paradox: ten workers killed by Pinkertons in 1892, then
 a lifetime funding libraries "on his terms." The Flexner Report is the sharper
@@ -155,7 +160,7 @@ institutional example: it raised medical standards *and* "closed most of the
 schools that had trained Black physicians or admitted women in significant
 numbers." Both are opportunity hoarding wearing a merit badge.
 
-#### [Women's Work](../control-and-alternatives/index.qmd)
+### [Women's Work](../control-and-alternatives/index.qmd)
 
 The workshop doesn't talk about gender as much as it should. Some points to
 highlight:
@@ -172,7 +177,7 @@ This also connects directly to the platform economy (care-work apps formalize
 undervalued labor "while keeping the wages and protections of the informal
 economy").
 
-#### [More Psychology](../more-psychology/index.qmd)
+### [More Psychology](../more-psychology/index.qmd)
 
 The source for the meritocracy and audit-study material: "meritocracy" was
 coined in a 1958 satire, merit-pay organizations show larger gender gaps, and

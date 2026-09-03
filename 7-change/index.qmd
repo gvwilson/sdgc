@@ -1,8 +1,9 @@
+---
+subtitle: What actually produces change?
+---
 # Change
 
-*Given all of this, what actually produces change, and what should we do about social media and AI?*
-
-### Learning objectives
+::: {.callout-note title="Learning Objectives"}
 
 -   Describe the conditions under which social movements succeed.
 -   Explain a "policy window" and assess whether one is open.
@@ -11,7 +12,9 @@
 -   Sketch a realistic reform strategy and name their own leverage as a
     technologist.
 
-### Key concepts
+:::
+
+## Key concepts
 
 -   Social movements and collective action: movements succeed when they combine
     organization, opportunity, and framing (resource mobilization and
@@ -34,11 +37,11 @@
     structures, strategic communication, and sustained participation are an
     alternative taxonomy of the reform menu.
 
-### Content
+## Content
 
-1.  Opening question (3 min): "Name one thing that is better now than it was
+1.  Opening question: "Name one thing that is better now than it was
     fifty years ago. Who made it better, and how?"
-1.  How change happens (15 min): Organization + opportunity + framing.
+1.  How change happens: Organization + opportunity + framing.
     Examples: civil rights, environmental regulation, seat belts, tobacco,
     marriage equality, worker safety. Emphasize: change is slow, non-linear, and
     won by *pressure*, not persuasion alone. Kingdon's three streams and the
@@ -52,7 +55,7 @@
     boycott as the first mass consumer boycott; Kerala's 1969 land reform was won
     by election, not occupation, and paid off in literacy and life-expectancy
     gains once the landlord class's veto was broken.
-1.  Worker power (10 min): union wins were not conceded—the Combination Acts,
+1.  Worker power: union wins were not conceded—the Combination Acts,
     the Tolpuddle Martyrs, the 1926 General Strike, Thatcher, and the eight-hour
     day that came only after WWI's fear of revolution. The institutions that
     made them stick: German codetermination (workers hold half the board),
@@ -60,7 +63,7 @@
     in ending apartheid. Rana Plaza (1,134 dead, 2013) led to the Bangladesh
     Accord, a real gain, then weakened, then re-won (two steps forward, one step
     back).
-1.  The technologist's role (10 min): Insider/outsider power. Engineers can
+1.  The technologist's role: Insider/outsider power. Engineers can
     refuse, whistleblow, organize, build alternatives, or work on policy. Their
     leverage is unusual (scarcity, access) and their constraints are real
     (contracts, career risk, the ideology of neutrality). Two warnings: the
@@ -69,16 +72,16 @@
     endpoint—and the software-engineering literature covers architecture and
     management but not workers' rights or cooperatives, the way medicine once
     hid its error rate (44k-98k preventable deaths/year).
-1.  Applying the toolkit (5 min): Name the harms (attention extraction,
+1.  Applying the toolkit: Name the harms (attention extraction,
     misinformation, polarization, discrimination, labor deskilling,
     surveillance, concentration, environmental cost). Map each to the day's
     lessons.
-1.  Outline a realistic menu (8 min): transparency and audits, liability,
+1.  Outline a realistic menu: transparency and audits, liability,
     structural remedies (interoperability, breakups), worker power, public
     alternatives, global coordination.  Be honest about capture risk for each.
     DMA 2024 (gatekeepers, fines up to 20% of global revenue) and India's
     UPI / Brazil's Pix are "public rails before dominance."
-1.  Synthesis and close (5 min): The arc of the day: "how society works" is
+1.  Synthesis and close: The arc of the day: "how society works" is
     knowable, and knowing it is the prerequisite for changing it. The finale's
     five tools are an alternative reform-menu taxonomy: collective organizing,
     regulatory pressure, alternative structures, strategic communication, and
@@ -86,7 +89,15 @@
     "Refusing to vote or join a union is a political act"; refusing to engage
     simply delegates the decision to whoever will.
 
-### Exercises
+::: {.callout-note title="Takeaway"}
+
+The harms are not mysterious and the responses are not untried.  Every tool
+discussed in the workshop is available to people who organize. Technologists
+hold real cards; the question is whether they play them.
+
+:::
+
+## Exercises
 
 Policy-window map.
 :   Pick one concrete harm. For Kingdon's three streams: assess whether a window
@@ -112,7 +123,7 @@ Harm-to-lesson mapping.
 Reform-menu debate.
 :   Assign groups different positions (e.g., audits only, liability, breakups,
     public options, worker power, "it cannot be fixed").  Each group argues its
-    case; then the room discusses which *combination* is realistic and coherent.
+    case; then the room discusses which combination is realistic and coherent.
 
 Backward plan.
 :   Pick a target outcome five years out (e.g., "audits of high-impact models
@@ -131,22 +142,16 @@ Five tools.
     strategic communication, sustained participation. Which tool is missing from
     most tech-industry versions of this plan?
 
-### Takeaway
+## Further reading
 
-The harms are not mysterious and the responses are not untried.  Every tool
-discussed in the workshop is available to people who organize. Technologists
-hold real cards; the question is whether they play them.
-
-### Further reading
-
-#### [The 3.5% Threshold](../change-happens/index.qmd)
+### [The 3.5% Threshold](../change-happens/index.qmd)
 
 The 3.5% threshold of [@Chenoweth2011] made concrete:
 
 > in a city of half a million people, it is seventeen thousand people doing
 > something instead of just complaining.
 
-#### [A Paradise Built in Hell](../change-happens/index.qmd)
+### [A Paradise Built in Hell](../change-happens/index.qmd)
 
 The workshop's change stories are all about pressure; this adds the *capacity*
 side (what gets built between crises). The Halifax Explosion (1917) and the
@@ -156,7 +161,7 @@ Hurricane Katrina media-lie case are both ready to tell:
 > happen, the murder rate in the city did not spike, and most of the 'looting'
 > was people taking food and water to survive. But these lies had consequences.
 
-#### [The Ozone Hole That Closed](../change-happens/index.qmd)
+### [The Ozone Hole That Closed](../change-happens/index.qmd)
 
 The workshop mentions the ozone layer in passing; this is the full, hopeful case
 study of why Montreal worked:
@@ -165,7 +170,7 @@ study of why Montreal worked:
 > obligations, a technology transfer fund, and trade sanctions against
 > non-participants.
 
-#### [The Eight-Hour Day](../control-and-alternatives/index.qmd)
+### [The Eight-Hour Day](../control-and-alternatives/index.qmd)
 
 The workshop lists worker safety among "how change happens" examples; this is
 the origin story with a takeaway:
@@ -174,7 +179,7 @@ the origin story with a takeaway:
 > eight-hour day; they did it not through moral persuasion but by applying
 > collective leverage at a moment of their opponents' weakness.
 
-#### [Big Tech is Like the Yakuza](../harmful-models/index.qmd)
+### [Big Tech is Like the Yakuza](../harmful-models/index.qmd)
 
 A hopeful, non-obvious change story: a structurally powerful industry shrunk not
 by becoming less useful but by "a sustained political decision… to make the cost
@@ -184,7 +189,7 @@ of association with them prohibitive":
 > 20,000 by the early 2020s. None of this happened because the yakuza became
 > less useful.
 
-#### [Alternatives That Scaled](../control-and-alternatives/index.qmd)
+### [Alternatives That Scaled](../control-and-alternatives/index.qmd)
 
 The workshop's "public alternatives" bullet has no examples. These are the
 existence proofs: Red Vienna's Gemeindebau (still ~220,000 municipally owned
@@ -193,7 +198,7 @@ survived 2008 "in considerably better shape" than the big banks), and Mondragón
 ("running for nearly seventy years") are not arguments in a seminar: they are
 institutions that issue annual reports.
 
-#### [What Collective Action Has Achieved](../ai-happens/index.qmd)
+### [What Collective Action Has Achieved](../ai-happens/index.qmd)
 
 A recent proof that technologists' leverage is real, for the "technologist's
 role" section:
@@ -201,7 +206,7 @@ role" section:
 > When the strike ended, the WGA had won explicit contract language: AI cannot
 > write or rewrite scripts, and scripts cannot be used to train AI systems.
 
-#### [Land to the Tiller](../change-happens/index.qmd)
+### [Land to the Tiller](../change-happens/index.qmd)
 
 The workshop's change stories are mostly bottom-up; this is the rare top-down
 case that reframes what "structural remedy" can mean:
@@ -211,7 +216,7 @@ case that reframes what "structural remedy" can mean:
 > well below market value, paid in bonds that inflation promptly turned into
 > confetti. This was expropriation, and it worked.
 
-#### [Conclusion](../finale/index.qmd)
+### [Conclusion](../finale/index.qmd)
 
 The "five tools" taxonomy and the ACT UP / expanding-circle stories: the reform
 menu is not just regulation—it is organizing, alternatives, communication, and

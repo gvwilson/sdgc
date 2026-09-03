@@ -1,8 +1,9 @@
+---
+subtitle: What are markets, and when do they fail?
+---
 # Where Markets Come From
 
-*What are markets, and when do they fail?*
-
-### Learning objectives
+::: {.callout-note title="Learning Objectives"}
 
 -   Explain why "the free market" is a description of a rule-bound institution,
     not an absence of rules.
@@ -10,7 +11,9 @@
 -   Say who bears the cost and who captures the benefit in a negative
     externality.
 
-### Key concepts
+:::
+
+## Key concepts
 
 -   Embeddedness [@Polanyi2001]: markets are always embedded in a web of legal,
     social, and political rules. Property rights, enforceable contracts,
@@ -36,11 +39,11 @@
 -   Enshittification [@Doctorow2025]: platforms first attract users, then
     extract value from users and from their suppliers.
 
-### Content
+## Content
 
-1.  Opening question (3 min): "Which product in this room is *unregulated*?"
+1.  Opening question: "Which product in this room is *unregulated*?"
     Let the room discover that the answer is "none."
-1.  Markets are constructed (15 min): Every marketplace has rules about who may
+1.  Markets are constructed: Every marketplace has rules about who may
     sell, what counts as fraud, who is liable, and how disputes are resolved.
     Those rules are choices with distributional consequences. Show that
     "deregulation" is re-regulation. Fill in the history:
@@ -53,7 +56,7 @@
        keep Mickey Mouse out of the public domain.
    -   "Homo economicus" is a political argument dressed as math: from Hobbes to
        Spencer's "survival of the fittest" to the rational agent.
-1.  Market failure (15 min): Four mechanisms, each with a tech example:
+1.  Market failure: Four mechanisms, each with a tech example:
     1.  Externalities (misinformation, polarization, teen anxiety as costs
         priced at zero)
     1.  Public goods (an informed public, institutional trust)
@@ -64,26 +67,34 @@
 1.  Add the commons as a fifth idea.  Apple's green-bubble lock-in is a
     market-power case study—internal documents admit RCS would reduce the social
     cost of switching, and the DMA forced support in 2024.
-1.  Public subsidy, private profit (8 min): every technology in the iPhone was
+1.  Public subsidy, private profit: every technology in the iPhone was
     government-funded (DARPA internet, GPS, Siri/SRI); the mRNA vaccine produced
     Moderna's ~$200B while the NIH's IP claim went unenforced; Apple paid 0.005%
     tax on Irish profits.
-1.  Enshittification (8 min): Doctorow's ladder with concrete rungs—Booking.com's
+1.  Enshittification: Doctorow's ladder with concrete rungs—Booking.com's
     commission from 12% to 25-30%, Columbia House's penny records, JanSport's
     backpacks, YouTube's 2018 monetization threshold. Platforms first attract
     users, then extract from them and their suppliers.
-1.  Institutional variety (8 min): beyond the shareholder firm—the Islamic waqf
+1.  Institutional variety: beyond the shareholder firm—the Islamic waqf
     (roughly a third of Ottoman farmland), keiretsu, the Mittelstand, the Hindu
     Undivided Family (Tata/Birla). The firm we treat as "natural" is one choice
     among many.
-1.  The MLM warning (5 min): the FTC found <1% of participants earned a net
+1.  The MLM warning: the FTC found <1% of participants earned a net
     profit; Amazon Basics competes with its own sellers using their sales data;
     Uber pitched drivers as "entrepreneurs."
-1.  Who pays, who benefits (5 min): "Efficiency" is not the same as fairness. A
+1.  Who pays, who benefits: "Efficiency" is not the same as fairness. A
     market can be efficient and still concentrate benefits and diffuse harms.
     (Lesson 6 uses this distinction.)
 
-### Exercises
+::: {.callout-note title="Takeaway"}
+
+There is no market without rules. The interesting questions are which rules
+exist, who wrote them, and who benefits. When markets fail, regulation is the
+standard correction, not an alien intrusion.
+
+:::
+
+## Exercises
 
 Externality inventory.
 :   Pick one social-media harm (polarization, teen anxiety, election
@@ -123,15 +134,9 @@ Commons design.
     neighborhood) and draft the design principles that keep it from turning
     into Hardin's tragedy. Compare your list with Ostrom's eight.
 
-### Takeaway
+## Further reading
 
-There is no market without rules. The interesting questions are which rules
-exist, who wrote them, and who benefits. When markets fail, regulation is the
-standard correction, not an alien intrusion.
-
-### Further reading
-
-#### [Big Tech is Like a Drug Cartel](../harmful-models/index.qmd)
+### [Big Tech is Like a Drug Cartel](../harmful-models/index.qmd)
 
 An opening hook for the workshop as a whole:
 
@@ -145,7 +150,7 @@ The killer detail is brand protection without trademark law:
 > operate in territory the cartel has claimed. The aim—maintaining exclusivity
 > and quality signals—is the same, it's just the mechanism that differs.
 
-#### [The Creation of Money](../how-we-got-here/index.qmd)
+### [The Creation of Money](../how-we-got-here/index.qmd)
 
 The strongest possible "markets rest on rules" illustration is the 1660s
 goldsmith story:
@@ -154,7 +159,7 @@ goldsmith story:
 > loan, the deposit disappears from your account and the corresponding debt
 > disappears from the bank's books. Money is destroyed.
 
-#### [Big Tech is Like Professional Wrestling](../harmful-models/index.qmd)
+### [Big Tech is Like Professional Wrestling](../harmful-models/index.qmd)
 
 The workshop discusses "market power" but has no example of *fake* competition:
 
@@ -163,7 +168,7 @@ The workshop discusses "market power" but has no example of *fake* competition:
 > sold. The two rivals are financially interdependent, and each needs the other
 > to play its designated role.
 
-#### [The Demand Problem](../ai-happens/index.qmd)
+### [The Demand Problem](../ai-happens/index.qmd)
 
 A market-failure mechanism not in the workshop's four-part list:
 
@@ -175,7 +180,7 @@ Contrast this with Henry Ford's opposite logic ("his employees needed to earn
 enough to buy his cars") and Jack Dorsey/Block's 2025 layoffs being rewarded
 with a +25% stock bump.
 
-#### [Fads and Bubbles](../more-psychology/index.qmd)
+### [Fads and Bubbles](../more-psychology/index.qmd)
 
 Tulip mania ("a single bulb of the Semper Augustus tulip sold in Amsterdam for
 the price of a house on a canal") and Isaac Newton in the South Sea Bubble ("I
@@ -183,7 +188,7 @@ can calculate the motions of heavenly bodies, but not the madness of men"). The
 "greater fool theory" line "A bubble collapses when no greater fool can be
 found" is a quotable takeaway.
 
-#### [Big Tech is Like the Sharecropping System](../more-analogies/index.qmd)
+### [Big Tech is Like the Sharecropping System](../more-analogies/index.qmd)
 
 The chapter's most quotable metaphor for platform lock-in and information
 asymmetry is:
@@ -191,7 +196,7 @@ asymmetry is:
 > The audience is the crop; the algorithm change is the landlord raising the
 > rent after the harvest is in.
 
-#### [Control and Alternatives](../control-and-alternatives/index.qmd)
+### [Control and Alternatives](../control-and-alternatives/index.qmd)
 
 The source for the "institutional variety" point: the shareholder firm is not
 natural or inevitable, and alternatives such as cooperatives and the Mittelstand

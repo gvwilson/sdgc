@@ -1,8 +1,9 @@
+---
+subtitle: How does a society decide what counts as harm, and what should it do about the harms it recognizes?
+---
 # Regulation
 
-*How does a society decide what counts as harm, and what should it do about the harms it recognizes?*
-
-### Learning objectives
+::: {.callout-note title="Learning Objectives"}
 
 -   Explain why what gets labeled "harmful" and therefore gets regulated does
     not track a neutral measurement of damage.
@@ -13,7 +14,9 @@
 -   Name the instruments by which harm is regulated and the failure mode of
     capture.
 
-### Key concepts
+:::
+
+## Key concepts
 
 Harm is not self-evident.
 :   What counts as harm, and which harms get regulated, is decided through
@@ -54,11 +57,11 @@ Non-identity.
     victim; this is the philosophical twin of diffuse, cumulative harm, and it
     explains why such harms are so easy to postpone.
 
-### Content
+## Content
 
-1.  Opening question (3 min): "Which is more dangerous: alcohol or cannabis? How
+1.  Opening question: "Which is more dangerous: alcohol or cannabis? How
     do you know, and does the law match your answer?"
-1.  Sex, drugs, guns, and privacy (20 min): four cases that show harm is
+1.  Sex, drugs, guns, and privacy: four cases that show harm is
     contested, not measured.
    -   Sex. What was "private" versus what was "criminal" has been redrawn case
        by case, in someone's interests, with no consistent underlying
@@ -87,7 +90,7 @@ Non-identity.
    -   The point is that we do not first measure harm and then regulate. We
        first decide who and what matters, then find or manufacture the harm that
        justifies the decision.
-1.  Two models of harm (10 min): rare/dramatic/attributable versus
+1.  Two models of harm: rare/dramatic/attributable versus
     diffuse/cumulative. The engineer's default is the first; the worst damage
     from industry has been the second. Leaded gasoline lowered a generation's
     IQs without any single tank of fuel causing a measurable injury; no
@@ -97,7 +100,7 @@ Non-identity.
     regulate. Parfit's non-identity problem is the philosophical twin: harms to
     "future people" cannot name an individual victim, which is why they are so
     easy to postpone and so hard to regulate.
-1.  The uncertainty playbook (12 min): when a harm is alleged, the standard
+1.  The uncertainty playbook: when a harm is alleged, the standard
     industry playbook runs in five steps—fund scientists, insist correlation is
     not causation, call regulation an attack on freedom, create neutral-sounding
     front groups, and delay. The response then moves through four phases:
@@ -106,7 +109,7 @@ Non-identity.
     ran this script for decades after Hill and Doll's 1950 study; the same
     script ran for leaded gasoline, asbestos, and oxycontin, and is running now
     for social media and AI.
-1.  Pollution and dangerous pharmaceuticals (20 min): two cases where regulation
+1.  Pollution and dangerous pharmaceuticals: two cases where regulation
     worked, and why.
    -   Pollution. The remedy was to hold the emitter liable for the aggregate,
        not for a specific injury. The ozone layer was protected before it cost
@@ -128,23 +131,33 @@ Non-identity.
        harm rather than removing it.
    -   What worked. Accurate diagnosis of the *actual* harm; the right
        instrument; and a regulator that was not captured.
-1.  When regulators fail (10 min): capture is the recurring enemy. Wirecard
+1.  When regulators fail: capture is the recurring enemy. Wirecard
     shows the extreme version: Germany's regulator attacked the *journalist*
     instead of the fraud. Korean chaebol executives were convicted and then
     pardoned as too important to jail: "too big to jail" is not a tech
     invention.
-1.  Moral panic (8 min): recall the moral-panic concept from Lesson 5; it has a
+1.  Moral panic: recall the moral-panic concept from Lesson 5; it has a
     lineage—dime novels, then Wertham's comics, then rock and roll, then D&D,
     then video games—and cross-national checks reveal how fragile most claims
     are (Japan and South Korea have high game use and low violence). The real
     harm in the video-game panic was loot boxes, not gunfire.
-1.  Recap and bridge (3 min): Social-media and AI harms are pollution-model
+1.  Recap and bridge: Social-media and AI harms are pollution-model
     harms. The trap is moral-panic framing (e.g., "ban the kids' phones")
     instead of the actual harm: attention extraction, addictive design,
     discrimination, surveillance. Lessons 6 and 7 apply this to media and to
     change.
 
-### Exercises
+::: {.callout-note title="Takeaway"}
+
+Harm is not a fact that precedes regulation; it is a claim made by the powerful,
+the panicked, and the organized. Regulating well means diagnosing the actual
+harm rather than the one that generates the best testimony, using the pollution
+and product-safety models where they fit, and defending the regulator from
+capture.
+
+:::
+
+## Exercises
 
 Rank the harms, then the laws.
 :   Consider the list "alcohol, cannabis, heroin, gambling, social media,
@@ -185,17 +198,9 @@ Settlement or solution.
     fail to end the tobacco problem? What would a *solution* have required, and
     why was a settlement the outcome the parties preferred?
 
-### Takeaway
+## Further reading
 
-Harm is not a fact that precedes regulation; it is a claim made by the powerful,
-the panicked, and the organized. Regulating well means diagnosing the actual
-harm rather than the one that generates the best testimony, using the pollution
-and product-safety models where they fit, and defending the regulator from
-capture.
-
-### Further reading
-
-#### [Unsafe at Any Speed](../regulation-that-worked/index.qmd)
+### [Unsafe at Any Speed](../regulation-that-worked/index.qmd)
 
 Nader's story can be told in just a few seconds:
 
@@ -203,7 +208,7 @@ Nader's story can be told in just a few seconds:
 > dig up dirt on Nader." … "GM's president was summoned to testify before the
 > United States Senate and had to apologize on national television.
 
-#### [How the Rivers Ran Again](../regulation-that-worked/index.qmd)
+### [How the Rivers Ran Again](../regulation-that-worked/index.qmd)
 
 A good example of how *framing a harm* precedes regulating it, and about
 regulation working:
@@ -217,7 +222,7 @@ London smog ("so thick that people could not see their own feet," with a
 spokesman blaming "influenza"), and going from the Great Stinnk of 1858 to "In
 1983, a salmon was caught in the Thames for the first time since the 1820s."
 
-#### [Forty Years to an Agreement](../regulation-that-worked/index.qmd)
+### [Forty Years to an Agreement](../regulation-that-worked/index.qmd)
 
 The ISDS callout is the best single example of regulatory capture's
 international cousin, and it has a punchline:
@@ -225,7 +230,7 @@ international cousin, and it has a punchline:
 > a move so transparently opportunistic that even the arbitrators were not
 > impressed.
 
-#### [Unsafe at Any Speed](../regulation-that-worked/index.qmd)
+### [Unsafe at Any Speed](../regulation-that-worked/index.qmd)
 
 A rare example of a firm choosing public good that keeps Lesson 6 from being
 uniformly grim:
@@ -234,12 +239,12 @@ uniformly grim:
 > year before, and Volvo had made the patent freely available to every
 > manufacturer in the world.
 
-#### [The Tontine](../glossary/index.qmd)
+### [The Tontine](../glossary/index.qmd)
 
 The tontine is a one-paragraph warning about how market structures can *build
 in* harm that doubles as the opening image for "the monopolist's playbook".
 
-#### [The Eight-Hour Day](../control-and-alternatives/index.qmd)
+### [The Eight-Hour Day](../control-and-alternatives/index.qmd)
 
 A good example of *reframing* a harm to make it regulable:
 
@@ -249,7 +254,7 @@ A good example of *reframing* a harm to make it regulable:
 > the windows. The owners were acquitted of manslaughter charges and collected
 > the insurance.
 
-#### [The Monopolist's Playbook](../how-we-got-here/index.qmd)
+### [The Monopolist's Playbook](../how-we-got-here/index.qmd)
 
 For the "regulation can fail" part of the lesson, this punchline is hard to
 beat:
@@ -258,13 +263,13 @@ beat:
 > reconsolidated, and that John D. Rockefeller's personal fortune *increased*
 > after the breakup as the stock prices of the subsidiaries rose.
 
-#### [What We Owe the Future](../what-we-owe-the-future/index.qmd)
+### [What We Owe the Future](../what-we-owe-the-future/index.qmd)
 
 Parfit's non-identity problem is the philosophical twin of diffuse, cumulative
 harm: if our choices change *who* is born, no particular future person can say
 we made them worse off, yet the choice still has victims in the aggregate.
 
-#### [Privacy, Power, and the Self](../privacy-power-self/index.qmd)
+### [Privacy, Power, and the Self](../privacy-power-self/index.qmd)
 
 The "privacy is contested" point extends Lesson 6's opening claim about harm:
 the historical unit of privacy was the *household*, not the person, and marital
