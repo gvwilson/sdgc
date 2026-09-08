@@ -52,6 +52,7 @@ slides: ${SLIDES_DST}
 ${DOCS}/%.html: %.qmd
 	mkdir -p $(@D)
 	pandoc $< ${SLIDES_FLAGS} -o $@
+	mkdir -p ${DOCS}/mccole
 	cp mccole/slides.css ${DOCS}/mccole/slides.css
 	sed -i '' '/simple\.css/d' $@
 	sed -i '' 's:mccole/slides.css:../mccole/slides.css:g' $@

@@ -1,3 +1,12 @@
+Bloom's Taxonomy consists of six levels, each associated with specific action verbs to help define learning objectives. The levels and some corresponding verbs are:
+
+1.  Remember: define, list, recall
+2.  Understand: explain, summarize, classify
+3.  Apply: demonstrate, solve, use
+4.  Analyze: analyze, differentiate, organize
+5.  Evaluate: justify, critique, defend
+6.  Create: design, construct, produce
+
 ## 1-power/index.qmd (Power and Institutions)
 
 - **Olympus / corporate psychopathy anecdotes** — `a-little-psychology` — the 2011 Olympus fraud (Michael Woodford fired after uncovering $1.7B in concealed losses), the Wirecard-style "organization with a mind of its own," and the argument that fiduciary duty legally strips a corporation of conscience all belong with the existing "institutions produce behavior" discussion (they show structures, not individuals, doing the harm).
