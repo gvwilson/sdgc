@@ -5,93 +5,101 @@ subtitle: "Why do some people's preferences become policy and other people's don
 
 ::: {.callout-note title="Learning Objectives"}
 
--   Describe the three faces of power (decision, agenda, preference-shaping).
--   Define an institution as "the rules of the game" (formal and informal).
+-   Explain what "politics" actually is and what the three faces of power are.
 -   Explain why concentrated interests usually defeat diffuse ones.
 
 :::
 
-The political scientist Harold Lasswell defined politics in 1936
-as the study of "who gets what, when, how."
-The definition carries no assumption that the distribution is fair,
-no requirement that the process be democratic,
-and no claim that what gets distributed is material.
-It is simply a description of what happens whenever a group of people
-who do not fully agree on goals or values still have to act together.
-
-Think of a product decision at your company:
-an API change, a layoff, a content-moderation rule, a shift in the roadmap.
-Who actually decided it?
+Think of a recent product decision at your company,
+or a recent change in the taxes you pay.
+Who actually decided on the change?
 Who set the agenda so that this was the decision on the table,
-rather than some other one?
-And whose interests won?
-Those three questions are the spine of this chapter.
-Power is not just about who wins a visible fight;
+and whose interests won?
+Those three questions are the core of this chapter.
+Power is not just about who wins a visible fight:
 it is about who decides what is worth fighting about in the first place,
 and who shapes what people think they want.
+
+Similarly,
+in order to understand how regulation works in the real world,
+we first have to understand why and how some interests prevail over others,
+which means we have to understand power and politics.
 
 ## The Three Faces of Power
 
 The most intuitive account of power is the one Steven Lukes calls the first face:
 who wins when there is a visible decision [@Lukes2021].
-When a board votes, a legislature passes a bill, or a manager picks one proposal over another,
+When a legislature passes a bill or a manager picks one proposal over another,
 the winner is exercising the most obvious kind of power,
 and it is easy to see because it happens in public.
 
-The second face is harder to see,
-because it happens before the vote.
+Power's second face is harder to see because it happens before the vote.
 It is the power to decide what gets onto the agenda in the first place.
-A roadmap that never includes privacy work,
-an API that never exposes a particular capability,
-a meeting whose agenda is fixed before the people most affected walk into the room:
-these are all exercises of the second face.
+A product roadmap that doesn't include work on privacy
+or a meeting whose agenda is fixed before the people most affected walk into the room
+are both examples.
 The people who control what is even considered never have to win the argument,
 because the argument never happens.
-This is why a "neutral" default or a "technical" constraint
-is very often an act of agenda-setting dressed in the language of inevitability.
+This is why "neutral" defaults or "technical" changes
+are actually agenda-setting dressed up as inevitability.
 
-The third face is the deepest.
-It is the power to shape what people even *want*,
-so that some options never occur to anyone.
+The third face of power is the power to shape what people even *want*,
+or equivalently to ensure that some options never even occur to them.
 The third face is at work when an arrangement feels natural, obvious, or inevitable
 rather than chosen,
-and its catchphrase is "we don't do politics here."
-The sentence almost always means something more precise:
+and its catchphrase is, "We don't do politics here."
+What that sentence actually means is that
 the winners already have what they want,
-and they can afford to describe their arrangement as simply how things are.
-In 2021, the software company Basecamp banned "societal and political discussions" at work,
-and roughly a third of its staff resigned.
-The decision to ban discussion of politics was itself a political decision,
-made unilaterally by the winning coalition.
-"We don't do politics here" is not the absence of politics;
-it is the third face doing its quiet work.
+and can afford to describe it as just the way things are.
 
-## Institutions Are the Rules of the Game
+## Institutions as Rules
 
 Douglass North defined an institution as "the rules of the game":
 the formal rules such as laws and contracts,
-and the informal constraints such as norms, conventions, and taboos,
+and the informal constraints such as norms, conventions, and taboos
 that structure human interaction [@North1990].
-The definition is deliberately broad,
-because institutions are everywhere,
-and they do more than constrain.
-They allocate advantage.
-A rule is never neutral,
-because every rule makes some outcomes easier and others harder,
-and someone benefits from each one.
+The definition is deliberately broad because
+institutions do more than constrain:
+they allocate advantage.
+Every rule makes some outcomes easier and others harder;
+in other words,
+they give some people's agendas an advantage and others a disadvantage,
+which means that rules are never actually neutral.
 
-The English {{<g enclosure-movement "enclosure movement">}} is the cleanest illustration.
+The English {{<g enclosure-movement "enclosure movement">}} shows how this plays out in practice.
 Between 1750 and 1850,
-Parliament passed hundreds of private {{<g enclosure-acts "Enclosure Acts">}},
+Parliament passed hundreds of {{<g enclosure-acts "Enclosure Acts">}},
 each one extinguishing common rights over a specific area
 and converting that land into private property.
 The process was not neutral arbitration between competing claims:
 the landowners who stood to benefit were the same class that controlled Parliament,
 while the commoners whose rights were extinguished
 had no equivalent political representation [@Bollier2014].
-The rules changed,
-and the change had a direction.
-Institutions are the place where that direction gets set.
+
+Colonialism carried the enclosure model outward from England
+as one of the primary instruments of dispossession.
+In Ireland, India, Africa, and the Americas,
+colonial law systematically refused to recognize collective or customary land tenure.
+Land that was not individually titled under a system legible to European courts
+was declared waste, Crown land, or legally available for settlement.
+This did to colonized peoples what the Enclosure Acts had done to English commoners:
+extinguish practices that had sustained communities for generations,
+convert resources into commodities that could be extracted or sold,
+and make the people dependent on their new overlords [@Linebaugh2014].
+
+This process continues today.
+Brazil's *{{<g grilagem "grilagem" >}}*
+(the fraud of converting indigenous and public Amazon land
+into private titled property using falsified documents)
+has been digitized in recent decades,
+with forged records fed into government registries to launder claims
+at a scale that replicates the Enclosure Acts across half a continent.
+The same playbook now operates on the web.
+Email, RSS, and the early web were a {{<g commons "commons">}} that anyone could build on.
+Social platforms converted that commons into walled gardens,
+moving the audience inside and charging rent for access to it.
+
+---
 
 ## Design Decisions Are Governance Decisions
 
@@ -135,6 +143,31 @@ It flowed from impossible quotas, aggressive measurement,
 and a reward structure that made the bad behavior the rational response.
 The incentives produced the wrongdoing,
 and the institution shaped the incentives.
+
+The Olympus fraud makes the same point at the top of the hierarchy.
+In October 2011, the Japanese optics company Olympus fired Michael Woodford,
+its newly appointed chief executive,
+a few months after he uncovered $1.7 billion in concealed losses
+that had been running for nearly twenty years [@Woodford2012].
+The notable thing was not that individuals behaved dishonestly,
+but that successive layers of management had found it easier
+to maintain the deception than to stop it.
+It was as if the organization had developed a mind of its own.
+Wirecard showed the same pattern in a European setting:
+when the German payments company collapsed in 2020,
+€1.9 billion that had been reported as revenue turned out never to have existed.
+
+The legal scholar Joel Bakan put the point in sharper terms.
+He asked the psychologist Robert Hare to score a publicly traded corporation
+against the clinical checklist used to diagnose psychopathy,
+as if the corporation were a person;
+Hare concluded that it fit the profile [@Bakan2005].
+In most jurisdictions, corporate executives have a fiduciary duty to shareholders:
+they are legally required to pursue shareholder interest,
+and a board that sacrificed profit to benefit workers or communities
+could be held liable.
+The resulting entity is therefore prohibited from having a conscience
+in the way an individual person might.
 
 Institutions can also be self-fulfilling.
 Terms of service written for adversaries,
@@ -191,6 +224,18 @@ and the 1894 Pullman Strike paralyzed rail traffic across the country
 and required federal troops to suppress—
 which tells you something about what total control eventually produces [@Lindsey1942].
 
+Pullman was not an isolated case.
+Coal patches in Appalachia and the Canadian Maritimes ran on the same model:
+company housing, company stores where {{<g scrip "scrip">}} could be spent,
+and company control of access roads and community infrastructure.
+In the post-Civil War South, plantation stores extended dependency
+across the formal end of slavery,
+tying sharecroppers to specific land through debt
+that was nearly impossible to escape.
+Mining camps across Latin America reproduced the same structure under different flags.
+The company town recurs because it solves a real problem for whoever controls it:
+it makes exit nearly impossible while appearing to be voluntary.
+
 The difference between an employer and an infrastructure provider
 is a matter of degree, not kind.
 An employer controls your income;
@@ -219,10 +264,58 @@ but because it wants to be able to act upon you [@Scott1998].
 Scott called this {{<g legibility "legibility">}}:
 the degree to which an institution can observe, measure,
 and administer a population through standardized categories.
+The technical history of identification has a concrete origin.
+In 1879, a Paris police clerk named Alphonse Bertillon
+proposed measuring the skull and the length of the forearm
+so that a repeat offender could be pinned to a record
+even when he gave a false name.
+His {{<g bertillonage "anthropometry">}} spread across Europe, the United States,
+and colonies in Asia and Africa,
+and was the first large-scale attempt to use the body as a database.
+Fingerprinting replaced it within a few decades
+because it needed less skill to record,
+but the desire to pin individuals permanently to a record
+did not die with the calipers.
 The technical history of identification is also a political history of control,
 and South Africa's apartheid-era pass system—
 which became the world's first large-scale biometric register by 1986—
 is the sharpest reminder of it [@Breckenridge2016].
+
+Legibility also cuts in a contradictory direction.
+Democratic participation depends on being able to identify voters,
+so electoral systems require voter registration,
+and registration requires identity documentation.
+In the United States, that requirement has a long history of being weaponized:
+poll taxes, literacy tests, grandfather clauses,
+and, since the 1990s, photo ID requirements that are nominally neutral
+but fall hardest on the poor, the elderly, and people of color.
+Communities that have reason to distrust state identity systems—
+people who remember population registers being used to intern Japanese-Americans,
+or to deport undocumented immigrants in mass raids—
+are the same communities such systems are most likely to exclude.
+The registration built to enable participation keeps being turned against it,
+and the Voting Rights Act of 1965 exists because marchers and organizers
+made the status quo more costly than change [@Cole2002;@Torpey2000].
+
+India's Aadhaar system is the sharpest present-day version of the dilemma.
+Launched in 2009, it has enrolled over 1.3 billion people
+in a biometric database of fingerprints and iris scans
+linked to a twelve-digit number.
+Its designers argued that a universal biometric identifier would eliminate
+fraud and exclusion in government benefit programs,
+and it has reduced certain kinds of fraud
+while bringing some previously excluded people into the formal economy.
+It has also created new exclusions:
+people who cannot authenticate are cut off from food rations and pension payments,
+and a database this concentrated cannot be "reset" if it is breached—
+you can change a password, but you cannot get new fingerprints [@Khera2019].
+
+The same logic has a commercial endpoint.
+China's Social Credit System bars individuals with low scores
+from purchasing plane and train tickets,
+enrolling their children in private schools,
+and accessing certain financial services:
+a score derived from past behavior now determines present civic participation.
 
 The private sector has its own version of the same impulse.
 {{<g philanthrocapitalism "Philanthrocapitalism">}}—the use of private foundations
@@ -237,6 +330,20 @@ invites billionaires to promise publicly that they will give away most of their 
 a promise that is not legally binding
 and is often fulfilled by moving assets into funds and foundations
 that remain under the donor's control [@Giridharadas2018].
+
+Education offers a concrete example.
+In the 2000s, the Gates Foundation, working alongside the Walton Family Foundation
+and the Eli and Edythe Broad Foundation,
+channeled hundreds of millions of dollars into reshaping American K-12 education.
+Their agenda included charter schools, standardized testing, merit pay for teachers,
+and the Common Core State Standards—
+reforms chosen by funders who were not elected
+and could not be removed by the parents, students, or teachers affected.
+In 2017, Gates Foundation CEO Sue Desmond-Hellmann published an open letter
+acknowledging that the strategy had not produced the results intended.
+She described it as a learning experience.
+Most of the teachers whose work and lives had been thrown into turmoil used stronger language.
+
 For many years the Gates Foundation was the second-largest funder of the World Health Organization,
 behind only the United States government.
 Whatever the intentions,
@@ -244,6 +351,20 @@ that is influence exercised without the legitimacy
 that comes from being elected or removable.
 
 ## Concentrated Interests, Diffuse Costs
+
+In 1936,
+Harold Lasswell defined politics as the study of "who gets what, when, how."
+More recently,
+it has been defined as what people do when they don't agree on goals or values,
+but have to work together anyway.
+As Isaiah Berlin argued,
+these disagreements aren't a temporary condition
+awaiting the right institutional fix [@Berlin1991].
+The goods people pursue are genuinely plural and irreconcilable.
+liberty and equality cannot both be maximized at the same;
+neither can security and freedom or efficiency and fairness.
+Liberal democracy is not a system for finding the "right" answer:
+it is a way to manage the permanent tension between right answers that contradict each other.
 
 Mancur Olson explained why some groups reliably win and others reliably lose.
 It is easier to organize a small group with a large stake
@@ -273,6 +394,19 @@ with those who did not click treated as having resigned;
 a few months earlier, Twitter's leadership had described the company as a family.
 The winning coalition is smaller than the family,
 and it is the coalition that gets served first.
+The "family" language comes with real perks attached.
+Amazon preaches a "Day 1 culture,"
+and Google has offered free meals, nap pods, and climbing walls,
+inviting employees to treat the campus as home.
+The metaphor does real work:
+it extracts commitment, discourages outside offers,
+and makes employees—particularly younger ones—
+feel that the relationship is something other than a transaction.
+What it does not change is what the relationship actually is.
+In most of the United States, and in varying degrees elsewhere,
+employment is {{<g at-will-employment "at-will">}}:
+either party can end it, at any time, for any reason not specifically prohibited by law.
+The "family" exists at the employer's pleasure.
 
 None of this is a secret to the people who succeed at it.
 Jeffrey Pfeffer found that political skill predicts advancement better than technical competence,
@@ -284,51 +418,3 @@ set an agenda,
 and make their own interests look natural.
 The question is never whether power is present;
 it is whose interests it is serving.
-
-::: {.callout-note title="Takeaway"}
-
-Power is not only about who wins visible fights; it is about who sets the agenda
-and who shapes what people think they want. Institutions are the mechanism, and
-they are never neutral.
-
-:::
-
-## Exercises
-
-Map the decision.
-:   Pick a real decision, such as an API change, a layoff, a content-moderation
-    rule. On a whiteboard, list (a) the visible decision-makers, (b) who set the
-    agenda that made this the decision, and (c) whose preferences shaped what
-    seemed "natural". Which face of power is hardest to see, and why?
-
-Three-faces audit.
-:   Take a news story about a tech-policy fight. Find one example of each face
-    of power, or explain which face is *absent* from the public account and why
-    that absence matters.
-
-Concentrated vs. diffuse.
-:   List the stakeholders in a policy question (e.g., banning facial recognition
-    in public spaces). Classify each as concentrated or diffuse, predict which
-    will organize most effectively, and check your prediction against what
-    actually happened.
-
-Design the institution.
-:   A team is choosing default privacy settings for a product. Write three
-    different "rules of the game" (a default, a policy, a norm) that produce
-    three different outcomes, and say who wins under each.
-
-Path dependence hunt.
-:   Find a feature, protocol, or company practice whose current form is
-    explained more by history ("it's always been done this way") than by present
-    need. Trace the lock-in and name who benefits from keeping it.
-
-Quasi-government audit.
-:   Pick one platform decision (a ban, a commission change, an API restriction)
-    and compare it to a government decision. Who is the constituency? Where is
-    the appeal? Which face of power is doing the work?
-
-Incentive autopsy.
-:   Take a case like Wells Fargo's fake accounts. Trace the quota, the
-    measurement, and the reward structure that produced the wrongdoing. Then
-    redesign the institution so the bad behavior is no longer the rational
-    response.

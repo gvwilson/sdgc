@@ -7,22 +7,6 @@ Bloom's Taxonomy consists of six levels, each associated with specific action ve
 5.  Evaluate: justify, critique, defend
 6.  Create: design, construct, produce
 
-## 1-power/index.qmd (Power and Institutions)
-
-- **Olympus / corporate psychopathy anecdotes** — `a-little-psychology` — the 2011 Olympus fraud (Michael Woodford fired after uncovering $1.7B in concealed losses), the Wirecard-style "organization with a mind of its own," and the argument that fiduciary duty legally strips a corporation of conscience all belong with the existing "institutions produce behavior" discussion (they show structures, not individuals, doing the harm).
-- **At-will employment and the "family" metaphor's perks** — `inequality` — Amazon's "Day 1 culture," Google's free meals/nap pods, and the definition of at-will employment flesh out the existing Musk/selector/family passage about what "we're a family" actually means.
-- **Isaiah Berlin's pluralism** — `inequality` — "liberty and equality, security and freedom cannot be maximized simultaneously; liberal democracy manages the permanent tension" pairs naturally with the existing Lasswell definition of politics.
-- **Colonial enclosure (Ireland, India, sub-Saharan Africa, the Americas)** — `harmful-models`, `how-we-got-here` — the claim that colonial law refused to recognize collective/customary tenure, declaring it "waste or Crown land," extends the existing Enclosure Acts discussion to its global form.
-- **Grilagem (Brazilian Amazon land fraud)** — `harmful-models` — forged records laundering indigenous/public land into private title belongs with the enclosure material.
-- **Coal patches, plantation stores, and Latin American mining camps** — `more-analogies` — the recurring "company town" organizational form (company housing, scrip, tied credit) is a direct extension of the existing Pullman passage.
-- **The China "Social Credit System"** — `inequality` — a score derived from past behavior deciding present civic participation is the endpoint of the existing legibility/credit-bureau discussion.
-- **Bertillon's anthropometry (1879)** — `privacy-power-self` — the first large-scale "body as database" belongs in the legibility section as the technical origin story of identity management.
-- **Voter suppression through identity documents** — `privacy-power-self` — poll taxes, literacy tests, photo-ID laws, the internment of Japanese-Americans, and the Voting Rights Act of 1965 belong in the legibility section as the "registration enables participation but is weaponized against it" dilemma.
-- **Aadhaar (India, 2009)** — `privacy-power-self` — a 1.3-billion-person biometric register that both reduces fraud and creates new exclusions (and cannot be "reset" if breached) is the sharpest present-day legibility case.
-- **Gates/Walton/Broad K–12 reform** — `inequality` — charter schools, standardized testing, and Common Core pushed by unelected foundations (and the 2017 Desmond-Hellmann "learning experience" letter) belong beside the existing Gates Foundation/WHO point on philanthrocapitalism.
-- **Amodei quote and the material basis of democratic accountability** — `what-we-owe-the-future` — the CEO of Anthropic describing his own technology as a threat to democratic leverage, and Piketty's point that AI severs the last link between capital and human labor, fit the "Concentrated Interests, Diffuse Costs" theme.
-- **"Email, RSS, and the open hyperlink were commons"** — `harmful-models` — the framing that social platforms converted shared infrastructure into walled gardens belongs with the commons/enclosure material (it connects enclosure to the web).
-
 ## 2-markets/index.qmd (Where Markets Come From)
 
 - **Hobbes's full "war of all against all" / "solitary, poor, nasty, brutish, and short"** — `a-little-psychology` — expands the existing "rational economic agent travels from Hobbes" sentence with the actual quote and its political purpose.
