@@ -215,8 +215,6 @@ Philip Morris restructured its holdings through a Hong Kong subsidiary
 to sue under an {{<g investor-state-dispute-settlement "investor-state dispute settlement">}} clause—
 a move so transparently opportunistic that even the arbitrators were not impressed.
 Regulatory capture also has an extreme form.
-In the Wirecard scandal, Germany's financial regulator attacked the *journalists*
-who exposed the fraud instead of the fraud itself.
 In South Korea, chaebol executives were convicted and then pardoned
 as too important to the economy to jail.
 "Too big to jail" is not a technology-industry invention.

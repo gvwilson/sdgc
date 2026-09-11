@@ -99,50 +99,51 @@ Email, RSS, and the early web were a {{<g commons "commons">}} that anyone could
 Social platforms converted that commons into walled gardens,
 moving the audience inside and charging rent for access to it.
 
----
-
-## Design Decisions Are Governance Decisions
+## Design as Governance
 
 A piece of software is an institution.
 Default settings, permission models, and rate limits
-are rules that allocate advantage just as surely as a zoning ordinance or a tax code,
+are rules that allocate advantage just like zoning ordinances or tax codes,
 which means a design decision is a governance decision,
 whether or not anyone in the room is willing to say so.
 
 The 1886 American railroad gauge change makes the point concrete.
 Southern railroads ran on a five-foot gauge
-while northern lines ran on the standard four feet eight and a half inches,
-so freight crossing the boundary had to be unloaded and reloaded.
-Southern carriers profited from that break:
-the "incompatibility" was a market weapon, not a technical accident,
+while northern lines ran on four feet eight and a half inches,
+which meant that freight crossing the boundary had to be unloaded and reloaded.
+Southern carriers profited from that:
+the incompatibility was a market weapon,
 and the "technical" choice was political all the way down.
 The eventual conversion to a single gauge was a decision
 about who would capture the value of moving goods.
 It was also an instance of path dependence:
 the gauge had been chosen for reasons that no longer applied,
 but once the tracks, the rolling stock, and the jobs were built around it,
-{{<g structural-lock-in "structural lock-in">}} made changing course mean tearing up an entire landscape.
+{{<g structural-lock-in "structural lock-in">}} meant tearing up an entire landscape.
 
-Platforms reproduce the same logic at a finer grain.
-The medieval Church provided civil infrastructure—
-records, courts, hospitals, schools—
+Today's software platforms reproduce the same logic.
+The medieval Church provided civil infrastructure,
+such as record keeping, courts, hospitals, and schools,
 and collected a {{<g tithe "tithe">}} of roughly one-tenth of productive output in return,
-an obligation enforced whether or not you were a believer.
-The App Store's thirty percent commission
-is a tithe on productive activity conducted within its jurisdiction.
-{{<g excommunication "Excommunication">}}—removal from the Church's services—
-meant you could no longer conduct legal business;
-{{<g deplatforming "deplatforming">}} does the same to a creator or seller
-who loses access to customers, tools, and markets
-with no external authority to appeal to [@Southern1990].
+whether you were a believer or not.
+The App Store's thirty percent commission is every bit as much a tithe.
+{{<g excommunication "Excommunication">}}—removal from the Church's services—meant
+you could no longer conduct legal business;
+{{<g deplatforming "deplatforming">}} does the same to app creators.
+They lose access to customers and markets,
+and like peasants in the Middle Ages,
+have no higher authority to appeal to [@Southern1990].
 
 Institutions also produce behavior.
-When Wells Fargo fired 5,300 employees over fake accounts—"eight is great"—
-the wrongdoing did not flow from five thousand bad individuals.
-It flowed from impossible quotas, aggressive measurement,
-and a reward structure that made the bad behavior the rational response.
-The incentives produced the wrongdoing,
-and the institution shaped the incentives.
+When Wells Fargo fired 5,300 employees over fake accounts
+(the "eight is great" scandal),
+wrongdoing did not flow from five thousand bad individuals.
+It flowed from impossible quotas,
+aggressive measurement,
+and a reward structure that made bad behavior the rational response.
+The institution shaped the incentives that produced the wrongdoing;
+the people who followed those incentives were punished,
+not the ones who had created them.
 
 The Olympus fraud makes the same point at the top of the hierarchy.
 In October 2011, the Japanese optics company Olympus fired Michael Woodford,
@@ -156,31 +157,21 @@ It was as if the organization had developed a mind of its own.
 Wirecard showed the same pattern in a European setting:
 when the German payments company collapsed in 2020,
 €1.9 billion that had been reported as revenue turned out never to have existed.
-
-The legal scholar Joel Bakan put the point in sharper terms.
-He asked the psychologist Robert Hare to score a publicly traded corporation
-against the clinical checklist used to diagnose psychopathy,
-as if the corporation were a person;
-Hare concluded that it fit the profile [@Bakan2005].
-In most jurisdictions, corporate executives have a fiduciary duty to shareholders:
-they are legally required to pursue shareholder interest,
-and a board that sacrificed profit to benefit workers or communities
-could be held liable.
-The resulting entity is therefore prohibited from having a conscience
-in the way an individual person might.
+In this case,
+Germany's financial regulator attacked the journalists who exposed the fraud
+instead of the fraud itself.
 
 Institutions can also be self-fulfilling.
 Terms of service written for adversaries,
 and moderation systems that treat everyone as a suspect,
 produce the distrust they assume.
-The contrast is Elinor Ostrom's work on the {{<g commons "commons">}}:
-communities that governed shared resources sustainably for centuries,
-not through privatization or state control,
+This contrasts with Elinor Ostrom's work on the {{<g commons "commons">}}:
+communities have governed shared resources sustainably for centuries
 but through locally developed rules, monitoring, and graduated sanctions [@Ostrom2015].
 Design a system as if people are untrustworthy,
 and you get untrustworthy behavior;
 design it as if they can govern themselves,
-and you sometimes get self-governance.
+and you (sometimes) get self-governance.
 
 The same point applies to the corporate form itself.
 The usual excuse for why tech companies are not worker cooperatives
@@ -190,6 +181,19 @@ That explanation is conveniently incomplete:
 it omits that the founders, lawyers, and venture capitalists making the choice
 benefit most from the conventional structure [@Whyte1991;@Kelly2012].
 The "neutral" form is a choice with distributional consequences.
+
+The legal scholar Joel Bakan made this point more sharply.
+He asked the psychologist Robert Hare to score a publicly traded corporation
+against the clinical checklist used to diagnose psychopathy;
+Hare concluded that it fit the profile [@Bakan2005].
+In most jurisdictions, corporate executives have a fiduciary duty to shareholders:
+they are legally required to pursue shareholder interest,
+and a board that sacrificed profit to benefit workers or communities
+could be held liable.
+The resulting entity is therefore prohibited from having a conscience
+in the way an individual person might.
+
+---
 
 ## Platforms as Quasi-Governments
 
