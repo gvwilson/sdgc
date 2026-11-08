@@ -65,6 +65,8 @@ Every rule makes some outcomes easier and others harder;
 in other words,
 they give some people's agendas an advantage and others a disadvantage,
 which means that rules are never actually neutral.
+The question is not whether a rule is neutral
+but who decided it was a rule, when, why, and who was dispossessed in the process.
 
 The English {{<g enclosure-movement "enclosure movement">}} shows how this plays out in practice.
 Between 1750 and 1850,
@@ -75,6 +77,16 @@ The process was not neutral arbitration between competing claims:
 the landowners who stood to benefit were the same class that controlled Parliament,
 while the commoners whose rights were extinguished
 had no equivalent political representation [@Bollier2014].
+Before enclosure, common land was governed by overlapping, community-enforced use rights:
+the right to graze a specific number of animals,
+to cut timber for fuel,
+or to fish particular stretches of a river.
+Elinor Ostrom's research documented how these systems were managed sustainably for centuries
+without either private ownership or state control [@Ostrom2015].
+The commons worked;
+the argument that they were inherently prone to overuse
+was made by enclosure's beneficiaries and repeated long after it had been refuted.
+The result was a large-scale transformation of semi-independent smallholders into wage laborers.
 
 Colonialism carried the enclosure model outward from England
 as one of the primary instruments of dispossession.
@@ -165,7 +177,7 @@ Institutions can also be self-fulfilling.
 Terms of service written for adversaries,
 and moderation systems that treat everyone as a suspect,
 produce the distrust they assume.
-This contrasts with Elinor Ostrom's work on the {{<g commons "commons">}}:
+This contrasts with Elinor Ostrom's work on the commons:
 communities have governed shared resources sustainably for centuries
 but through locally developed rules, monitoring, and graduated sanctions [@Ostrom2015].
 Design a system as if people are untrustworthy,
@@ -218,6 +230,22 @@ When formal institutions are slow,
 whoever controls logistics, relationships, and trust governs in their place.
 
 That is the position platforms are building for themselves.
+The company town is the industrial version of a pattern that goes back further.
+E.P. Thompson's account of the transition from putting-out to factory production
+made a point that factories were initially not more efficient at producing cloth:
+they were more effective at eliminating worker autonomy.
+Before industrialization, workers controlled their own time and pace,
+could share work across household members,
+and could resist disadvantageous terms through slow work, variable quality,
+and informal coordination.
+The factory closed off these responses.
+Workers arrived at fixed times, worked at a supervised pace,
+and until labor unions emerged, had no practical means of collective withdrawal.
+App-based platform work is doing the same thing today.
+The app is not merely a more convenient interface.
+It is supervisory infrastructure that monitors pace and completion rates
+and eliminates the degrees of freedom that less tightly managed arrangements permitted [@Thompson1963].
+
 George Pullman built a company town in Illinois in the 1880s,
 where the company owned the workers' housing, stores, church, library, and bank.
 When Pullman cut wages during the depression of 1893 while holding rents fixed,
@@ -227,6 +255,14 @@ They had no recourse and nothing left to lose,
 and the 1894 Pullman Strike paralyzed rail traffic across the country
 and required federal troops to suppress—
 which tells you something about what total control eventually produces [@Lindsey1942].
+Pullman justified all of this in the language of paternalistic improvement.
+The company town was presented as a planned community
+designed to give workers superior housing, sanitation, and amenities.
+This was partly true: Pullman, Illinois was better built than most industrial housing.
+But the justification also framed the absence of collective bargaining as a feature.
+Workers who were being improved did not need unions.
+They needed to trust the judgment of the person improving them.
+Conveniently, this converted a power arrangement into a benevolent one.
 
 Pullman was not an isolated case.
 Coal patches in Appalachia and the Canadian Maritimes ran on the same model:
@@ -239,6 +275,25 @@ that was nearly impossible to escape.
 Mining camps across Latin America reproduced the same structure under different flags.
 The company town recurs because it solves a real problem for whoever controls it:
 it makes exit nearly impossible while appearing to be voluntary.
+
+The distinction between short-term dependency and structural lock-in
+is what keeps workers and developers in arrangements that are getting worse.
+Short-term dependency is a rational calculation:
+you stay because the current terms are good enough and leaving has costs.
+Structural lock-in is different.
+The costs of leaving have been deliberately raised
+so that the calculation does not change even as the terms worsen.
+A platform can worsen its terms incrementally;
+each worsening is individually insufficient to justify the exit cost,
+even if the cumulative total is large.
+
+A developer whose business depends entirely on the App Store,
+a seller whose inventory and customer relationships live on Amazon,
+or a creator whose audience exists only within a single platform
+is in an equivalent position:
+the terms can be changed at any time,
+the cost of departure is prohibitive,
+and the entity that provides the housing also adjudicates disputes about it.
 
 The difference between an employer and an infrastructure provider
 is a matter of degree, not kind.
@@ -253,6 +308,8 @@ government services, and social identity into a single system;
 a user whose account is suspended loses not just a communication tool
 but the infrastructure through which they conduct their civic and commercial life
 [@Stoller2019;@Walder2017].
+The Pullman Company controlled the economic conditions of workers' lives.
+The super-app, at its most developed, aims to be a danwei.
 Foxconn's Shenzhen campuses,
 which house hundreds of thousands of workers in company dormitories
 with company stores and company transportation,
@@ -276,6 +333,12 @@ even when he gave a false name.
 His {{<g bertillonage "anthropometry">}} spread across Europe, the United States,
 and colonies in Asia and Africa,
 and was the first large-scale attempt to use the body as a database.
+Bertillonage had a fundamental weakness:
+measurements had to be taken correctly by trained operators.
+By 1900 fingerprinting was replacing it almost everywhere
+because fingerprints were more reliable and required less skill to record.
+But the desire of states and institutions to pin individuals permanently to a record
+did not die with the calipers.
 Fingerprinting replaced it within a few decades
 because it needed less skill to record,
 but the desire to pin individuals permanently to a record
@@ -284,6 +347,24 @@ The technical history of identification is also a political history of control,
 and South Africa's apartheid-era pass system—
 which became the world's first large-scale biometric register by 1986—
 is the sharpest reminder of it [@Breckenridge2016].
+The pass book recorded a person's employer,
+their designated "homeland,"
+and their permission to be in urban areas.
+Police could stop anyone and demand the book;
+failure to produce it meant arrest.
+The pass system was one of the most sophisticated identity management projects in history,
+and it was designed entirely to restrict freedom of movement
+and force labor into mines and factories at wages set by the government.
+Colonial governments introduced population registers, caste certificates,
+and tribal designations across India, Africa, and Southeast Asia
+that served double purposes:
+administration and taxation on one hand,
+and identifying potential troublemakers and restricting movement on the other.
+The state's desire for legibility does not have a built-in limit.
+The state that registers births so it can provide schooling
+can use that register to conscript soldiers.
+The government that issues identity documents to allow people to vote
+can use those documents to deport people.
 
 Legibility also cuts in a contradictory direction.
 Democratic participation depends on being able to identify voters,
@@ -320,39 +401,6 @@ from purchasing plane and train tickets,
 enrolling their children in private schools,
 and accessing certain financial services:
 a score derived from past behavior now determines present civic participation.
-
-The private sector has its own version of the same impulse.
-{{<g philanthrocapitalism "Philanthrocapitalism">}}—the use of private foundations
-and large-scale giving to shape public policy without democratic accountability—
-converts taxable wealth into permanently controlled endowments.
-{{<g donor-advised-fund "Donor-advised funds">}},
-which held over $230 billion in assets by 2022,
-let a donor take an immediate tax deduction
-while retaining the ability to direct distributions for decades.
-The Giving Pledge, launched in 2010,
-invites billionaires to promise publicly that they will give away most of their wealth—
-a promise that is not legally binding
-and is often fulfilled by moving assets into funds and foundations
-that remain under the donor's control [@Giridharadas2018].
-
-Education offers a concrete example.
-In the 2000s, the Gates Foundation, working alongside the Walton Family Foundation
-and the Eli and Edythe Broad Foundation,
-channeled hundreds of millions of dollars into reshaping American K-12 education.
-Their agenda included charter schools, standardized testing, merit pay for teachers,
-and the Common Core State Standards—
-reforms chosen by funders who were not elected
-and could not be removed by the parents, students, or teachers affected.
-In 2017, Gates Foundation CEO Sue Desmond-Hellmann published an open letter
-acknowledging that the strategy had not produced the results intended.
-She described it as a learning experience.
-Most of the teachers whose work and lives had been thrown into turmoil used stronger language.
-
-For many years the Gates Foundation was the second-largest funder of the World Health Organization,
-behind only the United States government.
-Whatever the intentions,
-that is influence exercised without the legitimacy
-that comes from being elected or removable.
 
 ## Concentrated Interests, Diffuse Costs
 
@@ -398,6 +446,18 @@ with those who did not click treated as having resigned;
 a few months earlier, Twitter's leadership had described the company as a family.
 The winning coalition is smaller than the family,
 and it is the coalition that gets served first.
+The winning coalition is not the whole organization:
+it is the subset of people whose support the leader actually requires.
+In an autocracy, this might be the military brass, a security service, and a handful of oligarchs.
+In a publicly traded company, it is the board, major institutional shareholders,
+and a small number of indispensable senior executives.
+Everyone else—the people who are told they are family—is interchangeable.
+They are what the theory calls the selectorate:
+large enough to give the winning coalition options if any member defects,
+but not powerful enough to claim a significant share of private benefits.
+The perks are cheap ways to signal belonging to people
+who are not actually in the winning coalition.
+The rhetoric costs nothing but extracts real commitment.
 The "family" language comes with real perks attached.
 Amazon preaches a "Day 1 culture,"
 and Google has offered free meals, nap pods, and climbing walls,
@@ -420,5 +480,46 @@ that likes to imagine decisions are made by the best argument.
 They are made by the people who can assemble a coalition,
 set an agenda,
 and make their own interests look natural.
+Interests and beliefs are not opposites.
+People pursue what they think is right,
+and what they think is right is shaped by their position in the organization.
+A sales leader who believes the product team should prioritize enterprise features is not lying.
+She is telling the truth as experienced from where she sits.
+She also reaps the benefits if her plan is adopted.
+
+The phrase "we don't do politics here" appears regularly in tech companies.
+It usually means one of two things.
+The first is a genuine belief that technical decisions should be made on technical merit,
+that coalition-building is a form of corruption.
+That belief is reasonable, but almost entirely wrong about how decisions get made.
+The second meaning is that the people in the winning coalition
+have already gotten what they want from the current structure,
+so there is no need for them to engage in visible political activity.
+People who are well-served by existing arrangements
+can afford to describe those arrangements as natural
+and political contestation as illegitimate.
+
+::: {.callout-note title="Basecamp and Footguns"}
+
+In 2021, the founders of Basecamp banned "societal and political discussions"
+on internal company channels.
+They framed this as keeping the workplace professional and focused.
+Roughly a third of the company's employees resigned within days,
+recognizing that the decision to ban discussion of politics was itself a political decision,
+made unilaterally by the winning coalition.
+
+:::
+
+The family metaphor is not unique to American tech companies.
+Japan's postwar lifetime employment system
+produced what selectorate theory would describe as
+a very large nominal selectorate of permanent employees
+with a winning coalition drawn from senior management and major shareholders.
+When the asset bubble collapsed in 1990,
+the permanent employment guarantee at the heart of the "family" bargain was broken
+through expansion of temporary and contract employment
+that covered the same work under worse conditions.
+The family language remained; the security it implied did not.
+
 The question is never whether power is present;
 it is whose interests it is serving.

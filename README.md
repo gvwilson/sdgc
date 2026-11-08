@@ -9,20 +9,15 @@
 
 ## Chapters
 
-1.  [Introduction](@/intro/)
-1.  [A Little Psychology](@/a-little-psychology/)
-1.  [How We Got Here](@/how-we-got-here/)
-1.  [A Little More Psychology](@/more-psychology/)
-1.  [When the Model Is the Harm](@/harmful-models/)
-1.  [Privacy, Power, and the Self](@/privacy-power-self/)
-1.  [Who Gets What and Why](@/inequality/)
-1.  [More Analogies](@/more-analogies/)
-1.  [Control and Alternatives](@/control-and-alternatives/)
-1.  [What We Owe the Future](@/what-we-owe-the-future/)
-1.  [Regulation That Worked](@/regulation-that-worked/)
-1.  [When the Algorithm Comes for You](@/ai-happens/)
-1.  [How Change Happens](@/change-happens/)
-1.  [Conclusion](@/finale/)
+1.  [Introduction](@/0-intro/)
+1.  [Power and Institutions](@/1-power/)
+1.  [Where Markets Come From](@/2-markets/)
+1.  [How People Actually Think](@/3-thinking/)
+1.  [Inequality](@/4-inequality/)
+1.  [Belief](@/5-belief/)
+1.  [Regulation](@/6-regulation/)
+1.  [Change](@/7-change/)
+1.  [Conclusion](@/8-finale/)
 
 </div>
 

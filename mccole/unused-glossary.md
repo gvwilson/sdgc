@@ -166,3 +166,485 @@
     liability shield or immunity) is when a law specifically exempts
     you from being sued for such harms.
 
+<span id="accounting-fraud">accounting fraud</span>
+:   The manipulation of financial statements through aggressive use of
+    permissible accounting choices like early revenue recognition,
+    optimistic asset valuations, or buried liabilities to misrepresent
+    a company's financial position.
+
+<span id="algorithmic-hiring">algorithmic hiring</span>
+:   The use of automated software systems to screen, rank, or select
+    job candidates, typically trained on historical hiring data.
+
+<span id="biometrics">biometrics</span>
+:   The measurement and statistical analysis of unique physical or
+    behavioral characteristics to identify or verify an individual's
+    identity.
+
+<span id="boryokudan">boryokudan</span>
+:   The Japanese government's official designation for organized crime
+    groups, meaning "violence group," used in anti-organized crime
+    legislation since 1992 as an alternative to the self-identifying
+    term yakuza.
+
+<span id="bounded-rationality">bounded rationality</span>
+:   Herbert Simon's term for the observation that human
+    decision-making is rational only within the limits of available
+    information, cognitive capacity, and time.  People do not
+    optimize; they search for solutions that are good enough and stop,
+    a process Simon called satisficing.
+
+<span id="brand-protection">brand protection</span>
+:   The enforcement of exclusive commercial identity through legal
+    mechanisms such as trademarks and trade dress, used to prevent
+    competitors from trading on an established name.
+
+<span id="civil-disobedience">civil disobedience</span>
+:   The deliberate, nonviolent refusal to comply with laws or
+    government demands as a form of political protest, aimed at
+    changing the law rather than evading it.
+
+<span id="cognitive-bias">cognitive bias</span>
+:   A systematic pattern of deviation from rational judgment in which
+    people reach conclusions through processes that are predictably
+    and consistently skewed.
+
+<span id="collective-bargaining">collective bargaining</span>
+:   The process by which workers negotiate wages, hours, and working
+    conditions as a group through their union rather than as
+    individuals.
+
+<span id="conspicuous-leisure">conspicuous leisure</span>
+:   Thorstein Veblen's term for the visible display of not working as
+    a signal of social rank.  In contexts where most people must
+    labor, idleness signals that one can afford to abstain; in modern
+    professional contexts, the signal has inverted to highly visible
+    overwork and constant availability.
+
+<span id="consumer-cooperative">consumer cooperative</span>
+:   A cooperative owned by its customers rather than its workers, in
+    which members pay a joining fee or purchase membership shares and
+    receive a dividend proportional to their purchases, with
+    governance following a one-member-one-vote principle.
+
+<span id="control-fraud">control fraud</span>
+:   A form of financial fraud in which the executives of an
+    institution use the institution itself as a vehicle for personal
+    enrichment at the expense of depositors, investors, or clients.
+
+<span id="cooperative">cooperative</span>
+:   A firm owned and governed by its members in which profits are
+    distributed in proportion to participation rather than capital
+    invested, and governance follows a one-member-one-vote principle
+    rather than a one-share-one-vote principle.
+
+<span id="copyleft">copyleft</span>
+:   A licensing approach that requires derivative works to be
+    distributed under the same open terms as the original, preventing
+    proprietary appropriation of open-source contributions.
+
+<span id="credit-union">credit union</span>
+:   A member-owned financial cooperative that accepts deposits, makes
+    loans, and returns surplus to members rather than distributing
+    profits to outside shareholders.
+
+<span id="crop-lien">crop lien</span>
+:   A credit arrangement in which farmers borrowed against their
+    future harvest, typically from merchants who charged high interest
+    and kept borrowers in perpetual debt.
+
+<span id="cultural-capital">cultural capital</span>
+:   The non-financial social assets that confer advantage in
+    education, employment, and status, such as fashion preferences,
+    modes of speech, and educational credentials, that perpetuate
+    class advantages without direct transfer of money.
+
+<span id="culture-fit">culture fit</span>
+:   The use of perceived compatibility with an existing team's norms
+    and personality as a criterion in hiring decisions, which tends to
+    reproduce the demographic composition of existing teams.
+
+<span id="dark-triad">dark triad</span>
+:   A cluster of three overlapping personality traits—psychopathy,
+    narcissism, and Machiavellianism—that researchers treat together
+    because they tend to co-occur and share a common pattern of
+    callous self-interest, manipulation, and disregard for others.
+
+<span id="delaware-flip">Delaware flip</span>
+:   The process by which a non-US startup reincorporates by creating a
+    Delaware holding company above the existing domestic entity and
+    transferring intellectual property to it, typically required by
+    American venture capital investors as a condition of investment.
+
+<span id="diffuse-decision-making">diffuse decision-making</span>
+:   The distribution of accountability across many individuals in an
+    organization such that no single person can be held responsible
+    for harmful outcomes.
+
+<span id="divestment">divestment</span>
+:   The disposal of financial assets in a company or sector as a form
+    of political pressure, imposing reputational and economic costs on
+    targeted firms or governments.
+
+<span id="downline">downline</span>
+:   In multi-level marketing, the network of distributors recruited by
+    a participant and by those distributors' own recruits, whose sales
+    generate commission income for everyone above them in the chain.
+
+<span id="doxxing">doxxing</span>
+:   The publication of private personal information to expose someone
+    to harassment
+
+<span id="dual-class-shares">dual-class shares</span>
+:   A corporate share structure in which two or more classes of stock
+    carry different voting rights, typically giving founders or
+    insiders shares with ten or more votes each while public investors
+    receive shares with one vote, allowing the company to raise
+    capital without ceding effective control.
+
+<span id="due-process">due process</span>
+:   The legal requirement that government or institutional action
+    affecting rights must follow fair procedures and provide a
+    meaningful opportunity for challenge.
+
+<span id="engrams">engrams</span>
+:   In Scientology, traumatic memories believed to be stored in the
+    reactive mind and to impair mental and physical function; the
+    target of the auditing process, which aims to discharge them
+    through conscious recall.
+
+<span id="equity-compensation">equity compensation</span>
+:   Payment in the form of stock or stock options rather than cash,
+    used extensively in the tech industry to align worker incentives
+    with company value while deferring cash costs.
+
+<span id="fair-game">Fair Game</span>
+:   A Scientology policy, first articulated in 1965, stating that
+    members who leave the organization and publicly criticize it may
+    be subjected to any action by other members without organizational
+    discipline. It was officially rescinded in 1968 but documented as
+    continuing in practice under different names.
+
+<span id="flexner-report">Flexner Report</span>
+:   The 1910 report that restructured American medical education
+    around elite university-based schools, simultaneously
+    professionalizing medicine and closing institutions that had
+    trained women and Black physicians.
+
+<span id="framework-convention-tobacco-control">Framework Convention on Tobacco Control</span>
+:   The 2003 World Health Organization treaty on tobacco regulation,
+    the first international public health treaty negotiated under WHO
+    auspices, committing signatory countries to measures including
+    advertising restrictions, health warnings, and plain packaging.
+
+<span id="frand">FRAND</span>
+:   Fair, Reasonable, and Non-Discriminatory: the licensing commitment
+    a patent holder makes when their technology is incorporated into a
+    formal technical standard.  The commitment is intended to prevent
+    the patent holder from using a standards-essential patent as a
+    chokepoint to extract monopoly rents from everyone implementing
+    the standard.  What counts as "reasonable" is routinely contested
+    in litigation.
+
+<span id="front-running">front-running</span>
+:   The practice of executing trades based on advance knowledge of
+    pending client orders before those orders are filled, exploiting
+    information asymmetry in financial markets.
+
+<span id="general-partnership">general partnership</span>
+:   A business structure in which two or more people share ownership,
+    management, and unlimited personal liability for the firm's debts
+    and legal obligations.
+
+<span id="gpl">GNU Public License</span> (GPL)
+:   A free software license that grants users the freedom to use,
+    study, modify, and distribute software, with the key requirement
+    that any distributed modifications or derivative works must also
+    be released under the same terms.
+
+<span id="heel">heel</span>
+:   In professional wrestling, a character designated to play the
+    villain, whose role is to behave in ways the audience finds
+    objectionable so that sympathy and approval flow toward the
+    opposing character.
+
+<span id="horizon-problem">horizon problem</span>
+:   In cooperative economics, the tendency of member-owners to
+    underinvest in long-term assets because their claim on the
+    cooperative ends when their membership ends, giving them a shorter
+    time horizon than the firm's productive life.
+
+<span id="implicit-bias">implicit bias</span>
+:   Unconscious attitudes or stereotypes that influence decisions and
+    behavior in ways the decision-maker does not recognize or intend.
+
+<span id="impression-management">impression management</span>
+:   The ongoing effort by individuals to control how they are
+    perceived by others. In large organizational hierarchies, where
+    decision-makers have limited direct observation of a candidate's
+    actual work, impression management skills become a primary
+    determinant of career advancement, independently of underlying
+    performance.
+
+<span id="interoperability">interoperability</span>
+:   The ability of systems from different vendors or platforms to
+    exchange information and work together without requiring special
+    adaptation by the user.  Interoperability mandates are legal
+    requirements that a platform accept connections from competing
+    services on non-discriminatory terms.
+
+<span id="invisible-labor">invisible labor</span>
+:   Work that is essential to the functioning of an organization or
+    household but goes unrecognized, uncompensated, and uncounted
+    because it is performed by people with less power (typically
+    women, caregivers, and low-status workers).  Examples include
+    emotional labor, domestic work, and the administrative
+    coordination tasks that fall to junior employees or support staff
+    rather than the people who take credit for outcomes.
+
+<span id="joint-stock-company">joint-stock company</span>
+:   A firm whose ownership is divided into transferable shares held by
+    multiple investors, each of whom bears risk only in proportion to
+    their investment; the organizational predecessor of the modern
+    publicly traded corporation.
+
+<span id="karoshi">karoshi</span>
+:   Death from overwork.
+
+<span id="legitimacy">legitimacy</span>
+:   The quality of being recognized as having rightful authority,
+    distinct from power exercised by force or coercion alone.
+
+<span id="limited-liability-corporation">limited liability corporation</span>
+:   A firm in which shareholders cannot be held personally responsible
+    for the company's debts or legal obligations beyond the amount
+    they have invested, separating the financial risk of the owners
+    from that of the enterprise.
+
+<span id="limited-partnership">limited partnership</span>
+:   A partnership structure with two classes of partners: limited
+    partners, who risk only the capital they have contributed and take
+    no part in management, and at least one general partner, who
+    retains full personal liability and operational control.
+
+<span id="long-firm">long firm</span>
+:   A fraud in which a business establishes credibility through
+    legitimate trading before ordering large quantities of goods on
+    credit and disappearing with them.
+
+<span id="longtermism">longtermism</span>
+:   The belief that the most important thing people can do is to
+    ensure that the long-run future of civilization goes well, on the
+    grounds that a future containing trillions of people vastly
+    outweighs present-day welfare in moral calculations.  Longtermism
+    is used to justify present harm in the name of speculative
+    futures, and that its practitioners disproportionately assume that
+    they themselves should be making those decisions.
+
+<span id="mitbestimmung">Mitbestimmung</span>
+:   The German system of codetermination, in which workers in large
+    firms hold legally mandated representation on corporate
+    supervisory boards with formal authority over management.
+
+<span id="normalization-of-deviance">normalization of deviance</span>
+:   The process by which organizations gradually come to accept risk
+    thresholds that would initially have been unacceptable, through
+    repeated exposure to near-misses that did not immediately produce
+    catastrophe.
+
+<span id="partnership">partnership</span>
+:   A business structure in which two or more people share ownership
+    and, in a general partnership, unlimited personal liability; a
+    foundational organizational form for professional services firms,
+    law firms, and investment funds.
+
+<span id="passion-principle">passion principle</span>
+:   The cultural norm in certain fields that workers should pursue
+    their work as a vocation rather than merely a job, used to justify
+    poor conditions, low pay, and long hours.
+
+<span id="patent-assertion-entities">patent assertion entities</span>
+:   Companies that acquire patents not to produce goods but to extract
+    licensing fees or litigation settlements from operating
+    businesses; commonly called patent trolls.
+
+<span id="payola">payola</span>
+:   The practice of record labels paying radio stations or disc
+    jockeys to play their songs without disclosing the payment to
+    listeners.
+
+<span id="peonage">peonage</span>
+:   A system of debt bondage in which workers are legally required to
+    continue working until a debt to an employer is repaid,
+    effectively a form of coerced labor.
+
+<span id="ponzi-scheme">Ponzi scheme</span>
+:   A fraudulent investment scheme that pays returns to earlier
+    investors using funds from later investors rather than from actual
+    profits, collapsing when new investment stops.
+
+<span id="precarious-workers">precarious workers</span>
+:   Workers in contingent, part-time, contract, or gig arrangements
+    who lack the employment security, benefits, and legal protections
+    associated with standard employment.
+
+<span id="predatory-pricing">predatory pricing</span>
+:   Setting prices below cost to drive competitors out of a market,
+    with the intention of raising prices once competitive pressure is
+    eliminated.
+
+<span id="predictive-policing">predictive policing</span>
+:   The use of algorithmic tools to forecast where crimes will occur
+    or who is likely to offend, criticized for encoding and amplifying
+    existing racial and socioeconomic biases.
+
+<span id="prospect-theory">prospect theory</span>
+:   A model of how people actually evaluate risky outcomes.  Key
+    findings are that people evaluate outcomes relative to a reference
+    point rather than in absolute terms, and that losses loom roughly
+    twice as large as equivalent gains (a phenomenon called loss
+    aversion).
+
+<span id="psychopathy-checklist">Psychopathy Checklist</span>
+:   A clinical assessment instrument for measuring psychopathic traits
+    in individuals.  The checklist evaluates characteristics including
+    callousness, grandiosity, manipulation, lack of remorse, and
+    failure to accept responsibility. The Framework is also used to
+    show that corporate legal structure produces psychopathic behavior
+    at the organizational level.
+
+<span id="public-benefit-corporation">public benefit corporation</span>
+:   A corporate form that legally requires directors to consider the
+    interests of employees, communities, and the environment alongside
+    shareholder returns, providing some protection against purely
+    financial acquisition pressure; available in several Canadian
+    provinces and US states.
+
+<span id="publication-bias">publication bias</span>
+:   The tendency for academic journals and researchers to publish
+    positive or statistically significant findings while null or
+    negative results go unreported, distorting the scientific record.
+
+<span id="putting-out-system">putting-out system</span>
+:   A pre-industrial manufacturing arrangement in which merchants
+    supplied raw materials to workers in their homes and collected
+    finished goods, a precursor to the factory system.
+
+<span id="racial-formation">racial formation</span>
+:   The process by which racial categories are created, transformed,
+    and destroyed through political, economic, and social forces
+    rather than biology.
+
+<span id="regulatory-compact">regulatory compact</span>
+:   An implicit or explicit agreement between a regulated monopoly and
+    a government regulator, in which the monopoly accepts rate and
+    service regulation in exchange for protection from competition.
+
+<span id="samizdat">samizdat</span>
+:   A form of dissident activity in the Soviet Union and Eastern Bloc
+    in which individuals covertly reproduced and distributed censored
+    or banned literature, bypassing state censorship.
+
+<span id="satisficing">satisficing</span>
+:   The strategy of searching through available options until a
+    good-enough solution is found, rather than evaluating all
+    possibilities to find the optimal one.  Satisficing reflects
+    bounded rationality: people do not have the time, information, or
+    cognitive capacity to optimize.
+
+<span id="selectorate">selectorate</span>
+:   In selectorate theory, the full set of people whose nominal
+    support a leader depends on to hold power, from which the winning
+    coalition is drawn.  The selectorate is large enough to give the
+    leader alternatives if individual coalition members defect, but
+    most members receive only public goods rather than private
+    benefits.
+
+<span id="sideloading">sideloading</span>
+:   Installing software on a device from sources other than the
+    platform operator's official app store, bypassing the operator's
+    review and commission systems.
+
+<span id="slotting-fees">slotting fees</span>
+:   Payments made by consumer goods manufacturers to retailers for
+    guaranteed shelf placement, functioning as a barrier to entry that
+    favors established brands with resources to pay.
+
+<span id="social-legibility">social legibility</span>
+:   The degree to which an individual's characteristics, credentials,
+    or identity are visible and interpretable within the
+    categorization systems used by institutions making decisions about
+    them.
+
+<span id="sole-proprietorship">sole proprietorship</span>
+:   The simplest business structure, in which a single individual owns
+    and operates a firm with no legal separation between personal and
+    business assets, meaning the owner bears unlimited personal
+    liability for the firm's debts and obligations.
+
+<span id="speculative-bubble">speculative bubble</span>
+:   A rapid, self-reinforcing rise in the price of an asset driven by
+    expectations of further price increases rather than underlying
+    value, followed by an equally rapid collapse when those
+    expectations reverse.
+
+<span id="standards-body">standards body</span>
+:   An organization that develops, publishes, and maintains technical
+    standards through consensus processes among industry participants,
+    governments, and other stakeholders.
+
+<span id="standards-capture">standards capture</span>
+:   The process by which a dominant firm shapes a technical standard
+    to its own advantage, either by controlling a standards body, by
+    implementing proprietary extensions that become de facto
+    requirements, or by refusing to implement open standards that
+    would reduce switching costs.
+
+<span id="statistical-discrimination">statistical discrimination</span>
+:   The practice of using group averages as proxies for individual
+    characteristics in decisions about hiring, lending, or other
+    allocations, producing disparate outcomes even without conscious
+    prejudice.
+
+<span id="suppressive-person">suppressive person</span>
+:   In Scientology, the designation applied to individuals who
+    publicly criticize the organization or leave it in ways deemed
+    harmful to its interests; those so designated may be cut off from
+    contact with current members, including family members who remain
+    in the organization.
+
+<span id="taste-discrimination">taste discrimination</span>
+:   The situation in which employers who prefer not to hire members of
+    certain groups effectively pay a premium for that preference,
+    disadvantaging discriminating firms in competitive markets.
+
+<span id="tax-haven">tax haven</span>
+:   A jurisdiction that imposes low or zero taxes on foreign income,
+    profits, or wealth, attracting capital and corporate registrations
+    that have little or no genuine economic activity there.
+
+<span id="transfer-pricing">transfer pricing</span>
+:   The setting of prices for transactions between subsidiaries of the
+    same multinational corporation, which can be manipulated to shift
+    profits to low-tax jurisdictions by under- or overcharging for
+    goods, services, or intellectual property licenses.
+
+<span id="union-avoidance">union avoidance</span>
+:   A formal management discipline focused on preventing workers from
+    forming or joining unions, employing specialized consultants to
+    structure workplaces, communications, and compensation to reduce
+    organizing incentives.
+
+<span id="vertical-integration">vertical integration</span>
+:   A business strategy in which a company controls multiple stages of
+    its supply chain, from production through distribution and retail,
+    reducing dependence on external parties and raising barriers to
+    competitors.
+
+<span id="workplace-politics">workplace politics</span>
+:   The process by which individuals and groups within an organization
+    attempt to influence decisions in their favor when there is no
+    shared agreement on goals or priorities.  Workplace politics is
+    not exceptional behavior by bad actors; it is the normal mechanism
+    by which organizations resolve disagreement.
+
