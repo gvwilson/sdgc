@@ -9,6 +9,7 @@
 *.toc
 *.txt
 *~
+.bram
 .codewhale
 .DS_Store
 .\#*
