@@ -25,15 +25,6 @@ Can I add a new section?
 Why is this material free?
 :   Because if we all give a little, we all get a lot.
 
-## Setup and Operation
-
--   Install [uv][uv].
--   Create a virtual environment by running `uv venv` in the root directory.
--   Activate it by running `source .venv/bin/activate` in your shell.
--   Install dependencies by running `uv sync`.
--   Run `task --list` on its own to see a list of common commands.
-
 [email]: mailto:gvwilson@third-bit.com
 [repo]: https://github.com/gvwilson/succession
-[uv]: https://github.com/astral-sh/uv
 [wilson-greg]: https://third-bit.com/

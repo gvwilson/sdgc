@@ -1,6 +1,6 @@
 # Glossary
 
-## A
+## A {.unnumbered .unlisted}
 
 <span id="algorithmic-amplification">algorithmic amplification</span>
 :   The process by which platform recommendation systems
@@ -32,7 +32,7 @@
     by how easily examples of it come to mind.  Vivid or recent events
     are overweighted relative to more common but less memorable ones.
 
-## B
+## B {.unnumbered .unlisted}
 
 <span id="bertillonage">bertillonage</span>
 :   The system of criminal identification developed by Alphonse
@@ -40,7 +40,7 @@
     measurements.  Widely adopted by police forces in Europe and the
     colonial world, it was displaced by fingerprinting around 1900.
 
-## C
+## C {.unnumbered .unlisted}
 
 <span id="choice-architecture">choice architecture</span>
 :   The design of environments in which people make decisions,
@@ -74,7 +74,7 @@
     visible and sufficiently costly to exclude lower-status
     competitors.
 
-## D
+## D {.unnumbered .unlisted}
 
 <span id="deplatforming">deplatforming</span>
 :   The removal of an individual or group from a digital platform as a
@@ -86,7 +86,7 @@
     grants to charitable recipients at any pace over time, while the
     contributed assets remain under the donor's effective control.
 
-## E
+## E {.unnumbered .unlisted}
 
 <span id="enclosure-acts">Enclosure Acts</span>
 :   Parliamentary legislation in Britain from the seventeenth through
@@ -108,9 +108,9 @@
     sacraments, historically used by the Catholic Church as a
     disciplinary and political tool against individuals.
 
-## F
+## F {.unnumbered .unlisted}
 
-## G
+## G {.unnumbered .unlisted}
 
 <span id="greater-fool-theory">greater fool theory</span>
 :   The idea that an overpriced asset can still be a rational purchase
@@ -122,7 +122,7 @@
 :   The fraud of converting indigenous and public land into private titled
     property using falsified documents.
 
-## H
+## H {.unnumbered .unlisted}
 
 <span id="heuristics">heuristics</span>
 :   Mental shortcuts or rules of thumb that people use to make
@@ -135,7 +135,7 @@
     steeply than rewards in the more distant future, producing
     time-inconsistent preferences.
 
-## I
+## I {.unnumbered .unlisted}
 
 <span id="information-asymmetry">information asymmetry</span>
 :   A condition in which one party to a transaction has significantly
@@ -148,9 +148,9 @@
     private tribunals, bypassing domestic courts, when government
     actions are alleged to have damaged their investments.
 
-## J
+## J {.unnumbered .unlisted}
 
-## K
+## K {.unnumbered .unlisted}
 
 <span id="kayfabe">kayfabe</span>
 :   The collective maintenance, by performers and audience alike, of
@@ -165,7 +165,7 @@
     and are often anchored around a central bank, insulating member
     firms from hostile takeovers and short-term market pressure.
 
-## L
+## L {.unnumbered .unlisted}
 
 <span id="legibility">legibility</span>
 :   The degree to which a state or institution can observe, measure,
@@ -176,7 +176,7 @@
 :   The finding from prospect theory that losses produce roughly twice
     the psychological impact of equivalent gains.
 
-## M
+## M {.unnumbered .unlisted}
 
 <span id="mittelstand">Mittelstand</span>
 :   The layer of medium-sized, often family-owned manufacturing and
@@ -214,7 +214,7 @@
     conclusions already preferred, rather than following evidence to
     its logical conclusion.
 
-## N
+## N {.unnumbered .unlisted}
 
 <span id="narrative-economics">narrative economics</span>
 :   The study of how popular stories and narratives spread through
@@ -234,9 +234,9 @@
     and may serve the choice designer's interests rather than the
     chooser's.
 
-## O
+## O {.unnumbered .unlisted}
 
-## P
+## P {.unnumbered .unlisted}
 
 <span id="penny-press">penny press</span>
 :   The mass-market newspapers of the 1830s that lowered cover prices
@@ -262,9 +262,9 @@
     serve elite interests through ownership structure, advertising
     dependence, and other institutional pressures.
 
-## Q
+## Q {.unnumbered .unlisted}
 
-## R
+## R {.unnumbered .unlisted}
 
 <span id="redlining">redlining</span>
 :   The systematic denial of mortgages and insurance to residents of
@@ -277,7 +277,7 @@
     interests of the industry it is supposed to regulate rather than
     the public interest it was created to protect.
 
-## S
+## S {.unnumbered .unlisted}
 
 <span id="scrip">scrip</span>
 :   Company-issued currency or vouchers that could only be spent at
@@ -317,7 +317,7 @@
     from one product, service, or platform to another, which
     incumbents exploit to retain users.
 
-## T
+## T {.unnumbered .unlisted}
 
 <span id="tescreal">TESCREAL</span>
 :   An acronym for Transhumanism, Extropianism, Singularitarianism,
@@ -340,11 +340,11 @@
     the structure creates incentives to hasten the deaths of other
     participants.
 
-## U
+## U {.unnumbered .unlisted}
 
-## V
+## V {.unnumbered .unlisted}
 
-## W
+## W {.unnumbered .unlisted}
 
 <span id="waqf">waqf</span>
 :   An Islamic charitable endowment in which property is dedicated in
@@ -360,9 +360,9 @@
     benefits rather than broad public goods, creating strong
     incentives for corruption and cronyism.
 
-## X
+## X {.unnumbered .unlisted}
 
-## Y
+## Y {.unnumbered .unlisted}
 
 <span id="yellow-press">yellow press</span>
 :   Late nineteenth and early twentieth century sensationalist
@@ -370,4 +370,4 @@
     prioritized circulation over accuracy, named after the Yellow Kid
     comic strip.
 
-## Z
+## Z {.unnumbered .unlisted}
