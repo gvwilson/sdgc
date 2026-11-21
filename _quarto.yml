@@ -41,4 +41,4 @@ format:
     theme: cosmo
     toc: true
   pdf:
-    documentclass: mccole/krantz
+    documentclass: scrbook
