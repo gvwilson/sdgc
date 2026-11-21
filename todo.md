@@ -1,11 +1,17 @@
-Bloom's Taxonomy consists of six levels, each associated with specific action verbs to help define learning objectives. The levels and some corresponding verbs are:
+# Make It More Fun to Read
 
-1.  Remember: define, list, recall
-2.  Understand: explain, summarize, classify
-3.  Apply: demonstrate, solve, use
-4.  Analyze: analyze, differentiate, organize
-5.  Evaluate: justify, critique, defend
-6.  Create: design, construct, produce
+Specific, concrete changes to liven the prose, grounded in a full read-through of the nine chapters.
+
+- **Cut the density — let examples breathe.** Several sections stack five to seven examples with no transition (in 1-power, "Legibility" runs Bertillon → fingerprints → South Africa's pass system → Aadhaar → Social Credit in a single page). Add a one-line "so what" between examples, and drop one where two make the same point.
+- **Fix the duplicated Bertillonage passage in 1-power.** The "did not die with the calipers" sentence — and the "fingerprinting replaced it … less skill to record" sentence — each appear twice in the same paragraph. It reads as a copy-paste artifact.
+- **Make every section title earn its place.** The book already has great ones ("Fraud Is a Business Model", "Poverty Is a Tax on Cognition", "The Monopolist's Playbook"); upgrade the dry ones ("Legibility and Institutional Money", "Structure and the Individual") to the same standard.
+- **Restore the narrator's voice in the middle chapters.** The intro's self-deprecating, punchy register ("petite bourgeoisie", "a freshman in a caffeine-fueled frenzy") disappears after chapter 1. Re-inject a dry aside or a joke every couple of pages.
+- **Lead paragraphs with the surprising fact, not the setup.** The strongest moments upend expectations (the yakuza ran disaster relief; "meritocracy" was coined in a 1958 satire; a corporation fit the clinical psychopathy checklist). Front-load those reversals instead of burying them after a framing sentence.
+- **Cross-reference instead of re-explaining repeated examples.** The tontine is fully told in both 2-markets and 6-regulation; Triangle Shirtwaist in 6 and 7; the Halifax explosion in 5 and 7; the GDPR "$4B in fines" in 6 and 7; the Bakan/Hare psychopathy checklist in 1 and 3; Rosa Parks's NAACP role in 7 and 8. Keep one full telling and a one-line callback elsewhere.
+- **Thin the citation clusters.** Several paragraphs cite three or four sources at once, which reads like a literature review. One citation (or a "see also") per claim keeps the momentum.
+- **End each chapter on a beat, not a list.** 1-power's closer ("The question is never whether power is present…") lands; others trail off after a catalog. Give each chapter a two-sentence closing image that echoes its opener.
+- **Sprinkle in mid-chapter micro-exercises.** The end-of-chapter exercises are concrete and fun ("Bias autopsy", "Dark-pattern hunt"). Add a one-line "try this" after the densest sections.
+- **Vary sentence rhythm.** Some passages stack many short declarative sentences; others run long. Break the long ones and occasionally land a short punch after a long build.
 
 ## 2-markets/index.qmd (Where Markets Come From)
 

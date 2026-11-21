@@ -34,10 +34,9 @@ The civil rights movement, environmental regulation, seat belts, tobacco control
 marriage equality, and worker safety all followed this pattern—
 slow, non-linear, and won by pressure rather than persuasion alone.
 The popular story that Rosa Parks was a spontaneous individual is factually wrong:
-she was the secretary of the Montgomery chapter of the NAACP,
-had recently attended a training center for organizers,
-and was chosen as a plaintiff deliberately [@Beckerman2022].
-The bus boycott that followed was coordinated by hundreds of people whose names are not remembered.
+she was an NAACP officer chosen as a plaintiff deliberately,
+and the bus boycott that followed was coordinated by hundreds of people
+whose names are not remembered (the conclusion opens with the fuller story) [@Beckerman2022].
 
 John Kingdon gave the pattern a precise description [@Kingdon1995].
 Change becomes possible when three streams align:
@@ -237,12 +236,8 @@ Regulation has also moved faster than the industry claims is possible.
 The EU AI Act requires transparency for high-risk systems,
 mandates human oversight for consequential automated decisions,
 and bans specific applications outright.
-Before the GDPR took effect in 2018, industry associations described it as unworkable
-and predicted that it would destroy European tech competitiveness.
-By 2024 it had generated approximately $4 billion in fines
-and had changed how companies worldwide handle personal data,
-including companies with no European operations that chose to comply
-rather than maintain two systems.
+The GDPR, dismissed as unworkable before 2018, had by 2024 changed how companies
+worldwide handle personal data—the regulation chapter gives the numbers.
 Technologists can refuse, whistleblow, organize, build alternatives, or work on policy,
 and each of those is a form of pressure.
 

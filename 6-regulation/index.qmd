@@ -227,12 +227,10 @@ it is a predictable feature of how people make decisions under uncertainty
 about low-probability events.
 
 The hardest lesson is that a disaster alone does not produce regulation.
-In 1911, a fire at the Triangle Shirtwaist Factory in New York killed 146 workers,
-mostly young immigrant women,
-because the managers had locked the stairwell doors.
-The owners were acquitted of manslaughter and collected the insurance.
-What turned the fire into fifty-six pieces of legislation
-was the fire *plus* the unions and reform organizations
+The Triangle Shirtwaist fire of 1911 killed 146 workers behind locked stairwell doors,
+and the owners were acquitted and collected the insurance;
+what turned the fire into fifty-six pieces of legislation—
+recounted in full in the next chapter—was the fire *plus* the unions and reform organizations
 that could turn grief into legislative pressure [@Orleck1995].
 
 ## The Ozone Hole That Closed
@@ -365,12 +363,9 @@ The remedy addressed the legal structure of the monopoly
 without altering the underlying concentration of power.
 
 Some market structures build harm in by design.
-A {{<g tontine "tontine">}} was a pooled investment
-whose subscribers' shares grew as the others died,
-creating an obvious incentive to hasten their deaths,
-and most governments eventually banned tontines for that reason.
-The platform race to be the last surviving competitor
-reproduces the same incentive in a structure that is not yet banned.
+The {{<g tontine "tontine">}} from the markets chapter—a pooled investment
+governments banned for rewarding the last survivor for the others' deaths—
+reappears in the platform race to be the last surviving competitor.
 
 {{<g regulatory-capture "Capture">}} is the recurring enemy,
 and it has an international cousin.

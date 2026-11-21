@@ -194,15 +194,12 @@ it omits that the founders, lawyers, and venture capitalists making the choice
 benefit most from the conventional structure [@Whyte1991;@Kelly2012].
 The "neutral" form is a choice with distributional consequences.
 
-The legal scholar Joel Bakan made this point more sharply.
-He asked the psychologist Robert Hare to score a publicly traded corporation
-against the clinical checklist used to diagnose psychopathy;
-Hare concluded that it fit the profile [@Bakan2005].
-In most jurisdictions, corporate executives have a fiduciary duty to shareholders:
-they are legally required to pursue shareholder interest,
-and a board that sacrificed profit to benefit workers or communities
-could be held liable.
-The resulting entity is therefore prohibited from having a conscience
+The legal scholar Joel Bakan made this point more sharply:
+he asked the psychologist Robert Hare to score a publicly traded corporation
+against the clinical checklist used to diagnose psychopathy,
+and Hare concluded that it fit the profile [@Bakan2005].
+The legal reason—fiduciary duty, which I explore in the chapter on how people actually think—
+leaves the corporation prohibited from having a conscience
 in the way an individual person might.
 
 ---
@@ -315,7 +312,7 @@ which house hundreds of thousands of workers in company dormitories
 with company stores and company transportation,
 are the Pullman model at a scale Pullman could not have imagined.
 
-## Legibility and Institutional Money
+## Making People Legible
 
 James C. Scott argued that states standardize people
 so they can be taxed, drafted, and policed.
@@ -338,10 +335,6 @@ measurements had to be taken correctly by trained operators.
 By 1900 fingerprinting was replacing it almost everywhere
 because fingerprints were more reliable and required less skill to record.
 But the desire of states and institutions to pin individuals permanently to a record
-did not die with the calipers.
-Fingerprinting replaced it within a few decades
-because it needed less skill to record,
-but the desire to pin individuals permanently to a record
 did not die with the calipers.
 The technical history of identification is also a political history of control,
 and South Africa's apartheid-era pass system—
@@ -401,6 +394,13 @@ from purchasing plane and train tickets,
 enrolling their children in private schools,
 and accessing certain financial services:
 a score derived from past behavior now determines present civic participation.
+
+::: {.callout-note title="Try This"}
+
+List every identifier you carry—passport, license, badge, ad IDs, health records.
+For each one: who can read it, and what happens to you if you can't produce it?
+
+:::
 
 ## Concentrated Interests, Diffuse Costs
 
