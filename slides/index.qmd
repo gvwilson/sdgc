@@ -1,0 +1,11 @@
+# Slides {#sec-slides}
+
+1.  [Introduction](../0-intro/slides.html)
+1.  [Power and Institutions](../1-power/slides.html)
+1.  [Where Markets Come From](../2-markets/slides.html)
+1.  [How People Actually Think](../3-thinking/slides.html)
+1.  [Inequality](../4-inequality/slides.html)
+1.  [Belief](../5-belief/slides.html)
+1.  [Regulation](../6-regulation/slides.html)
+1.  [Change](../7-change/slides.html)
+1.  [Conclusion](../8-finale/slides.html)

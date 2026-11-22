@@ -22,3 +22,4 @@ book:
     - contributing/index.qmd
     - bibliography/index.qmd
     - glossary/index.qmd
+    - slides/index.qmd
