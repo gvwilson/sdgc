@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.11.9">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -56,14 +59,15 @@ div.csl-indent {
 <link href="../3-thinking/index.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/scrollable-regions/scrollable-regions.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-5ccb035bea26c1e21f80f44cf7c27909.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-01a495efc5497ac6e3f5457e7ed18e65.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -96,17 +100,17 @@ div.csl-indent {
 <link rel="stylesheet" href="../mccole/book.css">
 </head>
 
-<body class="nav-sidebar floating quarto-light">
+<body class="nav-sidebar floating quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Skip to main content</a>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav">
+  <nav class="quarto-secondary-nav" aria-label="Toolbar">
     <div class="container-fluid d-flex">
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../4-inequality/index.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Inequality</span></a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <nav class="quarto-page-breadcrumbs" aria-label="Breadcrumbs"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../4-inequality/index.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Inequality</span></a></li></ol></nav>
+        <a class="flex-grow-1" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
@@ -117,7 +121,7 @@ div.csl-indent {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto" aria-label="Site">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="../">SDGC</a> 
@@ -195,13 +199,10 @@ div.csl-indent {
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">Appendices</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
+            <button type="button" class="sidebar-item-text sidebar-item-toggle sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-controls="quarto-sidebar-section-1" aria-expanded="true">
+ <span class="menu-text" id="quarto-sidebar-section-1-label">Appendices</span><i class="bi bi-chevron-right" aria-hidden="true"></i></button>
       </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-1" aria-labelledby="quarto-sidebar-section-1-label" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../license/index.html" class="sidebar-item-text sidebar-link">
@@ -232,6 +233,12 @@ div.csl-indent {
  <span class="menu-text"><span class="chapter-number">E</span>&nbsp; <span class="chapter-title">Glossary</span></span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../slides/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">F</span>&nbsp; <span class="chapter-title">Slides</span></span></a>
+  </div>
+</li>
       </ul>
   </li>
     </ul>
@@ -240,12 +247,12 @@ div.csl-indent {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
+        <nav id="TOC" role="doc-toc" aria-labelledby="toc-title" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
   <li><a href="#three-dimensions-of-position" id="toc-three-dimensions-of-position" class="nav-link active" data-scroll-target="#three-dimensions-of-position"><span class="header-section-number">5.1</span> Three Dimensions of Position</a></li>
-  <li><a href="#structure-and-the-individual" id="toc-structure-and-the-individual" class="nav-link" data-scroll-target="#structure-and-the-individual"><span class="header-section-number">5.2</span> Structure and the Individual</a></li>
+  <li><a href="#the-person-or-the-system" id="toc-the-person-or-the-system" class="nav-link" data-scroll-target="#the-person-or-the-system"><span class="header-section-number">5.2</span> The Person or the System?</a></li>
   <li><a href="#the-ledger-beneath-the-surface" id="toc-the-ledger-beneath-the-surface" class="nav-link" data-scroll-target="#the-ledger-beneath-the-surface"><span class="header-section-number">5.3</span> The Ledger Beneath the Surface</a></li>
   <li><a href="#poverty-is-a-tax-on-cognition" id="toc-poverty-is-a-tax-on-cognition" class="nav-link" data-scroll-target="#poverty-is-a-tax-on-cognition"><span class="header-section-number">5.4</span> Poverty Is a Tax on Cognition</a></li>
   <li><a href="#meritocracy-examined" id="toc-meritocracy-examined" class="nav-link" data-scroll-target="#meritocracy-examined"><span class="header-section-number">5.5</span> Meritocracy, Examined</a></li>
@@ -257,7 +264,7 @@ div.csl-indent {
 <div class="toc-actions"><ul><li><a href="https://github.com/gvwilson/sdgc/edit/main/4-inequality/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gvwilson/sdgc/blob/main/4-inequality/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/gvwilson/sdgc/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content" tabindex="-1">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -279,7 +286,7 @@ div.csl-indent {
 </header>
 
 
-<div class="callout callout-style-default callout-note callout-titled" title="Learning Objectives">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -302,8 +309,8 @@ div.csl-indent {
 <p>Max Weber argued that social position is not one thing but three, and that the three do not always travel together <span class="citation" data-cites="Weber1946">(<a href="../bibliography/index.html#ref-Weber1946" role="doc-biblioref">Weber 1946</a>)</span>. Class is economic position. Status is prestige and honor. Power is the capacity to realize one’s will. A staff engineer at a large company may have high class but limited power; a founder has power; a content moderator has neither. The mismatches matter, because people assume that money, respect, and influence are interchangeable, and they are not.</p>
 <p>The differences between positions are not just individual; they are social and, at the level of whole countries, measurable. Richard Wilkinson and Kate Pickett compared rich societies and found that more unequal ones do worse on nearly every social indicator— health, violence, trust, education, even mental illness— regardless of how wealthy the society is overall <span class="citation" data-cites="Wilkinson2011">(<a href="../bibliography/index.html#ref-Wilkinson2011" role="doc-biblioref">Wilkinson and Pickett 2011</a>)</span>. Their explanation was status anxiety: in an unequal society, people spend their lives comparing themselves to those above them, and the anxiety that produces is itself destructive. Inequality is not only a distribution of resources; it is a distribution of stress.</p>
 </section>
-<section id="structure-and-the-individual" class="level2" data-number="5.2">
-<h2 data-number="5.2" class="anchored" data-anchor-id="structure-and-the-individual"><span class="header-section-number">5.2</span> Structure and the Individual</h2>
+<section id="the-person-or-the-system" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="the-person-or-the-system"><span class="header-section-number">5.2</span> The Person or the System?</h2>
 <p>The fundamental attribution error is the tendency to explain other people’s outcomes by their traits and our own by circumstance. Applied to society, it becomes the default explanation for inequality: the successful are talented and hardworking, the unsuccessful are not. The evidence points the other way.</p>
 <p>The first mechanism is cumulative advantage, sometimes called the Matthew effect: advantage begets advantage. A wealthy school, a first internship, seed funding, an early follower count— each early advantage compounds, so that small differences at the start become large differences over a lifetime. The second is opportunity hoarding <span class="citation" data-cites="Tilly1998">(<a href="../bibliography/index.html#ref-Tilly1998" role="doc-biblioref">Tilly 1998</a>)</span>: groups use credentials, networks, and gatekeeping to keep advantages for themselves while appearing to reward merit. The third is intersectionality <span class="citation" data-cites="Crenshaw1989">(<a href="../bibliography/index.html#ref-Crenshaw1989" role="doc-biblioref">Crenshaw 1989</a>)</span>: overlapping systems of disadvantage interact rather than simply add, so that a person facing racism and sexism experiences something worse than the sum of the two, and a system designed to detect one kind of bias misses the people caught in both.</p>
 <p>The discrimination is concrete and, where tested, consistent. In <a href="../glossary/index.html#audit-studies">audit studies</a>, researchers send identical resumes to employers, varying only the name at the top, and names read as white consistently receive more callbacks <span class="citation" data-cites="Rivera2015">(<a href="../bibliography/index.html#ref-Rivera2015" role="doc-biblioref">Rivera 2015</a>)</span>. Lauren Rivera found that interviewers at elite firms described candidates as “polished” or “rough around the edges” in ways that tracked class background rather than competence. Amazon’s internal recruiting tool, abandoned in 2018, penalized resumes containing the word “women’s.” And women’s share of computing was higher in the 1980s than it is today, which directly contradicts the “pipeline” explanation that blames the shortage on a lack of interested women.</p>
@@ -315,7 +322,7 @@ div.csl-indent {
 <p>The categories we treat as natural facts about people were mostly built by someone, for a reason. In 1950, South Africa’s apartheid government created the Race Classification Board, whose examiners used the “pencil test”— if a pencil inserted into someone’s hair stayed in place, the person might be classified as “Coloured” rather than “White.” Siblings were assigned to different categories with different legal rights and different permitted neighborhoods. The US “Hispanic” category is younger still: it does not appear in census data before 1970, when the Nixon administration created it to aggregate Spanish-speaking populations for federal programs <span class="citation" data-cites="Omi2015">(<a href="../bibliography/index.html#ref-Omi2015" role="doc-biblioref">Omi and Winant 2015</a>)</span>. The sociologists Michael Omi and Howard Winant called this process racial formation. Irish immigrants in the 1840s appeared in popular cartoons as racially distinct from Anglo-Saxons, while Italian immigrants in the early twentieth century were subject to legal discrimination partly justified on racial grounds. Each of these groups eventually became “white” through political processes that included them while excluding Black Americans. Understanding how these categories are built, and by whom, is necessary for understanding how algorithmic systems operate in societies organized around race. A hiring model trained on historical promotion decisions learns to prefer candidates who resemble the people who were previously promoted, in organizations that excluded people by race and class. A recidivism prediction tool trained on arrest data learns patterns from policing decisions that were themselves racially disparate.</p>
 <p>These categories leave a measurable trace. Neighborhoods that were <a href="../glossary/index.html#redlining">redlined</a> in the twentieth century still show lower average credit scores today, not because their residents are less creditworthy, but because they were systematically excluded from the wealth-building mechanisms that credit history reflects. Credit bureaus sit at the center of this arrangement. They collect financial data about hundreds of millions of people without consent, profit whether the data is accurate or not, and in the 2017 Equifax breach exposed the personal information of roughly 147 million people while facing no criminal charges. Accuracy and fairness are not the same thing: a score that accurately summarizes a history of exclusion still perpetuates it. The three major credit bureaus collect financial data about hundreds of millions of people without their active participation or consent. They do not collect data from the people whose files they maintain. They collect it from creditors—banks, credit card issuers, debt collectors— who report account status and payment history. The person whose data is being collected is not notified when a new entry appears, has no opportunity to contest it before it is recorded, and may not know it exists until they apply for credit and are denied. The bureau’s relationship is with the furnisher and the purchaser of the data, not with the subject. Credit data determines whether people can rent housing or get a job. The companies profit whether the data is accurate or not. A person whose file contains an error bears the full cost of that error while the bureau bears none. The Fair Credit Reporting Act gives consumers some rights to dispute errors, but the dispute process is designed and operated by the bureaus themselves, and has repeatedly been found to be inadequate.</p>
 <p>Equifax’s response to the breach was to offer credit monitoring services—sold by Equifax. The settlement reached in 2019 provided most affected consumers with a few dollars apiece, after the claims fund was overwhelmed by the number of applicants. No one at Equifax faced criminal charges.</p>
-<div class="callout callout-style-default callout-note callout-titled" title="The Social Credit System">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -342,7 +349,7 @@ div.csl-indent {
 <p>The claim does not survive contact with the data. Organizations that explicitly adopt merit-based pay principles show <em>larger</em> gender pay gaps than those that do not <span class="citation" data-cites="Castilla2010">(<a href="../bibliography/index.html#ref-Castilla2010" role="doc-biblioref">Castilla and Benard 2010</a>)</span>. The mechanism appears to be <a href="../glossary/index.html#moral-licensing">moral licensing</a>: people who believe the system is already fair feel less need to monitor their own judgments for bias. Believing in meritocracy also predicts harsher judgment of people who fail— if outcomes are deserved, then failure is evidence of personal deficiency— which conveniently shifts responsibility from structures to individuals.</p>
 <p>How elite selection actually works is different from how institutions describe it. Studies of admissions to elite universities, hiring at professional services firms, and promotion within corporations consistently find that formal credentials matter less than social legibility: the ability to display the cultural capital—tastes, manners, cultural references— that signals membership in the right networks. Lauren Rivera’s research on hiring at elite firms found that interviewers described candidates as “polished” or “rough around the edges” in ways that correlated with class background rather than competence. The stated meritocratic criteria were real, but they operated within a prior filter that most candidates never saw.</p>
 <p>The meritocratic ideology takes specific forms in tech. The puzzle interview, popularized by Microsoft in the 1990s, selects for people who have prepared for puzzle interviews, which correlates with having the time, networks, and educational background that make such preparation possible. “Culture fit” as a hiring criterion is even less bounded: it is assessed subjectively and consistently reproduces the demographic composition of existing teams. Neither criterion is without signal about likely job performance, but neither is calibrated against actual job performance data, because most organizations never close that loop.</p>
-<div class="callout callout-style-default callout-note callout-titled" title="Getting the Right Answer">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -379,7 +386,7 @@ div.csl-indent {
 <p>The platform economy has reproduced the structure with new interfaces. Apps coordinating cleaning, childcare, and elder care present themselves as markets connecting independent contractors with clients, but what they actually do is take informal, feminized labor that was already undervalued and formalize it while keeping the wages and protections of the informal economy. The worker bears the risk, the platform takes the margin, and the devaluation is the same one the national accounts have performed for decades. The global economy depends on nursing, childcare, eldercare, and domestic service, which are systematically undervalued because they are feminized. The workers are underpaid not because care work is unskilled but because the labor market for care work is structured differently from the labor market for work that men predominantly perform. In India, the national health system relies heavily on informal women’s health workers, the ASHAs, who are classified as volunteers rather than employees and receive incentive payments rather than wages. This is not an oversight; it is a legal and administrative decision with direct economic consequences for nearly a million women. The ASHAs have organized and struck repeatedly for employee status and wage protections. The government has consistently refused.</p>
 <p>Invisible labor is endemic to tech companies. Research has shown again and again that women perform more of the relational maintenance that holds teams together, such as mentoring junior colleagues and managing interpersonal conflict, without receiving credit for it in performance reviews or promotion decisions. A study of a large software company found that women spent significantly more time on what the researchers called non-promotable tasks that benefited the organization but were invisible to the criteria used to evaluate careers. When it was pointed out that women were doing more of this work, management encouraged everyone to do less of it, which predictably meant that women continued to do it and men continued not to.</p>
 <p>Five years after the 1975 strike, Iceland elected its first female president, who went on to serve four terms. The organizing that preceded the strike built the political infrastructure that made the election possible. Fifty years on, the gap between men’s and women’s wages in Iceland has not closed, and women still perform more unpaid domestic labor <span class="citation" data-cites="Folbre2001">(<a href="../bibliography/index.html#ref-Folbre2001" role="doc-biblioref">Folbre 2001</a>)</span>.</p>
-<div class="callout callout-style-default callout-note callout-titled" title="Takeaway">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -567,7 +574,8 @@ Young, Michael. 1958. <em>The Rise of the Meritocracy</em>. Thames; Hudson. <em>
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
       // Inspect non-navigation links and adorn them if external
-     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      window.quartoDecorateExternalLinks = function (root) {
+     var links = (root || window.document).querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
       for (var i=0; i<links.length; i++) {
         const link = links[i];
         if (!isInternal(link.href)) {
@@ -576,8 +584,69 @@ Young, Michael. 1958. <em>The Rise of the Meritocracy</em>. Thames; Hudson. <em>
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+          if (!link.classList.contains('no-external-icon')) {
+          }
         }
       }
+      };
+      window.quartoDecorateExternalLinks(window.document);
+    // Esc closes the popup (WCAG 1.4.13) and focus leaving both trigger and
+    // popup closes it (WCAG 2.4.11); tippy handles neither for interactive popups.
+    const hideOnEscAndFocusOut = {
+      name: 'hideOnEscAndFocusOut',
+      defaultValue: true,
+      fn(instance) {
+        const dismiss = () => {
+          // A show scheduled by the trigger delay would otherwise reopen it
+          instance.clearDelayTimeouts();
+          instance.hide();
+        };
+        const onKeyDown = (event) => {
+          if (event.key !== 'Escape') {
+            return;
+          }
+          // Keep Esc from also reaching page handlers (e.g. reveal.js overview),
+          // except an open reveal.js slide menu, which Esc should close too.
+          // The menu handles keys only when its keyboard option is on.
+          const menuHandlesEsc = window.Reveal?.getPlugin?.('menu')?.isOpen() &&
+            window.Reveal.getConfig().menu?.keyboard !== false;
+          if (!menuHandlesEsc) {
+            event.stopPropagation();
+          }
+          if (instance.popper.contains(window.document.activeElement)) {
+            // Disabled while refocusing so the focus trigger does not reopen it
+            instance.disable();
+            instance.reference.focus();
+            instance.enable();
+          }
+          dismiss();
+        };
+        const onFocusOut = (event) => {
+          const target = event.relatedTarget;
+          if (target && !instance.reference.contains(target) &&
+              !instance.popper.contains(target)) {
+            dismiss();
+          }
+        };
+        // On the trigger too: a click trigger (code-annotations: select) has no
+        // blur handling. Attached for the instance's lifetime so leaving the
+        // trigger also cancels a show still pending on the trigger delay.
+        instance.reference.addEventListener('focusout', onFocusOut);
+        return {
+          onShow() {
+            window.document.addEventListener('keydown', onKeyDown, true);
+            instance.popper.addEventListener('focusout', onFocusOut);
+          },
+          onHide() {
+            window.document.removeEventListener('keydown', onKeyDown, true);
+            instance.popper.removeEventListener('focusout', onFocusOut);
+          },
+          onDestroy() {
+            instance.reference.removeEventListener('focusout', onFocusOut);
+          },
+        };
+      },
+    };
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
       const config = {
         allowHTML: true,
@@ -591,6 +660,7 @@ Young, Michael. 1958. <em>The Rise of the Meritocracy</em>. Thames; Hudson. <em>
         interactiveBorder: 10,
         theme: 'quarto',
         placement: 'bottom-start',
+        plugins: [hideOnEscAndFocusOut],
       };
       if (contentFn) {
         config.content = contentFn;
@@ -753,44 +823,54 @@ Young, Michael. 1958. <em>The Rise of the Meritocracy</em>. Thames; Hudson. <em>
           const lineIds = lines.map((line) => {
             return targetCell + "-" + line;
           })
-          let top = null;
-          let height = null;
-          let parent = null;
+          // Each band is positioned against its own containing block, which is
+          // not the offsetParent of the lines, so place it from client rects.
+          const placeBand = (band, firstEl, lastEl, codeBlock) => {
+            const container = band.offsetParent;
+            if (container === null) {
+              return;
+            }
+            const containerRect = container.getBoundingClientRect();
+            // Reveal.js scales slides with a transform, so convert client
+            // pixels back to the CSS pixels of the container.
+            const scale = containerRect.height / container.offsetHeight || 1;
+            const firstRect = firstEl.getBoundingClientRect();
+            const lastRect = lastEl.getBoundingClientRect();
+            const top = (firstRect.top - containerRect.top) / scale - container.clientTop + container.scrollTop;
+            const height = (lastRect.bottom - firstRect.top) / scale;
+            band.style.top = top - 2 + "px";
+            band.style.height = height + 4 + "px";
+            if (codeBlock) {
+              // Without the copy button wrapper, the containing block is wider
+              // than the code block, so span the code block explicitly.
+              const blockRect = codeBlock.getBoundingClientRect();
+              band.style.left = (blockRect.left - containerRect.left) / scale - container.clientLeft + container.scrollLeft + "px";
+              band.style.width = blockRect.width / scale + "px";
+            }
+          };
           if (lineIds.length > 0) {
-              //compute the position of the single el (top and bottom and make a div)
-              const el = window.document.getElementById(lineIds[0]);
-              top = el.offsetTop;
-              height = el.offsetHeight;
-              parent = el.parentElement.parentElement;
-            if (lineIds.length > 1) {
-              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-              height = bottom - top;
+            const el = window.document.getElementById(lineIds[0]);
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const parent = el.parentElement.parentElement;
+            // cook up a div (if necessary) and position it
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
             }
-            if (top !== null && height !== null && parent !== null) {
-              // cook up a div (if necessary) and position it 
-              let div = window.document.getElementById("code-annotation-line-highlight");
-              if (div === null) {
-                div = window.document.createElement("div");
-                div.setAttribute("id", "code-annotation-line-highlight");
-                div.style.position = 'absolute';
-                parent.appendChild(div);
-              }
-              div.style.top = top - 2 + "px";
-              div.style.height = height + 4 + "px";
-              div.style.left = 0;
-              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-              if (gutterDiv === null) {
-                gutterDiv = window.document.createElement("div");
-                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-                gutterDiv.style.position = 'absolute';
-                const codeCell = window.document.getElementById(targetCell);
-                const gutter = codeCell.querySelector('.code-annotation-gutter');
-                gutter.appendChild(gutterDiv);
-              }
-              gutterDiv.style.top = top - 2 + "px";
-              gutterDiv.style.height = height + 4 + "px";
+            placeBand(div, el, lastEl, parent.closest("div.sourceCode") || parent);
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
             }
+            placeBand(gutterDiv, el, lastEl);
             selectedAnnoteEl = annoteEl;
           }
         };
@@ -889,7 +969,10 @@ Young, Michael. 1958. <em>The Rise of the Meritocracy</em>. Thames; Hudson. <em>
     }
   });
   </script>
-<nav class="page-navigation">
+  <script type="application/javascript">
+  window.quartoScrollableRegionsLabels = {"code":"Scrollable code","output":"Scrollable output"};
+  </script>
+<nav class="page-navigation" aria-label="Page">
   <div class="nav-page nav-page-previous">
       <a href="../3-thinking/index.html" class="pagination-link" aria-label="How People Actually Think">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">How People Actually Think</span></span>

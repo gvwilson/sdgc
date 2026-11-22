@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.11.9">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -56,14 +59,15 @@ div.csl-indent {
 <link href="../6-regulation/index.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/scrollable-regions/scrollable-regions.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-5ccb035bea26c1e21f80f44cf7c27909.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-01a495efc5497ac6e3f5457e7ed18e65.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -96,17 +100,17 @@ div.csl-indent {
 <link rel="stylesheet" href="../mccole/book.css">
 </head>
 
-<body class="nav-sidebar floating quarto-light">
+<body class="nav-sidebar floating quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Skip to main content</a>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav">
+  <nav class="quarto-secondary-nav" aria-label="Toolbar">
     <div class="container-fluid d-flex">
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../7-change/index.html"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Change</span></a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <nav class="quarto-page-breadcrumbs" aria-label="Breadcrumbs"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../7-change/index.html"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Change</span></a></li></ol></nav>
+        <a class="flex-grow-1" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
@@ -117,7 +121,7 @@ div.csl-indent {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto" aria-label="Site">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="../">SDGC</a> 
@@ -195,13 +199,10 @@ div.csl-indent {
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">Appendices</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
+            <button type="button" class="sidebar-item-text sidebar-item-toggle sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-controls="quarto-sidebar-section-1" aria-expanded="true">
+ <span class="menu-text" id="quarto-sidebar-section-1-label">Appendices</span><i class="bi bi-chevron-right" aria-hidden="true"></i></button>
       </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-1" aria-labelledby="quarto-sidebar-section-1-label" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../license/index.html" class="sidebar-item-text sidebar-link">
@@ -232,6 +233,12 @@ div.csl-indent {
  <span class="menu-text"><span class="chapter-number">E</span>&nbsp; <span class="chapter-title">Glossary</span></span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../slides/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">F</span>&nbsp; <span class="chapter-title">Slides</span></span></a>
+  </div>
+</li>
       </ul>
   </li>
     </ul>
@@ -240,7 +247,7 @@ div.csl-indent {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
+        <nav id="TOC" role="doc-toc" aria-labelledby="toc-title" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
@@ -255,7 +262,7 @@ div.csl-indent {
 <div class="toc-actions"><ul><li><a href="https://github.com/gvwilson/sdgc/edit/main/7-change/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gvwilson/sdgc/blob/main/7-change/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/gvwilson/sdgc/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content" tabindex="-1">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -277,7 +284,7 @@ div.csl-indent {
 </header>
 
 
-<div class="callout callout-style-default callout-note callout-titled" title="Learning Objectives">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -298,7 +305,7 @@ div.csl-indent {
 <p>Name one thing that is better now than it was fifty years ago. Now ask who made it better, and how. Gay marriage is legal in more places than it was, the ozone hole is closing, cars have seatbelts, and far fewer people die in factory fires than did in 1911. None of these things happened by themselves, and none of them happened because the people with power were persuaded. They happened because organized groups applied sustained pressure over time, and they rarely happen any other way.</p>
 <section id="how-change-happens" class="level2" data-number="8.1">
 <h2 data-number="8.1" class="anchored" data-anchor-id="how-change-happens"><span class="header-section-number">8.1</span> How Change Happens</h2>
-<p>The historical record is consistent across very different contexts. Change happens when three things come together: organization, opportunity, and framing. The civil rights movement, environmental regulation, seat belts, tobacco control, marriage equality, and worker safety all followed this pattern— slow, non-linear, and won by pressure rather than persuasion alone. The popular story that Rosa Parks was a spontaneous individual is factually wrong: she was the secretary of the Montgomery chapter of the NAACP, had recently attended a training center for organizers, and was chosen as a plaintiff deliberately <span class="citation" data-cites="Beckerman2022">(<a href="../bibliography/index.html#ref-Beckerman2022" role="doc-biblioref">Beckerman 2022</a>)</span>. The bus boycott that followed was coordinated by hundreds of people whose names are not remembered.</p>
+<p>The historical record is consistent across very different contexts. Change happens when three things come together: organization, opportunity, and framing. The civil rights movement, environmental regulation, seat belts, tobacco control, marriage equality, and worker safety all followed this pattern— slow, non-linear, and won by pressure rather than persuasion alone. The popular story that Rosa Parks was a spontaneous individual is factually wrong: she was an NAACP officer chosen as a plaintiff deliberately, and the bus boycott that followed was coordinated by hundreds of people whose names are not remembered (the conclusion opens with the fuller story) <span class="citation" data-cites="Beckerman2022">(<a href="../bibliography/index.html#ref-Beckerman2022" role="doc-biblioref">Beckerman 2022</a>)</span>.</p>
 <p>John Kingdon gave the pattern a precise description <span class="citation" data-cites="Kingdon1995">(<a href="../bibliography/index.html#ref-Kingdon1995" role="doc-biblioref">Kingdon 1995</a>)</span>. Change becomes possible when three streams align: a problem defined as a crisis, a politics stream with a constituency and a mood, and a policy stream containing a ready-made solution. The window opens rarely and closes quickly, so the people who want change must have built the solution <em>before</em> the problem becomes undeniable.</p>
 <p>Three mechanisms illustrate how this works in practice. ACT UP, founded in 1987, used direct action to accelerate drug approval, targeting the FDA and pharmaceutical companies until they changed their timelines— a demonstration that the process of regulation itself can be shifted by organized pressure. The abolitionist movement distributed slave narratives such as Olaudah Equiano’s 1789 narrative and Frederick Douglass’s 1845 memoir, making suffering imaginable to readers who had never seen it, and ran the 1790s sugar boycott as the first mass consumer boycott in British history <span class="citation" data-cites="Hochschild2006">(<a href="../bibliography/index.html#ref-Hochschild2006" role="doc-biblioref">Hochschild 2006</a>)</span>. And Kerala, in southern India, won land reform in 1969 not through occupation but through election, breaking the veto of the landlord class and unlocking decades of gains in literacy and life expectancy <span class="citation" data-cites="Dreze2013">(<a href="../bibliography/index.html#ref-Dreze2013" role="doc-biblioref">Drèze and Sen 2013</a>)</span>.</p>
 <p>There is also a quieter side to the record. Erica Chenoweth found that campaigns engaging the active participation of roughly 3.5 percent of a population have repeatedly been enough to force change <span class="citation" data-cites="Chenoweth2011">(<a href="../bibliography/index.html#ref-Chenoweth2011" role="doc-biblioref">Chenoweth and Stephan 2011</a>)</span>. In a city of half a million people, that is seventeen thousand people doing something instead of just complaining. And the capacity for that something is real. After the 1917 Halifax explosion and Hurricane Katrina, ordinary people organized mutual aid with remarkable speed and generosity, even as authorities and media reported violence that later investigation showed never happened <span class="citation" data-cites="Solnit2009 Quarantelli1998">(<a href="../bibliography/index.html#ref-Solnit2009" role="doc-biblioref">Solnit 2009</a>; <a href="../bibliography/index.html#ref-Quarantelli1998" role="doc-biblioref">Quarantelli 1998</a>)</span>. The capacity is there; the question is whether it is organized.</p>
@@ -314,7 +321,7 @@ div.csl-indent {
 <section id="the-technologists-role" class="level2" data-number="8.3">
 <h2 data-number="8.3" class="anchored" data-anchor-id="the-technologists-role"><span class="header-section-number">8.3</span> The Technologist’s Role</h2>
 <p>Technologists hold unusual cards. Their skills are scarce, they have access to systems that others cannot see, and they carry inside knowledge of how the machinery actually works. They also face real constraints: contracts, career risk, and the ideology of neutrality that says an engineer’s job is to build, not to choose. Erin Cech calls the ideology the passion principle: “do what you love” is converted into a reason to accept extraction, and its Japanese endpoint is <em>karoshi</em>, death from overwork <span class="citation" data-cites="Cech2021">(<a href="../bibliography/index.html#ref-Cech2021" role="doc-biblioref">Cech 2021</a>)</span>. The passion principle falls hardest on workers from less privileged backgrounds, who have the most to lose from accepting its terms. Workers from more privileged backgrounds can absorb the costs of passion-coded careers: family wealth provides a cushion, networks provide alternative paths, and prior social capital makes it easier to exit without losing everything. For workers without those resources, the passion principle extracts years of discounted labor before returning them to the general labor market with depleted savings and credentials that do not transfer. Precarious workers like gig workers and seasonal workers are hit hardest. Organizing takes time they may not have, and requires a willingness to accept the risk of termination that workers without income security cannot absorb. Many are formally classified as independent contractors, which in most jurisdictions removes them from the legal framework that protects organizing. The legal boundary between employee and contractor has been contested in dozens of jurisdictions, with outcomes that vary and have been inconsistent even within jurisdictions. Over and over, rules are rewritten to ensure that the workers most exposed to poor conditions are least able to fight back <span class="citation" data-cites="Jaffe2021 Kelly2022">(<a href="../bibliography/index.html#ref-Jaffe2021" role="doc-biblioref">Jaffe 2021</a>; <a href="../bibliography/index.html#ref-Kelly2022" role="doc-biblioref">Kelly 2022</a>)</span>. The software-engineering literature is a symptom of the same blind spot: it covers architecture and management extensively but has almost nothing to say about workers’ rights or cooperatives, the way medicine once hid its own error rate. Medicine’s encounter with its own error rate is a case study in professional taboo. For most of the twentieth century, the dominant framework for medical error was individual blame: a bad outcome was the fault of a bad physician, and the appropriate response was to identify and punish the individual. This framework served the profession’s interest in self-regulation and resisted external oversight. The finding that between 44,000 and 98,000 Americans died annually from preventable medical errors was not new to researchers, but it was taboo because it endangered the profession as a whole. Aviation-style checklists, which treat error as a predictable product of complex systems, were resisted for decades by physicians who experienced them as an affront to professional judgment. The evidence that checklists reduced deaths was not in dispute. The resistance was to the implication that standardized protocols should constrain clinical practice. Software engineering has its equivalent silences. The books cover project management, architecture, team dynamics, and career development. They do not cover workers’ rights, noncompete agreements, ownership of employee inventions, alternative ownership structures, or the systematic harassment and exclusion of women. The topics placed out of bounds are those that, if examined, would reveal tensions in the profession’s self-understanding or power structure. The placement of a boundary is a form of power.</p>
-<p>The leverage is not theoretical. In 2023, the Writers Guild of America struck for five months and won explicit contract language that AI cannot write or rewrite scripts, and that scripts cannot be used to train AI systems <span class="citation" data-cites="Kelly2022">(<a href="../bibliography/index.html#ref-Kelly2022" role="doc-biblioref">Kelly 2022</a>)</span>. No individual writer could have secured that alone. The Screen Actors Guild reached a parallel agreement that included restrictions on the digital replication of performers’ likenesses without ongoing consent. These victories established enforceable contractual limits on what employers could do with AI— limits that individual workers negotiating alone could never have secured. Regulation has also moved faster than the industry claims is possible. The EU AI Act requires transparency for high-risk systems, mandates human oversight for consequential automated decisions, and bans specific applications outright. Before the GDPR took effect in 2018, industry associations described it as unworkable and predicted that it would destroy European tech competitiveness. By 2024 it had generated approximately $4 billion in fines and had changed how companies worldwide handle personal data, including companies with no European operations that chose to comply rather than maintain two systems. Technologists can refuse, whistleblow, organize, build alternatives, or work on policy, and each of those is a form of pressure.</p>
+<p>The leverage is not theoretical. In 2023, the Writers Guild of America struck for five months and won explicit contract language that AI cannot write or rewrite scripts, and that scripts cannot be used to train AI systems <span class="citation" data-cites="Kelly2022">(<a href="../bibliography/index.html#ref-Kelly2022" role="doc-biblioref">Kelly 2022</a>)</span>. No individual writer could have secured that alone. The Screen Actors Guild reached a parallel agreement that included restrictions on the digital replication of performers’ likenesses without ongoing consent. These victories established enforceable contractual limits on what employers could do with AI— limits that individual workers negotiating alone could never have secured. Regulation has also moved faster than the industry claims is possible. The EU AI Act requires transparency for high-risk systems, mandates human oversight for consequential automated decisions, and bans specific applications outright. The GDPR, dismissed as unworkable before 2018, had by 2024 changed how companies worldwide handle personal data—the regulation chapter gives the numbers. Technologists can refuse, whistleblow, organize, build alternatives, or work on policy, and each of those is a form of pressure.</p>
 </section>
 <section id="the-reform-menu" class="level2" data-number="8.4">
 <h2 data-number="8.4" class="anchored" data-anchor-id="the-reform-menu"><span class="header-section-number">8.4</span> The Reform Menu</h2>
@@ -334,7 +341,7 @@ div.csl-indent {
 <h2 data-number="8.6" class="anchored" data-anchor-id="five-tools"><span class="header-section-number">8.6</span> Five Tools</h2>
 <p>The finale of this workshop offers an alternative taxonomy of the reform menu: five tools that have historically done the work. <em>Collective organizing</em> means building institutions that can act in coordination. <em>Regulatory pressure</em> means participating in the slow work of making rules. <em>Alternative structures</em> means building existence proofs that the current arrangement is not the only one: Mondragón has run as a worker cooperative for nearly seventy years, Vienna’s Gemeindebau still houses working-class families a century on, Amul coordinates 3.6 million farmer-members, and Desjardins serves roughly eight million members and survived 2008 in considerably better shape than the big banks. <em>Strategic communication</em> means engaging with the psychology of belief change, because facts do not change contested minds—stories told by trusted messengers do. And <em>sustained participation</em> means showing up for decades: the Federalist Society built its judicial pipeline over forty years, and the labor movement built the eight-hour day over the same span.</p>
 <p>This is the hardest part of the message for people accustomed to fast feedback loops. No single action produces structural change; what produces it is organizational capacity built before the political opening arrives, and the willingness to use that capacity when the opening comes. Refusing to vote or join a union is a political act, and refusing to engage simply delegates the decision to whoever will. How society works is knowable, and knowing it is the prerequisite for changing it.</p>
-<div class="callout callout-style-default callout-note callout-titled" title="Takeaway">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -511,7 +518,8 @@ Whyte, William Foote, and Kathleen King Whyte. 1991. <em>Making Mondragón: The 
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
       // Inspect non-navigation links and adorn them if external
-     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      window.quartoDecorateExternalLinks = function (root) {
+     var links = (root || window.document).querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
       for (var i=0; i<links.length; i++) {
         const link = links[i];
         if (!isInternal(link.href)) {
@@ -520,8 +528,69 @@ Whyte, William Foote, and Kathleen King Whyte. 1991. <em>Making Mondragón: The 
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+          if (!link.classList.contains('no-external-icon')) {
+          }
         }
       }
+      };
+      window.quartoDecorateExternalLinks(window.document);
+    // Esc closes the popup (WCAG 1.4.13) and focus leaving both trigger and
+    // popup closes it (WCAG 2.4.11); tippy handles neither for interactive popups.
+    const hideOnEscAndFocusOut = {
+      name: 'hideOnEscAndFocusOut',
+      defaultValue: true,
+      fn(instance) {
+        const dismiss = () => {
+          // A show scheduled by the trigger delay would otherwise reopen it
+          instance.clearDelayTimeouts();
+          instance.hide();
+        };
+        const onKeyDown = (event) => {
+          if (event.key !== 'Escape') {
+            return;
+          }
+          // Keep Esc from also reaching page handlers (e.g. reveal.js overview),
+          // except an open reveal.js slide menu, which Esc should close too.
+          // The menu handles keys only when its keyboard option is on.
+          const menuHandlesEsc = window.Reveal?.getPlugin?.('menu')?.isOpen() &&
+            window.Reveal.getConfig().menu?.keyboard !== false;
+          if (!menuHandlesEsc) {
+            event.stopPropagation();
+          }
+          if (instance.popper.contains(window.document.activeElement)) {
+            // Disabled while refocusing so the focus trigger does not reopen it
+            instance.disable();
+            instance.reference.focus();
+            instance.enable();
+          }
+          dismiss();
+        };
+        const onFocusOut = (event) => {
+          const target = event.relatedTarget;
+          if (target && !instance.reference.contains(target) &&
+              !instance.popper.contains(target)) {
+            dismiss();
+          }
+        };
+        // On the trigger too: a click trigger (code-annotations: select) has no
+        // blur handling. Attached for the instance's lifetime so leaving the
+        // trigger also cancels a show still pending on the trigger delay.
+        instance.reference.addEventListener('focusout', onFocusOut);
+        return {
+          onShow() {
+            window.document.addEventListener('keydown', onKeyDown, true);
+            instance.popper.addEventListener('focusout', onFocusOut);
+          },
+          onHide() {
+            window.document.removeEventListener('keydown', onKeyDown, true);
+            instance.popper.removeEventListener('focusout', onFocusOut);
+          },
+          onDestroy() {
+            instance.reference.removeEventListener('focusout', onFocusOut);
+          },
+        };
+      },
+    };
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
       const config = {
         allowHTML: true,
@@ -535,6 +604,7 @@ Whyte, William Foote, and Kathleen King Whyte. 1991. <em>Making Mondragón: The 
         interactiveBorder: 10,
         theme: 'quarto',
         placement: 'bottom-start',
+        plugins: [hideOnEscAndFocusOut],
       };
       if (contentFn) {
         config.content = contentFn;
@@ -697,44 +767,54 @@ Whyte, William Foote, and Kathleen King Whyte. 1991. <em>Making Mondragón: The 
           const lineIds = lines.map((line) => {
             return targetCell + "-" + line;
           })
-          let top = null;
-          let height = null;
-          let parent = null;
+          // Each band is positioned against its own containing block, which is
+          // not the offsetParent of the lines, so place it from client rects.
+          const placeBand = (band, firstEl, lastEl, codeBlock) => {
+            const container = band.offsetParent;
+            if (container === null) {
+              return;
+            }
+            const containerRect = container.getBoundingClientRect();
+            // Reveal.js scales slides with a transform, so convert client
+            // pixels back to the CSS pixels of the container.
+            const scale = containerRect.height / container.offsetHeight || 1;
+            const firstRect = firstEl.getBoundingClientRect();
+            const lastRect = lastEl.getBoundingClientRect();
+            const top = (firstRect.top - containerRect.top) / scale - container.clientTop + container.scrollTop;
+            const height = (lastRect.bottom - firstRect.top) / scale;
+            band.style.top = top - 2 + "px";
+            band.style.height = height + 4 + "px";
+            if (codeBlock) {
+              // Without the copy button wrapper, the containing block is wider
+              // than the code block, so span the code block explicitly.
+              const blockRect = codeBlock.getBoundingClientRect();
+              band.style.left = (blockRect.left - containerRect.left) / scale - container.clientLeft + container.scrollLeft + "px";
+              band.style.width = blockRect.width / scale + "px";
+            }
+          };
           if (lineIds.length > 0) {
-              //compute the position of the single el (top and bottom and make a div)
-              const el = window.document.getElementById(lineIds[0]);
-              top = el.offsetTop;
-              height = el.offsetHeight;
-              parent = el.parentElement.parentElement;
-            if (lineIds.length > 1) {
-              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-              height = bottom - top;
+            const el = window.document.getElementById(lineIds[0]);
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const parent = el.parentElement.parentElement;
+            // cook up a div (if necessary) and position it
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
             }
-            if (top !== null && height !== null && parent !== null) {
-              // cook up a div (if necessary) and position it 
-              let div = window.document.getElementById("code-annotation-line-highlight");
-              if (div === null) {
-                div = window.document.createElement("div");
-                div.setAttribute("id", "code-annotation-line-highlight");
-                div.style.position = 'absolute';
-                parent.appendChild(div);
-              }
-              div.style.top = top - 2 + "px";
-              div.style.height = height + 4 + "px";
-              div.style.left = 0;
-              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-              if (gutterDiv === null) {
-                gutterDiv = window.document.createElement("div");
-                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-                gutterDiv.style.position = 'absolute';
-                const codeCell = window.document.getElementById(targetCell);
-                const gutter = codeCell.querySelector('.code-annotation-gutter');
-                gutter.appendChild(gutterDiv);
-              }
-              gutterDiv.style.top = top - 2 + "px";
-              gutterDiv.style.height = height + 4 + "px";
+            placeBand(div, el, lastEl, parent.closest("div.sourceCode") || parent);
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
             }
+            placeBand(gutterDiv, el, lastEl);
             selectedAnnoteEl = annoteEl;
           }
         };
@@ -833,7 +913,10 @@ Whyte, William Foote, and Kathleen King Whyte. 1991. <em>Making Mondragón: The 
     }
   });
   </script>
-<nav class="page-navigation">
+  <script type="application/javascript">
+  window.quartoScrollableRegionsLabels = {"code":"Scrollable code","output":"Scrollable output"};
+  </script>
+<nav class="page-navigation" aria-label="Page">
   <div class="nav-page nav-page-previous">
       <a href="../6-regulation/index.html" class="pagination-link" aria-label="Regulation">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Regulation</span></span>

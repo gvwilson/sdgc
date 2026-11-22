@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.11.9">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -56,14 +59,15 @@ div.csl-indent {
 <link href="../0-intro/index.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/scrollable-regions/scrollable-regions.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-5ccb035bea26c1e21f80f44cf7c27909.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-01a495efc5497ac6e3f5457e7ed18e65.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -96,17 +100,17 @@ div.csl-indent {
 <link rel="stylesheet" href="../mccole/book.css">
 </head>
 
-<body class="nav-sidebar floating quarto-light">
+<body class="nav-sidebar floating quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Skip to main content</a>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav">
+  <nav class="quarto-secondary-nav" aria-label="Toolbar">
     <div class="container-fluid d-flex">
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../1-power/index.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Power and Institutions</span></a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <nav class="quarto-page-breadcrumbs" aria-label="Breadcrumbs"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../1-power/index.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Power and Institutions</span></a></li></ol></nav>
+        <a class="flex-grow-1" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
@@ -117,7 +121,7 @@ div.csl-indent {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto" aria-label="Site">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="../">SDGC</a> 
@@ -195,13 +199,10 @@ div.csl-indent {
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">Appendices</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
+            <button type="button" class="sidebar-item-text sidebar-item-toggle sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-controls="quarto-sidebar-section-1" aria-expanded="true">
+ <span class="menu-text" id="quarto-sidebar-section-1-label">Appendices</span><i class="bi bi-chevron-right" aria-hidden="true"></i></button>
       </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-1" aria-labelledby="quarto-sidebar-section-1-label" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../license/index.html" class="sidebar-item-text sidebar-link">
@@ -232,6 +233,12 @@ div.csl-indent {
  <span class="menu-text"><span class="chapter-number">E</span>&nbsp; <span class="chapter-title">Glossary</span></span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../slides/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">F</span>&nbsp; <span class="chapter-title">Slides</span></span></a>
+  </div>
+</li>
       </ul>
   </li>
     </ul>
@@ -240,7 +247,7 @@ div.csl-indent {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
+        <nav id="TOC" role="doc-toc" aria-labelledby="toc-title" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
@@ -248,13 +255,13 @@ div.csl-indent {
   <li><a href="#institutions-as-rules" id="toc-institutions-as-rules" class="nav-link" data-scroll-target="#institutions-as-rules"><span class="header-section-number">2.2</span> Institutions as Rules</a></li>
   <li><a href="#design-as-governance" id="toc-design-as-governance" class="nav-link" data-scroll-target="#design-as-governance"><span class="header-section-number">2.3</span> Design as Governance</a></li>
   <li><a href="#platforms-as-quasi-governments" id="toc-platforms-as-quasi-governments" class="nav-link" data-scroll-target="#platforms-as-quasi-governments"><span class="header-section-number">2.4</span> Platforms as Quasi-Governments</a></li>
-  <li><a href="#legibility-and-institutional-money" id="toc-legibility-and-institutional-money" class="nav-link" data-scroll-target="#legibility-and-institutional-money"><span class="header-section-number">2.5</span> Legibility and Institutional Money</a></li>
+  <li><a href="#making-people-legible" id="toc-making-people-legible" class="nav-link" data-scroll-target="#making-people-legible"><span class="header-section-number">2.5</span> Making People Legible</a></li>
   <li><a href="#concentrated-interests-diffuse-costs" id="toc-concentrated-interests-diffuse-costs" class="nav-link" data-scroll-target="#concentrated-interests-diffuse-costs"><span class="header-section-number">2.6</span> Concentrated Interests, Diffuse Costs</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/gvwilson/sdgc/edit/main/1-power/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gvwilson/sdgc/blob/main/1-power/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/gvwilson/sdgc/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content" tabindex="-1">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -276,7 +283,7 @@ div.csl-indent {
 </header>
 
 
-<div class="callout callout-style-default callout-note callout-titled" title="Learning Objectives">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -316,7 +323,7 @@ div.csl-indent {
 <p>The Olympus fraud makes the same point at the top of the hierarchy. In October 2011, the Japanese optics company Olympus fired Michael Woodford, its newly appointed chief executive, a few months after he uncovered $1.7 billion in concealed losses that had been running for nearly twenty years <span class="citation" data-cites="Woodford2012">(<a href="../bibliography/index.html#ref-Woodford2012" role="doc-biblioref">Woodford 2012</a>)</span>. The notable thing was not that individuals behaved dishonestly, but that successive layers of management had found it easier to maintain the deception than to stop it. It was as if the organization had developed a mind of its own. Wirecard showed the same pattern in a European setting: when the German payments company collapsed in 2020, €1.9 billion that had been reported as revenue turned out never to have existed. In this case, Germany’s financial regulator attacked the journalists who exposed the fraud instead of the fraud itself.</p>
 <p>Institutions can also be self-fulfilling. Terms of service written for adversaries, and moderation systems that treat everyone as a suspect, produce the distrust they assume. This contrasts with Elinor Ostrom’s work on the commons: communities have governed shared resources sustainably for centuries but through locally developed rules, monitoring, and graduated sanctions <span class="citation" data-cites="Ostrom2015">(<a href="../bibliography/index.html#ref-Ostrom2015" role="doc-biblioref">Ostrom 2015</a>)</span>. Design a system as if people are untrustworthy, and you get untrustworthy behavior; design it as if they can govern themselves, and you (sometimes) get self-governance.</p>
 <p>The same point applies to the corporate form itself. The usual excuse for why tech companies are not worker cooperatives or other equitable structures is that cooperative governance is too slow and cooperative financing too limited. That explanation is conveniently incomplete: it omits that the founders, lawyers, and venture capitalists making the choice benefit most from the conventional structure <span class="citation" data-cites="Whyte1991 Kelly2012">(<a href="../bibliography/index.html#ref-Whyte1991" role="doc-biblioref">Whyte and Whyte 1991</a>; <a href="../bibliography/index.html#ref-Kelly2012" role="doc-biblioref">Kelly 2012</a>)</span>. The “neutral” form is a choice with distributional consequences.</p>
-<p>The legal scholar Joel Bakan made this point more sharply. He asked the psychologist Robert Hare to score a publicly traded corporation against the clinical checklist used to diagnose psychopathy; Hare concluded that it fit the profile <span class="citation" data-cites="Bakan2005">(<a href="../bibliography/index.html#ref-Bakan2005" role="doc-biblioref">Bakan 2005</a>)</span>. In most jurisdictions, corporate executives have a fiduciary duty to shareholders: they are legally required to pursue shareholder interest, and a board that sacrificed profit to benefit workers or communities could be held liable. The resulting entity is therefore prohibited from having a conscience in the way an individual person might.</p>
+<p>The legal scholar Joel Bakan made this point more sharply: he asked the psychologist Robert Hare to score a publicly traded corporation against the clinical checklist used to diagnose psychopathy, and Hare concluded that it fit the profile <span class="citation" data-cites="Bakan2005">(<a href="../bibliography/index.html#ref-Bakan2005" role="doc-biblioref">Bakan 2005</a>)</span>. The legal reason—fiduciary duty, which I explore in the chapter on how people actually think— leaves the corporation prohibited from having a conscience in the way an individual person might.</p>
 <hr>
 </section>
 <section id="platforms-as-quasi-governments" class="level2" data-number="2.4">
@@ -330,12 +337,25 @@ div.csl-indent {
 <p>A developer whose business depends entirely on the App Store, a seller whose inventory and customer relationships live on Amazon, or a creator whose audience exists only within a single platform is in an equivalent position: the terms can be changed at any time, the cost of departure is prohibitive, and the entity that provides the housing also adjudicates disputes about it.</p>
 <p>The difference between an employer and an infrastructure provider is a matter of degree, not kind. An employer controls your income; an infrastructure provider controls the conditions under which you can earn, spend, and participate in social life. Mao-era China’s danwei work units controlled employment, housing, healthcare, food rations, and education through a single institution, so that to be removed from a danwei was to lose all of them at once. A super-app like WeChat integrates messaging, payments, healthcare bookings, government services, and social identity into a single system; a user whose account is suspended loses not just a communication tool but the infrastructure through which they conduct their civic and commercial life <span class="citation" data-cites="Stoller2019 Walder2017">(<a href="../bibliography/index.html#ref-Stoller2019" role="doc-biblioref">Stoller 2019</a>; <a href="../bibliography/index.html#ref-Walder2017" role="doc-biblioref">Walder 2017</a>)</span>. The Pullman Company controlled the economic conditions of workers’ lives. The super-app, at its most developed, aims to be a danwei. Foxconn’s Shenzhen campuses, which house hundreds of thousands of workers in company dormitories with company stores and company transportation, are the Pullman model at a scale Pullman could not have imagined.</p>
 </section>
-<section id="legibility-and-institutional-money" class="level2" data-number="2.5">
-<h2 data-number="2.5" class="anchored" data-anchor-id="legibility-and-institutional-money"><span class="header-section-number">2.5</span> Legibility and Institutional Money</h2>
-<p>James C. Scott argued that states standardize people so they can be taxed, drafted, and policed. Surnames, house numbers, passports, and identity registers exist not because the state wants to know you, but because it wants to be able to act upon you <span class="citation" data-cites="Scott1998">(<a href="../bibliography/index.html#ref-Scott1998" role="doc-biblioref">Scott 1998</a>)</span>. Scott called this <a href="../glossary/index.html#legibility">legibility</a>: the degree to which an institution can observe, measure, and administer a population through standardized categories. The technical history of identification has a concrete origin. In 1879, a Paris police clerk named Alphonse Bertillon proposed measuring the skull and the length of the forearm so that a repeat offender could be pinned to a record even when he gave a false name. His <a href="../glossary/index.html#bertillonage">anthropometry</a> spread across Europe, the United States, and colonies in Asia and Africa, and was the first large-scale attempt to use the body as a database. Bertillonage had a fundamental weakness: measurements had to be taken correctly by trained operators. By 1900 fingerprinting was replacing it almost everywhere because fingerprints were more reliable and required less skill to record. But the desire of states and institutions to pin individuals permanently to a record did not die with the calipers. Fingerprinting replaced it within a few decades because it needed less skill to record, but the desire to pin individuals permanently to a record did not die with the calipers. The technical history of identification is also a political history of control, and South Africa’s apartheid-era pass system— which became the world’s first large-scale biometric register by 1986— is the sharpest reminder of it <span class="citation" data-cites="Breckenridge2016">(<a href="../bibliography/index.html#ref-Breckenridge2016" role="doc-biblioref">Breckenridge 2016</a>)</span>. The pass book recorded a person’s employer, their designated “homeland,” and their permission to be in urban areas. Police could stop anyone and demand the book; failure to produce it meant arrest. The pass system was one of the most sophisticated identity management projects in history, and it was designed entirely to restrict freedom of movement and force labor into mines and factories at wages set by the government. Colonial governments introduced population registers, caste certificates, and tribal designations across India, Africa, and Southeast Asia that served double purposes: administration and taxation on one hand, and identifying potential troublemakers and restricting movement on the other. The state’s desire for legibility does not have a built-in limit. The state that registers births so it can provide schooling can use that register to conscript soldiers. The government that issues identity documents to allow people to vote can use those documents to deport people.</p>
+<section id="making-people-legible" class="level2" data-number="2.5">
+<h2 data-number="2.5" class="anchored" data-anchor-id="making-people-legible"><span class="header-section-number">2.5</span> Making People Legible</h2>
+<p>James C. Scott argued that states standardize people so they can be taxed, drafted, and policed. Surnames, house numbers, passports, and identity registers exist not because the state wants to know you, but because it wants to be able to act upon you <span class="citation" data-cites="Scott1998">(<a href="../bibliography/index.html#ref-Scott1998" role="doc-biblioref">Scott 1998</a>)</span>. Scott called this <a href="../glossary/index.html#legibility">legibility</a>: the degree to which an institution can observe, measure, and administer a population through standardized categories. The technical history of identification has a concrete origin. In 1879, a Paris police clerk named Alphonse Bertillon proposed measuring the skull and the length of the forearm so that a repeat offender could be pinned to a record even when he gave a false name. His <a href="../glossary/index.html#bertillonage">anthropometry</a> spread across Europe, the United States, and colonies in Asia and Africa, and was the first large-scale attempt to use the body as a database. Bertillonage had a fundamental weakness: measurements had to be taken correctly by trained operators. By 1900 fingerprinting was replacing it almost everywhere because fingerprints were more reliable and required less skill to record. But the desire of states and institutions to pin individuals permanently to a record did not die with the calipers. The technical history of identification is also a political history of control, and South Africa’s apartheid-era pass system— which became the world’s first large-scale biometric register by 1986— is the sharpest reminder of it <span class="citation" data-cites="Breckenridge2016">(<a href="../bibliography/index.html#ref-Breckenridge2016" role="doc-biblioref">Breckenridge 2016</a>)</span>. The pass book recorded a person’s employer, their designated “homeland,” and their permission to be in urban areas. Police could stop anyone and demand the book; failure to produce it meant arrest. The pass system was one of the most sophisticated identity management projects in history, and it was designed entirely to restrict freedom of movement and force labor into mines and factories at wages set by the government. Colonial governments introduced population registers, caste certificates, and tribal designations across India, Africa, and Southeast Asia that served double purposes: administration and taxation on one hand, and identifying potential troublemakers and restricting movement on the other. The state’s desire for legibility does not have a built-in limit. The state that registers births so it can provide schooling can use that register to conscript soldiers. The government that issues identity documents to allow people to vote can use those documents to deport people.</p>
 <p>Legibility also cuts in a contradictory direction. Democratic participation depends on being able to identify voters, so electoral systems require voter registration, and registration requires identity documentation. In the United States, that requirement has a long history of being weaponized: poll taxes, literacy tests, grandfather clauses, and, since the 1990s, photo ID requirements that are nominally neutral but fall hardest on the poor, the elderly, and people of color. Communities that have reason to distrust state identity systems— people who remember population registers being used to intern Japanese-Americans, or to deport undocumented immigrants in mass raids— are the same communities such systems are most likely to exclude. The registration built to enable participation keeps being turned against it, and the Voting Rights Act of 1965 exists because marchers and organizers made the status quo more costly than change <span class="citation" data-cites="Cole2002 Torpey2000">(<a href="../bibliography/index.html#ref-Cole2002" role="doc-biblioref">Cole 2002</a>; <a href="../bibliography/index.html#ref-Torpey2000" role="doc-biblioref">Torpey 2000</a>)</span>.</p>
 <p>India’s Aadhaar system is the sharpest present-day version of the dilemma. Launched in 2009, it has enrolled over 1.3 billion people in a biometric database of fingerprints and iris scans linked to a twelve-digit number. Its designers argued that a universal biometric identifier would eliminate fraud and exclusion in government benefit programs, and it has reduced certain kinds of fraud while bringing some previously excluded people into the formal economy. It has also created new exclusions: people who cannot authenticate are cut off from food rations and pension payments, and a database this concentrated cannot be “reset” if it is breached— you can change a password, but you cannot get new fingerprints <span class="citation" data-cites="Khera2019">(<a href="../bibliography/index.html#ref-Khera2019" role="doc-biblioref">Khera 2019</a>)</span>.</p>
 <p>The same logic has a commercial endpoint. China’s Social Credit System bars individuals with low scores from purchasing plane and train tickets, enrolling their children in private schools, and accessing certain financial services: a score derived from past behavior now determines present civic participation.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Try This
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>List every identifier you carry—passport, license, badge, ad IDs, health records. For each one: who can read it, and what happens to you if you can’t produce it?</p>
+</div>
+</div>
 </section>
 <section id="concentrated-interests-diffuse-costs" class="level2" data-number="2.6">
 <h2 data-number="2.6" class="anchored" data-anchor-id="concentrated-interests-diffuse-costs"><span class="header-section-number">2.6</span> Concentrated Interests, Diffuse Costs</h2>
@@ -344,7 +364,7 @@ div.csl-indent {
 <p><a href="../glossary/index.html#selectorate-theory">Selectorate theory</a> sharpens the point. Leaders of countries, companies, and volunteer organizations need enough support to stay in power, and they get it by distributing benefits to a minimum necessary <a href="../glossary/index.html#winning-coalition">winning coalition</a> rather than to the whole population <span class="citation" data-cites="BuenodeMesquita2011">(<a href="../bibliography/index.html#ref-BuenodeMesquita2011" role="doc-biblioref">Mesquita and Smith 2011</a>)</span>. Everyone else is interchangeable, whatever the language about family. In November 2022, after laying off about a third of its workforce, Elon Musk emailed the remaining Twitter employees asking them to click a button confirming that they were committed to working “hardcore,” with those who did not click treated as having resigned; a few months earlier, Twitter’s leadership had described the company as a family. The winning coalition is smaller than the family, and it is the coalition that gets served first. The winning coalition is not the whole organization: it is the subset of people whose support the leader actually requires. In an autocracy, this might be the military brass, a security service, and a handful of oligarchs. In a publicly traded company, it is the board, major institutional shareholders, and a small number of indispensable senior executives. Everyone else—the people who are told they are family—is interchangeable. They are what the theory calls the selectorate: large enough to give the winning coalition options if any member defects, but not powerful enough to claim a significant share of private benefits. The perks are cheap ways to signal belonging to people who are not actually in the winning coalition. The rhetoric costs nothing but extracts real commitment. The “family” language comes with real perks attached. Amazon preaches a “Day 1 culture,” and Google has offered free meals, nap pods, and climbing walls, inviting employees to treat the campus as home. The metaphor does real work: it extracts commitment, discourages outside offers, and makes employees—particularly younger ones— feel that the relationship is something other than a transaction. What it does not change is what the relationship actually is. In most of the United States, and in varying degrees elsewhere, employment is <a href="../glossary/index.html#at-will-employment">at-will</a>: either party can end it, at any time, for any reason not specifically prohibited by law. The “family” exists at the employer’s pleasure.</p>
 <p>None of this is a secret to the people who succeed at it. Jeffrey Pfeffer found that political skill predicts advancement better than technical competence, and that managers who ignore politics systematically lose to those who do not <span class="citation" data-cites="Pfeffer1992">(<a href="../bibliography/index.html#ref-Pfeffer1992" role="doc-biblioref">Pfeffer 1992</a>)</span>. That is an uncomfortable finding for an industry that likes to imagine decisions are made by the best argument. They are made by the people who can assemble a coalition, set an agenda, and make their own interests look natural. Interests and beliefs are not opposites. People pursue what they think is right, and what they think is right is shaped by their position in the organization. A sales leader who believes the product team should prioritize enterprise features is not lying. She is telling the truth as experienced from where she sits. She also reaps the benefits if her plan is adopted.</p>
 <p>The phrase “we don’t do politics here” appears regularly in tech companies. It usually means one of two things. The first is a genuine belief that technical decisions should be made on technical merit, that coalition-building is a form of corruption. That belief is reasonable, but almost entirely wrong about how decisions get made. The second meaning is that the people in the winning coalition have already gotten what they want from the current structure, so there is no need for them to engage in visible political activity. People who are well-served by existing arrangements can afford to describe those arrangements as natural and political contestation as illegitimate.</p>
-<div class="callout callout-style-default callout-note callout-titled" title="Basecamp and Footguns">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -516,7 +536,8 @@ Woodford, Michael. 2012. <em>Exposure: Inside the Olympus Scandal: How i Went fr
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
       // Inspect non-navigation links and adorn them if external
-     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      window.quartoDecorateExternalLinks = function (root) {
+     var links = (root || window.document).querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
       for (var i=0; i<links.length; i++) {
         const link = links[i];
         if (!isInternal(link.href)) {
@@ -525,8 +546,69 @@ Woodford, Michael. 2012. <em>Exposure: Inside the Olympus Scandal: How i Went fr
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+          if (!link.classList.contains('no-external-icon')) {
+          }
         }
       }
+      };
+      window.quartoDecorateExternalLinks(window.document);
+    // Esc closes the popup (WCAG 1.4.13) and focus leaving both trigger and
+    // popup closes it (WCAG 2.4.11); tippy handles neither for interactive popups.
+    const hideOnEscAndFocusOut = {
+      name: 'hideOnEscAndFocusOut',
+      defaultValue: true,
+      fn(instance) {
+        const dismiss = () => {
+          // A show scheduled by the trigger delay would otherwise reopen it
+          instance.clearDelayTimeouts();
+          instance.hide();
+        };
+        const onKeyDown = (event) => {
+          if (event.key !== 'Escape') {
+            return;
+          }
+          // Keep Esc from also reaching page handlers (e.g. reveal.js overview),
+          // except an open reveal.js slide menu, which Esc should close too.
+          // The menu handles keys only when its keyboard option is on.
+          const menuHandlesEsc = window.Reveal?.getPlugin?.('menu')?.isOpen() &&
+            window.Reveal.getConfig().menu?.keyboard !== false;
+          if (!menuHandlesEsc) {
+            event.stopPropagation();
+          }
+          if (instance.popper.contains(window.document.activeElement)) {
+            // Disabled while refocusing so the focus trigger does not reopen it
+            instance.disable();
+            instance.reference.focus();
+            instance.enable();
+          }
+          dismiss();
+        };
+        const onFocusOut = (event) => {
+          const target = event.relatedTarget;
+          if (target && !instance.reference.contains(target) &&
+              !instance.popper.contains(target)) {
+            dismiss();
+          }
+        };
+        // On the trigger too: a click trigger (code-annotations: select) has no
+        // blur handling. Attached for the instance's lifetime so leaving the
+        // trigger also cancels a show still pending on the trigger delay.
+        instance.reference.addEventListener('focusout', onFocusOut);
+        return {
+          onShow() {
+            window.document.addEventListener('keydown', onKeyDown, true);
+            instance.popper.addEventListener('focusout', onFocusOut);
+          },
+          onHide() {
+            window.document.removeEventListener('keydown', onKeyDown, true);
+            instance.popper.removeEventListener('focusout', onFocusOut);
+          },
+          onDestroy() {
+            instance.reference.removeEventListener('focusout', onFocusOut);
+          },
+        };
+      },
+    };
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
       const config = {
         allowHTML: true,
@@ -540,6 +622,7 @@ Woodford, Michael. 2012. <em>Exposure: Inside the Olympus Scandal: How i Went fr
         interactiveBorder: 10,
         theme: 'quarto',
         placement: 'bottom-start',
+        plugins: [hideOnEscAndFocusOut],
       };
       if (contentFn) {
         config.content = contentFn;
@@ -702,44 +785,54 @@ Woodford, Michael. 2012. <em>Exposure: Inside the Olympus Scandal: How i Went fr
           const lineIds = lines.map((line) => {
             return targetCell + "-" + line;
           })
-          let top = null;
-          let height = null;
-          let parent = null;
+          // Each band is positioned against its own containing block, which is
+          // not the offsetParent of the lines, so place it from client rects.
+          const placeBand = (band, firstEl, lastEl, codeBlock) => {
+            const container = band.offsetParent;
+            if (container === null) {
+              return;
+            }
+            const containerRect = container.getBoundingClientRect();
+            // Reveal.js scales slides with a transform, so convert client
+            // pixels back to the CSS pixels of the container.
+            const scale = containerRect.height / container.offsetHeight || 1;
+            const firstRect = firstEl.getBoundingClientRect();
+            const lastRect = lastEl.getBoundingClientRect();
+            const top = (firstRect.top - containerRect.top) / scale - container.clientTop + container.scrollTop;
+            const height = (lastRect.bottom - firstRect.top) / scale;
+            band.style.top = top - 2 + "px";
+            band.style.height = height + 4 + "px";
+            if (codeBlock) {
+              // Without the copy button wrapper, the containing block is wider
+              // than the code block, so span the code block explicitly.
+              const blockRect = codeBlock.getBoundingClientRect();
+              band.style.left = (blockRect.left - containerRect.left) / scale - container.clientLeft + container.scrollLeft + "px";
+              band.style.width = blockRect.width / scale + "px";
+            }
+          };
           if (lineIds.length > 0) {
-              //compute the position of the single el (top and bottom and make a div)
-              const el = window.document.getElementById(lineIds[0]);
-              top = el.offsetTop;
-              height = el.offsetHeight;
-              parent = el.parentElement.parentElement;
-            if (lineIds.length > 1) {
-              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-              height = bottom - top;
+            const el = window.document.getElementById(lineIds[0]);
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const parent = el.parentElement.parentElement;
+            // cook up a div (if necessary) and position it
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
             }
-            if (top !== null && height !== null && parent !== null) {
-              // cook up a div (if necessary) and position it 
-              let div = window.document.getElementById("code-annotation-line-highlight");
-              if (div === null) {
-                div = window.document.createElement("div");
-                div.setAttribute("id", "code-annotation-line-highlight");
-                div.style.position = 'absolute';
-                parent.appendChild(div);
-              }
-              div.style.top = top - 2 + "px";
-              div.style.height = height + 4 + "px";
-              div.style.left = 0;
-              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-              if (gutterDiv === null) {
-                gutterDiv = window.document.createElement("div");
-                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-                gutterDiv.style.position = 'absolute';
-                const codeCell = window.document.getElementById(targetCell);
-                const gutter = codeCell.querySelector('.code-annotation-gutter');
-                gutter.appendChild(gutterDiv);
-              }
-              gutterDiv.style.top = top - 2 + "px";
-              gutterDiv.style.height = height + 4 + "px";
+            placeBand(div, el, lastEl, parent.closest("div.sourceCode") || parent);
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
             }
+            placeBand(gutterDiv, el, lastEl);
             selectedAnnoteEl = annoteEl;
           }
         };
@@ -838,7 +931,10 @@ Woodford, Michael. 2012. <em>Exposure: Inside the Olympus Scandal: How i Went fr
     }
   });
   </script>
-<nav class="page-navigation">
+  <script type="application/javascript">
+  window.quartoScrollableRegionsLabels = {"code":"Scrollable code","output":"Scrollable output"};
+  </script>
+<nav class="page-navigation" aria-label="Page">
   <div class="nav-page nav-page-previous">
       <a href="../0-intro/index.html" class="pagination-link" aria-label="Introduction">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></span>
