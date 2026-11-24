@@ -3,7 +3,7 @@ subtitle: How does a society decide what counts as harm, and what should it do a
 ---
 # Regulation
 
-::: {.callout-note title="Learning Objectives"}
+::: {.syllabus}
 
 -   Explain why what gets labeled "harmful" and therefore gets regulated does
     not track a neutral measurement of damage.

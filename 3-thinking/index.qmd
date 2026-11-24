@@ -3,7 +3,7 @@ subtitle: How do real humans make decisions, and how can that be exploited?
 ---
 # How People Actually Think
 
-::: {.callout-note title="Learning Objectives"}
+::: {.syllabus}
 
 -   Distinguish fast/automatic from slow/deliberate processing.
 -   Name several biases and give an example of each in an online setting.

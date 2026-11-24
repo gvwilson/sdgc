@@ -3,7 +3,7 @@ subtitle: What actually produces change?
 ---
 # Change
 
-::: {.callout-note title="Learning Objectives"}
+::: {.syllabus}
 
 -   Describe the conditions under which social movements succeed.
 -   Explain a "policy window" and assess whether one is open.

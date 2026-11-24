@@ -3,7 +3,7 @@ subtitle: Why are some people consistently better off, and is that "natural"?
 ---
 # Inequality
 
-::: {.callout-note title="Learning Objectives"}
+::: {.syllabus}
 
 -   Contrast structural and individual explanations of social outcomes.
 -   Explain cumulative advantage and opportunity hoarding.

@@ -3,7 +3,7 @@ subtitle: How do people come to believe what they believe about the world?
 ---
 # Belief
 
-::: {.callout-note title="Learning Objectives"}
+::: {.syllabus}
 
 -   Distinguish agenda-setting from framing.
 -   Describe the shift from human gatekeeping to algorithmic engagement and its

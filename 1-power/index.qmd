@@ -3,7 +3,7 @@ subtitle: "Why do some people's preferences become policy and other people's don
 ---
 # Power and Institutions
 
-::: {.callout-note title="Learning Objectives"}
+::: {.syllabus}
 
 -   Explain what "politics" actually is and what the three faces of power are.
 -   Explain why concentrated interests usually defeat diffuse ones.

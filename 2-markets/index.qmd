@@ -3,7 +3,7 @@ subtitle: What are markets, and when do they fail?
 ---
 # Where Markets Come From
 
-::: {.callout-note title="Learning Objectives"}
+::: {.syllabus}
 
 -   Explain why "the free market" is a description of a rule-bound institution,
     not an absence of rules.
