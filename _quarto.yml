@@ -4,7 +4,6 @@ metadata-files:
 book:
   title: "SDGC"
   repo-url: "https://github.com/gvwilson/sdgc"
-  repo-actions: [edit, source, issue]
   chapters:
     - index.qmd
     - 0-intro/index.qmd
