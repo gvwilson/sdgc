@@ -203,6 +203,14 @@ Young, Michael. 1958. <em>The Rise of the Meritocracy</em>. Thames; Hudson. <em>
     <a class="pager-link next" href="../5-belief/index.html">Belief →</a>
   </nav>
 </footer>
+<script>
+document.addEventListener('click', function (e) {
+  var link = e.target.closest && e.target.closest('a');
+  document.querySelectorAll('details.topnav-dropdown[open]').forEach(function (d) {
+    if (!d.contains(e.target) || (link && d.contains(link))) d.removeAttribute('open');
+  });
+});
+</script>
 
 
 </body></html>

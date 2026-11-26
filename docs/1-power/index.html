@@ -178,6 +178,14 @@ Woodford, Michael. 2012. <em>Exposure: Inside the Olympus Scandal: How i Went fr
     <a class="pager-link next" href="../2-markets/index.html">Where Markets Come From →</a>
   </nav>
 </footer>
+<script>
+document.addEventListener('click', function (e) {
+  var link = e.target.closest && e.target.closest('a');
+  document.querySelectorAll('details.topnav-dropdown[open]').forEach(function (d) {
+    if (!d.contains(e.target) || (link && d.contains(link))) d.removeAttribute('open');
+  });
+});
+</script>
 
 
 </body></html>

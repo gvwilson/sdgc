@@ -197,6 +197,14 @@ Zucman, Gabriel. 2015. <em>The Hidden Wealth of Nations: The Scourge of Tax Have
     <a class="pager-link next" href="../6-regulation/index.html">Regulation →</a>
   </nav>
 </footer>
+<script>
+document.addEventListener('click', function (e) {
+  var link = e.target.closest && e.target.closest('a');
+  document.querySelectorAll('details.topnav-dropdown[open]').forEach(function (d) {
+    if (!d.contains(e.target) || (link && d.contains(link))) d.removeAttribute('open');
+  });
+});
+</script>
 
 
 </body></html>

@@ -201,6 +201,14 @@ Veblen, Thorstein. 1899. <em>The Theory of the Leisure Class</em>. Macmillan. <e
     <a class="pager-link next" href="../4-inequality/index.html">Inequality →</a>
   </nav>
 </footer>
+<script>
+document.addEventListener('click', function (e) {
+  var link = e.target.closest && e.target.closest('a');
+  document.querySelectorAll('details.topnav-dropdown[open]').forEach(function (d) {
+    if (!d.contains(e.target) || (link && d.contains(link))) d.removeAttribute('open');
+  });
+});
+</script>
 
 
 </body></html>
